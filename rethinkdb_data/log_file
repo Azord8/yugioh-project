@@ -1,0 +1,23 @@
+2018-09-19T15:25:42.783603392 0.095908s notice: Recursively removing directory /home/azord/PycharmProjects/ygo project/rethinkdb_data/tmp
+2018-09-19T15:25:42.791496632 0.103800s notice: Initializing directory /home/azord/PycharmProjects/ygo project/rethinkdb_data
+2018-09-19T15:25:42.791768831 0.104073s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/azord/PycharmProjects/ygo project/rethinkdb_data' did not already exist or is empty.)
+2018-09-19T15:25:42.791962091 0.104265s notice: Running rethinkdb 2.3.6~0xenial (GCC 5.3.1)...
+2018-09-19T15:25:42.801370803 0.113684s notice: Running on Linux 4.15.0-24-generic x86_64
+2018-09-19T15:25:42.801603900 0.113907s notice: Loading data from directory /home/azord/PycharmProjects/ygo project/rethinkdb_data
+2018-09-19T15:25:42.869710210 0.182014s info: Automatically using cache size of 2148 MB
+2018-09-19T15:25:42.872997280 0.185301s notice: Listening for intracluster connections on port 29015
+2018-09-19T15:25:42.877752537 0.190056s notice: Listening for client driver connections on port 28015
+2018-09-19T15:25:42.878533351 0.190836s notice: Listening for administrative HTTP connections on port 8080
+2018-09-19T15:25:42.878550066 0.190852s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-09-19T15:25:42.878575517 0.190878s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-09-19T15:25:42.878593117 0.190895s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-09-19T15:25:42.878618408 0.190921s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2018-09-19T15:25:42.878643991 0.190946s notice: Server ready, "drop_table_computers_x8c" 0b53e4c9-720b-4e67-8330-96edee0728dc
+2018-09-19T16:12:20.460135404 2797.772439s info: Table 4c53eef9-965e-4843-9be5-ad0ea5a7881f: Added replica on this server.
+2018-09-19T16:12:20.460529046 2797.772832s info: Table 4c53eef9-965e-4843-9be5-ad0ea5a7881f: Starting a new Raft election for term 1.
+2018-09-19T16:12:20.470794260 2797.783098s info: Table 4c53eef9-965e-4843-9be5-ad0ea5a7881f: This server is Raft leader for term 1. Latest log index is 0.
+2018-09-20T14:43:35.804343226 83873.116646s notice: Removing file /home/azord/PycharmProjects/ygo project/rethinkdb_data/4c53eef9-965e-4843-9be5-ad0ea5a7881f
+2018-09-20T14:43:35.804355309 83873.116657s info: Table 4c53eef9-965e-4843-9be5-ad0ea5a7881f: Deleted the table.
+2018-09-20T14:43:45.218259380 83882.530562s info: Table cf4ff133-fb24-4944-91bd-03b1d539b7af: Starting a new Raft election for term 1.
+2018-09-20T14:43:45.218521814 83882.530824s info: Table cf4ff133-fb24-4944-91bd-03b1d539b7af: Added replica on this server.
+2018-09-20T14:43:45.224565877 83882.536868s info: Table cf4ff133-fb24-4944-91bd-03b1d539b7af: This server is Raft leader for term 1. Latest log index is 0.
