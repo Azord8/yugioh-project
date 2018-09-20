@@ -1,0 +1,2913 @@
+{
+    "data": {
+        "rarities": {
+            "Short Print": 4,
+            "Super Rare": 7,
+            "Ultimate Rare": 25,
+            "Common": 31,
+            "Ultra Rare": 4,
+            "Rare": 14
+        },
+        "cards": [
+            {
+                "name": "A Rival Appears!",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN054",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0515463917525773,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.010752688172043,
+                                    "shift_21": 0.0,
+                                    "low": 0.61,
+                                    "updated_at": "2018-09-18 21:23:44 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.010752688172043,
+                                    "shift_365": -0.155963302752294,
+                                    "high": 8.98,
+                                    "average": 0.92,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "B.E.S. Crystal Core",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN021",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.319526627218935,
+                                    "shift_7": 0.0045045045045045,
+                                    "shift_30": 0.0045045045045045,
+                                    "shift_21": 0.0276497695852535,
+                                    "low": 1.45,
+                                    "updated_at": "2018-09-19 09:25:46 -0600",
+                                    "shift_3": 0.281609195402299,
+                                    "shift_90": 0.304093567251462,
+                                    "shift_365": 0.0518867924528302,
+                                    "high": 6.35,
+                                    "average": 2.23,
+                                    "shift": 0.289017341040462
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "B.E.S. Crystal Core",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN021",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0103806228373702,
+                                    "shift_7": 0.0381125226860254,
+                                    "shift_30": -0.0103806228373702,
+                                    "shift_21": -0.0288624787775891,
+                                    "low": 5.62,
+                                    "updated_at": "2018-09-19 09:25:47 -0600",
+                                    "shift_3": 0.0381125226860254,
+                                    "shift_90": -0.132018209408194,
+                                    "shift_365": -0.277777777777778,
+                                    "high": 27.0,
+                                    "average": 5.72,
+                                    "shift": 0.00527240773286467
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Batteryman C",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN030",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0520833333333333,
+                                    "shift_7": -0.0108695652173913,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 08:19:59 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0421052631578947,
+                                    "shift_365": -0.510752688172043,
+                                    "high": 1.5,
+                                    "average": 0.91,
+                                    "shift": -0.0108695652173913
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Thunder / Effect"
+            },
+            {
+                "name": "Bubble Shuffle",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN046",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.133928571428571,
+                                    "shift_7": 0.0104166666666667,
+                                    "shift_30": 0.0104166666666667,
+                                    "shift_21": 0.0,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-18 23:10:04 -0600",
+                                    "shift_3": 0.0104166666666667,
+                                    "shift_90": -0.0102040816326531,
+                                    "shift_365": 0.0,
+                                    "high": 4.97,
+                                    "average": 0.97,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Bubble Shuffle",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN046",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0448717948717949,
+                                    "shift_7": -0.20873786407767,
+                                    "shift_30": -0.269058295964126,
+                                    "shift_21": -0.2882096069869,
+                                    "low": 1.22,
+                                    "updated_at": "2018-09-18 23:10:04 -0600",
+                                    "shift_3": -0.180904522613065,
+                                    "shift_90": -0.306382978723404,
+                                    "shift_365": 0.442477876106195,
+                                    "high": 7.2,
+                                    "average": 1.63,
+                                    "shift": -0.164102564102564
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Conscription",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN058",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0210526315789474,
+                                    "shift_7": -0.0106382978723404,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.64,
+                                    "updated_at": "2018-09-18 20:50:53 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0108695652173913,
+                                    "shift_365": -0.0106382978723404,
+                                    "high": 1.43,
+                                    "average": 0.93,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Cyber Archfiend",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN019",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0210526315789474,
+                                    "shift_7": -0.0106382978723404,
+                                    "shift_30": -0.0412371134020619,
+                                    "shift_21": -0.0106382978723404,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 06:08:05 -0600",
+                                    "shift_3": -0.0106382978723404,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.525510204081633,
+                                    "high": 1.43,
+                                    "average": 0.93,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Effect"
+            },
+            {
+                "name": "Cyber Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN015",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.42350332594235,
+                                    "shift_7": -0.259259259259259,
+                                    "shift_30": -0.177215189873418,
+                                    "shift_21": 0.0236220472440945,
+                                    "low": 2.25,
+                                    "updated_at": "2018-09-19 08:54:27 -0600",
+                                    "shift_3": 0.0116731517509728,
+                                    "shift_90": -0.471544715447154,
+                                    "shift_365": 0.0699588477366255,
+                                    "high": 55.0,
+                                    "average": 2.6,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Cyber Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN015",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.440387153541575,
+                                    "shift_7": -0.490507314036726,
+                                    "shift_30": -0.556428668202141,
+                                    "shift_21": -0.528785261945884,
+                                    "low": 2.0,
+                                    "updated_at": "2018-09-19 10:58:09 -0600",
+                                    "shift_3": -0.516824085005903,
+                                    "shift_90": -0.436488812392427,
+                                    "shift_365": 0.0866246266179887,
+                                    "high": 195.0,
+                                    "average": 32.74,
+                                    "shift": 0.00152951973080453
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Cyber End Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN036",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.14818880351262,
+                                    "shift_7": -0.0481517509727626,
+                                    "shift_30": -0.108021877848678,
+                                    "shift_21": -0.0523002421307506,
+                                    "low": 8.99,
+                                    "updated_at": "2018-09-19 11:11:45 -0600",
+                                    "shift_3": 0.0332629355860612,
+                                    "shift_90": 0.312541918175721,
+                                    "shift_365": 1.3578313253012,
+                                    "high": 62.07,
+                                    "average": 19.58,
+                                    "shift": 0.100056211354694
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Fusion"
+            },
+            {
+                "name": "Cyber End Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN036",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.2769744160178,
+                                    "shift_7": -0.0894128113879004,
+                                    "shift_30": -0.253736784542472,
+                                    "shift_21": -0.245206489675516,
+                                    "low": 9.09,
+                                    "updated_at": "2018-09-19 10:11:05 -0600",
+                                    "shift_3": 0.0338383838383838,
+                                    "shift_90": 0.242865816636308,
+                                    "shift_365": 1.65499351491569,
+                                    "high": 350.0,
+                                    "average": 20.47,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Fusion"
+            },
+            {
+                "name": "Cyber Twin Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN035",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.773049645390071,
+                                    "shift_7": 0.748251748251748,
+                                    "shift_30": 0.712328767123288,
+                                    "shift_21": 0.736111111111111,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 09:02:43 -0600",
+                                    "shift_3": 0.748251748251748,
+                                    "shift_90": -0.113475177304965,
+                                    "shift_365": 0.773049645390071,
+                                    "high": 21.23,
+                                    "average": 2.51,
+                                    "shift": 0.0288065843621399
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Fusion"
+            },
+            {
+                "name": "Cyber Twin Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN035",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0962655601659751,
+                                    "shift_7": 0.0280155642023346,
+                                    "shift_30": 0.423491379310345,
+                                    "shift_21": 0.485939257592801,
+                                    "low": 23.67,
+                                    "updated_at": "2018-09-19 08:42:55 -0600",
+                                    "shift_3": 0.0731112916328188,
+                                    "shift_90": 7.30817610062893,
+                                    "shift_365": -0.0982935153583618,
+                                    "high": 153.98,
+                                    "average": 13.21,
+                                    "shift": 0.0731112916328188
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Fusion"
+            },
+            {
+                "name": "Cybernetic Cyclopean",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN017",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.141509433962264,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0111111111111111,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:29:37 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.141509433962264,
+                                    "shift_365": -0.149532710280374,
+                                    "high": 1.43,
+                                    "average": 0.91,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Beast-Warrior / Effect"
+            },
+            {
+                "name": "Cybernetic Magician",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN016",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": 0.0212765957446809,
+                                    "shift_30": 0.0666666666666667,
+                                    "shift_21": 0.0212765957446809,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-19 10:17:53 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.127272727272727,
+                                    "shift_365": -0.179487179487179,
+                                    "high": 10.71,
+                                    "average": 0.96,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Cybernetic Magician",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN016",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 3.31746031746032,
+                                    "shift_7": -0.296248382923674,
+                                    "shift_30": -0.337393422655298,
+                                    "shift_21": -0.341404358353511,
+                                    "low": 7.12,
+                                    "updated_at": "2018-09-19 10:17:53 -0600",
+                                    "shift_3": 0.128630705394191,
+                                    "shift_90": 0.869415807560137,
+                                    "shift_365": 2.72602739726027,
+                                    "high": 20.0,
+                                    "average": 5.44,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Cycroid",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN001",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0574712643678161,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.49,
+                                    "updated_at": "2018-09-18 22:54:14 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.148148148148148,
+                                    "high": 5.15,
+                                    "average": 0.92,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine"
+            },
+            {
+                "name": "D.D. Trap Hole",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN057",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.087378640776699,
+                                    "shift_7": -0.00884955752212389,
+                                    "shift_30": -0.00884955752212389,
+                                    "shift_21": 0.0,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-19 01:27:55 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.00884955752212389,
+                                    "shift_365": 0.108910891089109,
+                                    "high": 10.31,
+                                    "average": 1.13,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "D.D. Trap Hole",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN057",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.00793650793650794,
+                                    "shift_7": 0.0683760683760684,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.116071428571429,
+                                    "low": 1.11,
+                                    "updated_at": "2018-09-19 01:27:56 -0600",
+                                    "shift_3": 0.0245901639344262,
+                                    "shift_90": 0.0683760683760684,
+                                    "shift_365": 0.00806451612903226,
+                                    "high": 17.5,
+                                    "average": 1.25,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "D.D.M. - Different Dimension Master",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN032",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0111111111111111,
+                                    "shift_7": -0.0108695652173913,
+                                    "shift_30": -0.021505376344086,
+                                    "shift_21": -0.0319148936170213,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 01:18:31 -0600",
+                                    "shift_3": -0.0108695652173913,
+                                    "shift_90": 0.0340909090909091,
+                                    "shift_365": 0.0459770114942529,
+                                    "high": 18.35,
+                                    "average": 0.91,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "D.D.M. - Different Dimension Master",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN032",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.328205128205128,
+                                    "shift_7": -0.0547445255474453,
+                                    "shift_30": -0.00384615384615385,
+                                    "shift_21": 0.0443548387096774,
+                                    "low": 3.5,
+                                    "updated_at": "2018-09-19 01:18:32 -0600",
+                                    "shift_3": -0.0512820512820513,
+                                    "shift_90": 0.036,
+                                    "shift_365": 0.385026737967914,
+                                    "high": 9.99,
+                                    "average": 2.59,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Dark Catapulter",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN013",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0208333333333333,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0105263157894737,
+                                    "shift_21": 0.0217391304347826,
+                                    "low": 0.39,
+                                    "updated_at": "2018-09-18 22:01:53 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.032967032967033,
+                                    "shift_365": 0.0217391304347826,
+                                    "high": 18.28,
+                                    "average": 0.94,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Dark Catapulter",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN013",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": 0.0925925925925926,
+                                    "shift_30": 0.123809523809524,
+                                    "shift_21": 0.123809523809524,
+                                    "low": 1.17,
+                                    "updated_at": "2018-09-18 22:02:04 -0600",
+                                    "shift_3": 0.0925925925925926,
+                                    "shift_90": 0.0925925925925926,
+                                    "shift_365": -0.0708661417322835,
+                                    "high": 20.51,
+                                    "average": 1.18,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Des Croaking",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN042",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Short Print",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0568181818181818,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0606060606060606,
+                                    "shift_21": -0.0606060606060606,
+                                    "low": 0.65,
+                                    "updated_at": "2018-09-19 01:13:46 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.107142857142857,
+                                    "shift_365": -0.494565217391304,
+                                    "high": 3.76,
+                                    "average": 0.93,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Des Frog",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN026",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.021505376344086,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0106382978723404,
+                                    "shift_21": 0.0106382978723404,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 05:41:22 -0600",
+                                    "shift_3": 0.0106382978723404,
+                                    "shift_90": -0.0206185567010309,
+                                    "shift_365": -0.10377358490566,
+                                    "high": 1.69,
+                                    "average": 0.95,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Aqua / Effect"
+            },
+            {
+                "name": "Dimension Wall",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN059",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.00789889415481832,
+                                    "shift_7": -0.0668647845468053,
+                                    "shift_30": -0.120448179271709,
+                                    "shift_21": -0.134986225895317,
+                                    "low": 4.49,
+                                    "updated_at": "2018-09-19 07:23:40 -0600",
+                                    "shift_3": 0.0178282009724473,
+                                    "shift_90": -0.283922462941847,
+                                    "shift_365": -0.295964125560538,
+                                    "high": 17.41,
+                                    "average": 6.28,
+                                    "shift": 0.00964630225080386
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Dimension Wall",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN059",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.101048617731173,
+                                    "shift_7": -0.0436105476673428,
+                                    "shift_30": -0.121973929236499,
+                                    "shift_21": -0.0288362512873326,
+                                    "low": 7.0,
+                                    "updated_at": "2018-09-19 07:23:41 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.148148148148148,
+                                    "shift_365": -0.246203037569944,
+                                    "high": 24.71,
+                                    "average": 9.43,
+                                    "shift": -0.00527426160337553
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Doitsu",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN025",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.53,
+                                    "updated_at": "2018-09-18 19:36:07 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.0857142857142857,
+                                    "high": 18.28,
+                                    "average": 0.96,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Union"
+            },
+            {
+                "name": "Dragon's Mirror",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN040",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Short Print",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0843373493975904,
+                                    "shift_7": 0.00662251655629139,
+                                    "shift_30": -0.0256410256410256,
+                                    "shift_21": -0.0674846625766871,
+                                    "low": 1.13,
+                                    "updated_at": "2018-09-19 11:21:00 -0600",
+                                    "shift_3": 0.0133333333333333,
+                                    "shift_90": 0.117647058823529,
+                                    "shift_365": -0.40625,
+                                    "high": 20.51,
+                                    "average": 1.52,
+                                    "shift": 0.00662251655629139
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Drillroid",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN009",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0217391304347826,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 06:10:33 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0425531914893617,
+                                    "shift_365": 0.0112359550561798,
+                                    "high": 1.44,
+                                    "average": 0.9,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Ebon Magician Curran",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN031",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.010752688172043,
+                                    "shift_7": 0.0337078651685393,
+                                    "shift_30": -0.010752688172043,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 02:05:04 -0600",
+                                    "shift_3": 0.0337078651685393,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.613445378151261,
+                                    "high": 14.31,
+                                    "average": 0.92,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Elemental HERO Bubbleman",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN014",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.429347826086957,
+                                    "shift_7": 0.073469387755102,
+                                    "shift_30": 0.0354330708661417,
+                                    "shift_21": -0.0112781954887218,
+                                    "low": 2.98,
+                                    "updated_at": "2018-09-19 09:07:59 -0600",
+                                    "shift_3": 0.00766283524904215,
+                                    "shift_90": 0.413978494623656,
+                                    "shift_365": -0.298666666666667,
+                                    "high": 23.16,
+                                    "average": 2.63,
+                                    "shift": 0.0154440154440154
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Elemental HERO Bubbleman",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN014",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.116458132820019,
+                                    "shift_7": 0.00563502384048548,
+                                    "shift_30": 0.140609636184857,
+                                    "shift_21": 0.0583941605839416,
+                                    "low": 14.65,
+                                    "updated_at": "2018-09-19 07:57:05 -0600",
+                                    "shift_3": -0.00429184549356223,
+                                    "shift_90": 0.065686724850712,
+                                    "shift_365": -0.0611088628085795,
+                                    "high": 45.0,
+                                    "average": 23.2,
+                                    "shift": 0.000862812769628991
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Fire Darts",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN049",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.125,
+                                    "shift_7": -0.0101010101010101,
+                                    "shift_30": -0.0101010101010101,
+                                    "shift_21": 0.0,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-18 21:21:33 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0103092783505155,
+                                    "shift_365": 0.101123595505618,
+                                    "high": 18.28,
+                                    "average": 0.98,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Fire Darts",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN049",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.108910891089109,
+                                    "shift_7": 0.142857142857143,
+                                    "shift_30": -0.00884955752212389,
+                                    "shift_21": 0.154639175257732,
+                                    "low": 1.17,
+                                    "updated_at": "2018-09-18 21:21:47 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0566037735849057,
+                                    "shift_365": -0.118110236220472,
+                                    "high": 15.11,
+                                    "average": 1.12,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Fusion Recovery",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN038",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.329192546583851,
+                                    "shift_7": 0.0490196078431373,
+                                    "shift_30": 0.320987654320988,
+                                    "shift_21": 0.345911949685535,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 17:26:59 -0600",
+                                    "shift_3": 0.0490196078431373,
+                                    "shift_90": 0.3375,
+                                    "shift_365": 0.195530726256983,
+                                    "high": 4.47,
+                                    "average": 2.14,
+                                    "shift": -0.00465116279069767
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Giant Kozaky",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN022",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0803571428571429,
+                                    "shift_7": -0.00961538461538462,
+                                    "shift_30": 0.00980392156862745,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 09:52:31 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.11965811965812,
+                                    "shift_365": -0.0636363636363636,
+                                    "high": 1.53,
+                                    "average": 1.03,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Effect"
+            },
+            {
+                "name": "Goblin Elite Attack Force",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN020",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0495049504950495,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0588235294117647,
+                                    "shift_21": 0.0,
+                                    "low": 0.52,
+                                    "updated_at": "2018-09-19 07:02:24 -0600",
+                                    "shift_3": -0.0588235294117647,
+                                    "shift_90": -0.142857142857143,
+                                    "shift_365": 0.0,
+                                    "high": 17.52,
+                                    "average": 0.96,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Effect"
+            },
+            {
+                "name": "Goblin Elite Attack Force",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN020",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.462555066079295,
+                                    "shift_7": 0.00302114803625378,
+                                    "shift_30": -0.0376811594202899,
+                                    "shift_21": -0.0376811594202899,
+                                    "low": 3.37,
+                                    "updated_at": "2018-09-17 05:50:43 -0600",
+                                    "shift_3": 0.00302114803625378,
+                                    "shift_90": 0.844444444444444,
+                                    "shift_365": 0.262357414448669,
+                                    "high": 7.05,
+                                    "average": 3.32,
+                                    "shift": 0.00302114803625378
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Effect"
+            },
+            {
+                "name": "Gyroid",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN007",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0113636363636364,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0113636363636364,
+                                    "shift_21": -0.0113636363636364,
+                                    "low": 0.41,
+                                    "updated_at": "2018-09-19 09:17:40 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0116279069767442,
+                                    "shift_365": -0.074468085106383,
+                                    "high": 1.79,
+                                    "average": 0.87,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Indomitable Fighter Lei Lei",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN023",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0227272727272727,
+                                    "shift_7": -0.010989010989011,
+                                    "shift_30": 0.0344827586206897,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:03:13 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0112359550561798,
+                                    "shift_365": -0.528795811518325,
+                                    "high": 18.35,
+                                    "average": 0.9,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Beast-Warrior / Effect"
+            },
+            {
+                "name": "Jerry Beans Man",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN004",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0112359550561798,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0112359550561798,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:28:53 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.010989010989011,
+                                    "shift_365": -0.010989010989011,
+                                    "high": 1.43,
+                                    "average": 0.9,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Plant"
+            },
+            {
+                "name": "Jetroid",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN011",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0333333333333333,
+                                    "shift_7": -0.0210526315789474,
+                                    "shift_30": -0.0210526315789474,
+                                    "shift_21": -0.0210526315789474,
+                                    "low": 0.71,
+                                    "updated_at": "2018-09-18 23:00:00 -0600",
+                                    "shift_3": -0.0210526315789474,
+                                    "shift_90": -0.0106382978723404,
+                                    "shift_365": 0.0108695652173913,
+                                    "high": 1.44,
+                                    "average": 0.93,
+                                    "shift": -0.0210526315789474
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Mad Lobster",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN003",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.021505376344086,
+                                    "shift_7": 0.0340909090909091,
+                                    "shift_30": 0.0111111111111111,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:13:18 -0600",
+                                    "shift_3": 0.0340909090909091,
+                                    "shift_90": -0.0108695652173913,
+                                    "shift_365": -0.141509433962264,
+                                    "high": 2.03,
+                                    "average": 0.91,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Aqua"
+            },
+            {
+                "name": "Magical Explosion",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN055",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0333333333333333,
+                                    "shift_7": 0.0568181818181818,
+                                    "shift_30": 0.0449438202247191,
+                                    "shift_21": 0.0568181818181818,
+                                    "low": 0.64,
+                                    "updated_at": "2018-09-19 07:25:15 -0600",
+                                    "shift_3": 0.0449438202247191,
+                                    "shift_90": 0.0689655172413793,
+                                    "shift_365": 0.0333333333333333,
+                                    "high": 18.35,
+                                    "average": 0.93,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Magical Explosion",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN055",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 4.77,
+                                    "shift_7": -0.0571895424836601,
+                                    "shift_30": 0.010507880910683,
+                                    "shift_21": -0.0423236514522822,
+                                    "low": 6.99,
+                                    "updated_at": "2018-09-19 07:25:16 -0600",
+                                    "shift_3": -0.0261603375527426,
+                                    "shift_90": 0.00962379702537183,
+                                    "shift_365": 4.44339622641509,
+                                    "high": 30.6,
+                                    "average": 11.54,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Mechanical Hound",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN018",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.132743362831858,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0652173913043478,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:19:38 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.125,
+                                    "high": 5.74,
+                                    "average": 0.98,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Miracle Fusion",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN039",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.215,
+                                    "shift_7": 0.0384615384615385,
+                                    "shift_30": 0.0611353711790393,
+                                    "shift_21": 0.0429184549356223,
+                                    "low": 2.11,
+                                    "updated_at": "2018-09-19 09:48:59 -0600",
+                                    "shift_3": 0.00829875518672199,
+                                    "shift_90": -0.162068965517241,
+                                    "shift_365": 0.239795918367347,
+                                    "high": 24.83,
+                                    "average": 2.43,
+                                    "shift": 0.00829875518672199
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Miracle Fusion",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN039",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.140858208955224,
+                                    "shift_7": 0.0329391891891892,
+                                    "shift_30": 0.0107438016528926,
+                                    "shift_21": 0.0251466890192791,
+                                    "low": 14.79,
+                                    "updated_at": "2018-09-19 11:12:41 -0600",
+                                    "shift_3": 0.0364406779661017,
+                                    "shift_90": 0.132407407407407,
+                                    "shift_365": -0.04453125,
+                                    "high": 21.22,
+                                    "average": 12.23,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Patroid",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN006",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0638297872340425,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0101010101010101,
+                                    "shift_21": -0.029126213592233,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 19:00:05 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0752688172043011,
+                                    "shift_365": 0.149425287356322,
+                                    "high": 1.79,
+                                    "average": 1.0,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Poison Draw Frog",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN028",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.189189189189189,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0112359550561798,
+                                    "shift_21": 0.0112359550561798,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 19:05:05 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0227272727272727,
+                                    "shift_365": -0.0217391304347826,
+                                    "high": 2.46,
+                                    "average": 0.9,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Aqua / Effect"
+            },
+            {
+                "name": "Pot of Generosity",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN043",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.107142857142857,
+                                    "shift_7": -0.0210526315789474,
+                                    "shift_30": 0.0333333333333333,
+                                    "shift_21": -0.0510204081632653,
+                                    "low": 0.65,
+                                    "updated_at": "2018-09-18 19:46:39 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0449438202247191,
+                                    "shift_365": -0.122641509433962,
+                                    "high": 18.28,
+                                    "average": 0.93,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Power Bond",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN037",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0197330237957052,
+                                    "shift_7": 0.00956365809922295,
+                                    "shift_30": 0.00296912114014252,
+                                    "shift_21": 0.0,
+                                    "low": 12.99,
+                                    "updated_at": "2018-09-19 09:47:35 -0600",
+                                    "shift_3": -0.0134345794392523,
+                                    "shift_90": 0.0710209258084971,
+                                    "shift_365": 1.37552742616034,
+                                    "high": 26.0,
+                                    "average": 16.9,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Power Bond",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN037",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.642105263157895,
+                                    "shift_7": -0.656348704990524,
+                                    "shift_30": -0.0528148578061521,
+                                    "shift_21": 0.02,
+                                    "low": 10.8,
+                                    "updated_at": "2018-09-19 09:47:36 -0600",
+                                    "shift_3": -0.03886925795053,
+                                    "shift_90": 0.0645792563600783,
+                                    "shift_365": -0.54628857381151,
+                                    "high": 21.0,
+                                    "average": 16.32,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Prepare to Strike Back",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN060",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Short Print",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0217391304347826,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.010989010989011,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 21:10:42 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0217391304347826,
+                                    "shift_365": -0.0217391304347826,
+                                    "high": 1.43,
+                                    "average": 0.9,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Protective Soul Ailin",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN024",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0555555555555556,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.46,
+                                    "updated_at": "2018-09-19 02:30:57 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0340909090909091,
+                                    "shift_365": -0.0340909090909091,
+                                    "high": 1.43,
+                                    "average": 0.85,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Union"
+            },
+            {
+                "name": "Rising Energy",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN056",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0652173913043478,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 20:55:02 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0537634408602151,
+                                    "shift_365": 0.13953488372093,
+                                    "high": 4.07,
+                                    "average": 0.98,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Rising Energy",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN056",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.110169491525424,
+                                    "shift_7": -0.247126436781609,
+                                    "shift_30": -0.276243093922652,
+                                    "shift_21": -0.210843373493976,
+                                    "low": 1.88,
+                                    "updated_at": "2018-09-18 20:55:17 -0600",
+                                    "shift_3": -0.00757575757575758,
+                                    "shift_90": -0.268156424581006,
+                                    "shift_365": 0.169642857142857,
+                                    "high": 22.59,
+                                    "average": 1.31,
+                                    "shift": -0.00757575757575758
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Shien's Spy",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN044",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Short Print",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0860215053763441,
+                                    "shift_7": -0.0194174757281553,
+                                    "shift_30": -0.00980392156862745,
+                                    "shift_21": -0.00980392156862745,
+                                    "low": 0.98,
+                                    "updated_at": "2018-09-18 19:50:07 -0600",
+                                    "shift_3": -0.0194174757281553,
+                                    "shift_90": 0.074468085106383,
+                                    "shift_365": 0.0631578947368421,
+                                    "high": 2.5,
+                                    "average": 1.01,
+                                    "shift": -0.00980392156862745
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Skyscraper",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN048",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.226966292134831,
+                                    "shift_7": 0.0263157894736842,
+                                    "shift_30": 0.596491228070175,
+                                    "shift_21": 0.551136363636364,
+                                    "low": 3.59,
+                                    "updated_at": "2018-09-19 04:48:55 -0600",
+                                    "shift_3": 0.012987012987013,
+                                    "shift_90": 0.378787878787879,
+                                    "shift_365": 0.516666666666667,
+                                    "high": 22.11,
+                                    "average": 5.46,
+                                    "shift": 0.00552486187845304
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Field",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Skyscraper",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN048",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.384745762711864,
+                                    "shift_7": -0.61134903640257,
+                                    "shift_30": -0.644466209598433,
+                                    "shift_21": -0.681299385425812,
+                                    "low": 2.5,
+                                    "updated_at": "2018-09-19 04:48:55 -0600",
+                                    "shift_3": 0.0803571428571429,
+                                    "shift_90": -0.651965484180249,
+                                    "shift_365": -0.788461538461538,
+                                    "high": 20.67,
+                                    "average": 3.63,
+                                    "shift": 0.028328611898017
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Field",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Soitsu",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN002",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0104166666666667,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.97,
+                                    "updated_at": "2018-09-18 22:23:06 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.12037037037037,
+                                    "high": 1.43,
+                                    "average": 0.95,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy"
+            },
+            {
+                "name": "Spark Blaster",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN047",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.829136690647482,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0404040404040404,
+                                    "shift_21": -0.0404040404040404,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-19 00:36:01 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0404040404040404,
+                                    "shift_365": 0.0555555555555556,
+                                    "high": 18.28,
+                                    "average": 0.95,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Spark Blaster",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN047",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.109433962264151,
+                                    "shift_7": -0.00675675675675676,
+                                    "shift_30": -0.218085106382979,
+                                    "shift_21": 0.0,
+                                    "low": 4.0,
+                                    "updated_at": "2018-09-19 00:36:03 -0600",
+                                    "shift_3": 0.024390243902439,
+                                    "shift_90": 1.39024390243902,
+                                    "shift_365": 0.47,
+                                    "high": 7.93,
+                                    "average": 2.94,
+                                    "shift": -0.00675675675675676
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Spiritual Earth Art - Kurogane",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN050",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:34:19 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.0909090909090909,
+                                    "high": 18.35,
+                                    "average": 0.9,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Spiritual Fire Art - Kurenai",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN052",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": -0.0224719101123595,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 00:02:29 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.043956043956044,
+                                    "shift_365": -0.13,
+                                    "high": 1.43,
+                                    "average": 0.87,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Spiritual Water Art - Aoi",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN051",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.010752688172043,
+                                    "shift_7": 0.010989010989011,
+                                    "shift_30": 0.0222222222222222,
+                                    "shift_21": 0.010989010989011,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 05:22:47 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.010989010989011,
+                                    "shift_365": 0.0337078651685393,
+                                    "high": 5.54,
+                                    "average": 0.92,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Spiritual Wind Art - Miyabi",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN053",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.010989010989011,
+                                    "shift_7": 0.0227272727272727,
+                                    "shift_30": 0.0112359550561798,
+                                    "shift_21": 0.0112359550561798,
+                                    "low": 0.49,
+                                    "updated_at": "2018-09-18 23:58:54 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.010989010989011,
+                                    "shift_365": -0.010989010989011,
+                                    "high": 1.47,
+                                    "average": 0.9,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Steam Gyroid",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN033",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0454545454545455,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 10:02:26 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0561797752808989,
+                                    "shift_365": -0.564766839378238,
+                                    "high": 5.24,
+                                    "average": 0.84,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Fusion"
+            },
+            {
+                "name": "Steamroid",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN008",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0444444444444444,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0444444444444444,
+                                    "shift_21": -0.0227272727272727,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:18:25 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0337078651685393,
+                                    "shift_365": -0.0337078651685393,
+                                    "high": 1.43,
+                                    "average": 0.86,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "System Down",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN041",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.259259259259259,
+                                    "shift_7": -0.0384615384615385,
+                                    "shift_30": -0.029126213592233,
+                                    "shift_21": -0.107142857142857,
+                                    "low": 1.5,
+                                    "updated_at": "2018-09-19 09:08:50 -0600",
+                                    "shift_3": -0.0099009900990099,
+                                    "shift_90": -0.0867579908675799,
+                                    "shift_365": -0.224806201550388,
+                                    "high": 19.07,
+                                    "average": 2.01,
+                                    "shift": -0.0099009900990099
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "System Down",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN041",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.125538020086083,
+                                    "shift_7": 0.102169981916817,
+                                    "shift_30": -0.0701754385964912,
+                                    "shift_21": -0.0737082066869301,
+                                    "low": 6.49,
+                                    "updated_at": "2018-09-19 10:24:48 -0600",
+                                    "shift_3": 0.00164338537387017,
+                                    "shift_90": -0.0813865862848531,
+                                    "shift_365": 0.0295608108108108,
+                                    "high": 41.41,
+                                    "average": 12.19,
+                                    "shift": 0.000821018062397373
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "T.A.D.P.O.L.E.",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN027",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0864197530864197,
+                                    "shift_7": 0.0114942528735632,
+                                    "shift_30": 0.0602409638554217,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 10:24:23 -0600",
+                                    "shift_3": 0.0114942528735632,
+                                    "shift_90": 0.0731707317073171,
+                                    "shift_365": 0.0476190476190476,
+                                    "high": 4.99,
+                                    "average": 0.88,
+                                    "shift": 0.0352941176470588
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Aqua / Effect"
+            },
+            {
+                "name": "Transcendent Wings",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN045",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.00649350649350649,
+                                    "shift_7": -0.0129032258064516,
+                                    "shift_30": -0.0316455696202532,
+                                    "shift_21": -0.0377358490566038,
+                                    "low": 2.18,
+                                    "updated_at": "2018-09-19 09:46:14 -0600",
+                                    "shift_3": -0.0377358490566038,
+                                    "shift_90": 0.224,
+                                    "shift_365": -0.115606936416185,
+                                    "high": 20.51,
+                                    "average": 1.53,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Transcendent Wings",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN045",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.188562596599691,
+                                    "shift_7": 0.218700475435816,
+                                    "shift_30": 0.168693009118541,
+                                    "shift_21": 0.195956454121306,
+                                    "low": 5.19,
+                                    "updated_at": "2018-09-19 09:00:13 -0600",
+                                    "shift_3": 0.368327402135231,
+                                    "shift_90": -0.0302648171500631,
+                                    "shift_365": 1.54635761589404,
+                                    "high": 24.99,
+                                    "average": 7.69,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Tyranno Infinity",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN029",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0306122448979592,
+                                    "shift_7": -0.0104166666666667,
+                                    "shift_30": -0.151785714285714,
+                                    "shift_21": -0.0104166666666667,
+                                    "low": 0.57,
+                                    "updated_at": "2018-09-19 11:06:06 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.151785714285714,
+                                    "shift_365": 0.043956043956044,
+                                    "high": 2.0,
+                                    "average": 0.95,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dinosaur / Effect"
+            },
+            {
+                "name": "UFOroid",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN010",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.11926605504587,
+                                    "shift_7": 0.65,
+                                    "shift_30": 0.925,
+                                    "shift_21": -0.0609756097560976,
+                                    "low": 0.88,
+                                    "updated_at": "2018-09-18 19:35:36 -0600",
+                                    "shift_3": 0.638297872340426,
+                                    "shift_90": 1.04424778761062,
+                                    "shift_365": 0.941176470588235,
+                                    "high": 28.44,
+                                    "average": 2.32,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "UFOroid",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN010",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 2.23188405797101,
+                                    "shift_7": -0.00712377560106857,
+                                    "shift_30": 1.45054945054945,
+                                    "shift_21": 1.32291666666667,
+                                    "low": 5.0,
+                                    "updated_at": "2018-09-18 19:35:59 -0600",
+                                    "shift_3": 0.0430308699719364,
+                                    "shift_90": 1.85897435897436,
+                                    "shift_365": 1.85166240409207,
+                                    "high": 35.69,
+                                    "average": 11.15,
+                                    "shift": 0.0410830999066293
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "UFOroid Fighter",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN034",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.63425925925926,
+                                    "shift_7": -0.033955857385399,
+                                    "shift_30": 0.197894736842105,
+                                    "shift_21": -0.121913580246914,
+                                    "low": 1.55,
+                                    "updated_at": "2018-09-19 04:12:55 -0600",
+                                    "shift_3": -0.0256849315068493,
+                                    "shift_90": -0.201963534361851,
+                                    "shift_365": 0.39119804400978,
+                                    "high": 23.39,
+                                    "average": 5.69,
+                                    "shift": -0.0138648180242634
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Fusion"
+            },
+            {
+                "name": "UFOroid Fighter",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN034",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 4.55405405405405,
+                                    "shift_7": -0.0452961672473868,
+                                    "shift_30": -0.0060459492140266,
+                                    "shift_21": -0.0508083140877598,
+                                    "low": 14.63,
+                                    "updated_at": "2018-09-19 04:12:56 -0600",
+                                    "shift_3": -0.0425160163075131,
+                                    "shift_90": -0.14994829369183,
+                                    "shift_365": 7.13861386138614,
+                                    "high": 43.39,
+                                    "average": 16.44,
+                                    "shift": 0.00305064063453325
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Fusion"
+            },
+            {
+                "name": "Winged Kuriboh LV10",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN005",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.12253829321663,
+                                    "shift_7": 0.0177664974619289,
+                                    "shift_30": -0.00742574257425743,
+                                    "shift_21": -0.0159509202453988,
+                                    "low": 6.29,
+                                    "updated_at": "2018-09-19 07:53:47 -0600",
+                                    "shift_3": 0.0295250320924262,
+                                    "shift_90": -0.0886363636363636,
+                                    "shift_365": -0.15311510031679,
+                                    "high": 303.98,
+                                    "average": 8.03,
+                                    "shift": 0.0308483290488432
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Winged Kuriboh LV10",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN005",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.134358559287738,
+                                    "shift_7": 3.75084745762712,
+                                    "shift_30": 3.96985815602837,
+                                    "shift_21": 0.454592631032693,
+                                    "low": 32.5,
+                                    "updated_at": "2018-09-19 07:53:48 -0600",
+                                    "shift_3": 0.00754852624011502,
+                                    "shift_90": 2.54361567635904,
+                                    "shift_365": 0.0196435067297199,
+                                    "high": 77.89,
+                                    "average": 28.03,
+                                    "shift": 0.00754852624011502
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Wroughtweiler",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN012",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.193798449612403,
+                                    "shift_7": -0.037037037037037,
+                                    "shift_30": -0.0188679245283019,
+                                    "shift_21": -0.00952380952380952,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-19 04:43:15 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.037037037037037,
+                                    "shift_365": -0.52073732718894,
+                                    "high": 3.79,
+                                    "average": 1.04,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Wroughtweiler",
+                "numbers": [
+                    {
+                        "print_tag": "CRV-EN012",
+                        "name": "Cybernetic Revolution",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0983050847457627,
+                                    "shift_7": -0.141935483870968,
+                                    "shift_30": -0.130718954248366,
+                                    "shift_21": -0.113333333333333,
+                                    "low": 3.99,
+                                    "updated_at": "2018-09-19 04:43:16 -0600",
+                                    "shift_3": -0.13915857605178,
+                                    "shift_90": -0.116279069767442,
+                                    "shift_365": -0.0666666666666667,
+                                    "high": 32.51,
+                                    "average": 2.66,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            }
+        ],
+        "highest": 2255.86,
+        "average": 372.39999999999986,
+        "tcg_booster_values": {
+            "average": 5.85,
+            "low": 4.26,
+            "high": 42.93
+        },
+        "lowest": 271.37
+    },
+    "status": "success"
+}

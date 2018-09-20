@@ -1,0 +1,2912 @@
+{
+    "data": {
+        "rarities": {
+            "Common": 35,
+            "Ultra Rare": 4,
+            "Super Rare": 7,
+            "Ultimate Rare": 25,
+            "Rare": 14
+        },
+        "cards": [
+            {
+                "name": "Avalanching Aussa",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN026",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": 0.0106382978723404,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0106382978723404,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 21:32:05 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.11214953271028,
+                                    "shift_365": 0.043956043956044,
+                                    "high": 2.35,
+                                    "average": 0.95,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Banisher of the Radiance",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN022",
+                        "name": "Enemy of Justice",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.818181818181818,
+                                    "shift_7": 0.357142857142857,
+                                    "shift_30": 0.00795755968169761,
+                                    "shift_21": -0.0026246719160105,
+                                    "low": 1.99,
+                                    "updated_at": "2018-09-19 11:39:05 -0600",
+                                    "shift_3": -0.0206185567010309,
+                                    "shift_90": 0.727272727272727,
+                                    "shift_365": 0.775700934579439,
+                                    "high": 6.98,
+                                    "average": 3.8,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Banisher of the Radiance",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN022",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.38562091503268,
+                                    "shift_7": -0.0141796083727211,
+                                    "shift_30": 0.240441801189465,
+                                    "shift_21": 0.0664718772826881,
+                                    "low": 21.99,
+                                    "updated_at": "2018-09-19 11:39:06 -0600",
+                                    "shift_3": -0.0426229508196721,
+                                    "shift_90": 1.17585692995529,
+                                    "shift_365": 0.954484605087015,
+                                    "high": 31.55,
+                                    "average": 14.6,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Batteryman D",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN030",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0818181818181818,
+                                    "shift_7": 0.0202020202020202,
+                                    "shift_30": 0.0860215053763441,
+                                    "shift_21": 0.01,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 19:36:47 -0600",
+                                    "shift_3": 0.01,
+                                    "shift_90": -0.0288461538461538,
+                                    "shift_365": 0.0,
+                                    "high": 3.5,
+                                    "average": 1.01,
+                                    "shift": -0.00980392156862745
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Thunder / Effect"
+            },
+            {
+                "name": "Blazing Hiita",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN028",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.265486725663717,
+                                    "shift_7": 0.0121951219512195,
+                                    "shift_30": -0.144329896907216,
+                                    "shift_21": -0.0119047619047619,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 22:40:18 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.576530612244898,
+                                    "high": 5.23,
+                                    "average": 0.83,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Bountiful Artemis",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN020",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.175925925925926,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0229885057471264,
+                                    "low": 0.42,
+                                    "updated_at": "2018-09-19 12:34:45 -0600",
+                                    "shift_3": 0.0113636363636364,
+                                    "shift_90": -0.043010752688172,
+                                    "shift_365": -0.402684563758389,
+                                    "high": 3.07,
+                                    "average": 0.89,
+                                    "shift": 0.0113636363636364
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Celestial Transformation",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN044",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.48598130841122,
+                                    "shift_7": 0.0555555555555556,
+                                    "shift_30": 0.847222222222222,
+                                    "shift_21": 0.33,
+                                    "low": 1.5,
+                                    "updated_at": "2018-09-19 12:12:37 -0600",
+                                    "shift_3": 0.0555555555555556,
+                                    "shift_90": 1.48598130841122,
+                                    "shift_365": 0.785234899328859,
+                                    "high": 3.97,
+                                    "average": 2.66,
+                                    "shift": 0.047244094488189
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Clock Tower Prison",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN048",
+                        "name": "Enemy of Justice",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.552671755725191,
+                                    "shift_7": 0.915032679738562,
+                                    "shift_30": 0.775757575757576,
+                                    "shift_21": 0.819875776397516,
+                                    "low": 3.06,
+                                    "updated_at": "2018-09-19 11:30:57 -0600",
+                                    "shift_3": 1.02068965517241,
+                                    "shift_90": 0.808641975308642,
+                                    "shift_365": 0.246808510638298,
+                                    "high": 6.5,
+                                    "average": 2.93,
+                                    "shift": 0.0316901408450704
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Field",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Clock Tower Prison",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN048",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0606060606060606,
+                                    "shift_7": -0.0958333333333333,
+                                    "shift_30": -0.179584120982987,
+                                    "shift_21": -0.147347740667976,
+                                    "low": 5.97,
+                                    "updated_at": "2018-09-19 11:30:57 -0600",
+                                    "shift_3": -0.0863157894736842,
+                                    "shift_90": -0.187265917602996,
+                                    "shift_365": -0.0376940133037694,
+                                    "high": 36.52,
+                                    "average": 4.35,
+                                    "shift": 0.0260047281323877
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Field",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Cyber Gymnast",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN006",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0444444444444444,
+                                    "shift_7": -0.0208333333333333,
+                                    "shift_30": 0.0930232558139535,
+                                    "shift_21": -0.0309278350515464,
+                                    "low": 0.53,
+                                    "updated_at": "2018-09-19 08:11:59 -0600",
+                                    "shift_3": -0.0105263157894737,
+                                    "shift_90": 0.175,
+                                    "shift_365": 0.0561797752808989,
+                                    "high": 1.44,
+                                    "average": 0.94,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Cyber Kirin",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN008",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0970873786407767,
+                                    "shift_7": -0.0412371134020619,
+                                    "shift_30": -0.0412371134020619,
+                                    "shift_21": -0.0412371134020619,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-06 14:37:56 -0600",
+                                    "shift_3": -0.0412371134020619,
+                                    "shift_90": -0.07,
+                                    "shift_365": -0.474576271186441,
+                                    "high": 2.2,
+                                    "average": 0.93,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Cyber Phoenix",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN009",
+                        "name": "Enemy of Justice",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0894308943089431,
+                                    "shift_7": -0.00884955752212389,
+                                    "shift_30": 0.178947368421053,
+                                    "shift_21": 0.00900900900900901,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 10:05:19 -0600",
+                                    "shift_3": -0.00884955752212389,
+                                    "shift_90": -0.0508474576271186,
+                                    "shift_365": 0.0,
+                                    "high": 32.3,
+                                    "average": 1.13,
+                                    "shift": -0.00884955752212389
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Cyber Phoenix",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN009",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.298188874514877,
+                                    "shift_7": 0.0218940936863544,
+                                    "shift_30": 0.00299850074962519,
+                                    "shift_21": 0.00500751126690035,
+                                    "low": 12.49,
+                                    "updated_at": "2018-09-19 10:05:20 -0600",
+                                    "shift_3": 0.0162025316455696,
+                                    "shift_90": -0.0864815657715066,
+                                    "shift_365": 8.93564356435644,
+                                    "high": 44.93,
+                                    "average": 20.07,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Cyber Prima",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN007",
+                        "name": "Enemy of Justice",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.93023255813953,
+                                    "shift_7": 0.0202429149797571,
+                                    "shift_30": 1.25,
+                                    "shift_21": 0.0543933054393305,
+                                    "low": 0.69,
+                                    "updated_at": "2018-09-19 12:06:29 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.110132158590308,
+                                    "shift_365": 1.68085106382979,
+                                    "high": 6.19,
+                                    "average": 2.53,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Cyber Prima",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN007",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.47787610619469,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.450819672131148,
+                                    "shift_21": -0.0923076923076923,
+                                    "low": 2.91,
+                                    "updated_at": "2018-09-19 12:06:47 -0600",
+                                    "shift_3": 0.00568181818181818,
+                                    "shift_90": -0.172897196261682,
+                                    "shift_365": -0.594965675057208,
+                                    "high": 9.18,
+                                    "average": 1.77,
+                                    "shift": 0.00568181818181818
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Cyber Tutu",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN005",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0277777777777778,
+                                    "shift_7": -0.0625,
+                                    "shift_30": -0.132231404958678,
+                                    "shift_21": -0.00943396226415094,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 12:06:41 -0600",
+                                    "shift_3": -0.0625,
+                                    "shift_90": -0.0186915887850467,
+                                    "shift_365": -0.244604316546763,
+                                    "high": 1.99,
+                                    "average": 1.05,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "D - Shield",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN054",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.010989010989011,
+                                    "shift_7": -0.0217391304347826,
+                                    "shift_30": -0.0217391304347826,
+                                    "shift_21": -0.0217391304347826,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 21:00:37 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0465116279069767,
+                                    "shift_365": -0.521276595744681,
+                                    "high": 8.14,
+                                    "average": 0.9,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "D - Time",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN053",
+                        "name": "Enemy of Justice",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0543478260869565,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0210526315789474,
+                                    "shift_21": 0.0104166666666667,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 07:03:52 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0104166666666667,
+                                    "shift_365": 0.0659340659340659,
+                                    "high": 1.96,
+                                    "average": 0.97,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "D - Time",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN053",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.601307189542484,
+                                    "shift_7": -0.0040650406504065,
+                                    "shift_30": 0.189320388349515,
+                                    "shift_21": 0.0208333333333333,
+                                    "low": 3.98,
+                                    "updated_at": "2018-09-19 07:03:53 -0600",
+                                    "shift_3": -0.0040650406504065,
+                                    "shift_90": 0.212871287128713,
+                                    "shift_365": 0.842105263157895,
+                                    "high": 4.99,
+                                    "average": 2.45,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Destiny HERO - Captain Tenacious",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN002",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.010752688172043,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0105263157894737,
+                                    "shift_21": -0.0105263157894737,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:02:35 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0105263157894737,
+                                    "shift_365": -0.491891891891892,
+                                    "high": 1.44,
+                                    "average": 0.94,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Destiny HERO - Diamond Dude",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN003",
+                        "name": "Enemy of Justice",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0531914893617021,
+                                    "shift_7": -0.0111111111111111,
+                                    "shift_30": -0.0326086956521739,
+                                    "shift_21": -0.0326086956521739,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 11:04:22 -0600",
+                                    "shift_3": 0.0113636363636364,
+                                    "shift_90": -0.0631578947368421,
+                                    "shift_365": -0.0531914893617021,
+                                    "high": 19.07,
+                                    "average": 0.89,
+                                    "shift": -0.021978021978022
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Destiny HERO - Diamond Dude",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN003",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.172077922077922,
+                                    "shift_7": -0.250259605399792,
+                                    "shift_30": -0.265513733468973,
+                                    "shift_21": 0.0169014084507042,
+                                    "low": 5.5,
+                                    "updated_at": "2018-09-19 11:04:23 -0600",
+                                    "shift_3": 0.0013869625520111,
+                                    "shift_90": 0.0602055800293686,
+                                    "shift_365": -0.115196078431373,
+                                    "high": 35.32,
+                                    "average": 7.22,
+                                    "shift": 0.0524781341107872
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Destiny HERO - Doom Lord",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN001",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0860215053763441,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.00980392156862745,
+                                    "shift_21": 0.0,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 11:06:52 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.074468085106383,
+                                    "shift_365": -0.121739130434783,
+                                    "high": 4.34,
+                                    "average": 1.01,
+                                    "shift": 0.01
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Destiny HERO - Dreadmaster",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN004",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.630021141649049,
+                                    "shift_7": -0.0766467065868263,
+                                    "shift_30": -0.284786641929499,
+                                    "shift_21": -0.196037539103233,
+                                    "low": 5.95,
+                                    "updated_at": "2018-09-19 10:58:32 -0600",
+                                    "shift_3": -0.00258732212160414,
+                                    "shift_90": -0.660949868073879,
+                                    "shift_365": -0.120866590649943,
+                                    "high": 44.9,
+                                    "average": 7.71,
+                                    "shift": -0.0252844500632111
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Destiny HERO - Dreadmaster",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN004",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 6.32857142857143,
+                                    "shift_7": -0.0140935297885971,
+                                    "shift_30": 0.116026105873822,
+                                    "shift_21": 0.14,
+                                    "low": 25.16,
+                                    "updated_at": "2018-09-19 11:36:52 -0600",
+                                    "shift_3": 0.289484708839548,
+                                    "shift_90": -0.164495114006515,
+                                    "shift_365": 14.39,
+                                    "high": 100.0,
+                                    "average": 30.78,
+                                    "shift": 0.113200723327306
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Destiny Signal",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN052",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.166666666666667,
+                                    "shift_7": -0.010989010989011,
+                                    "shift_30": -0.010989010989011,
+                                    "shift_21": -0.010989010989011,
+                                    "low": 0.98,
+                                    "updated_at": "2018-09-19 04:37:39 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0217391304347826,
+                                    "shift_365": -0.0217391304347826,
+                                    "high": 5.42,
+                                    "average": 0.9,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Destruction of Destiny",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN051",
+                        "name": "Enemy of Justice",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0105263157894737,
+                                    "shift_7": 0.0212765957446809,
+                                    "shift_30": 0.0212765957446809,
+                                    "shift_21": 0.0212765957446809,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-19 11:26:45 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0103092783505155,
+                                    "shift_365": -0.102803738317757,
+                                    "high": 1.43,
+                                    "average": 0.96,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Destruction of Destiny",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN051",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.115384615384615,
+                                    "shift_7": -0.08,
+                                    "shift_30": -0.153374233128834,
+                                    "shift_21": -0.168674698795181,
+                                    "low": 1.88,
+                                    "updated_at": "2018-09-19 11:26:46 -0600",
+                                    "shift_3": -0.0547945205479452,
+                                    "shift_90": 0.121951219512195,
+                                    "shift_365": 0.38,
+                                    "high": 20.77,
+                                    "average": 1.38,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Dimensional Fissure",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN047",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0852713178294574,
+                                    "shift_7": 0.0144927536231884,
+                                    "shift_30": 0.25,
+                                    "shift_21": 0.0769230769230769,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-14 09:45:11 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.147540983606557,
+                                    "shift_365": 0.0144927536231884,
+                                    "high": 15.37,
+                                    "average": 1.4,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "E - Emergency Call",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN039",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.712820512820513,
+                                    "shift_7": 0.757894736842105,
+                                    "shift_30": 1.22666666666667,
+                                    "shift_21": 1.14102564102564,
+                                    "low": 1.63,
+                                    "updated_at": "2018-09-19 11:11:02 -0600",
+                                    "shift_3": 0.171929824561404,
+                                    "shift_90": 1.42028985507246,
+                                    "shift_365": 0.31496062992126,
+                                    "high": 21.23,
+                                    "average": 3.34,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Elemental Absorber",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN056",
+                        "name": "Enemy of Justice",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.102040816326531,
+                                    "shift_7": 0.0114942528735632,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0114942528735632,
+                                    "low": 0.35,
+                                    "updated_at": "2018-09-19 01:38:27 -0600",
+                                    "shift_3": 0.0232558139534884,
+                                    "shift_90": -0.0736842105263158,
+                                    "shift_365": -0.192660550458716,
+                                    "high": 1.96,
+                                    "average": 0.88,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Elemental Absorber",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN056",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.040983606557377,
+                                    "shift_7": -0.170212765957447,
+                                    "shift_30": -0.230263157894737,
+                                    "shift_21": -0.198630136986301,
+                                    "low": 1.6,
+                                    "updated_at": "2018-09-19 01:38:28 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.10377358490566,
+                                    "shift_365": -0.319767441860465,
+                                    "high": 6.48,
+                                    "average": 1.17,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Elemental HERO Mariner",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN034",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.473053892215569,
+                                    "shift_7": 0.0468085106382979,
+                                    "shift_30": 0.696551724137931,
+                                    "shift_21": -0.00404858299595142,
+                                    "low": 1.5,
+                                    "updated_at": "2018-09-19 12:00:42 -0600",
+                                    "shift_3": -0.0238095238095238,
+                                    "shift_90": 0.576923076923077,
+                                    "shift_365": -0.259036144578313,
+                                    "high": 22.67,
+                                    "average": 2.46,
+                                    "shift": -0.0390625
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Fusion"
+            },
+            {
+                "name": "Elemental HERO Necroid Shaman",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN036",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0078740157480315,
+                                    "shift_7": -0.0526315789473684,
+                                    "shift_30": 0.0413223140495868,
+                                    "shift_21": 0.125,
+                                    "low": 1.79,
+                                    "updated_at": "2018-09-19 12:15:14 -0600",
+                                    "shift_3": 0.008,
+                                    "shift_90": 0.05,
+                                    "shift_365": -0.388349514563107,
+                                    "high": 16.81,
+                                    "average": 1.26,
+                                    "shift": -0.4
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Fusion"
+            },
+            {
+                "name": "Elemental HERO Phoenix Enforcer",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN032",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.114806017418844,
+                                    "shift_7": -0.0181311018131102,
+                                    "shift_30": 1.93333333333333,
+                                    "shift_21": 1.816,
+                                    "low": 4.49,
+                                    "updated_at": "2018-09-19 12:08:12 -0600",
+                                    "shift_3": -0.00705218617771509,
+                                    "shift_90": 0.094017094017094,
+                                    "shift_365": 0.281164695177434,
+                                    "high": 80.0,
+                                    "average": 14.08,
+                                    "shift": 0.0368188512518409
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Fusion"
+            },
+            {
+                "name": "Elemental HERO Phoenix Enforcer",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN032",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.151128266033254,
+                                    "shift_7": -0.0207123010861329,
+                                    "shift_30": 0.15938995215311,
+                                    "shift_21": 0.000257997936016512,
+                                    "low": 4.16,
+                                    "updated_at": "2018-09-19 07:24:45 -0600",
+                                    "shift_3": -0.00970625798212005,
+                                    "shift_90": 0.351813110181311,
+                                    "shift_365": 8.96658097686375,
+                                    "high": 113.0,
+                                    "average": 38.77,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Fusion"
+            },
+            {
+                "name": "Elemental HERO Shining Phoenix Enforcer",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN033",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.169921875,
+                                    "shift_7": 0.0508771929824561,
+                                    "shift_30": 0.623306233062331,
+                                    "shift_21": 0.0453752181500873,
+                                    "low": 4.79,
+                                    "updated_at": "2018-09-19 10:08:30 -0600",
+                                    "shift_3": 0.0508771929824561,
+                                    "shift_90": 0.0970695970695971,
+                                    "shift_365": 0.0363321799307958,
+                                    "high": 29.26,
+                                    "average": 5.99,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Fusion"
+            },
+            {
+                "name": "Elemental HERO Shining Phoenix Enforcer",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN033",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.728952772073922,
+                                    "shift_7": 0.1,
+                                    "shift_30": -0.0130841121495327,
+                                    "shift_21": 0.0173410404624277,
+                                    "low": 4.23,
+                                    "updated_at": "2018-09-19 10:08:30 -0600",
+                                    "shift_3": 0.1,
+                                    "shift_90": 0.145336225596529,
+                                    "shift_365": 0.364341085271318,
+                                    "high": 6.47,
+                                    "average": 5.28,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Fusion"
+            },
+            {
+                "name": "Elemental HERO Wild Wingman",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN035",
+                        "name": "Enemy of Justice",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.430769230769231,
+                                    "shift_7": -0.00448430493273543,
+                                    "shift_30": -0.038961038961039,
+                                    "shift_21": -0.0632911392405063,
+                                    "low": 1.32,
+                                    "updated_at": "2018-09-19 11:29:43 -0600",
+                                    "shift_3": -0.00448430493273543,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.062200956937799,
+                                    "high": 20.51,
+                                    "average": 2.22,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Fusion"
+            },
+            {
+                "name": "Elemental HERO Wild Wingman",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN035",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0511811023622047,
+                                    "shift_7": -0.0723633564280216,
+                                    "shift_30": 0.144349477682811,
+                                    "shift_21": 0.0616740088105727,
+                                    "low": 6.99,
+                                    "updated_at": "2018-09-19 08:48:34 -0600",
+                                    "shift_3": -0.0250809061488673,
+                                    "shift_90": 0.107536764705882,
+                                    "shift_365": 0.985172981878089,
+                                    "high": 24.95,
+                                    "average": 12.05,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Fusion"
+            },
+            {
+                "name": "Elemental Recharge",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN050",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0181818181818182,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 01:26:38 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.258426966292135,
+                                    "high": 1.99,
+                                    "average": 1.13,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Forced Back",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN060",
+                        "name": "Enemy of Justice",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.789435600578871,
+                                    "shift_7": 0.00344827586206897,
+                                    "shift_30": -0.0849056603773585,
+                                    "shift_21": -0.0673076923076923,
+                                    "low": 1.67,
+                                    "updated_at": "2018-09-19 12:34:58 -0600",
+                                    "shift_3": 0.0282685512367491,
+                                    "shift_90": -0.196132596685083,
+                                    "shift_365": -0.716926070038911,
+                                    "high": 22.67,
+                                    "average": 2.91,
+                                    "shift": 0.0392857142857143
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Counter",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Forced Back",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN060",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.537345513164965,
+                                    "shift_7": -0.0325842696629213,
+                                    "shift_30": -0.138138138138138,
+                                    "shift_21": -0.122324159021407,
+                                    "low": 7.65,
+                                    "updated_at": "2018-09-19 12:34:59 -0600",
+                                    "shift_3": -0.0282167042889391,
+                                    "shift_90": -0.508561643835616,
+                                    "shift_365": -0.645241038318912,
+                                    "high": 25.62,
+                                    "average": 8.62,
+                                    "shift": -0.0282167042889391
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Counter",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Grand Convergence",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN046",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.160377358490566,
+                                    "shift_7": 0.0229885057471264,
+                                    "shift_30": -0.0111111111111111,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 19:59:25 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0326086956521739,
+                                    "shift_365": -0.0111111111111111,
+                                    "high": 1.82,
+                                    "average": 0.89,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Guard Dog",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN024",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.02,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0297029702970297,
+                                    "shift_21": -0.0101010101010101,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 21:33:02 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0769230769230769,
+                                    "high": 1.62,
+                                    "average": 0.98,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Beast / Effect"
+            },
+            {
+                "name": "Guard Penalty",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN045",
+                        "name": "Enemy of Justice",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.1,
+                                    "shift_7": -0.0350877192982456,
+                                    "shift_30": -0.0350877192982456,
+                                    "shift_21": -0.0598290598290598,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 17:21:56 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0350877192982456,
+                                    "shift_365": -0.00900900900900901,
+                                    "high": 5.71,
+                                    "average": 1.1,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Guard Penalty",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN045",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0625,
+                                    "shift_7": -0.102564102564103,
+                                    "shift_30": 0.0194174757281553,
+                                    "shift_21": 0.0194174757281553,
+                                    "low": 1.64,
+                                    "updated_at": "2018-09-18 17:21:57 -0600",
+                                    "shift_3": 0.0194174757281553,
+                                    "shift_90": -0.0789473684210526,
+                                    "shift_365": -0.210526315789474,
+                                    "high": 20.43,
+                                    "average": 1.05,
+                                    "shift": -0.00943396226415094
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "H - Heated Heart",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN038",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0849056603773585,
+                                    "shift_7": 0.0543478260869565,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.043010752688172,
+                                    "low": 0.97,
+                                    "updated_at": "2018-09-19 08:21:25 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0202020202020202,
+                                    "shift_365": -0.0490196078431373,
+                                    "high": 5.24,
+                                    "average": 0.97,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Harpie's Pet Baby Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN013",
+                        "name": "Enemy of Justice",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.721019108280255,
+                                    "shift_7": 0.00921658986175115,
+                                    "shift_30": 0.00921658986175115,
+                                    "shift_21": -0.0223214285714286,
+                                    "low": 1.34,
+                                    "updated_at": "2018-09-19 12:33:50 -0600",
+                                    "shift_3": -0.0135135135135135,
+                                    "shift_90": 0.00921658986175115,
+                                    "shift_365": -0.25,
+                                    "high": 20.51,
+                                    "average": 2.19,
+                                    "shift": -0.00454545454545455
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Effect"
+            },
+            {
+                "name": "Harpie's Pet Baby Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN013",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.760675273088381,
+                                    "shift_7": 0.0126050420168067,
+                                    "shift_30": -0.566546762589928,
+                                    "shift_21": 0.025531914893617,
+                                    "low": 1.65,
+                                    "updated_at": "2018-09-19 12:33:59 -0600",
+                                    "shift_3": 0.00836820083682008,
+                                    "shift_90": -0.67563930013459,
+                                    "shift_365": -0.713436385255648,
+                                    "high": 102.07,
+                                    "average": 2.41,
+                                    "shift": 0.0299145299145299
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Effect"
+            },
+            {
+                "name": "Herald of Green Light",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN018",
+                        "name": "Enemy of Justice",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": -0.00840336134453781,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 12:34:56 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.134615384615385,
+                                    "shift_365": -0.0166666666666667,
+                                    "high": 3.22,
+                                    "average": 1.18,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Herald of Green Light",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN018",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.222106360792492,
+                                    "shift_7": -0.0824108241082411,
+                                    "shift_30": -0.132558139534884,
+                                    "shift_21": -0.0957575757575758,
+                                    "low": 9.69,
+                                    "updated_at": "2018-09-19 12:35:11 -0600",
+                                    "shift_3": -0.0496815286624204,
+                                    "shift_90": -0.183807439824945,
+                                    "shift_365": 0.149460708782743,
+                                    "high": 34.93,
+                                    "average": 7.46,
+                                    "shift": -0.0496815286624204
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Herald of Purple Light",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN019",
+                        "name": "Enemy of Justice",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.128440366972477,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 12:35:02 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.605809128630705,
+                                    "high": 6.35,
+                                    "average": 0.95,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Herald of Purple Light",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN019",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0112721417069243,
+                                    "shift_7": -0.0654490106544901,
+                                    "shift_30": -0.0284810126582278,
+                                    "shift_21": 0.00821018062397373,
+                                    "low": 3.99,
+                                    "updated_at": "2018-09-19 12:35:15 -0600",
+                                    "shift_3": -0.0654490106544901,
+                                    "shift_90": 0.0148760330578512,
+                                    "shift_365": 0.0233333333333333,
+                                    "high": 23.85,
+                                    "average": 6.14,
+                                    "shift": -0.00324675324675325
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Hero Flash!!",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN042",
+                        "name": "Enemy of Justice",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.151785714285714,
+                                    "shift_7": -0.0104166666666667,
+                                    "shift_30": -0.136363636363636,
+                                    "shift_21": -0.136363636363636,
+                                    "low": 0.98,
+                                    "updated_at": "2018-09-19 06:39:21 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.144144144144144,
+                                    "shift_365": -0.0104166666666667,
+                                    "high": 6.5,
+                                    "average": 0.95,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Hero Flash!!",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN042",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0361757105943152,
+                                    "shift_7": -0.0336787564766839,
+                                    "shift_30": -0.109785202863962,
+                                    "shift_21": -0.0790123456790123,
+                                    "low": 4.97,
+                                    "updated_at": "2018-09-19 06:39:22 -0600",
+                                    "shift_3": 0.0247252747252747,
+                                    "shift_90": 0.0332409972299169,
+                                    "shift_365": 2.10833333333333,
+                                    "high": 24.83,
+                                    "average": 3.73,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Icarus Attack",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN055",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.027027027027027,
+                                    "shift_7": 0.0666666666666667,
+                                    "shift_30": 0.230769230769231,
+                                    "shift_21": 0.210084033613445,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 21:15:45 -0600",
+                                    "shift_3": 0.0666666666666667,
+                                    "shift_90": 0.152,
+                                    "shift_365": -0.339449541284404,
+                                    "high": 3.98,
+                                    "average": 1.44,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Layard the Liberator",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN021",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.032258064516129,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0105263157894737,
+                                    "shift_21": 0.0105263157894737,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 12:22:09 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0212765957446809,
+                                    "shift_365": -0.150442477876106,
+                                    "high": 4.61,
+                                    "average": 0.96,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Life Equalizer",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN049",
+                        "name": "Enemy of Justice",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.214285714285714,
+                                    "shift_7": 0.0232558139534884,
+                                    "shift_30": 0.0352941176470588,
+                                    "shift_21": 0.0,
+                                    "low": 0.47,
+                                    "updated_at": "2018-09-18 21:22:59 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.128712871287129,
+                                    "shift_365": -0.375886524822695,
+                                    "high": 6.35,
+                                    "average": 0.88,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Life Equalizer",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN049",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0637755102040816,
+                                    "shift_7": -0.0107816711590297,
+                                    "shift_30": -0.00271739130434783,
+                                    "shift_21": 0.00273224043715847,
+                                    "low": 1.91,
+                                    "updated_at": "2018-09-18 21:23:18 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.102689486552567,
+                                    "shift_365": -0.058974358974359,
+                                    "high": 21.15,
+                                    "average": 3.67,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Macro Cosmos",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN057",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.219354838709677,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0677966101694915,
+                                    "shift_21": 0.173913043478261,
+                                    "low": 1.6,
+                                    "updated_at": "2018-09-19 11:44:07 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.315217391304348,
+                                    "shift_365": -0.1,
+                                    "high": 27.95,
+                                    "average": 1.89,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Majestic Mech - Goryu",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN016",
+                        "name": "Enemy of Justice",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.102803738317757,
+                                    "shift_7": -0.0103092783505155,
+                                    "shift_30": 0.0909090909090909,
+                                    "shift_21": 0.103448275862069,
+                                    "low": 0.53,
+                                    "updated_at": "2018-09-19 11:15:53 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.103448275862069,
+                                    "shift_365": -0.102803738317757,
+                                    "high": 19.39,
+                                    "average": 0.96,
+                                    "shift": 0.0549450549450549
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Majestic Mech - Goryu",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN016",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.16564417177914,
+                                    "shift_7": 0.117088607594937,
+                                    "shift_30": 2.12389380530973,
+                                    "shift_21": 0.188552188552189,
+                                    "low": 3.7,
+                                    "updated_at": "2018-09-19 11:16:14 -0600",
+                                    "shift_3": 0.0962732919254658,
+                                    "shift_90": 2.15178571428571,
+                                    "shift_365": 2.0695652173913,
+                                    "high": 9.45,
+                                    "average": 3.53,
+                                    "shift": 0.0895061728395062
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Majestic Mech - Ohka",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN015",
+                        "name": "Enemy of Justice",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0752688172043011,
+                                    "shift_7": -0.0114942528735632,
+                                    "shift_30": -0.0114942528735632,
+                                    "shift_21": -0.0114942528735632,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 11:15:43 -0600",
+                                    "shift_3": -0.0114942528735632,
+                                    "shift_90": -0.0227272727272727,
+                                    "shift_365": -0.0227272727272727,
+                                    "high": 17.08,
+                                    "average": 0.86,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Majestic Mech - Ohka",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN015",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 2.52252252252252,
+                                    "shift_7": -0.010126582278481,
+                                    "shift_30": 0.916666666666667,
+                                    "shift_21": 0.879807692307692,
+                                    "low": 2.03,
+                                    "updated_at": "2018-09-19 11:15:53 -0600",
+                                    "shift_3": -0.0126262626262626,
+                                    "shift_90": 1.00512820512821,
+                                    "shift_365": 1.98473282442748,
+                                    "high": 12.99,
+                                    "average": 3.91,
+                                    "shift": -0.00508905852417303
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Majestic Mech - Senku",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN014",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0116279069767442,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:15:42 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.0860215053763441,
+                                    "high": 1.43,
+                                    "average": 0.85,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Miraculous Descent",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN058",
+                        "name": "Enemy of Justice",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0178571428571429,
+                                    "shift_7": 0.00884955752212389,
+                                    "shift_30": 0.128712871287129,
+                                    "shift_21": 0.0,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 08:03:17 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0256410256410256,
+                                    "shift_365": 0.175257731958763,
+                                    "high": 3.22,
+                                    "average": 1.15,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Miraculous Descent",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN058",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.106227106227106,
+                                    "shift_7": 0.706293706293706,
+                                    "shift_30": 0.605263157894737,
+                                    "shift_21": 0.682758620689655,
+                                    "low": 1.85,
+                                    "updated_at": "2018-09-19 08:03:19 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.125448028673835,
+                                    "shift_365": 0.14018691588785,
+                                    "high": 22.67,
+                                    "average": 2.44,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Misfortune",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN037",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.145833333333333,
+                                    "shift_7": 0.111111111111111,
+                                    "shift_30": 0.111111111111111,
+                                    "shift_21": 0.1,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 07:18:42 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.111111111111111,
+                                    "shift_365": 0.0784313725490196,
+                                    "high": 5.5,
+                                    "average": 1.1,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "O - Oversoul",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN041",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0434782608695652,
+                                    "shift_7": 0.0212765957446809,
+                                    "shift_30": 0.032258064516129,
+                                    "shift_21": 0.0105263157894737,
+                                    "low": 0.58,
+                                    "updated_at": "2018-09-19 08:21:33 -0600",
+                                    "shift_3": 0.0105263157894737,
+                                    "shift_90": 0.0434782608695652,
+                                    "shift_365": -0.445086705202312,
+                                    "high": 1.51,
+                                    "average": 0.96,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Power Capsule",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN043",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0235294117647059,
+                                    "shift_7": -0.0113636363636364,
+                                    "shift_30": -0.0113636363636364,
+                                    "shift_21": -0.0113636363636364,
+                                    "low": 0.65,
+                                    "updated_at": "2018-09-18 19:47:00 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0333333333333333,
+                                    "shift_365": 0.0,
+                                    "high": 1.99,
+                                    "average": 0.87,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "R - Righteous Justice",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN040",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.121495327102804,
+                                    "shift_7": 0.032967032967033,
+                                    "shift_30": 0.0561797752808989,
+                                    "shift_21": 0.0561797752808989,
+                                    "low": 0.97,
+                                    "updated_at": "2018-09-19 08:21:41 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.032967032967033,
+                                    "shift_365": 0.105882352941176,
+                                    "high": 1.99,
+                                    "average": 0.94,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Raging Eria",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN027",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0222222222222222,
+                                    "shift_7": 0.010989010989011,
+                                    "shift_30": -0.010752688172043,
+                                    "shift_21": 0.010989010989011,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:41:14 -0600",
+                                    "shift_3": 0.010989010989011,
+                                    "shift_90": -0.0212765957446809,
+                                    "shift_365": -0.530612244897959,
+                                    "high": 1.43,
+                                    "average": 0.92,
+                                    "shift": 0.010989010989011
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Royal Knight",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN017",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.00925925925925926,
+                                    "shift_7": 0.172043010752688,
+                                    "shift_30": 0.211111111111111,
+                                    "shift_21": 0.172043010752688,
+                                    "low": 0.97,
+                                    "updated_at": "2018-09-19 11:47:32 -0600",
+                                    "shift_3": 0.172043010752688,
+                                    "shift_90": 0.197802197802198,
+                                    "shift_365": -0.391061452513966,
+                                    "high": 1.43,
+                                    "average": 1.09,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Searchlightman",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN010",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0238095238095238,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0117647058823529,
+                                    "shift_21": 0.0117647058823529,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 01:16:16 -0600",
+                                    "shift_3": -0.0114942528735632,
+                                    "shift_90": 0.0238095238095238,
+                                    "shift_365": 0.0,
+                                    "high": 3.52,
+                                    "average": 0.86,
+                                    "shift": -0.0114942528735632
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Shattered Axe",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN059",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0232558139534884,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 20:17:57 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0232558139534884,
+                                    "shift_365": 0.0352941176470588,
+                                    "high": 1.43,
+                                    "average": 0.88,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Storming Wynn",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN029",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.178571428571429,
+                                    "shift_7": -0.010752688172043,
+                                    "shift_30": -0.010752688172043,
+                                    "shift_21": -0.010752688172043,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 22:28:02 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0222222222222222,
+                                    "shift_365": 0.010989010989011,
+                                    "high": 5.42,
+                                    "average": 0.92,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Super-Electromagnetic Voltech Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN031",
+                        "name": "Enemy of Justice",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": 0.0108695652173913,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.53,
+                                    "updated_at": "2018-09-19 08:49:19 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.021978021978022,
+                                    "high": 10.71,
+                                    "average": 0.93,
+                                    "shift": -0.0106382978723404
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Thunder / Effect"
+            },
+            {
+                "name": "Super-Electromagnetic Voltech Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN031",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.81021897810219,
+                                    "shift_7": -0.13588850174216,
+                                    "shift_30": -0.0236220472440945,
+                                    "shift_21": -0.104693140794224,
+                                    "low": 1.46,
+                                    "updated_at": "2018-09-19 08:49:20 -0600",
+                                    "shift_3": 0.186602870813397,
+                                    "shift_90": 0.6,
+                                    "shift_365": 0.148148148148148,
+                                    "high": 25.56,
+                                    "average": 2.48,
+                                    "shift": 0.180952380952381
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Thunder / Effect"
+            },
+            {
+                "name": "Swift Birdman Joe",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN012",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.101851851851852,
+                                    "shift_7": 0.0104166666666667,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 21:55:03 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0102040816326531,
+                                    "shift_365": 0.0319148936170213,
+                                    "high": 1.99,
+                                    "average": 0.97,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Winged Beast / Effect"
+            },
+            {
+                "name": "Victory Viper XX03",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN011",
+                        "name": "Enemy of Justice",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.135802469135802,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0666666666666667,
+                                    "shift_21": 0.0,
+                                    "low": 0.33,
+                                    "updated_at": "2018-09-19 12:31:07 -0600",
+                                    "shift_3": 0.0294117647058824,
+                                    "shift_90": -0.0909090909090909,
+                                    "shift_365": -0.0666666666666667,
+                                    "high": 4.95,
+                                    "average": 0.7,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Victory Viper XX03",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN011",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.1015625,
+                                    "shift_7": 0.0291970802919708,
+                                    "shift_30": 0.155737704918033,
+                                    "shift_21": 0.175,
+                                    "low": 1.13,
+                                    "updated_at": "2018-09-19 12:31:15 -0600",
+                                    "shift_3": 0.0217391304347826,
+                                    "shift_90": 0.119047619047619,
+                                    "shift_365": 0.128,
+                                    "high": 12.84,
+                                    "average": 1.41,
+                                    "shift": 0.0143884892086331
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Voltanis the Adjudicator",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN023",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.75,
+                                    "shift_7": 0.00574712643678161,
+                                    "shift_30": 0.0144927536231884,
+                                    "shift_21": -0.0196078431372549,
+                                    "low": 3.99,
+                                    "updated_at": "2018-09-19 12:31:31 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.114649681528662,
+                                    "shift_365": 0.732673267326733,
+                                    "high": 23.39,
+                                    "average": 3.5,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Voltanis the Adjudicator",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN023",
+                        "name": "Enemy of Justice",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.903370786516854,
+                                    "shift_7": -0.0219399538106236,
+                                    "shift_30": 0.102864583333333,
+                                    "shift_21": 0.0341880341880342,
+                                    "low": 9.34,
+                                    "updated_at": "2018-09-19 12:31:57 -0600",
+                                    "shift_3": -0.0230680507497117,
+                                    "shift_90": 0.143049932523617,
+                                    "shift_365": 0.942660550458716,
+                                    "high": 31.16,
+                                    "average": 8.47,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Whirlwind Weasel",
+                "numbers": [
+                    {
+                        "print_tag": "EOJ-EN025",
+                        "name": "Enemy of Justice",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0111111111111111,
+                                    "shift_7": 0.0340909090909091,
+                                    "shift_30": 0.0111111111111111,
+                                    "shift_21": 0.0224719101123595,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 22:56:11 -0600",
+                                    "shift_3": 0.0340909090909091,
+                                    "shift_90": -0.0319148936170213,
+                                    "shift_365": -0.0520833333333333,
+                                    "high": 1.99,
+                                    "average": 0.91,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Beast / Effect"
+            }
+        ],
+        "highest": 1398.8300000000004,
+        "average": 298.5600000000001,
+        "tcg_booster_values": {
+            "average": 4.63,
+            "low": 4.33,
+            "high": 37.15
+        },
+        "lowest": 219.96000000000004
+    },
+    "status": "success"
+}

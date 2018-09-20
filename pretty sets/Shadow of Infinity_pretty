@@ -1,0 +1,2912 @@
+{
+    "data": {
+        "rarities": {
+            "Common": 35,
+            "Ultra Rare": 4,
+            "Super Rare": 7,
+            "Ultimate Rare": 25,
+            "Rare": 14
+        },
+        "cards": [
+            {
+                "name": "Adhesive Explosive",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN011",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.178947368421053,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 20:54:55 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.131313131313131,
+                                    "shift_365": 0.0566037735849057,
+                                    "high": 18.28,
+                                    "average": 1.12,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Adhesive Explosive",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN011",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.485470085470085,
+                                    "shift_7": 0.0451388888888889,
+                                    "shift_30": 0.72,
+                                    "shift_21": 0.662983425414365,
+                                    "low": 3.97,
+                                    "updated_at": "2018-09-18 20:54:55 -0600",
+                                    "shift_3": -0.0258899676375405,
+                                    "shift_90": 1.50833333333333,
+                                    "shift_365": 1.09027777777778,
+                                    "high": 21.15,
+                                    "average": 3.01,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Ancient Gear (card)",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN008",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.30864197530864,
+                                    "shift_7": 0.00537634408602151,
+                                    "shift_30": 0.198717948717949,
+                                    "shift_21": 0.191082802547771,
+                                    "low": 0.3,
+                                    "updated_at": "2018-09-18 20:18:43 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 1.30864197530864,
+                                    "shift_365": -0.248995983935743,
+                                    "high": 5.23,
+                                    "average": 1.87,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Ancient Gear Cannon",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN009",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0917431192660551,
+                                    "shift_7": -0.01,
+                                    "shift_30": 0.0206185567010309,
+                                    "shift_21": 0.0206185567010309,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 21:39:43 -0600",
+                                    "shift_3": -0.01,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0,
+                                    "high": 4.27,
+                                    "average": 0.99,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Ancient Gear Castle",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN047",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.130841121495327,
+                                    "shift_7": -0.032,
+                                    "shift_30": -0.0833333333333333,
+                                    "shift_21": -0.0546875,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 20:15:38 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.047244094488189,
+                                    "shift_365": 0.0707964601769911,
+                                    "high": 8.47,
+                                    "average": 1.21,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Ancient Gear Castle",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN047",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.63565891472868,
+                                    "shift_7": 0.0429447852760736,
+                                    "shift_30": 0.111111111111111,
+                                    "shift_21": 1.76422764227642,
+                                    "low": 4.94,
+                                    "updated_at": "2018-09-18 20:16:25 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.312741312741313,
+                                    "shift_365": -0.0760869565217391,
+                                    "high": 35.51,
+                                    "average": 3.4,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Ancient Gear Drill",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN040",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.215909090909091,
+                                    "shift_7": 0.150537634408602,
+                                    "shift_30": 0.16304347826087,
+                                    "shift_21": 0.16304347826087,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 20:15:38 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.138297872340426,
+                                    "shift_365": 0.114583333333333,
+                                    "high": 5.25,
+                                    "average": 1.07,
+                                    "shift": -0.00925925925925926
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Ancient Gear Factory",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN039",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.010752688172043,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 20:15:46 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0217391304347826,
+                                    "high": 19.0,
+                                    "average": 0.94,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Anteatereatingant",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN022",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0309278350515464,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0309278350515464,
+                                    "shift_21": 0.0309278350515464,
+                                    "low": 0.57,
+                                    "updated_at": "2018-09-07 12:06:38 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0204081632653061,
+                                    "shift_365": -0.484536082474227,
+                                    "high": 18.35,
+                                    "average": 1.0,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Insect / Effect"
+            },
+            {
+                "name": "Attack Reflector Unit",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN051",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0202020202020202,
+                                    "shift_7": 0.0202020202020202,
+                                    "shift_30": -0.00980392156862745,
+                                    "shift_21": 0.01,
+                                    "low": 0.66,
+                                    "updated_at": "2018-09-18 21:25:29 -0600",
+                                    "shift_3": 0.0202020202020202,
+                                    "shift_90": 0.0520833333333333,
+                                    "shift_365": -0.0900900900900901,
+                                    "high": 5.25,
+                                    "average": 1.01,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "B.E.S. Covered Core",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN013",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0373134328358209,
+                                    "shift_7": 0.015748031496063,
+                                    "shift_30": -0.0979020979020979,
+                                    "shift_21": -0.0227272727272727,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 12:05:52 -0600",
+                                    "shift_3": 0.015748031496063,
+                                    "shift_90": -0.0300751879699248,
+                                    "shift_365": -0.271186440677966,
+                                    "high": 22.14,
+                                    "average": 1.29,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "B.E.S. Covered Core",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN013",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.313358302122347,
+                                    "shift_7": -0.144634525660964,
+                                    "shift_30": -0.17910447761194,
+                                    "shift_21": -0.195906432748538,
+                                    "low": 4.74,
+                                    "updated_at": "2018-09-19 07:06:08 -0600",
+                                    "shift_3": -0.144634525660964,
+                                    "shift_90": -0.238227146814404,
+                                    "shift_365": -0.241379310344828,
+                                    "high": 13.99,
+                                    "average": 5.5,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Beelze Frog",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN026",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0574712643678161,
+                                    "shift_7": -0.010752688172043,
+                                    "shift_30": -0.0212765957446809,
+                                    "shift_21": -0.0212765957446809,
+                                    "low": 0.45,
+                                    "updated_at": "2018-09-18 22:36:24 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.010989010989011,
+                                    "shift_365": -0.480225988700565,
+                                    "high": 4.6,
+                                    "average": 0.92,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Aqua / Effect"
+            },
+            {
+                "name": "Chain Thrasher",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN015",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.186915887850467,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.043956043956044,
+                                    "shift_21": 0.0116279069767442,
+                                    "low": 0.33,
+                                    "updated_at": "2018-09-19 10:37:28 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0543478260869565,
+                                    "shift_365": -0.186915887850467,
+                                    "high": 5.23,
+                                    "average": 0.87,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Chainsaw Insect",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN021",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.5,
+                                    "shift_7": 0.15546218487395,
+                                    "shift_30": 0.07421875,
+                                    "shift_21": -0.024822695035461,
+                                    "low": 2.95,
+                                    "updated_at": "2018-09-18 22:47:21 -0600",
+                                    "shift_3": 0.00364963503649635,
+                                    "shift_90": 0.211453744493392,
+                                    "shift_365": 1.45535714285714,
+                                    "high": 19.0,
+                                    "average": 2.75,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Insect / Effect"
+            },
+            {
+                "name": "Chainsaw Insect",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN021",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0694980694980695,
+                                    "shift_7": -0.147692307692308,
+                                    "shift_30": -0.472380952380952,
+                                    "shift_21": -0.469348659003831,
+                                    "low": 3.21,
+                                    "updated_at": "2018-09-18 22:47:47 -0600",
+                                    "shift_3": -0.147692307692308,
+                                    "shift_90": 0.0413533834586466,
+                                    "shift_365": 0.357843137254902,
+                                    "high": 25.46,
+                                    "average": 2.77,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Insect / Effect"
+            },
+            {
+                "name": "Cyber Barrier Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN006",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0967741935483871,
+                                    "shift_7": -0.0285714285714286,
+                                    "shift_30": -0.0285714285714286,
+                                    "shift_21": -0.0285714285714286,
+                                    "low": 2.1,
+                                    "updated_at": "2018-09-18 22:53:11 -0600",
+                                    "shift_3": -0.012448132780083,
+                                    "shift_90": -0.251572327044025,
+                                    "shift_365": -0.115241635687732,
+                                    "high": 34.48,
+                                    "average": 2.38,
+                                    "shift": 0.0303030303030303
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Cyber Barrier Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN006",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0506437768240343,
+                                    "shift_7": -0.0727272727272727,
+                                    "shift_30": -0.15644383184011,
+                                    "shift_21": -0.15411195577056,
+                                    "low": 10.99,
+                                    "updated_at": "2018-09-18 22:53:26 -0600",
+                                    "shift_3": -0.04375,
+                                    "shift_90": 0.6,
+                                    "shift_365": 0.148217636022514,
+                                    "high": 47.28,
+                                    "average": 12.24,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Cyber Laser Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN007",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0864197530864197,
+                                    "shift_7": 0.126142595978062,
+                                    "shift_30": 0.0620689655172414,
+                                    "shift_21": -0.0206677265500795,
+                                    "low": 3.0,
+                                    "updated_at": "2018-09-19 11:09:53 -0600",
+                                    "shift_3": -0.0344827586206897,
+                                    "shift_90": -0.661538461538462,
+                                    "shift_365": 0.381165919282511,
+                                    "high": 54.5,
+                                    "average": 6.16,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Cyber Laser Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN007",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.559712230215827,
+                                    "shift_7": 0.0569948186528497,
+                                    "shift_30": -0.750204081632653,
+                                    "shift_21": -0.718232044198895,
+                                    "low": 4.0,
+                                    "updated_at": "2018-09-19 11:09:53 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.769056603773585,
+                                    "shift_365": 0.779069767441861,
+                                    "high": 7.99,
+                                    "average": 6.12,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Cyclone Boomerang",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN042",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.010989010989011,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0222222222222222,
+                                    "shift_21": 0.0,
+                                    "low": 0.46,
+                                    "updated_at": "2018-09-18 20:04:23 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.0416666666666667,
+                                    "high": 18.28,
+                                    "average": 0.92,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Cyclone Boomerang",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN042",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0173913043478261,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.315789473684211,
+                                    "shift_21": -0.335227272727273,
+                                    "low": 2.38,
+                                    "updated_at": "2018-09-18 20:04:31 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.025,
+                                    "shift_365": -0.025,
+                                    "high": 25.83,
+                                    "average": 1.17,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "D.3.S. Frog",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN036",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0212765957446809,
+                                    "shift_7": 0.0549450549450549,
+                                    "shift_30": -0.0204081632653061,
+                                    "shift_21": -0.0204081632653061,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 21:59:11 -0600",
+                                    "shift_3": 0.0549450549450549,
+                                    "shift_90": 0.032258064516129,
+                                    "shift_365": 0.0434782608695652,
+                                    "high": 7.2,
+                                    "average": 0.96,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Aqua / Fusion"
+            },
+            {
+                "name": "D.D. Guide",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN014",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0531914893617021,
+                                    "shift_7": 0.0102040816326531,
+                                    "shift_30": 0.0102040816326531,
+                                    "shift_21": 0.0102040816326531,
+                                    "low": 0.92,
+                                    "updated_at": "2018-09-18 21:33:40 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0531914893617021,
+                                    "shift_365": 0.0421052631578947,
+                                    "high": 5.23,
+                                    "average": 0.99,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Damage Condenser",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN052",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0487804878048781,
+                                    "shift_7": 0.0117647058823529,
+                                    "shift_30": -0.0549450549450549,
+                                    "shift_21": -0.0114942528735632,
+                                    "low": 0.51,
+                                    "updated_at": "2018-09-18 21:01:11 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.036144578313253,
+                                    "shift_365": -0.0337078651685393,
+                                    "high": 5.58,
+                                    "average": 0.86,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Damage Condenser",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN052",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.02,
+                                    "shift_7": -0.0254777070063694,
+                                    "shift_30": -0.120689655172414,
+                                    "shift_21": 0.296610169491525,
+                                    "low": 2.2,
+                                    "updated_at": "2018-09-18 21:01:33 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.154696132596685,
+                                    "shift_365": -0.211340206185567,
+                                    "high": 22.59,
+                                    "average": 1.53,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Demise, King of Armageddon",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN035",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.186194368755677,
+                                    "shift_7": -0.0418195157740279,
+                                    "shift_30": -0.295956873315364,
+                                    "shift_21": -0.233118027011157,
+                                    "low": 7.5,
+                                    "updated_at": "2018-09-19 09:43:39 -0600",
+                                    "shift_3": -0.0128495842781557,
+                                    "shift_90": 0.600490196078431,
+                                    "shift_365": 1.94144144144144,
+                                    "high": 49.94,
+                                    "average": 13.06,
+                                    "shift": 0.0227094753328113
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Ritual"
+            },
+            {
+                "name": "Demise, King of Armageddon",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN035",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.204855337545727,
+                                    "shift_7": -0.134636264929425,
+                                    "shift_30": -0.182004789599726,
+                                    "shift_21": -0.170943134535368,
+                                    "low": 8.77,
+                                    "updated_at": "2018-09-19 10:47:18 -0600",
+                                    "shift_3": -0.121601763409258,
+                                    "shift_90": 0.179575727676369,
+                                    "shift_365": 1.35334645669291,
+                                    "high": 49.95,
+                                    "average": 23.91,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Ritual"
+            },
+            {
+                "name": "Disciple of the Forbidden Spell",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN016",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.108108108108108,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0102040816326531,
+                                    "shift_21": 0.0,
+                                    "low": 0.33,
+                                    "updated_at": "2018-09-18 22:09:28 -0600",
+                                    "shift_3": 0.0102040816326531,
+                                    "shift_90": -0.0917431192660551,
+                                    "shift_365": 0.0206185567010309,
+                                    "high": 5.23,
+                                    "average": 0.99,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Divine Dragon - Excelion",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN033",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.15625,
+                                    "shift_7": 0.180851063829787,
+                                    "shift_30": 0.00909090909090909,
+                                    "shift_21": 0.180851063829787,
+                                    "low": 0.53,
+                                    "updated_at": "2018-09-19 12:06:54 -0600",
+                                    "shift_3": 0.168421052631579,
+                                    "shift_90": 0.206521739130435,
+                                    "shift_365": 0.193548387096774,
+                                    "high": 19.07,
+                                    "average": 1.11,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Effect"
+            },
+            {
+                "name": "Divine Dragon - Excelion",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN033",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0163170163170163,
+                                    "shift_7": -0.0580357142857143,
+                                    "shift_30": -0.034324942791762,
+                                    "shift_21": -0.0365296803652968,
+                                    "low": 4.85,
+                                    "updated_at": "2018-09-19 12:06:54 -0600",
+                                    "shift_3": -0.0186046511627907,
+                                    "shift_90": 0.406666666666667,
+                                    "shift_365": -0.111578947368421,
+                                    "high": 14.99,
+                                    "average": 4.22,
+                                    "shift": -0.0186046511627907
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Effect"
+            },
+            {
+                "name": "Doom Dozer",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN024",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.11184210526316,
+                                    "shift_7": 0.146428571428571,
+                                    "shift_30": 0.150537634408602,
+                                    "shift_21": 0.0664451827242525,
+                                    "low": 1.2,
+                                    "updated_at": "2018-09-19 11:20:10 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0844594594594595,
+                                    "shift_365": 1.72033898305085,
+                                    "high": 32.88,
+                                    "average": 3.21,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Insect / Effect"
+            },
+            {
+                "name": "Doom Dozer",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN024",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0665399239543726,
+                                    "shift_7": -0.162686567164179,
+                                    "shift_30": 0.0525328330206379,
+                                    "shift_21": 0.0747126436781609,
+                                    "low": 5.06,
+                                    "updated_at": "2018-09-19 11:20:12 -0600",
+                                    "shift_3": -0.182215743440233,
+                                    "shift_90": 0.144897959183673,
+                                    "shift_365": 0.326241134751773,
+                                    "high": 16.25,
+                                    "average": 5.61,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Insect / Effect"
+            },
+            {
+                "name": "Elemental HERO Neo Bubbleman",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN004",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0612244897959184,
+                                    "shift_7": -0.0315789473684211,
+                                    "shift_30": -0.0212765957446809,
+                                    "shift_21": -0.0315789473684211,
+                                    "low": 0.52,
+                                    "updated_at": "2018-09-19 10:48:24 -0600",
+                                    "shift_3": -0.0212765957446809,
+                                    "shift_90": -0.0212765957446809,
+                                    "shift_365": -0.532994923857868,
+                                    "high": 4.27,
+                                    "average": 0.92,
+                                    "shift": -0.0212765957446809
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "End of the World",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN046",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.625,
+                                    "shift_7": -0.0416666666666667,
+                                    "shift_30": -0.46797153024911,
+                                    "shift_21": -0.329596412556054,
+                                    "low": 2.0,
+                                    "updated_at": "2018-09-19 11:20:16 -0600",
+                                    "shift_3": -0.0416666666666667,
+                                    "shift_90": 0.679775280898876,
+                                    "shift_365": 1.2824427480916,
+                                    "high": 9.99,
+                                    "average": 2.99,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Ritual",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Full Salvo",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN056",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.032258064516129,
+                                    "shift_7": 0.0227272727272727,
+                                    "shift_30": 0.0227272727272727,
+                                    "shift_21": 0.0227272727272727,
+                                    "low": 0.9,
+                                    "updated_at": "2018-09-18 21:22:20 -0600",
+                                    "shift_3": 0.0227272727272727,
+                                    "shift_90": 0.0112359550561798,
+                                    "shift_365": -0.0217391304347826,
+                                    "high": 4.27,
+                                    "average": 0.9,
+                                    "shift": 0.0227272727272727
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Generation Shift",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN055",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.00900900900900901,
+                                    "shift_7": 0.142857142857143,
+                                    "shift_30": 0.12,
+                                    "shift_21": 0.12,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 21:28:39 -0600",
+                                    "shift_3": 0.00900900900900901,
+                                    "shift_90": 0.0275229357798165,
+                                    "shift_365": 0.0566037735849057,
+                                    "high": 5.23,
+                                    "average": 1.12,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Goblin Out of the Frying Pan",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN059",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0315789473684211,
+                                    "shift_7": 0.0103092783505155,
+                                    "shift_30": 0.0208333333333333,
+                                    "shift_21": 0.0103092783505155,
+                                    "low": 0.41,
+                                    "updated_at": "2018-09-19 11:22:13 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0425531914893617,
+                                    "shift_365": 0.113636363636364,
+                                    "high": 4.98,
+                                    "average": 0.98,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Counter",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Goblin Out of the Frying Pan",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN059",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.101449275362319,
+                                    "shift_7": -0.008,
+                                    "shift_30": 0.00813008130081301,
+                                    "shift_21": -0.0158730158730159,
+                                    "low": 0.88,
+                                    "updated_at": "2018-09-19 11:22:15 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.03125,
+                                    "shift_365": 0.0333333333333333,
+                                    "high": 20.51,
+                                    "average": 1.24,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Counter",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Gokipon",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN019",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0102040816326531,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.03125,
+                                    "shift_21": 0.03125,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 20:53:04 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0531914893617021,
+                                    "high": 4.6,
+                                    "average": 0.99,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Insect / Effect"
+            },
+            {
+                "name": "Grass Phantom",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN031",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.021978021978022,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.9,
+                                    "updated_at": "2018-09-18 21:55:33 -0600",
+                                    "shift_3": -0.0111111111111111,
+                                    "shift_90": -0.021978021978022,
+                                    "shift_365": -0.538860103626943,
+                                    "high": 18.28,
+                                    "average": 0.89,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Plant / Effect"
+            },
+            {
+                "name": "Hamon, Lord of Striking Thunder",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN002",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0221932114882507,
+                                    "shift_7": -0.0421994884910486,
+                                    "shift_30": -0.472163495419309,
+                                    "shift_21": -0.0590452261306533,
+                                    "low": 4.85,
+                                    "updated_at": "2018-09-19 11:08:25 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.485929993136582,
+                                    "shift_365": 0.0624113475177305,
+                                    "high": 40.94,
+                                    "average": 7.49,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Thunder / Effect"
+            },
+            {
+                "name": "Hamon, Lord of Striking Thunder",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN002",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.543580506354448,
+                                    "shift_7": 3.04343971631206,
+                                    "shift_30": 2.28129496402878,
+                                    "shift_21": 3.0291519434629,
+                                    "low": 60.93,
+                                    "updated_at": "2018-09-19 11:08:26 -0600",
+                                    "shift_3": 0.000658183413777973,
+                                    "shift_90": -0.51140867702196,
+                                    "shift_365": 10.3740648379052,
+                                    "high": 600.0,
+                                    "average": 45.61,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Thunder / Effect"
+            },
+            {
+                "name": "Hero Heart",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN037",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.032258064516129,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0204081632653061,
+                                    "shift_21": -0.0204081632653061,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 19:44:03 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.135135135135135,
+                                    "shift_365": -0.0103092783505155,
+                                    "high": 4.21,
+                                    "average": 0.96,
+                                    "shift": -0.0103092783505155
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Hero Kid",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN005",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.30693069306931,
+                                    "shift_7": 0.165,
+                                    "shift_30": 0.834645669291339,
+                                    "shift_21": 0.532894736842105,
+                                    "low": 1.3,
+                                    "updated_at": "2018-09-19 10:25:52 -0600",
+                                    "shift_3": 0.131067961165049,
+                                    "shift_90": 1.06194690265487,
+                                    "shift_365": 1.42708333333333,
+                                    "high": 5.23,
+                                    "average": 2.33,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Karma Cut",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN053",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.102941176470588,
+                                    "shift_7": 0.0252100840336134,
+                                    "shift_30": 0.0338983050847458,
+                                    "shift_21": 0.0166666666666667,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-19 12:35:06 -0600",
+                                    "shift_3": 0.0252100840336134,
+                                    "shift_90": 0.0701754385964912,
+                                    "shift_365": -0.181208053691275,
+                                    "high": 7.95,
+                                    "average": 1.22,
+                                    "shift": -0.00813008130081301
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Karma Cut",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN053",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.227586206896552,
+                                    "shift_7": 0.128367670364501,
+                                    "shift_30": 0.210884353741497,
+                                    "shift_21": 0.1392,
+                                    "low": 4.55,
+                                    "updated_at": "2018-09-19 12:35:07 -0600",
+                                    "shift_3": 0.0987654320987654,
+                                    "shift_90": 0.182724252491694,
+                                    "shift_365": 0.0920245398773006,
+                                    "high": 26.64,
+                                    "average": 7.12,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Machine King Prototype",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN012",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0459770114942529,
+                                    "shift_7": -0.0235294117647059,
+                                    "shift_30": -0.0674157303370786,
+                                    "shift_21": -0.0568181818181818,
+                                    "low": 0.43,
+                                    "updated_at": "2018-09-19 11:13:15 -0600",
+                                    "shift_3": -0.0348837209302326,
+                                    "shift_90": -0.0674157303370786,
+                                    "shift_365": -0.0674157303370786,
+                                    "high": 7.59,
+                                    "average": 0.83,
+                                    "shift": -0.0348837209302326
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Magnet Circle LV2",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN038",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0229885057471264,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0229885057471264,
+                                    "low": 0.55,
+                                    "updated_at": "2018-09-19 11:52:56 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.021978021978022,
+                                    "shift_365": -0.0326086956521739,
+                                    "high": 7.59,
+                                    "average": 0.89,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Malfunction",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN060",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0319148936170213,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-19 11:07:19 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0108695652173913,
+                                    "shift_365": 0.0,
+                                    "high": 4.93,
+                                    "average": 0.91,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Counter",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Malfunction",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN060",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0495867768595041,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.076271186440678,
+                                    "shift_21": 0.016,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 11:07:20 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.165137614678899,
+                                    "shift_365": 0.032520325203252,
+                                    "high": 21.83,
+                                    "average": 1.27,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Counter",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Malice Ascendant",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN030",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0103092783505155,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0208333333333333,
+                                    "shift_21": -0.436781609195402,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 11:16:21 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0103092783505155,
+                                    "shift_365": 0.0888888888888889,
+                                    "high": 4.61,
+                                    "average": 0.98,
+                                    "shift": -0.446327683615819
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Zombie / Effect"
+            },
+            {
+                "name": "Memory Crusher",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN029",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0444444444444444,
+                                    "shift_7": -0.0105263157894737,
+                                    "shift_30": -0.0208333333333333,
+                                    "shift_21": -0.0208333333333333,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-19 11:20:40 -0600",
+                                    "shift_3": 0.032967032967033,
+                                    "shift_90": -0.0208333333333333,
+                                    "shift_365": 0.0804597701149425,
+                                    "high": 4.98,
+                                    "average": 0.94,
+                                    "shift": 0.032967032967033
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Effect"
+            },
+            {
+                "name": "Memory Crusher",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN029",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0610687022900763,
+                                    "shift_7": 0.00819672131147541,
+                                    "shift_30": 0.0165289256198347,
+                                    "shift_21": 0.025,
+                                    "low": 1.17,
+                                    "updated_at": "2018-09-19 11:20:54 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.160377358490566,
+                                    "shift_365": -0.0538461538461538,
+                                    "high": 21.23,
+                                    "average": 1.23,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Effect"
+            },
+            {
+                "name": "Miracle Kids",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN050",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.102803738317757,
+                                    "shift_7": 0.0105263157894737,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0105263157894737,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 01:27:00 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.032258064516129,
+                                    "shift_365": 0.0105263157894737,
+                                    "high": 5.06,
+                                    "average": 0.96,
+                                    "shift": -0.0103092783505155
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Next to be Lost",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN054",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0112359550561798,
+                                    "shift_21": 0.0232558139534884,
+                                    "low": 0.62,
+                                    "updated_at": "2018-09-18 21:15:07 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0112359550561798,
+                                    "shift_365": -0.0222222222222222,
+                                    "high": 5.23,
+                                    "average": 0.88,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Option Hunter",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN058",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0642201834862385,
+                                    "shift_7": -0.392857142857143,
+                                    "shift_30": 0.0303030303030303,
+                                    "shift_21": 0.02,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 21:27:34 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0736842105263158,
+                                    "shift_365": 0.0515463917525773,
+                                    "high": 6.35,
+                                    "average": 1.02,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Option Hunter",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN058",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.00952380952380952,
+                                    "shift_7": 0.0192307692307692,
+                                    "shift_30": 0.0495049504950495,
+                                    "shift_21": 0.0707070707070707,
+                                    "low": 1.99,
+                                    "updated_at": "2018-09-18 21:27:41 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.045045045045045,
+                                    "shift_365": -0.0363636363636364,
+                                    "high": 20.43,
+                                    "average": 1.06,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Parasitic Ticky",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN018",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.148148148148148,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0515463917525773,
+                                    "shift_21": -0.0416666666666667,
+                                    "low": 0.92,
+                                    "updated_at": "2018-09-19 12:03:44 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0212765957446809,
+                                    "shift_365": 0.0574712643678161,
+                                    "high": 3.93,
+                                    "average": 0.92,
+                                    "shift": -0.010752688172043
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Insect / Effect"
+            },
+            {
+                "name": "Phantasmal Martyrs",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN041",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.029126213592233,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 19:45:44 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.029126213592233,
+                                    "shift_365": 0.0309278350515464,
+                                    "high": 12.67,
+                                    "average": 1.0,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Phantasmal Martyrs",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN041",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.202614379084967,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.178451178451178,
+                                    "shift_21": -0.161512027491409,
+                                    "low": 2.24,
+                                    "updated_at": "2018-09-18 19:45:57 -0600",
+                                    "shift_3": -0.102941176470588,
+                                    "shift_90": -0.149825783972125,
+                                    "shift_365": 0.0427350427350427,
+                                    "high": 49.99,
+                                    "average": 2.44,
+                                    "shift": -0.0996309963099631
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Photon Generator Unit",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN045",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0631578947368421,
+                                    "shift_7": 0.0113636363636364,
+                                    "shift_30": -0.0531914893617021,
+                                    "shift_21": 0.0229885057471264,
+                                    "low": 0.71,
+                                    "updated_at": "2018-09-19 10:12:17 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0111111111111111,
+                                    "shift_365": -0.160377358490566,
+                                    "high": 5.79,
+                                    "average": 0.89,
+                                    "shift": 0.0229885057471264
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Princess Curran",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN028",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0909090909090909,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.61,
+                                    "updated_at": "2018-09-19 12:10:20 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.914893617021277,
+                                    "shift_365": 0.0344827586206897,
+                                    "high": 7.67,
+                                    "average": 0.9,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Princess Curran",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN028",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.18518518518519,
+                                    "shift_7": 0.200312989045383,
+                                    "shift_30": 0.202194357366771,
+                                    "shift_21": 0.0449591280653951,
+                                    "low": 3.68,
+                                    "updated_at": "2018-09-19 12:10:36 -0600",
+                                    "shift_3": -0.0115979381443299,
+                                    "shift_90": 0.280467445742905,
+                                    "shift_365": 0.693156732891832,
+                                    "high": 49.95,
+                                    "average": 7.67,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Princess Pikeru",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN027",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.114285714285714,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.021978021978022,
+                                    "shift_21": 0.021978021978022,
+                                    "low": 0.62,
+                                    "updated_at": "2018-09-19 12:10:18 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.03125,
+                                    "shift_365": -0.0210526315789474,
+                                    "high": 14.49,
+                                    "average": 0.93,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Princess Pikeru",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN027",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 2.00778210116732,
+                                    "shift_7": 0.196594427244582,
+                                    "shift_30": 0.0197889182058048,
+                                    "shift_21": 0.0403768506056528,
+                                    "low": 1.85,
+                                    "updated_at": "2018-09-19 12:10:35 -0600",
+                                    "shift_3": 0.353765323992995,
+                                    "shift_90": -0.028894472361809,
+                                    "shift_365": 2.98453608247423,
+                                    "high": 36.04,
+                                    "average": 7.73,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Proto-Cyber Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN010",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.88636363636364,
+                                    "shift_7": 0.032520325203252,
+                                    "shift_30": 1.91954022988506,
+                                    "shift_21": 0.016,
+                                    "low": 0.56,
+                                    "updated_at": "2018-09-19 12:10:58 -0600",
+                                    "shift_3": 0.00793650793650794,
+                                    "shift_90": 0.154545454545455,
+                                    "shift_365": 0.435028248587571,
+                                    "high": 28.65,
+                                    "average": 2.54,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Proto-Cyber Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN010",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.494117647058824,
+                                    "shift_7": -0.165845648604269,
+                                    "shift_30": -0.664021164021164,
+                                    "shift_21": -0.173983739837398,
+                                    "low": 3.99,
+                                    "updated_at": "2018-09-19 12:11:10 -0600",
+                                    "shift_3": -0.0078125,
+                                    "shift_90": 0.215311004784689,
+                                    "shift_365": 0.553516819571865,
+                                    "high": 47.18,
+                                    "average": 5.08,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Raviel, Lord of Phantasms",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN003",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.245614035087719,
+                                    "shift_7": -0.0169230769230769,
+                                    "shift_30": -0.0184331797235023,
+                                    "shift_21": -0.0184331797235023,
+                                    "low": 2.99,
+                                    "updated_at": "2018-09-19 11:42:53 -0600",
+                                    "shift_3": 0.0207667731629393,
+                                    "shift_90": 0.0830508474576271,
+                                    "shift_365": 0.435955056179775,
+                                    "high": 253.98,
+                                    "average": 6.39,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Effect"
+            },
+            {
+                "name": "Raviel, Lord of Phantasms",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN003",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.718348871774085,
+                                    "shift_7": 0.821319353429445,
+                                    "shift_30": 0.687854251012146,
+                                    "shift_21": -0.0329389932730225,
+                                    "low": 68.48,
+                                    "updated_at": "2018-09-19 08:23:55 -0600",
+                                    "shift_3": 0.016581321628871,
+                                    "shift_90": -0.203325052551118,
+                                    "shift_365": 0.263716277659897,
+                                    "high": 999.95,
+                                    "average": 41.69,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Effect"
+            },
+            {
+                "name": "Ruin, Queen of Oblivion",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN034",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.30174081237911,
+                                    "shift_7": -0.032171581769437,
+                                    "shift_30": -0.0918238993710692,
+                                    "shift_21": -0.128019323671498,
+                                    "low": 4.95,
+                                    "updated_at": "2018-09-19 11:27:24 -0600",
+                                    "shift_3": -0.0190217391304348,
+                                    "shift_90": 0.153354632587859,
+                                    "shift_365": 1.56939501779359,
+                                    "high": 52.07,
+                                    "average": 7.22,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Ritual"
+            },
+            {
+                "name": "Ruin, Queen of Oblivion",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN034",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.319284802043423,
+                                    "shift_7": 0.0107458912768647,
+                                    "shift_30": -0.105704697986577,
+                                    "shift_21": -0.0888888888888889,
+                                    "low": 9.74,
+                                    "updated_at": "2018-09-19 11:27:25 -0600",
+                                    "shift_3": -0.0202205882352941,
+                                    "shift_90": -0.144919786096257,
+                                    "shift_365": 0.29788961038961,
+                                    "high": 74.99,
+                                    "average": 15.99,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Ritual"
+            },
+            {
+                "name": "Saber Beetle",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN023",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0740740740740741,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.029126213592233,
+                                    "shift_21": -0.029126213592233,
+                                    "low": 0.92,
+                                    "updated_at": "2018-09-18 22:14:23 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0309278350515464,
+                                    "high": 18.28,
+                                    "average": 1.0,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Insect / Effect"
+            },
+            {
+                "name": "Samsara",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN048",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.172043010752688,
+                                    "shift_7": -0.00909090909090909,
+                                    "shift_30": 0.135416666666667,
+                                    "shift_21": 0.09,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 06:01:48 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.135416666666667,
+                                    "shift_365": 0.172043010752688,
+                                    "high": 4.47,
+                                    "average": 1.09,
+                                    "shift": -0.043859649122807
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Sand Moth",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN032",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0108695652173913,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.92,
+                                    "updated_at": "2018-09-19 01:17:39 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0210526315789474,
+                                    "shift_365": -0.0606060606060606,
+                                    "high": 5.23,
+                                    "average": 0.93,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Rock / Effect"
+            },
+            {
+                "name": "Silent Insect",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN020",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": 0.032967032967033,
+                                    "shift_30": -0.0105263157894737,
+                                    "shift_21": -0.0105263157894737,
+                                    "low": 0.53,
+                                    "updated_at": "2018-09-18 22:20:19 -0600",
+                                    "shift_3": 0.010752688172043,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0217391304347826,
+                                    "high": 5.22,
+                                    "average": 0.94,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Insect / Effect"
+            },
+            {
+                "name": "Success Probability 0%",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN057",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.043956043956044,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0106382978723404,
+                                    "shift_21": 0.0106382978723404,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 20:48:34 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0106382978723404,
+                                    "shift_365": -0.538834951456311,
+                                    "high": 5.23,
+                                    "average": 0.95,
+                                    "shift": -0.0104166666666667
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Super Junior Confrontation",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN049",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.876404494382023,
+                                    "shift_7": 0.00602409638554217,
+                                    "shift_30": 0.0182926829268293,
+                                    "shift_21": 0.0121212121212121,
+                                    "low": 0.35,
+                                    "updated_at": "2018-09-18 20:48:34 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.532110091743119,
+                                    "high": 4.27,
+                                    "average": 1.67,
+                                    "shift": -0.0118343195266272
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Symbol of Heritage",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN043",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0227272727272727,
+                                    "shift_7": -0.010989010989011,
+                                    "shift_30": 0.0112359550561798,
+                                    "shift_21": 0.0227272727272727,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 19:56:46 -0600",
+                                    "shift_3": -0.010989010989011,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.150943396226415,
+                                    "high": 18.28,
+                                    "average": 0.9,
+                                    "shift": -0.010989010989011
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Tenkabito Shien",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN017",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": 0.0444444444444444,
+                                    "shift_30": 0.032967032967033,
+                                    "shift_21": 0.0444444444444444,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 11:21:10 -0600",
+                                    "shift_3": 0.0217391304347826,
+                                    "shift_90": -0.0208333333333333,
+                                    "shift_365": -0.510416666666667,
+                                    "high": 4.47,
+                                    "average": 0.94,
+                                    "shift": 0.010752688172043
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Pyro / Effect"
+            },
+            {
+                "name": "Treeborn Frog",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN025",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.03,
+                                    "shift_7": -0.03,
+                                    "shift_30": 0.0319148936170213,
+                                    "shift_21": 0.0104166666666667,
+                                    "low": 0.64,
+                                    "updated_at": "2018-09-19 11:38:05 -0600",
+                                    "shift_3": 0.0210526315789474,
+                                    "shift_90": 0.0319148936170213,
+                                    "shift_365": 0.0,
+                                    "high": 19.07,
+                                    "average": 0.97,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Aqua / Effect"
+            },
+            {
+                "name": "Treeborn Frog",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN025",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.15546218487395,
+                                    "shift_7": 0.0343053173241852,
+                                    "shift_30": -0.161335187760779,
+                                    "shift_21": -0.041335453100159,
+                                    "low": 4.0,
+                                    "updated_at": "2018-09-19 11:38:19 -0600",
+                                    "shift_3": 0.0396551724137931,
+                                    "shift_90": -0.0918674698795181,
+                                    "shift_365": -0.261029411764706,
+                                    "high": 22.22,
+                                    "average": 6.03,
+                                    "shift": 0.0360824742268041
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Aqua / Effect"
+            },
+            {
+                "name": "Trial of the Princesses",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN044",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0106382978723404,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0106382978723404,
+                                    "shift_21": 0.0106382978723404,
+                                    "low": 0.9,
+                                    "updated_at": "2018-09-18 20:13:16 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0106382978723404,
+                                    "shift_365": 0.0326086956521739,
+                                    "high": 5.23,
+                                    "average": 0.95,
+                                    "shift": -0.0104166666666667
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Uria, Lord of Searing Flames",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN001",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.481717011128776,
+                                    "shift_7": 0.761814744801512,
+                                    "shift_30": 0.74859287054409,
+                                    "shift_21": 0.74859287054409,
+                                    "low": 3.27,
+                                    "updated_at": "2018-09-19 09:40:01 -0600",
+                                    "shift_3": 0.742056074766355,
+                                    "shift_90": 0.852882703777336,
+                                    "shift_365": 0.576988155668359,
+                                    "high": 69.99,
+                                    "average": 9.32,
+                                    "shift": 0.738805970149254
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Pyro / Effect"
+            },
+            {
+                "name": "Uria, Lord of Searing Flames",
+                "numbers": [
+                    {
+                        "print_tag": "SOI-EN001",
+                        "name": "Shadow of Infinity",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.644862649870997,
+                                    "shift_7": 7.8135593220339,
+                                    "shift_30": 7.65064695009242,
+                                    "shift_21": 7.78048780487805,
+                                    "low": 3.86,
+                                    "updated_at": "2018-09-19 09:40:02 -0600",
+                                    "shift_3": 0.109793692198245,
+                                    "shift_90": 9.88372093023256,
+                                    "shift_365": 11.093023255814,
+                                    "high": 176.72,
+                                    "average": 46.8,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Pyro / Effect"
+            }
+        ],
+        "highest": 3511.4099999999994,
+        "average": 374.7699999999999,
+        "tcg_booster_values": {
+            "average": 5.87,
+            "low": 3.42,
+            "high": 79.68
+        },
+        "lowest": 294.52000000000015
+    },
+    "status": "success"
+}

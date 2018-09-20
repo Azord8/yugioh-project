@@ -1,0 +1,3765 @@
+{
+    "data": {
+        "rarities": {
+            "Short Print": 4,
+            "Super Rare": 14,
+            "Secret Rare": 7,
+            "Ultimate Rare": 10,
+            "Common": 44,
+            "Ultra Rare": 10,
+            "Ghost Rare": 1,
+            "Rare": 20
+        },
+        "cards": [
+            {
+                "name": "Alien Ammonite",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN039",
+                        "name": "Crimson Crisis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.267515923566879,
+                                    "shift_7": 0.0153061224489796,
+                                    "shift_30": 0.0101522842639594,
+                                    "shift_21": -0.005,
+                                    "low": 1.66,
+                                    "updated_at": "2018-09-18 21:36:41 -0600",
+                                    "shift_3": -0.005,
+                                    "shift_90": 0.18452380952381,
+                                    "shift_365": 0.0994475138121547,
+                                    "high": 21.15,
+                                    "average": 1.99,
+                                    "shift": 0.0101522842639594
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Reptile / Tuner"
+            },
+            {
+                "name": "Alien Kid",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN084",
+                        "name": "Crimson Crisis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.153086419753086,
+                                    "shift_7": -0.0351239669421488,
+                                    "shift_30": 0.0589569160997732,
+                                    "shift_21": 0.0263736263736264,
+                                    "low": 3.0,
+                                    "updated_at": "2018-09-19 06:38:12 -0600",
+                                    "shift_3": 0.0400890868596882,
+                                    "shift_90": 0.293628808864266,
+                                    "shift_365": 0.170426065162907,
+                                    "high": 11.99,
+                                    "average": 4.67,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Reptile / Effect"
+            },
+            {
+                "name": "Alien Overlord",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN038",
+                        "name": "Crimson Crisis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0551181102362205,
+                                    "shift_7": 0.0983606557377049,
+                                    "shift_30": 0.0983606557377049,
+                                    "shift_21": 0.072,
+                                    "low": 1.0,
+                                    "updated_at": "2018-09-07 08:51:41 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.046875,
+                                    "shift_365": 0.107438016528926,
+                                    "high": 20.51,
+                                    "average": 1.34,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Reptile / Effect"
+            },
+            {
+                "name": "Arcane Apprentice",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN022",
+                        "name": "Crimson Crisis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.244604316546763,
+                                    "shift_7": -0.166666666666667,
+                                    "shift_30": -0.132231404958678,
+                                    "shift_21": -0.125,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 09:54:53 -0600",
+                                    "shift_3": 0.0294117647058824,
+                                    "shift_90": -0.166666666666667,
+                                    "shift_365": -0.280821917808219,
+                                    "high": 3.73,
+                                    "average": 1.05,
+                                    "shift": -0.00943396226415094
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Tuner"
+            },
+            {
+                "name": "Arcane Barrier",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN061",
+                        "name": "Crimson Crisis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0593220338983051,
+                                    "shift_7": 0.13265306122449,
+                                    "shift_30": 0.0673076923076923,
+                                    "shift_21": 0.11,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-18 20:16:54 -0600",
+                                    "shift_3": 0.0673076923076923,
+                                    "shift_90": 0.0776699029126214,
+                                    "shift_365": -0.223776223776224,
+                                    "high": 7.01,
+                                    "average": 1.11,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Arcanite Magician",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN043",
+                        "name": "Crimson Crisis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.113793103448276,
+                                    "shift_7": 0.0221518987341772,
+                                    "shift_30": 0.0253968253968254,
+                                    "shift_21": 0.0286624203821656,
+                                    "low": 1.87,
+                                    "updated_at": "2018-09-19 10:16:31 -0600",
+                                    "shift_3": 0.0157232704402516,
+                                    "shift_90": 0.242307692307692,
+                                    "shift_365": 0.247104247104247,
+                                    "high": 15.31,
+                                    "average": 3.23,
+                                    "shift": -0.00615384615384615
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Synchro"
+            },
+            {
+                "name": "Arcanite Magician/Assault Mode",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN021",
+                        "name": "Crimson Crisis",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.121076233183857,
+                                    "shift_7": 0.0181818181818182,
+                                    "shift_30": -0.130820399113082,
+                                    "shift_21": -0.125,
+                                    "low": 4.19,
+                                    "updated_at": "2018-09-18 20:38:22 -0600",
+                                    "shift_3": -0.0050761421319797,
+                                    "shift_90": -0.134657836644592,
+                                    "shift_365": -0.128888888888889,
+                                    "high": 21.87,
+                                    "average": 3.92,
+                                    "shift": -0.0050761421319797
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Arcanite Magician/Assault Mode",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN021",
+                        "name": "Crimson Crisis",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0815939278937381,
+                                    "shift_7": 0.359550561797753,
+                                    "shift_30": 0.186274509803922,
+                                    "shift_21": 0.326027397260274,
+                                    "low": 3.09,
+                                    "updated_at": "2018-09-18 20:38:24 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.171912832929782,
+                                    "shift_365": 0.0544662309368192,
+                                    "high": 27.05,
+                                    "average": 4.85,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Armoroid",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN099",
+                        "name": "Crimson Crisis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.142857142857143,
+                                    "shift_7": 0.02,
+                                    "shift_30": 0.0515463917525773,
+                                    "shift_21": 0.0625,
+                                    "low": 0.68,
+                                    "updated_at": "2018-09-18 21:42:54 -0600",
+                                    "shift_3": 0.02,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.0555555555555556,
+                                    "high": 5.19,
+                                    "average": 1.02,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Assault Armor",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN092",
+                        "name": "Crimson Crisis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0776699029126214,
+                                    "shift_7": -0.0104166666666667,
+                                    "shift_30": -0.0104166666666667,
+                                    "shift_21": -0.0104166666666667,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 00:43:39 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0404040404040404,
+                                    "shift_365": -0.0104166666666667,
+                                    "high": 1.29,
+                                    "average": 0.95,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Assault Beast",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN024",
+                        "name": "Crimson Crisis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.198675496688742,
+                                    "shift_7": -0.00819672131147541,
+                                    "shift_30": 0.00833333333333333,
+                                    "shift_21": 0.0521739130434783,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 20:38:22 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0692307692307692,
+                                    "shift_365": -0.275449101796407,
+                                    "high": 19.0,
+                                    "average": 1.21,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Beast-Warrior / Effect"
+            },
+            {
+                "name": "Assault Counter",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN075",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0357142857142857,
+                                    "shift_7": -0.0121951219512195,
+                                    "shift_30": -0.0121951219512195,
+                                    "shift_21": 0.0,
+                                    "low": 0.42,
+                                    "updated_at": "2018-09-19 02:01:50 -0600",
+                                    "shift_3": -0.0121951219512195,
+                                    "shift_90": -0.0357142857142857,
+                                    "shift_365": -0.0470588235294118,
+                                    "high": 3.88,
+                                    "average": 0.81,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Counter",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Assault Mercenary",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN023",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0625,
+                                    "shift_7": 0.0135135135135135,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0135135135135135,
+                                    "low": 0.42,
+                                    "updated_at": "2018-09-18 21:44:16 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.0625,
+                                    "high": 4.99,
+                                    "average": 0.75,
+                                    "shift": -0.0131578947368421
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Assault Mode Activate",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN063",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0505050505050505,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0105263157894737,
+                                    "shift_21": 0.010752688172043,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 09:55:17 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0505050505050505,
+                                    "shift_365": -0.393548387096774,
+                                    "high": 2.99,
+                                    "average": 0.94,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Assault Overload",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN051",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0256410256410256,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.027027027027027,
+                                    "shift_21": 0.0133333333333333,
+                                    "low": 0.42,
+                                    "updated_at": "2018-09-18 20:17:14 -0600",
+                                    "shift_3": 0.027027027027027,
+                                    "shift_90": 0.0410958904109589,
+                                    "shift_365": -0.0731707317073171,
+                                    "high": 3.03,
+                                    "average": 0.76,
+                                    "shift": 0.0555555555555556
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Assault Revival",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN053",
+                        "name": "Crimson Crisis",
+                        "rarity": "Short Print",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0449438202247191,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 04:23:14 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.0340909090909091,
+                                    "high": 6.49,
+                                    "average": 0.85,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Assault Slash",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN074",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0595238095238095,
+                                    "shift_7": 0.025974025974026,
+                                    "shift_30": 0.025974025974026,
+                                    "shift_21": 0.025974025974026,
+                                    "low": 0.47,
+                                    "updated_at": "2018-09-18 20:38:27 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0128205128205128,
+                                    "shift_365": -0.0365853658536585,
+                                    "high": 3.99,
+                                    "average": 0.79,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Assault Teleport",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN052",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0625,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0112359550561798,
+                                    "shift_21": 0.0227272727272727,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 20:17:15 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.010989010989011,
+                                    "shift_365": -0.189189189189189,
+                                    "high": 3.99,
+                                    "average": 0.9,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "B.E.S. Big Core MK-2",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN030",
+                        "name": "Crimson Crisis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.169811320754717,
+                                    "shift_7": -0.0149253731343284,
+                                    "shift_30": -0.125827814569536,
+                                    "shift_21": -0.0294117647058824,
+                                    "low": 0.19,
+                                    "updated_at": "2018-09-19 09:25:07 -0600",
+                                    "shift_3": 0.03125,
+                                    "shift_90": -0.0503597122302158,
+                                    "shift_365": -0.463414634146341,
+                                    "high": 8.98,
+                                    "average": 1.32,
+                                    "shift": 0.00763358778625954
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Bee List Soldier",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN036",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0232558139534884,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0344827586206897,
+                                    "shift_21": -0.0454545454545455,
+                                    "low": 0.42,
+                                    "updated_at": "2018-09-19 06:24:53 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0232558139534884,
+                                    "shift_365": 0.0769230769230769,
+                                    "high": 3.08,
+                                    "average": 0.84,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Insect / Effect"
+            },
+            {
+                "name": "Black Salvo",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN015",
+                        "name": "Crimson Crisis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0595238095238095,
+                                    "shift_7": -0.0273224043715847,
+                                    "shift_30": -0.11,
+                                    "shift_21": -0.043010752688172,
+                                    "low": 2.02,
+                                    "updated_at": "2018-09-19 09:53:32 -0600",
+                                    "shift_3": -0.0273224043715847,
+                                    "shift_90": -0.077720207253886,
+                                    "shift_365": 0.280575539568345,
+                                    "high": 20.51,
+                                    "average": 1.78,
+                                    "shift": -0.0871794871794872
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Tuner"
+            },
+            {
+                "name": "Blackwing - Bora the Spear",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN009",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.01282051282051,
+                                    "shift_7": -0.0426829268292683,
+                                    "shift_30": 0.276422764227642,
+                                    "shift_21": 0.292181069958848,
+                                    "low": 1.72,
+                                    "updated_at": "2018-09-19 08:01:00 -0600",
+                                    "shift_3": -0.0426829268292683,
+                                    "shift_90": 0.688172043010753,
+                                    "shift_365": 0.804597701149425,
+                                    "high": 21.26,
+                                    "average": 3.14,
+                                    "shift": -0.0682492581602374
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Winged Beast / Effect"
+            },
+            {
+                "name": "Blackwing - Gale the Whirlwind",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN008",
+                        "name": "Crimson Crisis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.223021582733813,
+                                    "shift_7": 0.0119047619047619,
+                                    "shift_30": 0.0240963855421687,
+                                    "shift_21": 0.0365853658536585,
+                                    "low": 1.65,
+                                    "updated_at": "2018-09-19 11:49:07 -0600",
+                                    "shift_3": 0.0240963855421687,
+                                    "shift_90": 0.0179640718562874,
+                                    "shift_365": 0.118421052631579,
+                                    "high": 6.66,
+                                    "average": 1.7,
+                                    "shift": 0.0240963855421687
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Winged Beast / Tuner"
+            },
+            {
+                "name": "Blackwing - Sirocco the Dawn",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN010",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.25,
+                                    "shift_7": -0.00900900900900901,
+                                    "shift_30": 0.170212765957447,
+                                    "shift_21": 0.182795698924731,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 10:56:15 -0600",
+                                    "shift_3": 0.00917431192660551,
+                                    "shift_90": 0.264367816091954,
+                                    "shift_365": -0.0434782608695652,
+                                    "high": 19.74,
+                                    "average": 1.1,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Winged Beast / Effect"
+            },
+            {
+                "name": "Blackwing Armor Master",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN041",
+                        "name": "Crimson Crisis",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0775510204081633,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.117056856187291,
+                                    "shift_21": -0.0958904109589041,
+                                    "low": 2.75,
+                                    "updated_at": "2018-09-19 09:23:42 -0600",
+                                    "shift_3": 0.0114942528735632,
+                                    "shift_90": -0.0896551724137931,
+                                    "shift_365": 0.245283018867925,
+                                    "high": 17.85,
+                                    "average": 2.64,
+                                    "shift": 0.0114942528735632
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Winged Beast / Synchro"
+            },
+            {
+                "name": "Blackwing Armor Master",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN041",
+                        "name": "Crimson Crisis",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 2.23101265822785,
+                                    "shift_7": -0.0116166505324298,
+                                    "shift_30": 0.056935817805383,
+                                    "shift_21": -0.0684306569343066,
+                                    "low": 10.5,
+                                    "updated_at": "2018-09-19 09:23:43 -0600",
+                                    "shift_3": 0.00196270853778214,
+                                    "shift_90": 0.107375271149675,
+                                    "shift_365": 1.83611111111111,
+                                    "high": 33.97,
+                                    "average": 10.21,
+                                    "shift": 0.00196270853778214
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Winged Beast / Synchro"
+            },
+            {
+                "name": "Bone Crusher",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN083",
+                        "name": "Crimson Crisis",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.232876712328767,
+                                    "shift_7": 0.0181818181818182,
+                                    "shift_30": 0.0275229357798165,
+                                    "shift_21": 0.00900900900900901,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 21:34:52 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0588235294117647,
+                                    "shift_365": -0.111111111111111,
+                                    "high": 15.05,
+                                    "average": 1.13,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Zombie / Effect"
+            },
+            {
+                "name": "Bone Crusher",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN083",
+                        "name": "Crimson Crisis",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0797101449275362,
+                                    "shift_7": 0.016,
+                                    "shift_30": -0.0451127819548872,
+                                    "shift_21": 0.0672268907563025,
+                                    "low": 1.68,
+                                    "updated_at": "2018-09-18 21:35:05 -0600",
+                                    "shift_3": 0.00793650793650794,
+                                    "shift_90": 0.016,
+                                    "shift_365": -0.147651006711409,
+                                    "high": 20.43,
+                                    "average": 1.27,
+                                    "shift": 0.00793650793650794
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Zombie / Effect"
+            },
+            {
+                "name": "Code A Ancient Ruins",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN088",
+                        "name": "Crimson Crisis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.334246575342466,
+                                    "shift_7": -0.0469667318982387,
+                                    "shift_30": 0.284960422163588,
+                                    "shift_21": -0.00204918032786885,
+                                    "low": 3.5,
+                                    "updated_at": "2018-09-18 20:01:46 -0600",
+                                    "shift_3": -0.0121703853955375,
+                                    "shift_90": 0.371830985915493,
+                                    "shift_365": 0.202469135802469,
+                                    "high": 20.33,
+                                    "average": 4.87,
+                                    "shift": 0.27154046997389
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Colossal Fighter/Assault Mode",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN000",
+                        "name": "Crimson Crisis",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.280120481927711,
+                                    "shift_7": 0.00420168067226891,
+                                    "shift_30": 0.00420168067226891,
+                                    "shift_21": 0.00420168067226891,
+                                    "low": 2.3,
+                                    "updated_at": "2018-09-19 11:29:15 -0600",
+                                    "shift_3": 0.00420168067226891,
+                                    "shift_90": -0.205980066445183,
+                                    "shift_365": 0.17156862745098,
+                                    "high": 21.03,
+                                    "average": 2.39,
+                                    "shift": 0.00420168067226891
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Cosmic Fortress Gol'gar",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN044",
+                        "name": "Crimson Crisis",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.108231707317073,
+                                    "shift_7": -0.0456769983686786,
+                                    "shift_30": 0.0446428571428571,
+                                    "shift_21": 0.0227272727272727,
+                                    "low": 4.99,
+                                    "updated_at": "2018-09-18 22:51:06 -0600",
+                                    "shift_3": -0.0151515151515152,
+                                    "shift_90": -0.0743670886075949,
+                                    "shift_365": -0.143484626647145,
+                                    "high": 34.48,
+                                    "average": 5.85,
+                                    "shift": -0.0134907251264755
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Reptile / Synchro"
+            },
+            {
+                "name": "Cosmic Fortress Gol'gar",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN044",
+                        "name": "Crimson Crisis",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.31344696969697,
+                                    "shift_7": -0.0136054421768707,
+                                    "shift_30": -0.0176151761517615,
+                                    "shift_21": -0.00820793433652531,
+                                    "low": 6.0,
+                                    "updated_at": "2018-09-18 22:51:27 -0600",
+                                    "shift_3": -0.00137741046831956,
+                                    "shift_90": -0.261710794297352,
+                                    "shift_365": 0.100151745068285,
+                                    "high": 15.0,
+                                    "average": 7.25,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Reptile / Synchro"
+            },
+            {
+                "name": "Cross-Sword Beetle",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN035",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0246913580246914,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0125,
+                                    "shift_21": 0.0,
+                                    "low": 0.42,
+                                    "updated_at": "2018-09-18 22:51:40 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0125,
+                                    "shift_365": -0.0365853658536585,
+                                    "high": 4.81,
+                                    "average": 0.79,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Insect / Effect"
+            },
+            {
+                "name": "Dark Strike Fighter",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN040",
+                        "name": "Crimson Crisis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.723021582733813,
+                                    "shift_7": -0.0342741935483871,
+                                    "shift_30": -0.138489208633094,
+                                    "shift_21": -0.0910815939278937,
+                                    "low": 4.08,
+                                    "updated_at": "2018-09-19 10:11:01 -0600",
+                                    "shift_3": 0.00630252100840336,
+                                    "shift_90": -0.324400564174894,
+                                    "shift_365": 1.395,
+                                    "high": 29.95,
+                                    "average": 4.79,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Synchro"
+            },
+            {
+                "name": "Dark Tinker",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN007",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0625,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.010989010989011,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:52:45 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0217391304347826,
+                                    "shift_365": -0.12621359223301,
+                                    "high": 6.74,
+                                    "average": 0.9,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Tuner"
+            },
+            {
+                "name": "Debris Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN002",
+                        "name": "Crimson Crisis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.16030534351145,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.00917431192660551,
+                                    "shift_21": 0.0185185185185185,
+                                    "low": 0.61,
+                                    "updated_at": "2018-09-19 07:27:06 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0677966101694915,
+                                    "shift_365": -0.511111111111111,
+                                    "high": 18.35,
+                                    "average": 1.1,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Tuner"
+            },
+            {
+                "name": "Descending Lost Star",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN065",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0760869565217391,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0365853658536585,
+                                    "shift_21": 0.0,
+                                    "low": 0.42,
+                                    "updated_at": "2018-09-19 05:59:28 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0119047619047619,
+                                    "shift_365": -0.0229885057471264,
+                                    "high": 3.08,
+                                    "average": 0.85,
+                                    "shift": 0.0240963855421687
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Desert Protector",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN034",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.42,
+                                    "updated_at": "2018-09-18 22:07:19 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0256410256410256,
+                                    "shift_365": -0.0588235294117647,
+                                    "high": 3.78,
+                                    "average": 0.8,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Insect / Effect"
+            },
+            {
+                "name": "Dimension Fortress Weapon",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN033",
+                        "name": "Crimson Crisis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0508474576271186,
+                                    "shift_7": -0.00884955752212389,
+                                    "shift_30": 0.0181818181818182,
+                                    "shift_21": 0.037037037037037,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 22:09:12 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.00884955752212389,
+                                    "shift_365": -0.138461538461538,
+                                    "high": 19.0,
+                                    "average": 1.13,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Doomkaiser Dragon/Assault Mode",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN019",
+                        "name": "Crimson Crisis",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0467289719626168,
+                                    "shift_7": -0.0427350427350427,
+                                    "shift_30": -0.377777777777778,
+                                    "shift_21": 0.0,
+                                    "low": 2.42,
+                                    "updated_at": "2018-09-18 22:10:52 -0600",
+                                    "shift_3": -0.00884955752212389,
+                                    "shift_90": 0.0275229357798165,
+                                    "shift_365": -0.138461538461538,
+                                    "high": 20.43,
+                                    "average": 1.13,
+                                    "shift": -0.00884955752212389
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Zombie / Effect"
+            },
+            {
+                "name": "Doomkaiser Dragon/Assault Mode",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN019",
+                        "name": "Crimson Crisis",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.00704225352112676,
+                                    "shift_7": -0.0205479452054795,
+                                    "shift_30": -0.0205479452054795,
+                                    "shift_21": -0.0205479452054795,
+                                    "low": 2.97,
+                                    "updated_at": "2018-09-18 22:11:08 -0600",
+                                    "shift_3": -0.0137931034482759,
+                                    "shift_90": -0.00694444444444444,
+                                    "shift_365": -0.00694444444444444,
+                                    "high": 19.71,
+                                    "average": 1.43,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Zombie / Effect"
+            },
+            {
+                "name": "Dupe Frog",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN028",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0702479338842975,
+                                    "shift_7": 0.142131979695431,
+                                    "shift_30": 0.125,
+                                    "shift_21": 0.171875,
+                                    "low": 1.06,
+                                    "updated_at": "2018-09-19 09:52:49 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.144486692015209,
+                                    "shift_365": 0.654411764705882,
+                                    "high": 19.07,
+                                    "average": 2.25,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Aqua / Effect"
+            },
+            {
+                "name": "Ebon Arrow",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN069",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0340909090909091,
+                                    "shift_7": -0.0116279069767442,
+                                    "shift_30": -0.0116279069767442,
+                                    "shift_21": -0.0116279069767442,
+                                    "low": 0.46,
+                                    "updated_at": "2018-09-19 00:50:36 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0116279069767442,
+                                    "shift_365": -0.0116279069767442,
+                                    "high": 3.08,
+                                    "average": 0.85,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Fake Explosion",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN071",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0689655172413793,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0121951219512195,
+                                    "shift_21": -0.0121951219512195,
+                                    "low": 0.44,
+                                    "updated_at": "2018-09-19 11:48:01 -0600",
+                                    "shift_3": -0.0121951219512195,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.0357142857142857,
+                                    "high": 4.81,
+                                    "average": 0.81,
+                                    "shift": -0.0121951219512195
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Flip Flop Frog",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN029",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.299270072992701,
+                                    "shift_7": -0.0303030303030303,
+                                    "shift_30": -0.0103092783505155,
+                                    "shift_21": -0.04,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 10:51:57 -0600",
+                                    "shift_3": -0.0103092783505155,
+                                    "shift_90": -0.102803738317757,
+                                    "shift_365": -0.451428571428571,
+                                    "high": 6.49,
+                                    "average": 0.96,
+                                    "shift": -0.0103092783505155
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Aqua / Effect"
+            },
+            {
+                "name": "Flying Fortress SKY FIRE",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN016",
+                        "name": "Crimson Crisis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0204081632653061,
+                                    "shift_7": -0.0196078431372549,
+                                    "shift_30": 0.0416666666666667,
+                                    "shift_21": 0.0416666666666667,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 11:10:34 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0526315789473684,
+                                    "shift_365": -0.0740740740740741,
+                                    "high": 19.07,
+                                    "average": 1.0,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Gladiator Beast Samnite",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN027",
+                        "name": "Crimson Crisis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0526315789473684,
+                                    "shift_7": 0.00840336134453781,
+                                    "shift_30": 0.0526315789473684,
+                                    "shift_21": 0.0526315789473684,
+                                    "low": 0.59,
+                                    "updated_at": "2018-09-19 11:49:09 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.224489795918367,
+                                    "shift_365": 0.2,
+                                    "high": 8.98,
+                                    "average": 1.2,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Beast / Effect"
+            },
+            {
+                "name": "Greed Quasar",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN098",
+                        "name": "Crimson Crisis",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.157142857142857,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0384615384615385,
+                                    "shift_21": 0.00247524752475248,
+                                    "low": 3.99,
+                                    "updated_at": "2018-09-18 21:57:39 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.157142857142857,
+                                    "shift_365": 0.345514950166113,
+                                    "high": 23.3,
+                                    "average": 4.06,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Effect"
+            },
+            {
+                "name": "Half or Nothing",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN067",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.101123595505618,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.42,
+                                    "updated_at": "2018-09-18 21:19:25 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0123456790123457,
+                                    "shift_365": -0.0123456790123457,
+                                    "high": 4.81,
+                                    "average": 0.8,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Hydra Viper",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN037",
+                        "name": "Crimson Crisis",
+                        "rarity": "Short Print",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0120481927710843,
+                                    "shift_7": -0.0120481927710843,
+                                    "shift_30": -0.0120481927710843,
+                                    "shift_21": -0.0120481927710843,
+                                    "low": 0.42,
+                                    "updated_at": "2018-09-18 19:33:45 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0352941176470588,
+                                    "shift_365": -0.0574712643678161,
+                                    "high": 6.49,
+                                    "average": 0.82,
+                                    "shift": -0.0120481927710843
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Reptile / Effect"
+            },
+            {
+                "name": "Hyper Psychic Blaster",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN042",
+                        "name": "Crimson Crisis",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0480349344978166,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.00909090909090909,
+                                    "shift_21": 0.0186915887850467,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-18 23:53:40 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0,
+                                    "high": 21.15,
+                                    "average": 2.18,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Psychic / Synchro"
+            },
+            {
+                "name": "Hyper Psychic Blaster",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN042",
+                        "name": "Crimson Crisis",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.186131386861314,
+                                    "shift_7": -0.0429184549356223,
+                                    "shift_30": -0.0708333333333333,
+                                    "shift_21": -0.0630252100840336,
+                                    "low": 2.51,
+                                    "updated_at": "2018-09-18 23:53:40 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.115079365079365,
+                                    "shift_365": -0.217543859649123,
+                                    "high": 27.61,
+                                    "average": 2.23,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Psychic / Synchro"
+            },
+            {
+                "name": "Hyper Psychic Blaster/Assault Mode",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN020",
+                        "name": "Crimson Crisis",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.010752688172043,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.010752688172043,
+                                    "shift_21": 0.010752688172043,
+                                    "low": 0.61,
+                                    "updated_at": "2018-09-19 01:31:37 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0,
+                                    "high": 19.07,
+                                    "average": 0.94,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Psychic / Effect"
+            },
+            {
+                "name": "Hyper Psychic Blaster/Assault Mode",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN020",
+                        "name": "Crimson Crisis",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.474576271186441,
+                                    "shift_7": -0.283236994219653,
+                                    "shift_30": -0.253012048192771,
+                                    "shift_21": -0.253012048192771,
+                                    "low": 1.81,
+                                    "updated_at": "2018-09-19 01:31:38 -0600",
+                                    "shift_3": -0.283236994219653,
+                                    "shift_90": -0.0814814814814815,
+                                    "shift_365": 0.0420168067226891,
+                                    "high": 32.33,
+                                    "average": 1.24,
+                                    "shift": -0.291428571428571
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Psychic / Effect"
+            },
+            {
+                "name": "Hyper Synchron",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN003",
+                        "name": "Crimson Crisis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.148936170212766,
+                                    "shift_7": 0.2,
+                                    "shift_30": 0.255813953488372,
+                                    "shift_21": 0.255813953488372,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 09:47:51 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.213483146067416,
+                                    "shift_365": 0.125,
+                                    "high": 8.98,
+                                    "average": 1.08,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Tuner"
+            },
+            {
+                "name": "Ido the Supreme Magical Force",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN096",
+                        "name": "Crimson Crisis",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.248722316865417,
+                                    "shift_7": -0.0134228187919463,
+                                    "shift_30": -0.0221729490022173,
+                                    "shift_21": -0.0454545454545455,
+                                    "low": 3.09,
+                                    "updated_at": "2018-09-19 11:02:30 -0600",
+                                    "shift_3": -0.00898876404494382,
+                                    "shift_90": -0.155172413793103,
+                                    "shift_365": 2.19565217391304,
+                                    "high": 21.95,
+                                    "average": 4.41,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Effect"
+            },
+            {
+                "name": "Indomitable Gladiator Beast",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN056",
+                        "name": "Crimson Crisis",
+                        "rarity": "Short Print",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.109004739336493,
+                                    "shift_7": 0.0053475935828877,
+                                    "shift_30": -0.06,
+                                    "shift_21": -0.0259067357512953,
+                                    "low": 1.34,
+                                    "updated_at": "2018-09-18 20:36:05 -0600",
+                                    "shift_3": 0.010752688172043,
+                                    "shift_90": 0.0561797752808989,
+                                    "shift_365": -0.113207547169811,
+                                    "high": 20.43,
+                                    "average": 1.88,
+                                    "shift": -0.00529100529100529
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Inmato",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN031",
+                        "name": "Crimson Crisis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.155555555555556,
+                                    "shift_7": 0.106382978723404,
+                                    "shift_30": 0.155555555555556,
+                                    "shift_21": 0.155555555555556,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-19 11:04:28 -0600",
+                                    "shift_3": 0.106382978723404,
+                                    "shift_90": 0.130434782608696,
+                                    "shift_365": 0.142857142857143,
+                                    "high": 4.98,
+                                    "average": 1.04,
+                                    "shift": 0.106382978723404
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Plant / Effect"
+            },
+            {
+                "name": "Ivy Shackles",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN070",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0574712643678161,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0123456790123457,
+                                    "shift_21": 0.0,
+                                    "low": 0.5,
+                                    "updated_at": "2018-09-19 04:03:49 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.601941747572815,
+                                    "high": 4.99,
+                                    "average": 0.82,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Lifeforce Harmonizer",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN026",
+                        "name": "Crimson Crisis",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.519417475728155,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-18 19:19:39 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.585774058577406,
+                                    "high": 15.83,
+                                    "average": 0.99,
+                                    "shift": -0.01
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Psychic / Effect"
+            },
+            {
+                "name": "Lifeforce Harmonizer",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN026",
+                        "name": "Crimson Crisis",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.00763358778625954,
+                                    "shift_7": -0.00763358778625954,
+                                    "shift_30": 0.00775193798449612,
+                                    "shift_21": 0.015625,
+                                    "low": 3.97,
+                                    "updated_at": "2018-09-18 19:19:50 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.5,
+                                    "shift_365": -0.0151515151515152,
+                                    "high": 17.27,
+                                    "average": 1.3,
+                                    "shift": -0.0225563909774436
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Psychic / Effect"
+            },
+            {
+                "name": "Makiu, the Magical Mist",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN091",
+                        "name": "Crimson Crisis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0606060606060606,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0108695652173913,
+                                    "shift_21": -0.0106382978723404,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-19 08:48:05 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 1.06666666666667,
+                                    "shift_365": -0.0210526315789474,
+                                    "high": 4.46,
+                                    "average": 0.93,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Metaphysical Regeneration",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN077",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0595238095238095,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.39,
+                                    "updated_at": "2018-09-18 20:58:58 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0125,
+                                    "shift_365": -0.0365853658536585,
+                                    "high": 2.94,
+                                    "average": 0.79,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Morphtronic Boarden",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN017",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0309278350515464,
+                                    "shift_7": -0.0105263157894737,
+                                    "shift_30": -0.0105263157894737,
+                                    "shift_21": 0.010752688172043,
+                                    "low": 0.64,
+                                    "updated_at": "2018-09-19 11:25:24 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0208333333333333,
+                                    "shift_365": -0.0505050505050505,
+                                    "high": 5.68,
+                                    "average": 0.94,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Morphtronic Forcefield",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN072",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.170212765957447,
+                                    "shift_7": -0.133858267716535,
+                                    "shift_30": 0.264367816091954,
+                                    "shift_21": 0.222222222222222,
+                                    "low": 0.5,
+                                    "updated_at": "2018-09-18 21:00:15 -0600",
+                                    "shift_3": -0.140625,
+                                    "shift_90": 0.25,
+                                    "shift_365": 0.222222222222222,
+                                    "high": 6.24,
+                                    "average": 1.1,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Counter",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Morphtronic Map",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN050",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.294117647058824,
+                                    "shift_7": 0.208791208791209,
+                                    "shift_30": 0.264367816091954,
+                                    "shift_21": 0.264367816091954,
+                                    "low": 0.35,
+                                    "updated_at": "2018-09-18 20:26:08 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.30952380952381,
+                                    "shift_365": 0.134020618556701,
+                                    "high": 1.19,
+                                    "average": 1.1,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Field",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Morphtronic Mix-up",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN073",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0120481927710843,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.024390243902439,
+                                    "shift_21": 0.037037037037037,
+                                    "low": 0.42,
+                                    "updated_at": "2018-09-18 21:00:23 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.037037037037037,
+                                    "high": 6.24,
+                                    "average": 0.84,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Morphtronic Rusty Engine",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN049",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.025,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0649350649350649,
+                                    "shift_21": 0.0379746835443038,
+                                    "low": 0.42,
+                                    "updated_at": "2018-09-18 20:26:20 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0649350649350649,
+                                    "shift_365": 0.0,
+                                    "high": 3.88,
+                                    "average": 0.82,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Morphtronic Slingen",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN018",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0340909090909091,
+                                    "shift_7": 0.0240963855421687,
+                                    "shift_30": 0.0493827160493827,
+                                    "shift_21": 0.0240963855421687,
+                                    "low": 0.5,
+                                    "updated_at": "2018-09-19 11:25:44 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0555555555555556,
+                                    "shift_365": 0.0,
+                                    "high": 4.81,
+                                    "average": 0.85,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Multiply",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN090",
+                        "name": "Crimson Crisis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.234567901234568,
+                                    "shift_7": 0.149425287356322,
+                                    "shift_30": 0.149425287356322,
+                                    "shift_21": 0.149425287356322,
+                                    "low": 2.49,
+                                    "updated_at": "2018-09-19 08:35:47 -0600",
+                                    "shift_3": 0.145038167938931,
+                                    "shift_90": 0.149425287356322,
+                                    "shift_365": 0.19047619047619,
+                                    "high": 26.28,
+                                    "average": 3.0,
+                                    "shift": 0.136363636363636
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Mysterious Triangle",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN062",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0549450549450549,
+                                    "shift_7": -0.04,
+                                    "shift_30": -0.0588235294117647,
+                                    "shift_21": -0.0204081632653061,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 20:26:51 -0600",
+                                    "shift_3": -0.0103092783505155,
+                                    "shift_90": -0.0103092783505155,
+                                    "shift_365": -0.111111111111111,
+                                    "high": 3.03,
+                                    "average": 0.96,
+                                    "shift": -0.0204081632653061
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Night Wing Sorceress",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN025",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0357142857142857,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0240963855421687,
+                                    "shift_21": 0.0,
+                                    "low": 0.42,
+                                    "updated_at": "2018-09-19 11:58:09 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0384615384615385,
+                                    "shift_365": -0.0357142857142857,
+                                    "high": 6.74,
+                                    "average": 0.81,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Nightmare Archfiends",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN068",
+                        "name": "Crimson Crisis",
+                        "rarity": "Short Print",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.192857142857143,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.018018018018018,
+                                    "shift_21": 0.0272727272727273,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 10:04:42 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0423728813559322,
+                                    "shift_365": -0.405263157894737,
+                                    "high": 19.07,
+                                    "average": 1.14,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Planet Pollutant Virus",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN080",
+                        "name": "Crimson Crisis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.151724137931034,
+                                    "shift_7": -0.121428571428571,
+                                    "shift_30": -0.157534246575342,
+                                    "shift_21": 0.0,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 20:46:06 -0600",
+                                    "shift_3": -0.115107913669065,
+                                    "shift_90": -0.108695652173913,
+                                    "shift_365": -0.433179723502304,
+                                    "high": 6.35,
+                                    "average": 1.23,
+                                    "shift": -0.168918918918919
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Prevention Star",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN045",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0365853658536585,
+                                    "shift_7": 0.0128205128205128,
+                                    "shift_30": 0.0128205128205128,
+                                    "shift_21": 0.0,
+                                    "low": 0.41,
+                                    "updated_at": "2018-09-19 06:48:52 -0600",
+                                    "shift_3": 0.0128205128205128,
+                                    "shift_90": -0.0125,
+                                    "shift_365": -0.0595238095238095,
+                                    "high": 4.81,
+                                    "average": 0.79,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Prime Material Falcon",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN082",
+                        "name": "Crimson Crisis",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0671641791044776,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.015748031496063,
+                                    "shift_21": -0.0384615384615385,
+                                    "low": 1.35,
+                                    "updated_at": "2018-09-18 19:06:20 -0600",
+                                    "shift_3": -0.00793650793650794,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.015748031496063,
+                                    "high": 21.58,
+                                    "average": 1.25,
+                                    "shift": 0.00806451612903226
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Winged Beast / Effect"
+            },
+            {
+                "name": "Psychic Sword",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN054",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0266666666666667,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.42,
+                                    "updated_at": "2018-09-19 10:02:37 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0131578947368421,
+                                    "shift_365": -0.0609756097560976,
+                                    "high": 4.81,
+                                    "average": 0.77,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Psychic Tuning",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN076",
+                        "name": "Crimson Crisis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0947368421052632,
+                                    "shift_7": 0.0612244897959184,
+                                    "shift_30": -0.0280373831775701,
+                                    "shift_21": 0.0612244897959184,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 21:19:10 -0600",
+                                    "shift_3": 0.0612244897959184,
+                                    "shift_90": -0.0188679245283019,
+                                    "shift_365": -0.5,
+                                    "high": 4.98,
+                                    "average": 1.04,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Puppet King",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN093",
+                        "name": "Crimson Crisis",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0163934426229508,
+                                    "shift_7": 0.00813008130081301,
+                                    "shift_30": 0.0,
+                                    "shift_21": -0.008,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 01:31:42 -0600",
+                                    "shift_3": 0.00813008130081301,
+                                    "shift_90": 0.148148148148148,
+                                    "shift_365": 0.0333333333333333,
+                                    "high": 19.07,
+                                    "average": 1.24,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Raptor Wing Strike",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN048",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0581395348837209,
+                                    "shift_7": 0.0125,
+                                    "shift_30": 0.0125,
+                                    "shift_21": 0.0125,
+                                    "low": 0.42,
+                                    "updated_at": "2018-09-18 19:40:05 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0125,
+                                    "shift_365": -0.0581395348837209,
+                                    "high": 3.03,
+                                    "average": 0.81,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Red Dragon Archfiend/Assault Mode",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN004",
+                        "name": "Crimson Crisis",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.193811074918567,
+                                    "shift_7": 0.0166435506241331,
+                                    "shift_30": 0.0309423347398031,
+                                    "shift_21": 0.0152354570637119,
+                                    "low": 5.39,
+                                    "updated_at": "2018-09-19 10:22:35 -0600",
+                                    "shift_3": 0.019471488178025,
+                                    "shift_90": -0.0455729166666667,
+                                    "shift_365": 0.182258064516129,
+                                    "high": 34.21,
+                                    "average": 7.33,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Effect"
+            },
+            {
+                "name": "Red Dragon Archfiend/Assault Mode",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN004",
+                        "name": "Crimson Crisis",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0112359550561798,
+                                    "shift_7": 0.0140845070422535,
+                                    "shift_30": -0.465478841870824,
+                                    "shift_21": -0.463886820551005,
+                                    "low": 6.99,
+                                    "updated_at": "2018-09-19 10:22:37 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.00826446280991736,
+                                    "shift_365": 0.487603305785124,
+                                    "high": 35.65,
+                                    "average": 7.2,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Effect"
+            },
+            {
+                "name": "Red Dragon Archfiend/Assault Mode",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN004",
+                        "name": "Crimson Crisis",
+                        "rarity": "Ghost Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.951076320939335,
+                                    "shift_7": 0.0842849374660141,
+                                    "shift_30": 0.750658472344161,
+                                    "shift_21": 0.329333333333333,
+                                    "low": 11.88,
+                                    "updated_at": "2018-09-19 10:22:38 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.385684503127172,
+                                    "shift_365": 1.15102481121899,
+                                    "high": 49.25,
+                                    "average": 19.94,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Effect"
+            },
+            {
+                "name": "Royal Swamp Eel",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN086",
+                        "name": "Crimson Crisis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.868571428571429,
+                                    "shift_7": 0.189090909090909,
+                                    "shift_30": 0.651515151515151,
+                                    "shift_21": 0.65989847715736,
+                                    "low": 3.49,
+                                    "updated_at": "2018-09-19 11:47:40 -0600",
+                                    "shift_3": 0.151408450704225,
+                                    "shift_90": 0.826815642458101,
+                                    "shift_365": 0.981818181818182,
+                                    "high": 20.51,
+                                    "average": 3.27,
+                                    "shift": 0.151408450704225
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fish / Tuner"
+            },
+            {
+                "name": "Scanner",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN032",
+                        "name": "Crimson Crisis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.072289156626506,
+                                    "shift_7": 0.0113636363636364,
+                                    "shift_30": 0.072289156626506,
+                                    "shift_21": 0.0987654320987654,
+                                    "low": 0.52,
+                                    "updated_at": "2018-09-19 11:22:10 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0853658536585366,
+                                    "shift_365": -0.0111111111111111,
+                                    "high": 4.99,
+                                    "average": 0.89,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Seed Cannon",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN057",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0786516853932584,
+                                    "shift_7": -0.0352941176470588,
+                                    "shift_30": -0.0238095238095238,
+                                    "shift_21": -0.0238095238095238,
+                                    "low": 0.42,
+                                    "updated_at": "2018-09-18 19:49:25 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0352941176470588,
+                                    "shift_365": 0.025,
+                                    "high": 4.81,
+                                    "average": 0.82,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Shining Silver Force",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN066",
+                        "name": "Crimson Crisis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0588235294117647,
+                                    "shift_7": -0.010989010989011,
+                                    "shift_30": -0.010989010989011,
+                                    "shift_21": -0.010989010989011,
+                                    "low": 0.49,
+                                    "updated_at": "2018-09-18 20:44:57 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.150943396226415,
+                                    "high": 16.29,
+                                    "average": 0.9,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Counter",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Six Scrolls of the Samurai",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN059",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0206185567010309,
+                                    "shift_7": -0.0104166666666667,
+                                    "shift_30": -0.0104166666666667,
+                                    "shift_21": -0.0104166666666667,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 19:50:47 -0600",
+                                    "shift_3": -0.0104166666666667,
+                                    "shift_90": 0.0106382978723404,
+                                    "shift_365": -0.05,
+                                    "high": 2.0,
+                                    "average": 0.95,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Spell Reactor\u30fbRE",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN014",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0561797752808989,
+                                    "shift_7": -0.0117647058823529,
+                                    "shift_30": 0.0120481927710843,
+                                    "shift_21": 0.0120481927710843,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 22:06:46 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.229357798165138,
+                                    "high": 1.29,
+                                    "average": 0.84,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Spirit Force",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN064",
+                        "name": "Crimson Crisis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.05,
+                                    "shift_7": 0.021505376344086,
+                                    "shift_30": 0.021505376344086,
+                                    "shift_21": 0.021505376344086,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-19 06:24:44 -0600",
+                                    "shift_3": 0.021505376344086,
+                                    "shift_90": 0.0674157303370786,
+                                    "shift_365": 0.0,
+                                    "high": 8.24,
+                                    "average": 0.95,
+                                    "shift": -0.0104166666666667
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Star Blast",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN047",
+                        "name": "Crimson Crisis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.342857142857143,
+                                    "shift_7": 0.010989010989011,
+                                    "shift_30": -0.010752688172043,
+                                    "shift_21": -0.0212765957446809,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-18 19:54:52 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0222222222222222,
+                                    "shift_365": 0.0454545454545455,
+                                    "high": 2.99,
+                                    "average": 0.92,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Submarine Frog",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN087",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0113636363636364,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.252100840336134,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 22:28:20 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.043010752688172,
+                                    "high": 19.0,
+                                    "average": 0.89,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Aqua / Effect"
+            },
+            {
+                "name": "Summon Reactor\u30fbSK",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN012",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0337078651685393,
+                                    "shift_7": -0.0114942528735632,
+                                    "shift_30": 0.0117647058823529,
+                                    "shift_21": 0.0117647058823529,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 22:28:54 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0337078651685393,
+                                    "shift_365": -0.11340206185567,
+                                    "high": 6.49,
+                                    "average": 0.86,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Super Solar Nutrient",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN058",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0240963855421687,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0121951219512195,
+                                    "shift_21": 0.0,
+                                    "low": 0.3,
+                                    "updated_at": "2018-09-19 00:17:06 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0795454545454545,
+                                    "shift_365": -0.0689655172413793,
+                                    "high": 1.2,
+                                    "average": 0.81,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Synchro Change",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN089",
+                        "name": "Crimson Crisis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.306569343065693,
+                                    "shift_7": 0.021505376344086,
+                                    "shift_30": 0.0106382978723404,
+                                    "shift_21": 0.0326086956521739,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-18 19:56:54 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.0404040404040404,
+                                    "high": 4.98,
+                                    "average": 0.95,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Telekinetic Power Well",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN055",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0869565217391304,
+                                    "shift_7": -0.0078740157480315,
+                                    "shift_30": 0.0588235294117647,
+                                    "shift_21": 0.0161290322580645,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 20:09:26 -0600",
+                                    "shift_3": -0.0078740157480315,
+                                    "shift_90": -0.0454545454545455,
+                                    "shift_365": -0.207547169811321,
+                                    "high": 5.95,
+                                    "average": 1.26,
+                                    "shift": -0.0078740157480315
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Tethys, Goddess of Light",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN095",
+                        "name": "Crimson Crisis",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0684684684684685,
+                                    "shift_7": 0.014720314033366,
+                                    "shift_30": 0.0529531568228106,
+                                    "shift_21": -0.0152380952380952,
+                                    "low": 5.29,
+                                    "updated_at": "2018-09-19 11:29:52 -0600",
+                                    "shift_3": 0.0068159688412853,
+                                    "shift_90": 0.002909796314258,
+                                    "shift_365": -0.519069767441861,
+                                    "high": 33.71,
+                                    "average": 10.34,
+                                    "shift": 0.00583657587548638
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Totem Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN085",
+                        "name": "Crimson Crisis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.409604519774011,
+                                    "shift_7": -0.0118811881188119,
+                                    "shift_30": 0.0505263157894737,
+                                    "shift_21": 0.0183673469387755,
+                                    "low": 3.59,
+                                    "updated_at": "2018-09-19 11:37:17 -0600",
+                                    "shift_3": 0.00604838709677419,
+                                    "shift_90": 0.0662393162393162,
+                                    "shift_365": 0.0919037199124726,
+                                    "high": 11.98,
+                                    "average": 4.99,
+                                    "shift": 0.00200803212851406
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Effect"
+            },
+            {
+                "name": "Trap Eater",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN005",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0169491525423729,
+                                    "shift_7": 0.00840336134453781,
+                                    "shift_30": 0.0909090909090909,
+                                    "shift_21": 0.132075471698113,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 09:29:04 -0600",
+                                    "shift_3": 0.0714285714285714,
+                                    "shift_90": -0.024390243902439,
+                                    "shift_365": 0.100917431192661,
+                                    "high": 4.08,
+                                    "average": 1.2,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Tuner"
+            },
+            {
+                "name": "Trap Reactor\u30fbY FI",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN013",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0106382978723404,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0674157303370786,
+                                    "shift_21": 0.0674157303370786,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 11:37:41 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0106382978723404,
+                                    "shift_365": -0.545454545454545,
+                                    "high": 19.07,
+                                    "average": 0.95,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Trojan Gladiator Beast",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN078",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.032967032967033,
+                                    "shift_7": -0.0112359550561798,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.45,
+                                    "updated_at": "2018-09-18 21:09:48 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0222222222222222,
+                                    "shift_365": -0.032967032967033,
+                                    "high": 2.94,
+                                    "average": 0.88,
+                                    "shift": -0.0112359550561798
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Turret Warrior",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN001",
+                        "name": "Crimson Crisis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.224806201550388,
+                                    "shift_7": 0.0416666666666667,
+                                    "shift_30": 0.0416666666666667,
+                                    "shift_21": 0.0752688172043011,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 11:39:24 -0600",
+                                    "shift_3": 0.0416666666666667,
+                                    "shift_90": 0.886792452830189,
+                                    "shift_365": -0.350649350649351,
+                                    "high": 19.07,
+                                    "average": 1.0,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Twilight Rose Knight",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN011",
+                        "name": "Crimson Crisis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0809248554913295,
+                                    "shift_7": 0.0853242320819113,
+                                    "shift_30": 0.0426229508196721,
+                                    "shift_21": 0.0460526315789474,
+                                    "low": 1.98,
+                                    "updated_at": "2018-09-19 10:23:58 -0600",
+                                    "shift_3": -0.00313479623824451,
+                                    "shift_90": 0.06,
+                                    "shift_365": -0.0304878048780488,
+                                    "high": 20.51,
+                                    "average": 3.18,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Tuner"
+            },
+            {
+                "name": "Twin-Sword Marauder",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN006",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.036144578313253,
+                                    "shift_7": -0.0123456790123457,
+                                    "shift_30": -0.0123456790123457,
+                                    "shift_21": -0.0123456790123457,
+                                    "low": 0.42,
+                                    "updated_at": "2018-09-19 11:40:20 -0600",
+                                    "shift_3": -0.0123456790123457,
+                                    "shift_90": -0.036144578313253,
+                                    "shift_365": -0.036144578313253,
+                                    "high": 3.88,
+                                    "average": 0.8,
+                                    "shift": -0.0123456790123457
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Vengeful Servant",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN046",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": -0.0344827586206897,
+                                    "shift_30": -0.0117647058823529,
+                                    "shift_21": -0.0117647058823529,
+                                    "low": 0.5,
+                                    "updated_at": "2018-09-18 20:40:23 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0117647058823529,
+                                    "shift_365": 0.037037037037037,
+                                    "high": 6.49,
+                                    "average": 0.84,
+                                    "shift": -0.0117647058823529
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Verdant Sanctuary",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN060",
+                        "name": "Crimson Crisis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.182170542635659,
+                                    "shift_7": 0.0144230769230769,
+                                    "shift_30": -0.0365296803652968,
+                                    "shift_21": -0.0622222222222222,
+                                    "low": 1.45,
+                                    "updated_at": "2018-09-19 04:00:16 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.185328185328185,
+                                    "shift_365": 0.397350993377483,
+                                    "high": 15.52,
+                                    "average": 2.11,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Violet Witch",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN097",
+                        "name": "Crimson Crisis",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0149253731343284,
+                                    "shift_7": -0.0075187969924812,
+                                    "shift_30": 0.0476190476190476,
+                                    "shift_21": 0.0393700787401575,
+                                    "low": 0.61,
+                                    "updated_at": "2018-09-19 11:11:05 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.03125,
+                                    "shift_365": -0.125827814569536,
+                                    "high": 19.07,
+                                    "average": 1.32,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Violet Witch",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN097",
+                        "name": "Crimson Crisis",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.049079754601227,
+                                    "shift_7": 0.049079754601227,
+                                    "shift_30": 0.0363636363636364,
+                                    "shift_21": 0.062111801242236,
+                                    "low": 1.71,
+                                    "updated_at": "2018-09-19 11:11:06 -0600",
+                                    "shift_3": 0.049079754601227,
+                                    "shift_90": 0.062111801242236,
+                                    "shift_365": 0.11038961038961,
+                                    "high": 5.9,
+                                    "average": 1.71,
+                                    "shift": 0.049079754601227
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Wall of Thorns",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN079",
+                        "name": "Crimson Crisis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.158620689655172,
+                                    "shift_7": -0.024,
+                                    "shift_30": -0.109489051094891,
+                                    "shift_21": -0.102941176470588,
+                                    "low": 1.2,
+                                    "updated_at": "2018-09-18 21:10:26 -0600",
+                                    "shift_3": -0.186666666666667,
+                                    "shift_90": -0.0542635658914729,
+                                    "shift_365": -0.504065040650406,
+                                    "high": 18.28,
+                                    "average": 1.22,
+                                    "shift": -0.024
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Zeta Reticulant",
+                "numbers": [
+                    {
+                        "print_tag": "CRMS-EN094",
+                        "name": "Crimson Crisis",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.85224274406332,
+                                    "shift_7": -0.0278776978417266,
+                                    "shift_30": -0.128928283642224,
+                                    "shift_21": 0.735152487961477,
+                                    "low": 4.52,
+                                    "updated_at": "2018-09-19 06:45:54 -0600",
+                                    "shift_3": 0.000925925925925926,
+                                    "shift_90": 0.126041666666667,
+                                    "shift_365": 5.75625,
+                                    "high": 28.61,
+                                    "average": 10.81,
+                                    "shift": -0.00643382352941176
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            }
+        ],
+        "highest": 1440.5200000000002,
+        "average": 230.94999999999993,
+        "tcg_booster_values": {
+            "average": 3.02,
+            "low": 3.1999999999999997,
+            "high": 20.48
+        },
+        "lowest": 173.01999999999998
+    },
+    "status": "success"
+}

@@ -1,0 +1,3798 @@
+{
+    "data": {
+        "rarities": {
+            "Super Rare": 12,
+            "Secret Rare": 10,
+            "Ultimate Rare": 10,
+            "Common": 48,
+            "Ultra Rare": 10,
+            "Ghost Rare": 1,
+            "Rare": 20
+        },
+        "cards": [
+            {
+                "name": "Angel O7",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN092",
+                        "name": "Light of Destruction",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.00947867298578199,
+                                    "shift_7": -0.0184331797235023,
+                                    "shift_30": 0.083969465648855,
+                                    "shift_21": 0.0784810126582278,
+                                    "low": 3.42,
+                                    "updated_at": "2018-09-18 21:40:42 -0600",
+                                    "shift_3": -0.0184331797235023,
+                                    "shift_90": 0.0339805825242718,
+                                    "shift_365": -0.00930232558139535,
+                                    "high": 29.32,
+                                    "average": 4.27,
+                                    "shift": -0.0184331797235023
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Arcana Call",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN069",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0555555555555556,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0116279069767442,
+                                    "shift_21": -0.0116279069767442,
+                                    "low": 0.45,
+                                    "updated_at": "2018-09-18 21:25:01 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0116279069767442,
+                                    "shift_365": 0.0,
+                                    "high": 1.18,
+                                    "average": 0.85,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Arcana Force 0 - The Fool",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN008",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.043010752688172,
+                                    "shift_7": 0.0229885057471264,
+                                    "shift_30": 0.0229885057471264,
+                                    "shift_21": 0.0,
+                                    "low": 0.64,
+                                    "updated_at": "2018-09-19 07:06:16 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0348837209302326,
+                                    "shift_365": 0.0,
+                                    "high": 15.17,
+                                    "average": 0.89,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Arcana Force EX - The Dark Ruler",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN017",
+                        "name": "Light of Destruction",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 3.02923976608187,
+                                    "shift_7": 1.01167883211679,
+                                    "shift_30": 0.0214974054855448,
+                                    "shift_21": 0.0192307692307692,
+                                    "low": 5.7,
+                                    "updated_at": "2018-09-19 07:06:31 -0600",
+                                    "shift_3": 0.140728476821192,
+                                    "shift_90": 1.08157099697885,
+                                    "shift_365": 1.35958904109589,
+                                    "high": 29.17,
+                                    "average": 13.78,
+                                    "shift": -0.00505415162454874
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Arcana Force I - The Magician",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN009",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0521739130434783,
+                                    "shift_7": 0.00925925925925926,
+                                    "shift_30": 0.197802197802198,
+                                    "shift_21": -0.00909090909090909,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 21:40:48 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.00925925925925926,
+                                    "shift_365": -0.0916666666666667,
+                                    "high": 18.28,
+                                    "average": 1.09,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Arcana Force III - The Empress",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN010",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0666666666666667,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0769230769230769,
+                                    "shift_21": 0.0181818181818182,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 07:06:54 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.00900900900900901,
+                                    "shift_365": 0.217391304347826,
+                                    "high": 4.07,
+                                    "average": 1.12,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Arcana Force IV - The Emperor",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN011",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.827458256029685,
+                                    "shift_7": 0.0333333333333333,
+                                    "shift_30": 0.0333333333333333,
+                                    "shift_21": -0.0106382978723404,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 07:07:13 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.03125,
+                                    "shift_365": 0.134146341463415,
+                                    "high": 18.35,
+                                    "average": 0.93,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Arcana Force VI - The Lovers",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN012",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0444444444444444,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.036144578313253,
+                                    "shift_21": 0.0117647058823529,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 02:26:44 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.530054644808743,
+                                    "high": 14.46,
+                                    "average": 0.86,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Arcana Force VII - The Chariot",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN013",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0344827586206897,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0120481927710843,
+                                    "shift_21": 0.0120481927710843,
+                                    "low": 0.9,
+                                    "updated_at": "2018-09-18 21:40:48 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.105263157894737,
+                                    "high": 18.28,
+                                    "average": 0.84,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Arcana Force XIV - Temperance",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN014",
+                        "name": "Light of Destruction",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.168421052631579,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 10:04:26 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.305882352941176,
+                                    "high": 18.35,
+                                    "average": 1.11,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Arcana Force XVIII - The Moon",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN015",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0232558139534884,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.024390243902439,
+                                    "shift_21": 0.024390243902439,
+                                    "low": 0.47,
+                                    "updated_at": "2018-09-18 21:41:04 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.024390243902439,
+                                    "shift_365": 0.037037037037037,
+                                    "high": 18.28,
+                                    "average": 0.84,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Arcana Force XXI - The World",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN016",
+                        "name": "Light of Destruction",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0884450784593438,
+                                    "shift_7": 0.0191387559808612,
+                                    "shift_30": -0.103786816269285,
+                                    "shift_21": -0.0533333333333333,
+                                    "low": 7.11,
+                                    "updated_at": "2018-09-19 10:11:27 -0600",
+                                    "shift_3": -0.0419790104947526,
+                                    "shift_90": -0.0123647604327666,
+                                    "shift_365": -0.11373092926491,
+                                    "high": 30.93,
+                                    "average": 6.39,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Arcana Force XXI - The World",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN016",
+                        "name": "Light of Destruction",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.267272727272727,
+                                    "shift_7": -0.0606469002695418,
+                                    "shift_30": 0.0673813169984686,
+                                    "shift_21": -0.0465116279069767,
+                                    "low": 5.98,
+                                    "updated_at": "2018-09-19 10:11:28 -0600",
+                                    "shift_3": -0.0900783289817232,
+                                    "shift_90": -0.0238095238095238,
+                                    "shift_365": 0.0175182481751825,
+                                    "high": 21.04,
+                                    "average": 6.97,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Aurkus, Lightsworn Druid",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN081",
+                        "name": "Light of Destruction",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.391752577319588,
+                                    "shift_7": -0.0492957746478873,
+                                    "shift_30": 0.483516483516484,
+                                    "shift_21": 0.5,
+                                    "low": 0.53,
+                                    "updated_at": "2018-09-19 08:30:14 -0600",
+                                    "shift_3": -0.0425531914893617,
+                                    "shift_90": 0.421052631578947,
+                                    "shift_365": 0.194690265486726,
+                                    "high": 8.24,
+                                    "average": 1.35,
+                                    "shift": -0.0425531914893617
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Beast-Warrior / Effect"
+            },
+            {
+                "name": "Batteryman Charger",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN030",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": 0.0574712643678161,
+                                    "shift_30": 0.135802469135802,
+                                    "shift_21": 0.0823529411764706,
+                                    "low": 0.92,
+                                    "updated_at": "2018-09-18 19:36:56 -0600",
+                                    "shift_3": 0.0574712643678161,
+                                    "shift_90": 0.0337078651685393,
+                                    "shift_365": 0.0337078651685393,
+                                    "high": 18.28,
+                                    "average": 0.92,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Thunder / Effect"
+            },
+            {
+                "name": "Batteryman Industrial Strength",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN031",
+                        "name": "Light of Destruction",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.214876033057851,
+                                    "shift_7": 0.03886925795053,
+                                    "shift_30": 0.027972027972028,
+                                    "shift_21": 0.0652173913043478,
+                                    "low": 1.65,
+                                    "updated_at": "2018-09-18 19:36:42 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.214876033057851,
+                                    "shift_365": 0.113636363636364,
+                                    "high": 6.35,
+                                    "average": 2.94,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Thunder / Effect"
+            },
+            {
+                "name": "Batteryman Micro-Cell",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN032",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.225490196078431,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.168224299065421,
+                                    "shift_21": -0.015748031496063,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 19:36:36 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0964912280701754,
+                                    "shift_365": -0.375,
+                                    "high": 6.74,
+                                    "average": 1.25,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Thunder / Effect"
+            },
+            {
+                "name": "Celestia, Lightsworn Angel",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN024",
+                        "name": "Light of Destruction",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0177514792899408,
+                                    "shift_7": 0.00584795321637427,
+                                    "shift_30": 0.036144578313253,
+                                    "shift_21": 0.0487804878048781,
+                                    "low": 1.49,
+                                    "updated_at": "2018-09-19 09:51:10 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.029940119760479,
+                                    "shift_365": 0.194444444444444,
+                                    "high": 21.23,
+                                    "average": 1.72,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Celestia, Lightsworn Angel",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN024",
+                        "name": "Light of Destruction",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.382749326145553,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.598130841121495,
+                                    "shift_21": 0.583333333333333,
+                                    "low": 2.42,
+                                    "updated_at": "2018-09-19 09:51:12 -0600",
+                                    "shift_3": -0.00194552529182879,
+                                    "shift_90": 0.598130841121495,
+                                    "shift_365": -0.0115606936416185,
+                                    "high": 10.5,
+                                    "average": 5.13,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Cloudian - Storm Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN040",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.043956043956044,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0224719101123595,
+                                    "shift_21": -0.0224719101123595,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 22:49:49 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0609756097560976,
+                                    "shift_365": -0.0333333333333333,
+                                    "high": 1.53,
+                                    "average": 0.87,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Cross Porter",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN002",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.319587628865979,
+                                    "shift_7": 0.0491803278688525,
+                                    "shift_30": 0.0158730158730159,
+                                    "shift_21": 0.0578512396694215,
+                                    "low": 0.49,
+                                    "updated_at": "2018-09-19 06:25:36 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.28,
+                                    "shift_365": 0.319587628865979,
+                                    "high": 1.31,
+                                    "average": 1.28,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Cup of Ace",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN050",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.138888888888889,
+                                    "shift_7": 0.0933333333333333,
+                                    "shift_30": 0.0860927152317881,
+                                    "shift_21": 0.100671140939597,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 11:19:20 -0600",
+                                    "shift_3": 0.108108108108108,
+                                    "shift_90": 0.115646258503401,
+                                    "shift_365": 0.0718954248366013,
+                                    "high": 18.35,
+                                    "average": 1.64,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "D - Formation",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN048",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.163461538461538,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0224719101123595,
+                                    "shift_21": 0.0,
+                                    "low": 0.81,
+                                    "updated_at": "2018-09-19 01:17:20 -0600",
+                                    "shift_3": 0.0116279069767442,
+                                    "shift_90": 0.0116279069767442,
+                                    "shift_365": 0.10126582278481,
+                                    "high": 1.16,
+                                    "average": 0.87,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "D - Fortune",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN066",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.195652173913043,
+                                    "shift_7": -0.0133333333333333,
+                                    "shift_30": -0.0263157894736842,
+                                    "shift_21": -0.0263157894736842,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 21:00:36 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0263157894736842,
+                                    "shift_365": -0.0975609756097561,
+                                    "high": 1.14,
+                                    "average": 0.74,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "DUCKER Mobile Cannon",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN037",
+                        "name": "Light of Destruction",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0459770114942529,
+                                    "shift_7": 0.0111111111111111,
+                                    "shift_30": 0.0705882352941176,
+                                    "shift_21": 0.0833333333333333,
+                                    "low": 0.57,
+                                    "updated_at": "2018-09-19 06:38:20 -0600",
+                                    "shift_3": -0.0108695652173913,
+                                    "shift_90": 0.0705882352941176,
+                                    "shift_365": -0.363636363636364,
+                                    "high": 5.7,
+                                    "average": 0.91,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Flip"
+            },
+            {
+                "name": "Dangerous Machine Type-6",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN096",
+                        "name": "Light of Destruction",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0564971751412429,
+                                    "shift_7": 0.0569620253164557,
+                                    "shift_30": 0.0569620253164557,
+                                    "shift_21": 0.0986842105263158,
+                                    "low": 1.26,
+                                    "updated_at": "2018-09-18 18:53:54 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0569620253164557,
+                                    "shift_365": 0.113333333333333,
+                                    "high": 19.0,
+                                    "average": 1.67,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Dangerous Machine Type-6",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN096",
+                        "name": "Light of Destruction",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.12121212121212,
+                                    "shift_7": -0.00709219858156028,
+                                    "shift_30": 1.31404958677686,
+                                    "shift_21": 0.111111111111111,
+                                    "low": 3.0,
+                                    "updated_at": "2018-09-18 18:53:55 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.12,
+                                    "shift_365": 1.07407407407407,
+                                    "high": 19.83,
+                                    "average": 2.8,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Dark General Freed",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN083",
+                        "name": "Light of Destruction",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.170648464163823,
+                                    "shift_7": -0.631818181818182,
+                                    "shift_30": -0.653846153846154,
+                                    "shift_21": -0.717770034843206,
+                                    "low": 5.84,
+                                    "updated_at": "2018-09-18 22:02:12 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.00816326530612245,
+                                    "shift_365": -0.291545189504373,
+                                    "high": 21.15,
+                                    "average": 2.43,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Dark Valkyria",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN027",
+                        "name": "Light of Destruction",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.010989010989011,
+                                    "shift_21": 0.010989010989011,
+                                    "low": 0.61,
+                                    "updated_at": "2018-09-19 02:27:26 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.132075471698113,
+                                    "high": 15.85,
+                                    "average": 0.92,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Gemini"
+            },
+            {
+                "name": "Deck Lockdown",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN060",
+                        "name": "Light of Destruction",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.274509803921569,
+                                    "shift_7": 0.114285714285714,
+                                    "shift_30": -0.105504587155963,
+                                    "shift_21": -0.0930232558139535,
+                                    "low": 1.09,
+                                    "updated_at": "2018-09-19 08:31:27 -0600",
+                                    "shift_3": 0.0540540540540541,
+                                    "shift_90": -0.285714285714286,
+                                    "shift_365": -0.0625,
+                                    "high": 2.42,
+                                    "average": 1.95,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Demise of the Land",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN047",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0261437908496732,
+                                    "shift_7": 0.00675675675675676,
+                                    "shift_30": -0.0448717948717949,
+                                    "shift_21": 0.0,
+                                    "low": 0.92,
+                                    "updated_at": "2018-09-19 10:47:18 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0136054421768707,
+                                    "shift_365": -0.239795918367347,
+                                    "high": 14.98,
+                                    "average": 1.49,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Destiny End Dragoon",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN042",
+                        "name": "Light of Destruction",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.273062730627306,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0100502512562814,
+                                    "shift_21": -0.250950570342205,
+                                    "low": 1.77,
+                                    "updated_at": "2018-09-19 11:10:53 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.281021897810219,
+                                    "shift_365": -0.57451403887689,
+                                    "high": 22.67,
+                                    "average": 1.97,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Fusion"
+            },
+            {
+                "name": "Destiny End Dragoon",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN042",
+                        "name": "Light of Destruction",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.43382352941176,
+                                    "shift_7": -0.0349854227405248,
+                                    "shift_30": 0.00914634146341463,
+                                    "shift_21": -0.0148809523809524,
+                                    "low": 7.68,
+                                    "updated_at": "2018-09-19 11:10:54 -0600",
+                                    "shift_3": -0.0192592592592593,
+                                    "shift_90": 0.054140127388535,
+                                    "shift_365": 0.429805615550756,
+                                    "high": 18.18,
+                                    "average": 6.62,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Fusion"
+            },
+            {
+                "name": "Destiny HERO - Dread Servant",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN004",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.154639175257732,
+                                    "shift_7": 0.0769230769230769,
+                                    "shift_30": 0.142857142857143,
+                                    "shift_21": 0.131313131313131,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 05:39:32 -0600",
+                                    "shift_3": 0.087378640776699,
+                                    "shift_90": 0.178947368421053,
+                                    "shift_365": -0.413612565445026,
+                                    "high": 19.07,
+                                    "average": 1.13,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Destruction Jammer",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN072",
+                        "name": "Light of Destruction",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.178343949044586,
+                                    "shift_7": -0.0909090909090909,
+                                    "shift_30": 0.138461538461538,
+                                    "shift_21": 0.0882352941176471,
+                                    "low": 2.99,
+                                    "updated_at": "2018-09-19 10:33:35 -0600",
+                                    "shift_3": -0.0656565656565657,
+                                    "shift_90": 0.209150326797386,
+                                    "shift_365": 0.0601719197707736,
+                                    "high": 14.85,
+                                    "average": 3.7,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Counter",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Dice Try!",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN080",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0705882352941176,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0125,
+                                    "shift_21": -0.0125,
+                                    "low": 0.81,
+                                    "updated_at": "2018-09-18 21:03:18 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0128205128205128,
+                                    "shift_365": -0.0125,
+                                    "high": 18.28,
+                                    "average": 0.79,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Counter",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Diskblade Rider",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN035",
+                        "name": "Light of Destruction",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.114583333333333,
+                                    "shift_7": -0.00925925925925926,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 19:48:15 -0600",
+                                    "shift_3": -0.00925925925925926,
+                                    "shift_90": -0.00925925925925926,
+                                    "shift_365": -0.183206106870229,
+                                    "high": 5.69,
+                                    "average": 1.07,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Effect"
+            },
+            {
+                "name": "Divine Knight Ishzark",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN091",
+                        "name": "Light of Destruction",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.139784946236559,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.456410256410256,
+                                    "shift_21": 0.0,
+                                    "low": 0.74,
+                                    "updated_at": "2018-09-18 22:09:45 -0600",
+                                    "shift_3": 0.00952380952380952,
+                                    "shift_90": 0.139784946236559,
+                                    "shift_365": 0.0392156862745098,
+                                    "high": 7.68,
+                                    "average": 1.06,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Ehren, Lightsworn Monk",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN082",
+                        "name": "Light of Destruction",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.164612676056338,
+                                    "shift_7": 0.00317124735729387,
+                                    "shift_30": 0.0326441784548422,
+                                    "shift_21": -0.00315126050420168,
+                                    "low": 6.84,
+                                    "updated_at": "2018-09-19 09:05:34 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.00529661016949153,
+                                    "shift_365": -0.247422680412371,
+                                    "high": 99.95,
+                                    "average": 9.49,
+                                    "shift": -0.00732217573221757
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Flame Spirit Ignis",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN087",
+                        "name": "Light of Destruction",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0760869565217391,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0102040816326531,
+                                    "shift_21": 0.0102040816326531,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 11:09:00 -0600",
+                                    "shift_3": -0.01,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.1,
+                                    "high": 18.35,
+                                    "average": 0.99,
+                                    "shift": -0.01
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Pyro / Effect"
+            },
+            {
+                "name": "Fog King",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN098",
+                        "name": "Light of Destruction",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0118518518518519,
+                                    "shift_7": 0.0475460122699387,
+                                    "shift_30": 0.303435114503817,
+                                    "shift_21": 0.235081374321881,
+                                    "low": 3.9,
+                                    "updated_at": "2018-09-19 11:04:36 -0600",
+                                    "shift_3": 0.0638629283489097,
+                                    "shift_90": 0.0858505564387917,
+                                    "shift_365": 0.0638629283489097,
+                                    "high": 23.94,
+                                    "average": 6.83,
+                                    "shift": 0.0622083981337481
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Fossil Dyna Pachycephalo",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN099",
+                        "name": "Light of Destruction",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.21978021978022,
+                                    "shift_7": 0.0116580310880829,
+                                    "shift_30": -0.00888324873096447,
+                                    "shift_21": -0.0811764705882353,
+                                    "low": 12.62,
+                                    "updated_at": "2018-09-19 09:54:32 -0600",
+                                    "shift_3": -0.0138888888888889,
+                                    "shift_90": -0.180912427897221,
+                                    "shift_365": 0.0511440107671602,
+                                    "high": 47.07,
+                                    "average": 15.62,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Rock / Effect"
+            },
+            {
+                "name": "Froggy Forcefield",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN073",
+                        "name": "Light of Destruction",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0510204081632653,
+                                    "shift_7": -0.188976377952756,
+                                    "shift_30": -0.169354838709677,
+                                    "shift_21": 0.0,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 10:40:04 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.155737704918033,
+                                    "shift_365": 0.0404040404040404,
+                                    "high": 9.21,
+                                    "average": 1.03,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Garoth, Lightsworn Warrior",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN020",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.00909090909090909,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 09:51:30 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.112244897959184,
+                                    "shift_365": 0.252873563218391,
+                                    "high": 14.05,
+                                    "average": 1.09,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Gladiator Beast Gyzarus",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN044",
+                        "name": "Light of Destruction",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0285714285714286,
+                                    "shift_7": -0.0555555555555556,
+                                    "shift_30": -0.0748299319727891,
+                                    "shift_21": -0.0684931506849315,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 04:34:19 -0600",
+                                    "shift_3": -0.0285714285714286,
+                                    "shift_90": 0.105691056910569,
+                                    "shift_365": -0.0810810810810811,
+                                    "high": 20.51,
+                                    "average": 1.36,
+                                    "shift": -0.0144927536231884
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Winged Beast / Fusion"
+            },
+            {
+                "name": "Gladiator Lash",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN075",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0114942528735632,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0337078651685393,
+                                    "shift_21": -0.0114942528735632,
+                                    "low": 0.92,
+                                    "updated_at": "2018-09-18 21:28:53 -0600",
+                                    "shift_3": -0.0114942528735632,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0487804878048781,
+                                    "high": 2.42,
+                                    "average": 0.86,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Glorious Illusion",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN071",
+                        "name": "Light of Destruction",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.166666666666667,
+                                    "shift_7": 0.0555555555555556,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.043956043956044,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 21:28:59 -0600",
+                                    "shift_3": 0.0555555555555556,
+                                    "shift_90": 0.0555555555555556,
+                                    "shift_365": 0.0106382978723404,
+                                    "high": 7.24,
+                                    "average": 0.95,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Goblin Recon Squad",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN033",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0645161290322581,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0116279069767442,
+                                    "shift_21": 0.0116279069767442,
+                                    "low": 0.49,
+                                    "updated_at": "2018-09-19 07:04:26 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0235294117647059,
+                                    "high": 14.98,
+                                    "average": 0.87,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Golden Bamboo Sword",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN062",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.301245753114383,
+                                    "shift_7": 0.578005115089514,
+                                    "shift_30": -0.260191846522782,
+                                    "shift_21": -0.213010204081633,
+                                    "low": 2.99,
+                                    "updated_at": "2018-09-19 06:02:16 -0600",
+                                    "shift_3": -0.017515923566879,
+                                    "shift_90": -0.525019245573518,
+                                    "shift_365": 0.747875354107649,
+                                    "high": 32.76,
+                                    "average": 6.17,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Golden Ladybug",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN036",
+                        "name": "Light of Destruction",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0793036750483559,
+                                    "shift_7": -0.00833333333333333,
+                                    "shift_30": 0.0554323725055432,
+                                    "shift_21": 0.0325379609544469,
+                                    "low": 4.5,
+                                    "updated_at": "2018-09-18 21:04:32 -0600",
+                                    "shift_3": -0.00833333333333333,
+                                    "shift_90": -0.0364372469635627,
+                                    "shift_365": 0.223650385604113,
+                                    "high": 9.73,
+                                    "average": 4.76,
+                                    "shift": -0.012448132780083
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Insect / Effect"
+            },
+            {
+                "name": "Gragonith, Lightsworn Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN025",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0104166666666667,
+                                    "shift_7": -0.0102040816326531,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 21:54:58 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.110091743119266,
+                                    "shift_365": 0.0543478260869565,
+                                    "high": 13.76,
+                                    "average": 0.97,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Effect"
+            },
+            {
+                "name": "Guardian of Order",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN000",
+                        "name": "Light of Destruction",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.262200165425972,
+                                    "shift_7": -0.0292620865139949,
+                                    "shift_30": 0.0626740947075209,
+                                    "shift_21": -0.00326583932070542,
+                                    "low": 9.75,
+                                    "updated_at": "2018-09-19 05:05:06 -0600",
+                                    "shift_3": -0.0341772151898734,
+                                    "shift_90": 0.174749807544265,
+                                    "shift_365": 0.391066545123063,
+                                    "high": 22.81,
+                                    "average": 15.26,
+                                    "shift": -0.0242966751918159
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Helios Trice Megistus",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN095",
+                        "name": "Light of Destruction",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0480349344978166,
+                                    "shift_7": 0.00418410041841004,
+                                    "shift_30": 0.0169491525423729,
+                                    "shift_21": 0.224489795918367,
+                                    "low": 1.66,
+                                    "updated_at": "2018-09-19 08:45:53 -0600",
+                                    "shift_3": 0.0126582278481013,
+                                    "shift_90": -0.268292682926829,
+                                    "shift_365": -0.254658385093168,
+                                    "high": 8.98,
+                                    "average": 2.4,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Pyro / Effect"
+            },
+            {
+                "name": "Hero Blast",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN064",
+                        "name": "Light of Destruction",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0594059405940594,
+                                    "shift_7": -0.0104166666666667,
+                                    "shift_30": 0.0326086956521739,
+                                    "shift_21": 0.021505376344086,
+                                    "low": 0.55,
+                                    "updated_at": "2018-09-19 08:12:50 -0600",
+                                    "shift_3": -0.0104166666666667,
+                                    "shift_90": 0.021505376344086,
+                                    "shift_365": 0.043956043956044,
+                                    "high": 9.21,
+                                    "average": 0.95,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Hero Mask",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN045",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0277777777777778,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.193548387096774,
+                                    "shift_21": 0.193548387096774,
+                                    "low": 0.65,
+                                    "updated_at": "2018-09-18 23:11:16 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.247191011235955,
+                                    "shift_365": 0.353658536585366,
+                                    "high": 1.17,
+                                    "average": 1.11,
+                                    "shift": -0.00892857142857143
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Honest",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN001",
+                        "name": "Light of Destruction",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0520386266094421,
+                                    "shift_7": -0.0134003350083752,
+                                    "shift_30": 0.088724584103512,
+                                    "shift_21": 0.0178571428571429,
+                                    "low": 9.04,
+                                    "updated_at": "2018-09-19 09:47:59 -0600",
+                                    "shift_3": 0.00397727272727273,
+                                    "shift_90": 0.134874759152216,
+                                    "shift_365": -0.0929158110882957,
+                                    "high": 59.9,
+                                    "average": 17.67,
+                                    "shift": 0.00971428571428571
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Honest",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN001",
+                        "name": "Light of Destruction",
+                        "rarity": "Ghost Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0308402136959689,
+                                    "shift_7": 0.0268505079825835,
+                                    "shift_30": 0.0687311178247734,
+                                    "shift_21": 0.0273475314617619,
+                                    "low": 26.84,
+                                    "updated_at": "2018-09-19 09:48:00 -0600",
+                                    "shift_3": 0.0735963581183612,
+                                    "shift_90": 0.00117924528301887,
+                                    "shift_365": -0.332127123977344,
+                                    "high": 107.85,
+                                    "average": 42.45,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Interplanetary Invader \"A\"",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN034",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.186915887850467,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0235294117647059,
+                                    "shift_21": 0.0116279069767442,
+                                    "low": 0.43,
+                                    "updated_at": "2018-09-19 11:04:36 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0113636363636364,
+                                    "shift_365": 0.0235294117647059,
+                                    "high": 15.34,
+                                    "average": 0.87,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Reptile / Effect"
+            },
+            {
+                "name": "Jain, Lightsworn Paladin",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN018",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0232558139534884,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:15:32 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0638297872340425,
+                                    "shift_365": 0.0602409638554217,
+                                    "high": 18.35,
+                                    "average": 0.88,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Jinzo - Lord",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN007",
+                        "name": "Light of Destruction",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.137417218543046,
+                                    "shift_7": 0.0223214285714286,
+                                    "shift_30": 0.148829431438127,
+                                    "shift_21": -0.0888594164456233,
+                                    "low": 3.76,
+                                    "updated_at": "2018-09-18 23:00:23 -0600",
+                                    "shift_3": 0.0177777777777778,
+                                    "shift_90": -0.00865800865800866,
+                                    "shift_365": 0.164406779661017,
+                                    "high": 20.51,
+                                    "average": 6.87,
+                                    "shift": 0.00291970802919708
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Jinzo - Returner",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN006",
+                        "name": "Light of Destruction",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0493150684931507,
+                                    "shift_7": -0.0334261838440111,
+                                    "shift_30": -0.0280112044817927,
+                                    "shift_21": 0.00579710144927536,
+                                    "low": 2.75,
+                                    "updated_at": "2018-09-18 22:20:09 -0600",
+                                    "shift_3": -0.0028735632183908,
+                                    "shift_90": 0.0547112462006079,
+                                    "shift_365": 0.0327380952380952,
+                                    "high": 7.67,
+                                    "average": 3.47,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Judgment Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN026",
+                        "name": "Light of Destruction",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.116521739130435,
+                                    "shift_7": 0.0155014236001265,
+                                    "shift_30": 0.00595424631776872,
+                                    "shift_21": 0.0381630012936611,
+                                    "low": 21.28,
+                                    "updated_at": "2018-09-19 10:25:39 -0600",
+                                    "shift_3": 0.00532414657062324,
+                                    "shift_90": 0.176255038475632,
+                                    "shift_365": -0.187135983793365,
+                                    "high": 67.77,
+                                    "average": 32.1,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Effect"
+            },
+            {
+                "name": "Level Tuning",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN059",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.245762711864407,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0326086956521739,
+                                    "shift_21": -0.021978021978022,
+                                    "low": 0.3,
+                                    "updated_at": "2018-09-18 20:39:02 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0229885057471264,
+                                    "shift_365": 0.0348837209302326,
+                                    "high": 1.2,
+                                    "average": 0.89,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Light Barrier",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN051",
+                        "name": "Light of Destruction",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.629343629343629,
+                                    "shift_7": 0.0242718446601942,
+                                    "shift_30": 0.990566037735849,
+                                    "shift_21": 0.298461538461538,
+                                    "low": 2.69,
+                                    "updated_at": "2018-09-19 10:57:19 -0600",
+                                    "shift_3": 0.0576441102756892,
+                                    "shift_90": 0.661417322834646,
+                                    "shift_365": 0.642023346303502,
+                                    "high": 24.83,
+                                    "average": 4.22,
+                                    "shift": 0.0603015075376884
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Field",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Light Spiral",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN070",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0396825396825397,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0396825396825397,
+                                    "shift_21": 0.0396825396825397,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 21:22:59 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0234375,
+                                    "shift_365": -0.238372093023256,
+                                    "high": 1.88,
+                                    "average": 1.31,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Light of Redemption",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN057",
+                        "name": "Light of Destruction",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0854700854700855,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0155038759689922,
+                                    "shift_21": -0.0155038759689922,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 20:14:41 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0305343511450382,
+                                    "shift_365": 0.133928571428571,
+                                    "high": 20.43,
+                                    "average": 1.27,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Limit Reverse",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN063",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.08,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.010989010989011,
+                                    "shift_21": 0.010989010989011,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 05:38:38 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.010752688172043,
+                                    "shift_365": 0.010989010989011,
+                                    "high": 1.5,
+                                    "average": 0.92,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Lucky Chance",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN078",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0128205128205128,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0128205128205128,
+                                    "shift_21": 0.0,
+                                    "low": 0.47,
+                                    "updated_at": "2018-09-18 21:23:33 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0405405405405405,
+                                    "shift_365": 0.0266666666666667,
+                                    "high": 2.42,
+                                    "average": 0.77,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Lumina, Lightsworn Summoner",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN021",
+                        "name": "Light of Destruction",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0506329113924051,
+                                    "shift_7": 0.0506329113924051,
+                                    "shift_30": 0.0993377483443709,
+                                    "shift_21": 0.0440251572327044,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 09:52:07 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0921052631578947,
+                                    "shift_365": -0.0514285714285714,
+                                    "high": 9.21,
+                                    "average": 1.66,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Lyla, Lightsworn Sorceress",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN019",
+                        "name": "Light of Destruction",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.396296296296296,
+                                    "shift_7": 0.705882352941177,
+                                    "shift_30": 0.0134408602150538,
+                                    "shift_21": 0.0244565217391304,
+                                    "low": 1.39,
+                                    "updated_at": "2018-09-19 11:16:43 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0189189189189189,
+                                    "shift_365": -0.369565217391304,
+                                    "high": 16.44,
+                                    "average": 3.77,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Lyla, Lightsworn Sorceress",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN019",
+                        "name": "Light of Destruction",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0321217244294167,
+                                    "shift_7": 0.084280303030303,
+                                    "shift_30": 0.059204440333025,
+                                    "shift_21": 0.00262697022767075,
+                                    "low": 6.87,
+                                    "updated_at": "2018-09-19 11:16:45 -0600",
+                                    "shift_3": 0.0915157292659676,
+                                    "shift_90": 0.0278276481149013,
+                                    "shift_365": -0.428927680798005,
+                                    "high": 79.95,
+                                    "average": 11.45,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Magical Exemplar",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN084",
+                        "name": "Light of Destruction",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.163841807909605,
+                                    "shift_7": 0.0198019801980198,
+                                    "shift_30": 0.113513513513514,
+                                    "shift_21": -0.0143540669856459,
+                                    "low": 1.0,
+                                    "updated_at": "2018-09-19 11:14:05 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.271604938271605,
+                                    "shift_365": 0.0957446808510638,
+                                    "high": 20.51,
+                                    "average": 2.06,
+                                    "shift": 0.0198019801980198
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Maniacal Servant",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN085",
+                        "name": "Light of Destruction",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.03125,
+                                    "shift_7": 0.0333333333333333,
+                                    "shift_30": 0.0449438202247191,
+                                    "shift_21": 0.0449438202247191,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 11:16:49 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0333333333333333,
+                                    "shift_365": 0.0568181818181818,
+                                    "high": 5.73,
+                                    "average": 0.93,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Maximum Six",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN097",
+                        "name": "Light of Destruction",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.633093525179856,
+                                    "shift_7": -0.0173160173160173,
+                                    "shift_30": 0.609929078014184,
+                                    "shift_21": -0.00873362445414847,
+                                    "low": 2.82,
+                                    "updated_at": "2018-09-19 11:18:45 -0600",
+                                    "shift_3": 0.0318181818181818,
+                                    "shift_90": 0.94017094017094,
+                                    "shift_365": 0.0707547169811321,
+                                    "high": 29.69,
+                                    "average": 2.27,
+                                    "shift": 0.25414364640884
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Maximum Six",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN097",
+                        "name": "Light of Destruction",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0737704918032787,
+                                    "shift_7": -0.0173913043478261,
+                                    "shift_30": -0.0423728813559322,
+                                    "shift_21": -0.0583333333333333,
+                                    "low": 2.25,
+                                    "updated_at": "2018-09-19 11:18:54 -0600",
+                                    "shift_3": -0.0087719298245614,
+                                    "shift_90": -0.0423728813559322,
+                                    "shift_365": -0.110236220472441,
+                                    "high": 11.17,
+                                    "average": 1.14,
+                                    "shift": -0.0087719298245614
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Miracle Flipper",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN003",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0531914893617021,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0348837209302326,
+                                    "shift_21": 0.0348837209302326,
+                                    "low": 0.51,
+                                    "updated_at": "2018-09-18 18:21:29 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0470588235294118,
+                                    "shift_365": -0.524064171122995,
+                                    "high": 1.58,
+                                    "average": 0.89,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Mystical Cards of Light",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN058",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0816326530612245,
+                                    "shift_7": -0.010989010989011,
+                                    "shift_30": -0.0526315789473684,
+                                    "shift_21": -0.0526315789473684,
+                                    "low": 0.3,
+                                    "updated_at": "2018-09-18 20:26:52 -0600",
+                                    "shift_3": -0.010989010989011,
+                                    "shift_90": -0.0217391304347826,
+                                    "shift_365": -0.010989010989011,
+                                    "high": 1.43,
+                                    "average": 0.9,
+                                    "shift": -0.010989010989011
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Nimble Musasabi",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN086",
+                        "name": "Light of Destruction",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0208333333333333,
+                                    "shift_7": -0.0309278350515464,
+                                    "shift_30": -0.0309278350515464,
+                                    "shift_21": -0.0309278350515464,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 01:48:55 -0600",
+                                    "shift_3": -0.0105263157894737,
+                                    "shift_90": -0.0309278350515464,
+                                    "shift_365": -0.153153153153153,
+                                    "high": 17.08,
+                                    "average": 0.94,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Beast / Effect"
+            },
+            {
+                "name": "Owner's Seal",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN094",
+                        "name": "Light of Destruction",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0717299578059072,
+                                    "shift_7": -0.00900900900900901,
+                                    "shift_30": 0.0377358490566038,
+                                    "shift_21": -0.0308370044052863,
+                                    "low": 1.69,
+                                    "updated_at": "2018-09-18 18:11:05 -0600",
+                                    "shift_3": 0.0045662100456621,
+                                    "shift_90": 0.0476190476190476,
+                                    "shift_365": -0.238754325259516,
+                                    "high": 21.02,
+                                    "average": 2.2,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Phantom Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN041",
+                        "name": "Light of Destruction",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0515463917525773,
+                                    "shift_7": -0.0192307692307692,
+                                    "shift_30": -0.0192307692307692,
+                                    "shift_21": -0.0192307692307692,
+                                    "low": 0.57,
+                                    "updated_at": "2018-09-19 10:43:05 -0600",
+                                    "shift_3": -0.0192307692307692,
+                                    "shift_90": 0.0303030303030303,
+                                    "shift_365": 0.02,
+                                    "high": 19.07,
+                                    "average": 1.02,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Effect"
+            },
+            {
+                "name": "Phantom Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN041",
+                        "name": "Light of Destruction",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.144144144144144,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.032520325203252,
+                                    "shift_21": 0.032520325203252,
+                                    "low": 1.93,
+                                    "updated_at": "2018-09-19 10:43:06 -0600",
+                                    "shift_3": 0.00793650793650794,
+                                    "shift_90": 0.123893805309735,
+                                    "shift_365": -0.0522388059701493,
+                                    "high": 8.22,
+                                    "average": 1.27,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Effect"
+            },
+            {
+                "name": "Portable Battery Pack",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN074",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.117647058823529,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.57,
+                                    "updated_at": "2018-09-18 21:18:36 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0306122448979592,
+                                    "shift_365": 0.158536585365854,
+                                    "high": 18.28,
+                                    "average": 0.95,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Quick Charger",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN055",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0481927710843374,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.45,
+                                    "updated_at": "2018-09-18 20:42:26 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0365853658536585,
+                                    "shift_365": -0.0125,
+                                    "high": 15.0,
+                                    "average": 0.79,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Raging Cloudian",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN076",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0795454545454545,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.43,
+                                    "updated_at": "2018-09-18 19:07:49 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0357142857142857,
+                                    "shift_365": -0.0689655172413793,
+                                    "high": 15.32,
+                                    "average": 0.81,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Rainbow Gravity",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN065",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.171171171171171,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.010989010989011,
+                                    "shift_21": -0.010752688172043,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 10:42:41 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.178571428571429,
+                                    "shift_365": -0.0212765957446809,
+                                    "high": 6.92,
+                                    "average": 0.92,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Realm of Light",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN053",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.153846153846154,
+                                    "shift_7": 0.0114942528735632,
+                                    "shift_30": 0.0,
+                                    "shift_21": -0.0434782608695652,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 21:56:23 -0600",
+                                    "shift_3": 0.0232558139534884,
+                                    "shift_90": -0.0833333333333333,
+                                    "shift_365": -0.254237288135593,
+                                    "high": 8.14,
+                                    "average": 0.88,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Field",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Reversal of Fate",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN067",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.145454545454545,
+                                    "shift_7": -0.0105263157894737,
+                                    "shift_30": -0.0309278350515464,
+                                    "shift_21": -0.0309278350515464,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 20:54:38 -0600",
+                                    "shift_3": -0.0105263157894737,
+                                    "shift_90": -0.0309278350515464,
+                                    "shift_365": -0.0408163265306122,
+                                    "high": 2.42,
+                                    "average": 0.94,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Ribbon of Rebirth",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN061",
+                        "name": "Light of Destruction",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0224719101123595,
+                                    "shift_7": 0.0224719101123595,
+                                    "shift_30": 0.0340909090909091,
+                                    "shift_21": 0.0340909090909091,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 19:42:15 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0581395348837209,
+                                    "shift_365": -0.172727272727273,
+                                    "high": 4.12,
+                                    "average": 0.91,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Ryko, Lightsworn Hunter",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN022",
+                        "name": "Light of Destruction",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0613496932515337,
+                                    "shift_7": -0.346153846153846,
+                                    "shift_30": 1.46774193548387,
+                                    "shift_21": 0.0408163265306122,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 11:10:39 -0600",
+                                    "shift_3": 0.0132450331125828,
+                                    "shift_90": 0.0479452054794521,
+                                    "shift_365": -0.603626943005181,
+                                    "high": 14.46,
+                                    "average": 1.53,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Beast / Flip"
+            },
+            {
+                "name": "Sanguine Swamp",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN077",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.160377358490566,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 20:44:02 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.021978021978022,
+                                    "high": 2.42,
+                                    "average": 0.89,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Short Circuit",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN056",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0606060606060606,
+                                    "shift_7": -0.0210526315789474,
+                                    "shift_30": -0.0510204081632653,
+                                    "shift_21": -0.0510204081632653,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 06:30:05 -0600",
+                                    "shift_3": 0.021978021978022,
+                                    "shift_90": -0.211864406779661,
+                                    "shift_365": -0.03125,
+                                    "high": 1.25,
+                                    "average": 0.93,
+                                    "shift": -0.0106382978723404
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Simorgh, Bird of Ancestry",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN039",
+                        "name": "Light of Destruction",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0909090909090909,
+                                    "shift_7": -0.0103092783505155,
+                                    "shift_30": 0.0212765957446809,
+                                    "shift_21": 0.0,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 22:20:51 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0212765957446809,
+                                    "shift_365": -0.0204081632653061,
+                                    "high": 5.24,
+                                    "average": 0.96,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Winged Beast / Effect"
+            },
+            {
+                "name": "Solar Recharge",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN052",
+                        "name": "Light of Destruction",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0288184438040346,
+                                    "shift_7": 0.00898203592814371,
+                                    "shift_30": -0.0767123287671233,
+                                    "shift_21": -0.0817438692098093,
+                                    "low": 1.7,
+                                    "updated_at": "2018-09-19 08:37:07 -0600",
+                                    "shift_3": 0.00898203592814371,
+                                    "shift_90": -0.0612813370473538,
+                                    "shift_365": -0.362948960302457,
+                                    "high": 28.37,
+                                    "average": 3.37,
+                                    "shift": -0.0029585798816568
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Solar Recharge",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN052",
+                        "name": "Light of Destruction",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.279158699808795,
+                                    "shift_7": -0.0228821811100292,
+                                    "shift_30": 0.131979695431472,
+                                    "shift_21": -0.0401721664275466,
+                                    "low": 9.95,
+                                    "updated_at": "2018-09-19 08:37:08 -0600",
+                                    "shift_3": 0.0024975024975025,
+                                    "shift_90": 0.260678391959799,
+                                    "shift_365": -0.225395600154381,
+                                    "high": 75.0,
+                                    "average": 20.08,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Space Gift",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN046",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.113924050632911,
+                                    "shift_7": -0.0112359550561798,
+                                    "shift_30": 0.0352941176470588,
+                                    "shift_21": 0.0352941176470588,
+                                    "low": 0.92,
+                                    "updated_at": "2018-09-19 08:08:36 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.113924050632911,
+                                    "shift_365": 0.1,
+                                    "high": 2.42,
+                                    "average": 0.88,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Spell Gear",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN049",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0549450549450549,
+                                    "shift_7": 0.0434782608695652,
+                                    "shift_30": 0.0434782608695652,
+                                    "shift_21": 0.0434782608695652,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 08:10:57 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0303030303030303,
+                                    "shift_365": -0.555555555555556,
+                                    "high": 2.15,
+                                    "average": 0.96,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Substitoad",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN028",
+                        "name": "Light of Destruction",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.392857142857143,
+                                    "shift_7": 0.0684931506849315,
+                                    "shift_30": 0.24468085106383,
+                                    "shift_21": 0.264864864864865,
+                                    "low": 1.0,
+                                    "updated_at": "2018-09-18 22:28:37 -0600",
+                                    "shift_3": 0.04,
+                                    "shift_90": 0.509677419354839,
+                                    "shift_365": 0.206185567010309,
+                                    "high": 19.0,
+                                    "average": 2.34,
+                                    "shift": 0.04
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Aqua / Effect"
+            },
+            {
+                "name": "Summon Limit",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN079",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.491071428571429,
+                                    "shift_7": 0.050314465408805,
+                                    "shift_30": -0.0511363636363636,
+                                    "shift_21": 0.00602409638554217,
+                                    "low": 1.24,
+                                    "updated_at": "2018-09-19 10:07:41 -0600",
+                                    "shift_3": 0.0569620253164557,
+                                    "shift_90": 0.0636942675159236,
+                                    "shift_365": -0.304166666666667,
+                                    "high": 14.79,
+                                    "average": 1.67,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Super-Ancient Dinobeast",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN088",
+                        "name": "Light of Destruction",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0354330708661417,
+                                    "shift_7": -0.0868055555555556,
+                                    "shift_30": -0.108474576271186,
+                                    "shift_21": -0.193251533742331,
+                                    "low": 1.88,
+                                    "updated_at": "2018-09-19 07:27:13 -0600",
+                                    "shift_3": -0.0112781954887218,
+                                    "shift_90": -0.178125,
+                                    "shift_365": -0.193251533742331,
+                                    "high": 7.77,
+                                    "average": 2.63,
+                                    "shift": -0.0112781954887218
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dinosaur / Effect"
+            },
+            {
+                "name": "Super-Ancient Dinobeast",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN088",
+                        "name": "Light of Destruction",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0677966101694915,
+                                    "shift_7": -0.263392857142857,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0185185185185185,
+                                    "low": 1.5,
+                                    "updated_at": "2018-09-19 07:27:15 -0600",
+                                    "shift_3": 0.00609756097560976,
+                                    "shift_90": 0.0855263157894737,
+                                    "shift_365": -0.285714285714286,
+                                    "high": 19.74,
+                                    "average": 1.65,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dinosaur / Effect"
+            },
+            {
+                "name": "The Lady in Wight",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN038",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0571428571428571,
+                                    "shift_7": 0.0784313725490196,
+                                    "shift_30": 0.0248447204968944,
+                                    "shift_21": 0.0714285714285714,
+                                    "low": 1.0,
+                                    "updated_at": "2018-09-18 22:45:12 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.222222222222222,
+                                    "shift_365": 0.03125,
+                                    "high": 20.43,
+                                    "average": 1.65,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Zombie / Effect"
+            },
+            {
+                "name": "Tour of Doom",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN068",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.169642857142857,
+                                    "shift_7": 0.00769230769230769,
+                                    "shift_30": -0.0150375939849624,
+                                    "shift_21": -0.0150375939849624,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 21:08:12 -0600",
+                                    "shift_3": 0.00769230769230769,
+                                    "shift_90": 0.149122807017544,
+                                    "shift_365": 0.201834862385321,
+                                    "high": 18.28,
+                                    "average": 1.31,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Tualatin",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN090",
+                        "name": "Light of Destruction",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.768817204301075,
+                                    "shift_7": 0.0612903225806452,
+                                    "shift_30": 0.0769230769230769,
+                                    "shift_21": 0.0528,
+                                    "low": 6.61,
+                                    "updated_at": "2018-09-19 09:35:52 -0600",
+                                    "shift_3": 0.06645056726094,
+                                    "shift_90": 0.612745098039216,
+                                    "shift_365": 0.691516709511568,
+                                    "high": 21.07,
+                                    "average": 6.58,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Ultimate Ancient Gear Golem",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN043",
+                        "name": "Light of Destruction",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.147335423197492,
+                                    "shift_7": 0.003690036900369,
+                                    "shift_30": -0.024390243902439,
+                                    "shift_21": 0.0,
+                                    "low": 4.99,
+                                    "updated_at": "2018-09-19 06:34:05 -0600",
+                                    "shift_3": -0.0137781000725163,
+                                    "shift_90": -0.076714188730482,
+                                    "shift_365": -0.513242662848962,
+                                    "high": 45.84,
+                                    "average": 13.6,
+                                    "shift": 0.0295230885692657
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Fusion"
+            },
+            {
+                "name": "Ultimate Ancient Gear Golem",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN043",
+                        "name": "Light of Destruction",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0760626398210291,
+                                    "shift_7": 0.0594713656387665,
+                                    "shift_30": -0.099812850904554,
+                                    "shift_21": 0.0176304654442877,
+                                    "low": 9.47,
+                                    "updated_at": "2018-09-19 06:34:07 -0600",
+                                    "shift_3": 0.0441389290882779,
+                                    "shift_90": 0.0736607142857143,
+                                    "shift_365": -0.430094786729858,
+                                    "high": 59.99,
+                                    "average": 14.43,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Fusion"
+            },
+            {
+                "name": "Unifrog",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN029",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0340909090909091,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.63,
+                                    "updated_at": "2018-09-18 19:36:25 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0111111111111111,
+                                    "shift_365": -0.0808080808080808,
+                                    "high": 18.28,
+                                    "average": 0.91,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Aqua / Effect"
+            },
+            {
+                "name": "Union Attack",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN093",
+                        "name": "Light of Destruction",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0729166666666667,
+                                    "shift_7": 0.0229885057471264,
+                                    "shift_30": 0.0113636363636364,
+                                    "shift_21": 0.0113636363636364,
+                                    "low": 0.53,
+                                    "updated_at": "2018-09-18 20:05:09 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.021978021978022,
+                                    "shift_365": -0.0531914893617021,
+                                    "high": 12.78,
+                                    "average": 0.89,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Vanquishing Light",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN089",
+                        "name": "Light of Destruction",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.20353982300885,
+                                    "shift_7": -0.010989010989011,
+                                    "shift_30": -0.032258064516129,
+                                    "shift_21": -0.032258064516129,
+                                    "low": 0.6,
+                                    "updated_at": "2018-09-19 08:35:10 -0600",
+                                    "shift_3": -0.0217391304347826,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.0909090909090909,
+                                    "high": 7.23,
+                                    "average": 0.9,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Counter",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Volcanic Queen",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN005",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0530973451327434,
+                                    "shift_7": 0.00943396226415094,
+                                    "shift_30": -0.0530973451327434,
+                                    "shift_21": -0.0695652173913043,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 23:01:11 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0272727272727273,
+                                    "shift_365": -0.327044025157233,
+                                    "high": 5.49,
+                                    "average": 1.07,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Pyro / Effect"
+            },
+            {
+                "name": "Wetlands",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN054",
+                        "name": "Light of Destruction",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.234972677595628,
+                                    "shift_7": -0.125,
+                                    "shift_30": -0.0849673202614379,
+                                    "shift_21": -0.0849673202614379,
+                                    "low": 0.81,
+                                    "updated_at": "2018-09-19 09:53:08 -0600",
+                                    "shift_3": -0.0789473684210526,
+                                    "shift_90": 0.037037037037037,
+                                    "shift_365": -0.259259259259259,
+                                    "high": 19.07,
+                                    "average": 1.4,
+                                    "shift": -0.0728476821192053
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Field",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Wulf, Lightsworn Beast",
+                "numbers": [
+                    {
+                        "print_tag": "LODT-EN023",
+                        "name": "Light of Destruction",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.409090909090909,
+                                    "shift_7": 0.0317460317460317,
+                                    "shift_30": -0.0758293838862559,
+                                    "shift_21": -0.117647058823529,
+                                    "low": 1.7,
+                                    "updated_at": "2018-09-19 09:53:35 -0600",
+                                    "shift_3": 0.015625,
+                                    "shift_90": -0.303571428571429,
+                                    "shift_365": -0.416167664670659,
+                                    "high": 26.08,
+                                    "average": 1.95,
+                                    "shift": 0.015625
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Beast-Warrior / Effect"
+            }
+        ],
+        "highest": 2001.3000000000002,
+        "average": 390.83999999999975,
+        "tcg_booster_values": {
+            "average": 4.24,
+            "low": 3.6799999999999997,
+            "high": 40.53
+        },
+        "lowest": 268.1500000000001
+    },
+    "status": "success"
+}

@@ -1,0 +1,3799 @@
+{
+    "data": {
+        "rarities": {
+            "Short Print": 4,
+            "Super Rare": 14,
+            "Secret Rare": 8,
+            "Ultimate Rare": 10,
+            "Common": 44,
+            "Ultra Rare": 10,
+            "Ghost Rare": 1,
+            "Rare": 20
+        },
+        "cards": [
+            {
+                "name": "Bamboo Scrap",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN075",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.216981132075472,
+                                    "shift_7": 0.0121951219512195,
+                                    "shift_30": 0.0121951219512195,
+                                    "shift_21": 0.0121951219512195,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 08:50:52 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0119047619047619,
+                                    "shift_365": -0.216981132075472,
+                                    "high": 2.46,
+                                    "average": 0.83,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Battle Mania",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN063",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.123287671232877,
+                                    "shift_7": -0.0238095238095238,
+                                    "shift_30": 0.32258064516129,
+                                    "shift_21": 0.0379746835443038,
+                                    "low": 2.99,
+                                    "updated_at": "2018-09-18 22:41:17 -0600",
+                                    "shift_3": 0.020746887966805,
+                                    "shift_90": 0.32972972972973,
+                                    "shift_365": 0.351648351648352,
+                                    "high": 23.3,
+                                    "average": 2.46,
+                                    "shift": 0.020746887966805
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Black Garden",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN048",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.785714285714286,
+                                    "shift_7": 1.33739837398374,
+                                    "shift_30": 1.63761467889908,
+                                    "shift_21": 1.79126213592233,
+                                    "low": 4.61,
+                                    "updated_at": "2018-09-19 08:53:10 -0600",
+                                    "shift_3": 0.16869918699187,
+                                    "shift_90": 0.879084967320261,
+                                    "shift_365": 0.349765258215962,
+                                    "high": 8.98,
+                                    "average": 5.75,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Field",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Black Rose Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN039",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.234718826405868,
+                                    "shift_7": 0.00198412698412698,
+                                    "shift_30": 0.0181451612903226,
+                                    "shift_21": 0.0120240480961924,
+                                    "low": 4.52,
+                                    "updated_at": "2018-09-19 12:14:49 -0600",
+                                    "shift_3": 0.0140562248995984,
+                                    "shift_90": 0.137387387387387,
+                                    "shift_365": 0.379781420765027,
+                                    "high": 399.99,
+                                    "average": 5.05,
+                                    "shift": 0.0433884297520661
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Synchro"
+            },
+            {
+                "name": "Black Rose Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN039",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.122120542757968,
+                                    "shift_7": 0.0122402504981497,
+                                    "shift_30": -0.0241492864983535,
+                                    "shift_21": 0.77356608478803,
+                                    "low": 19.35,
+                                    "updated_at": "2018-09-19 09:19:45 -0600",
+                                    "shift_3": 0.807829181494662,
+                                    "shift_90": -0.146218487394958,
+                                    "shift_365": 1.20732464307883,
+                                    "high": 107.71,
+                                    "average": 35.56,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Synchro"
+            },
+            {
+                "name": "Black Rose Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN039",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Ghost Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.393924152499748,
+                                    "shift_7": -0.00871997367555117,
+                                    "shift_30": -0.0873977582550742,
+                                    "shift_21": -0.0791685771053034,
+                                    "low": 45.22,
+                                    "updated_at": "2018-09-19 11:32:18 -0600",
+                                    "shift_3": 0.00651520213832275,
+                                    "shift_90": -0.0217567786978406,
+                                    "shift_365": -0.298276263685069,
+                                    "high": 525.0,
+                                    "average": 60.25,
+                                    "shift": -0.000497677504976775
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Synchro"
+            },
+            {
+                "name": "Botanical Girl",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN027",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0760869565217391,
+                                    "shift_7": -0.0229885057471264,
+                                    "shift_30": 0.0,
+                                    "shift_21": -0.0116279069767442,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-12 01:19:03 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0229885057471264,
+                                    "shift_365": -0.0116279069767442,
+                                    "high": 1.33,
+                                    "average": 0.85,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Plant / Effect"
+            },
+            {
+                "name": "Botanical Lion",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN099",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0294117647058824,
+                                    "shift_7": -0.01,
+                                    "shift_30": 0.03125,
+                                    "shift_21": 0.03125,
+                                    "low": 0.55,
+                                    "updated_at": "2018-09-18 21:35:06 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.0917431192660551,
+                                    "high": 16.18,
+                                    "average": 0.99,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Plant / Effect"
+            },
+            {
+                "name": "Cactus Fighter",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN082",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0631578947368421,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0113636363636364,
+                                    "shift_21": 0.0,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-18 22:45:10 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.534031413612565,
+                                    "high": 4.98,
+                                    "average": 0.89,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Plant / Effect"
+            },
+            {
+                "name": "Card Rotator",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN045",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.163636363636364,
+                                    "shift_7": 0.0337078651685393,
+                                    "shift_30": 0.010989010989011,
+                                    "shift_21": 0.010989010989011,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 06:36:15 -0600",
+                                    "shift_3": 0.0337078651685393,
+                                    "shift_90": -0.0416666666666667,
+                                    "shift_365": -0.14018691588785,
+                                    "high": 1.5,
+                                    "average": 0.92,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Comrade Swordsman of Landstar",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN033",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0526315789473684,
+                                    "shift_7": 0.0526315789473684,
+                                    "shift_30": 0.0416666666666667,
+                                    "shift_21": 0.0416666666666667,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 22:49:56 -0600",
+                                    "shift_3": 0.0416666666666667,
+                                    "shift_90": 0.0526315789473684,
+                                    "shift_365": -0.509803921568627,
+                                    "high": 1.5,
+                                    "average": 1.0,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Tuner"
+            },
+            {
+                "name": "Confusion Chaff",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN064",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0188679245283019,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.00970873786407767,
+                                    "shift_21": 0.00970873786407767,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 04:03:31 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.168539325842697,
+                                    "shift_365": 0.268292682926829,
+                                    "high": 1.99,
+                                    "average": 1.04,
+                                    "shift": 0.168539325842697
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Copy Plant",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN005",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0465116279069767,
+                                    "shift_7": 0.0112359550561798,
+                                    "shift_30": 0.0,
+                                    "shift_21": -0.0217391304347826,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 22:50:49 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0344827586206897,
+                                    "shift_365": -0.583333333333333,
+                                    "high": 19.22,
+                                    "average": 0.9,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Plant / Tuner"
+            },
+            {
+                "name": "Cursed Fig",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN028",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Short Print",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0363636363636364,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0178571428571429,
+                                    "low": 0.57,
+                                    "updated_at": "2018-09-18 22:52:35 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.1875,
+                                    "high": 1.38,
+                                    "average": 1.15,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Plant / Effect"
+            },
+            {
+                "name": "DNA Checkup",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN078",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.160377358490566,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0111111111111111,
+                                    "shift_21": -0.0111111111111111,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 01:29:43 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0113636363636364,
+                                    "shift_365": 0.072289156626506,
+                                    "high": 1.33,
+                                    "average": 0.89,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Doomkaiser Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN043",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.441919191919192,
+                                    "shift_7": -0.035472972972973,
+                                    "shift_30": -0.0138169257340242,
+                                    "shift_21": -0.0138169257340242,
+                                    "low": 5.05,
+                                    "updated_at": "2018-09-19 04:21:48 -0600",
+                                    "shift_3": 0.00528169014084507,
+                                    "shift_90": 0.288939051918736,
+                                    "shift_365": 0.254945054945055,
+                                    "high": 24.15,
+                                    "average": 5.71,
+                                    "shift": 0.10873786407767
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Zombie / Synchro"
+            },
+            {
+                "name": "Doomkaiser Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN043",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0784810126582278,
+                                    "shift_7": -0.00699300699300699,
+                                    "shift_30": 0.0118764845605701,
+                                    "shift_21": -0.0184331797235023,
+                                    "low": 4.0,
+                                    "updated_at": "2018-09-19 04:21:49 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.105042016806723,
+                                    "shift_365": 0.0167064439140811,
+                                    "high": 24.18,
+                                    "average": 4.27,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Zombie / Synchro"
+            },
+            {
+                "name": "Doppelganger",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN070",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.150943396226415,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0112359550561798,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 09:22:15 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.518716577540107,
+                                    "high": 1.33,
+                                    "average": 0.9,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Elemental HERO Divine Neos",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN098",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0421836228287841,
+                                    "shift_7": -0.0497737556561086,
+                                    "shift_30": -0.0687361419068736,
+                                    "shift_21": -0.0645879732739421,
+                                    "low": 2.95,
+                                    "updated_at": "2018-09-19 11:16:27 -0600",
+                                    "shift_3": -0.0389016018306636,
+                                    "shift_90": -0.601518026565465,
+                                    "shift_365": 0.102362204724409,
+                                    "high": 25.77,
+                                    "average": 4.2,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Fusion"
+            },
+            {
+                "name": "Everliving Underworld Cannon",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN060",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0434782608695652,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 00:02:13 -0600",
+                                    "shift_3": -0.0222222222222222,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0,
+                                    "high": 1.15,
+                                    "average": 0.88,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Factory of 100 Machines",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN049",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0602409638554217,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0126582278481013,
+                                    "shift_21": 0.0,
+                                    "low": 0.42,
+                                    "updated_at": "2018-09-18 20:17:38 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.0602409638554217,
+                                    "high": 19.0,
+                                    "average": 0.78,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Fragrance Storm",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN058",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0102040816326531,
+                                    "shift_7": 0.0104166666666667,
+                                    "shift_30": 0.0319148936170213,
+                                    "shift_21": 0.0,
+                                    "low": 0.35,
+                                    "updated_at": "2018-09-18 20:20:04 -0600",
+                                    "shift_3": 0.0104166666666667,
+                                    "shift_90": 0.0659340659340659,
+                                    "shift_365": -0.0761904761904762,
+                                    "high": 1.66,
+                                    "average": 0.97,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Gadget Driver",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN014",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": 0.010752688172043,
+                                    "shift_30": 0.032967032967033,
+                                    "shift_21": 0.010752688172043,
+                                    "low": 0.48,
+                                    "updated_at": "2018-09-18 21:29:30 -0600",
+                                    "shift_3": 0.010752688172043,
+                                    "shift_90": 0.0217391304347826,
+                                    "shift_365": 0.032967032967033,
+                                    "high": 8.98,
+                                    "average": 0.94,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Gadget Hauler",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN013",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0212765957446809,
+                                    "shift_7": 0.0337078651685393,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.010989010989011,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 01:54:51 -0600",
+                                    "shift_3": 0.0337078651685393,
+                                    "shift_90": -0.010752688172043,
+                                    "shift_365": 0.0337078651685393,
+                                    "high": 2.29,
+                                    "average": 0.92,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Giant Trap Hole",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN080",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0714285714285714,
+                                    "shift_7": 0.012987012987013,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.012987012987013,
+                                    "low": 0.49,
+                                    "updated_at": "2018-09-18 21:28:45 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0126582278481013,
+                                    "shift_365": -0.113636363636364,
+                                    "high": 1.1,
+                                    "average": 0.78,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Gigantic Cephalotus",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN025",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.190909090909091,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 19:22:45 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0470588235294118,
+                                    "high": 8.98,
+                                    "average": 0.89,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Plant / Effect"
+            },
+            {
+                "name": "Gladiator Beast Retiari",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN086",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0840950639853748,
+                                    "shift_7": 0.0682302771855011,
+                                    "shift_30": -0.00397614314115308,
+                                    "shift_21": -0.0137795275590551,
+                                    "low": 4.24,
+                                    "updated_at": "2018-09-18 21:52:17 -0600",
+                                    "shift_3": 0.01417004048583,
+                                    "shift_90": -0.153716216216216,
+                                    "shift_365": -0.116402116402116,
+                                    "high": 20.52,
+                                    "average": 5.02,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Aqua / Effect"
+            },
+            {
+                "name": "Goblin Decoy Squad",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN032",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.165137614678899,
+                                    "shift_7": 0.0224719101123595,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.49,
+                                    "updated_at": "2018-09-19 07:02:05 -0600",
+                                    "shift_3": 0.0224719101123595,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0340909090909091,
+                                    "high": 9.52,
+                                    "average": 0.91,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Goka, the Pyre of Malice",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN095",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0337078651685393,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.010752688172043,
+                                    "shift_21": 0.0,
+                                    "low": 0.52,
+                                    "updated_at": "2018-09-18 20:37:35 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0416666666666667,
+                                    "shift_365": 0.0574712643678161,
+                                    "high": 29.17,
+                                    "average": 0.92,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Zombie / Effect"
+            },
+            {
+                "name": "Gozen Match",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN079",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.94308943089431,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0498687664041995,
+                                    "shift_21": 0.00555555555555556,
+                                    "low": 3.0,
+                                    "updated_at": "2018-09-19 08:17:10 -0600",
+                                    "shift_3": 0.00835654596100279,
+                                    "shift_90": 1.66176470588235,
+                                    "shift_365": 1.78461538461538,
+                                    "high": 20.53,
+                                    "average": 3.62,
+                                    "shift": -0.0216216216216216
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Hanewata",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN034",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.048689138576779,
+                                    "shift_7": 0.003584229390681,
+                                    "shift_30": 0.0256410256410256,
+                                    "shift_21": -0.0344827586206897,
+                                    "low": 1.15,
+                                    "updated_at": "2018-09-19 08:25:33 -0600",
+                                    "shift_3": -0.0175438596491228,
+                                    "shift_90": 0.458333333333333,
+                                    "shift_365": -0.44,
+                                    "high": 8.33,
+                                    "average": 2.8,
+                                    "shift": -0.00355871886120996
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Tuner"
+            },
+            {
+                "name": "Healing Wave Generator",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN001",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0210526315789474,
+                                    "shift_7": 0.021978021978022,
+                                    "shift_30": -0.0106382978723404,
+                                    "shift_21": -0.0106382978723404,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 19:29:58 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0106382978723404,
+                                    "shift_365": -0.532663316582915,
+                                    "high": 1.99,
+                                    "average": 0.93,
+                                    "shift": -0.0106382978723404
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Horseytail",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN026",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.188679245283019,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.49,
+                                    "updated_at": "2018-09-19 03:38:40 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0114942528735632,
+                                    "shift_365": 0.0238095238095238,
+                                    "high": 1.33,
+                                    "average": 0.86,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Plant / Effect"
+            },
+            {
+                "name": "Iron Chain Blaster",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN019",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.247706422018349,
+                                    "shift_7": 0.0379746835443038,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.39,
+                                    "updated_at": "2018-09-19 11:05:22 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0123456790123457,
+                                    "shift_365": -0.0465116279069767,
+                                    "high": 1.5,
+                                    "average": 0.82,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Iron Chain Coil",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN020",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.157407407407407,
+                                    "shift_7": -0.0108695652173913,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.43,
+                                    "updated_at": "2018-09-19 11:05:24 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0111111111111111,
+                                    "shift_365": 0.0459770114942529,
+                                    "high": 8.98,
+                                    "average": 0.91,
+                                    "shift": -0.0108695652173913
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Tuner"
+            },
+            {
+                "name": "Iron Chain Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN040",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.123711340206186,
+                                    "shift_7": -0.018018018018018,
+                                    "shift_30": 0.135416666666667,
+                                    "shift_21": 0.00925925925925926,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-19 11:05:24 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.147368421052632,
+                                    "shift_365": -0.018018018018018,
+                                    "high": 19.07,
+                                    "average": 1.09,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Synchro"
+            },
+            {
+                "name": "Iron Chain Repairman",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN017",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0208333333333333,
+                                    "shift_7": 0.0103092783505155,
+                                    "shift_30": 0.0103092783505155,
+                                    "shift_21": 0.0103092783505155,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-19 11:05:25 -0600",
+                                    "shift_3": 0.0103092783505155,
+                                    "shift_90": -0.0841121495327103,
+                                    "shift_365": -0.514851485148515,
+                                    "high": 8.98,
+                                    "average": 0.98,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Iron Chain Snake",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN018",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0470588235294118,
+                                    "shift_7": -0.0240963855421687,
+                                    "shift_30": 0.0125,
+                                    "shift_21": -0.0121951219512195,
+                                    "low": 0.28,
+                                    "updated_at": "2018-09-19 11:05:33 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0125,
+                                    "shift_365": -0.0689655172413793,
+                                    "high": 18.35,
+                                    "average": 0.81,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Reptile / Effect"
+            },
+            {
+                "name": "Jade Knight",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN037",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Short Print",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0618556701030928,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0720720720720721,
+                                    "shift_21": -0.0636363636363636,
+                                    "low": 0.65,
+                                    "updated_at": "2018-09-18 22:59:35 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0462962962962963,
+                                    "shift_365": 0.0842105263157895,
+                                    "high": 1.53,
+                                    "average": 1.03,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Lineage of Destruction",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN069",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.043956043956044,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0113636363636364,
+                                    "shift_21": 0.0,
+                                    "low": 0.43,
+                                    "updated_at": "2018-09-19 02:36:47 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0235294117647059,
+                                    "high": 1.33,
+                                    "average": 0.87,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Machine Lord \u00dcr",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN093",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.094017094017094,
+                                    "shift_7": 0.00952380952380952,
+                                    "shift_30": 0.0192307692307692,
+                                    "shift_21": 0.0,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-19 11:13:18 -0600",
+                                    "shift_3": 0.00952380952380952,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.178294573643411,
+                                    "high": 19.24,
+                                    "average": 1.06,
+                                    "shift": 0.00952380952380952
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Mad Archfiend",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN003",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0117647058823529,
+                                    "shift_7": -0.0344827586206897,
+                                    "shift_30": -0.0117647058823529,
+                                    "shift_21": -0.0232558139534884,
+                                    "low": 0.5,
+                                    "updated_at": "2018-09-19 09:57:04 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0232558139534884,
+                                    "shift_365": -0.0561797752808989,
+                                    "high": 18.35,
+                                    "average": 0.84,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Effect"
+            },
+            {
+                "name": "Mark of the Rose",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN047",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0217391304347826,
+                                    "shift_7": 0.0112359550561798,
+                                    "shift_30": 0.0465116279069767,
+                                    "shift_21": 0.0112359550561798,
+                                    "low": 1.0,
+                                    "updated_at": "2018-09-19 06:21:59 -0600",
+                                    "shift_3": 0.0526315789473684,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0909090909090909,
+                                    "high": 6.35,
+                                    "average": 1.8,
+                                    "shift": 0.0526315789473684
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Mark of the Rose",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN047",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.268,
+                                    "shift_7": 0.00273972602739726,
+                                    "shift_30": -0.0827067669172932,
+                                    "shift_21": 0.0733137829912024,
+                                    "low": 3.99,
+                                    "updated_at": "2018-09-19 06:22:00 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0567010309278351,
+                                    "shift_365": 0.440944881889764,
+                                    "high": 28.21,
+                                    "average": 3.66,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Miracle Fertilizer",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN057",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.104,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-19 12:05:12 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0666666666666667,
+                                    "shift_365": -0.176470588235294,
+                                    "high": 20.51,
+                                    "average": 1.12,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Morphtransition",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN071",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": 0.0227272727272727,
+                                    "shift_30": 0.0714285714285714,
+                                    "shift_21": 0.0588235294117647,
+                                    "low": 0.42,
+                                    "updated_at": "2018-09-19 05:17:06 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0975609756097561,
+                                    "shift_365": 0.0588235294117647,
+                                    "high": 1.33,
+                                    "average": 0.9,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Morphtronic Accelerator",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN050",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.172043010752688,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.147368421052632,
+                                    "shift_21": 0.172043010752688,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-18 20:26:01 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.184782608695652,
+                                    "shift_365": -0.432291666666667,
+                                    "high": 4.98,
+                                    "average": 1.09,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Morphtronic Boomboxen",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN009",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0769230769230769,
+                                    "shift_7": 0.0181818181818182,
+                                    "shift_30": 0.244444444444444,
+                                    "shift_21": 0.166666666666667,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-19 11:25:25 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.258426966292135,
+                                    "shift_365": -0.0743801652892562,
+                                    "high": 7.99,
+                                    "average": 1.12,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Morphtronic Cameran",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN010",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0232558139534884,
+                                    "shift_7": 0.0476190476190476,
+                                    "shift_30": 0.0476190476190476,
+                                    "shift_21": 0.0476190476190476,
+                                    "low": 0.43,
+                                    "updated_at": "2018-09-19 11:25:25 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0352941176470588,
+                                    "shift_365": 0.0232558139534884,
+                                    "high": 1.99,
+                                    "average": 0.88,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Morphtronic Celfon",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN006",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.218390804597701,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0185185185185185,
+                                    "shift_21": 0.0,
+                                    "low": 0.35,
+                                    "updated_at": "2018-09-19 08:42:45 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.204545454545455,
+                                    "shift_365": -0.5,
+                                    "high": 1.11,
+                                    "average": 1.06,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Morphtronic Clocken",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN012",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.177777777777778,
+                                    "shift_7": 0.177777777777778,
+                                    "shift_30": 0.261904761904762,
+                                    "shift_21": 0.232558139534884,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:25:26 -0600",
+                                    "shift_3": 0.164835164835165,
+                                    "shift_90": 0.232558139534884,
+                                    "shift_365": 0.27710843373494,
+                                    "high": 1.78,
+                                    "average": 1.06,
+                                    "shift": 0.164835164835165
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Morphtronic Cord",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN051",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.22093023255814,
+                                    "shift_7": 0.00961538461538462,
+                                    "shift_30": 0.206896551724138,
+                                    "shift_21": 0.206896551724138,
+                                    "low": 0.43,
+                                    "updated_at": "2018-09-18 20:26:04 -0600",
+                                    "shift_3": 0.00961538461538462,
+                                    "shift_90": 0.235294117647059,
+                                    "shift_365": -0.00943396226415094,
+                                    "high": 19.0,
+                                    "average": 1.05,
+                                    "shift": 0.00961538461538462
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Morphtronic Datatron",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN008",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": 0.0224719101123595,
+                                    "shift_30": 0.0340909090909091,
+                                    "shift_21": 0.0224719101123595,
+                                    "low": 0.4,
+                                    "updated_at": "2018-09-19 11:25:30 -0600",
+                                    "shift_3": -0.0108695652173913,
+                                    "shift_90": 0.0340909090909091,
+                                    "shift_365": 0.0459770114942529,
+                                    "high": 1.5,
+                                    "average": 0.91,
+                                    "shift": -0.0108695652173913
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Pyro / Effect"
+            },
+            {
+                "name": "Morphtronic Engine",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN052",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.043010752688172,
+                                    "shift_7": 0.0348837209302326,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.42,
+                                    "updated_at": "2018-09-18 20:26:06 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0111111111111111,
+                                    "shift_365": 0.0470588235294118,
+                                    "high": 1.5,
+                                    "average": 0.89,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Morphtronic Magnen",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN007",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0697674418604651,
+                                    "shift_7": 0.0337078651685393,
+                                    "shift_30": 0.0823529411764706,
+                                    "shift_21": 0.0697674418604651,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:25:31 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.108433734939759,
+                                    "shift_365": 0.0337078651685393,
+                                    "high": 1.5,
+                                    "average": 0.92,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Thunder / Effect"
+            },
+            {
+                "name": "Morphtronic Monitron",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN072",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.129032258064516,
+                                    "shift_7": 0.00961538461538462,
+                                    "shift_30": 0.206896551724138,
+                                    "shift_21": 0.193181818181818,
+                                    "low": 0.43,
+                                    "updated_at": "2018-09-18 21:00:25 -0600",
+                                    "shift_3": 0.00961538461538462,
+                                    "shift_90": 0.206896551724138,
+                                    "shift_365": 0.193181818181818,
+                                    "high": 1.33,
+                                    "average": 1.05,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Morphtronic Radion",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN011",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.13265306122449,
+                                    "shift_7": 0.018348623853211,
+                                    "shift_30": 0.00909090909090909,
+                                    "shift_21": 0.193548387096774,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-19 11:25:33 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.206521739130435,
+                                    "shift_365": -0.00892857142857143,
+                                    "high": 4.96,
+                                    "average": 1.11,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Thunder / Effect"
+            },
+            {
+                "name": "Mosaic Manticore",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN094",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.132075471698113,
+                                    "shift_7": 0.010989010989011,
+                                    "shift_30": 0.010989010989011,
+                                    "shift_21": 0.010989010989011,
+                                    "low": 0.39,
+                                    "updated_at": "2018-09-19 11:26:03 -0600",
+                                    "shift_3": 0.010989010989011,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0,
+                                    "high": 18.35,
+                                    "average": 0.92,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Beast / Effect"
+            },
+            {
+                "name": "Neos Wiseman",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN097",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.258642765685019,
+                                    "shift_7": 0.16969696969697,
+                                    "shift_30": -0.111963190184049,
+                                    "shift_21": 0.733532934131736,
+                                    "low": 3.0,
+                                    "updated_at": "2018-09-19 11:57:34 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.186475409836066,
+                                    "shift_365": 0.0585009140767824,
+                                    "high": 18.99,
+                                    "average": 5.79,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Nettles",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN024",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.205607476635514,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0116279069767442,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:57:50 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0116279069767442,
+                                    "shift_365": -0.0449438202247191,
+                                    "high": 8.98,
+                                    "average": 0.85,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Plant / Tuner"
+            },
+            {
+                "name": "Night's End Sorcerer",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN087",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.118790496760259,
+                                    "shift_7": 0.0174563591022444,
+                                    "shift_30": -0.0467289719626168,
+                                    "shift_21": -0.0511627906976744,
+                                    "low": 1.59,
+                                    "updated_at": "2018-09-19 11:58:56 -0600",
+                                    "shift_3": 0.0174563591022444,
+                                    "shift_90": -0.0192307692307692,
+                                    "shift_365": -0.206225680933852,
+                                    "high": 21.23,
+                                    "average": 4.08,
+                                    "shift": 0.00740740740740741
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Tuner"
+            },
+            {
+                "name": "Omega Goggles",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN062",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Short Print",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.032967032967033,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0112359550561798,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 20:27:46 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0222222222222222,
+                                    "shift_365": -0.0736842105263158,
+                                    "high": 2.09,
+                                    "average": 0.88,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Overdrive Teleporter",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN083",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.175403225806452,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.039906103286385,
+                                    "shift_21": -0.260397830018083,
+                                    "low": 3.29,
+                                    "updated_at": "2018-09-19 11:54:51 -0600",
+                                    "shift_3": -0.0215311004784689,
+                                    "shift_90": -0.286212914485166,
+                                    "shift_365": -0.358934169278997,
+                                    "high": 26.84,
+                                    "average": 4.1,
+                                    "shift": 0.00245098039215686
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Psychic / Effect"
+            },
+            {
+                "name": "Paralyzing Chain",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN054",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.51980198019802,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0104166666666667,
+                                    "shift_21": 0.0,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-18 22:59:28 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.382165605095541,
+                                    "shift_365": -0.557077625570776,
+                                    "high": 8.98,
+                                    "average": 0.97,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Plaguespreader Zombie",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN031",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0879120879120879,
+                                    "shift_7": 0.0731707317073171,
+                                    "shift_30": 0.0702702702702703,
+                                    "shift_21": 0.0259067357512953,
+                                    "low": 1.69,
+                                    "updated_at": "2018-09-19 11:11:05 -0600",
+                                    "shift_3": 0.0702702702702703,
+                                    "shift_90": 0.103064066852368,
+                                    "shift_365": 0.0153846153846154,
+                                    "high": 51.6,
+                                    "average": 3.96,
+                                    "shift": 0.0050761421319797
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Zombie / Tuner"
+            },
+            {
+                "name": "Plaguespreader Zombie",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN031",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.196484620213434,
+                                    "shift_7": -0.0588235294117647,
+                                    "shift_30": 0.080168776371308,
+                                    "shift_21": -0.0354182366239638,
+                                    "low": 6.99,
+                                    "updated_at": "2018-09-18 11:26:34 -0600",
+                                    "shift_3": -0.0397599399849963,
+                                    "shift_90": 0.117903930131004,
+                                    "shift_365": -0.111727966689799,
+                                    "high": 62.98,
+                                    "average": 12.8,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Zombie / Tuner"
+            },
+            {
+                "name": "Plant Food Chain",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN076",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0229885057471264,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0111111111111111,
+                                    "shift_21": -0.021978021978022,
+                                    "low": 0.43,
+                                    "updated_at": "2018-09-18 21:18:21 -0600",
+                                    "shift_3": -0.0111111111111111,
+                                    "shift_90": 0.0595238095238095,
+                                    "shift_365": -0.0729166666666667,
+                                    "high": 1.33,
+                                    "average": 0.89,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Poison Chain",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN053",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.158878504672897,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 09:29:49 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0588235294117647,
+                                    "high": 18.35,
+                                    "average": 0.9,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Pollinosis",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN074",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0631578947368421,
+                                    "shift_7": -0.0111111111111111,
+                                    "shift_30": 0.0,
+                                    "shift_21": -0.021978021978022,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-19 03:18:56 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0229885057471264,
+                                    "shift_365": -0.11,
+                                    "high": 19.07,
+                                    "average": 0.89,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Counter",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Power Injector",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN021",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.196261682242991,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0114942528735632,
+                                    "shift_21": 0.0,
+                                    "low": 0.5,
+                                    "updated_at": "2018-09-19 12:09:34 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0114942528735632,
+                                    "shift_365": -0.0752688172043011,
+                                    "high": 1.33,
+                                    "average": 0.86,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Psychic / Effect"
+            },
+            {
+                "name": "Prideful Roar",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN067",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.157407407407407,
+                                    "shift_7": -0.0421052631578947,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-18 21:18:55 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0618556701030928,
+                                    "shift_365": -0.0108695652173913,
+                                    "high": 4.99,
+                                    "average": 0.91,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Psychic Jumper",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN023",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0736842105263158,
+                                    "shift_7": 0.0352941176470588,
+                                    "shift_30": 0.0114942528735632,
+                                    "shift_21": 0.0476190476190476,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 12:10:59 -0600",
+                                    "shift_3": 0.0476190476190476,
+                                    "shift_90": -0.0112359550561798,
+                                    "shift_365": 0.0476190476190476,
+                                    "high": 1.5,
+                                    "average": 0.88,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Psychic / Tuner"
+            },
+            {
+                "name": "Psychic Lifetrancer",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN041",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0515463917525773,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.010989010989011,
+                                    "shift_21": 0.010989010989011,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-19 12:10:59 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.59825327510917,
+                                    "shift_365": -0.566037735849057,
+                                    "high": 19.07,
+                                    "average": 0.92,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Psychic / Synchro"
+            },
+            {
+                "name": "Psychic Trigger",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN073",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0108695652173913,
+                                    "shift_7": 0.0111111111111111,
+                                    "shift_30": 0.0459770114942529,
+                                    "shift_21": 0.0459770114942529,
+                                    "low": 0.55,
+                                    "updated_at": "2018-09-19 06:20:15 -0600",
+                                    "shift_3": 0.0111111111111111,
+                                    "shift_90": 0.0224719101123595,
+                                    "shift_365": 0.0459770114942529,
+                                    "high": 19.07,
+                                    "average": 0.91,
+                                    "shift": 0.0224719101123595
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Psychokinesis",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN056",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.473958333333333,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.01,
+                                    "shift_21": 0.0,
+                                    "low": 0.61,
+                                    "updated_at": "2018-09-19 08:11:39 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0982142857142857,
+                                    "shift_365": 0.0631578947368421,
+                                    "high": 4.96,
+                                    "average": 1.01,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Psychokinesis",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN056",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.202614379084967,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.00826446280991736,
+                                    "shift_21": 0.0,
+                                    "low": 1.17,
+                                    "updated_at": "2018-09-19 08:11:39 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.115942028985507,
+                                    "shift_365": -0.134751773049645,
+                                    "high": 15.9,
+                                    "average": 1.22,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Puppet Master",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN090",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.19285714285714,
+                                    "shift_7": 0.0477815699658703,
+                                    "shift_30": 0.176245210727969,
+                                    "shift_21": 0.124542124542125,
+                                    "low": 1.02,
+                                    "updated_at": "2018-09-19 12:11:24 -0600",
+                                    "shift_3": 0.0267558528428094,
+                                    "shift_90": 1.2910447761194,
+                                    "shift_365": 0.228,
+                                    "high": 28.25,
+                                    "average": 3.07,
+                                    "shift": 0.0233333333333333
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Effect"
+            },
+            {
+                "name": "Pursuit Chaser",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN016",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.201834862385321,
+                                    "shift_7": 0.0357142857142857,
+                                    "shift_30": -0.0224719101123595,
+                                    "shift_21": 0.0,
+                                    "low": 0.52,
+                                    "updated_at": "2018-09-19 12:11:46 -0600",
+                                    "shift_3": 0.0357142857142857,
+                                    "shift_90": -0.0113636363636364,
+                                    "shift_365": 0.0235294117647059,
+                                    "high": 1.5,
+                                    "average": 0.87,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Queen of Thorns",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN042",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0647249190938511,
+                                    "shift_7": 0.0703703703703704,
+                                    "shift_30": 0.024822695035461,
+                                    "shift_21": 0.0823970037453183,
+                                    "low": 2.69,
+                                    "updated_at": "2018-09-19 08:16:53 -0600",
+                                    "shift_3": 0.0433212996389892,
+                                    "shift_90": -0.0136518771331058,
+                                    "shift_365": -0.201657458563536,
+                                    "high": 27.72,
+                                    "average": 2.89,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Plant / Synchro"
+            },
+            {
+                "name": "Rai-Jin",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN084",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0101010101010101,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0103092783505155,
+                                    "shift_21": 0.0103092783505155,
+                                    "low": 0.53,
+                                    "updated_at": "2018-09-19 11:41:26 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0103092783505155,
+                                    "shift_365": -0.537735849056604,
+                                    "high": 21.06,
+                                    "average": 0.98,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Thunder / Effect"
+            },
+            {
+                "name": "Rai-Mei",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN085",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0857142857142857,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0204081632653061,
+                                    "shift_21": -0.0204081632653061,
+                                    "low": 0.57,
+                                    "updated_at": "2018-09-09 03:41:11 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0303030303030303,
+                                    "shift_365": -0.142857142857143,
+                                    "high": 6.21,
+                                    "average": 0.96,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Thunder / Effect"
+            },
+            {
+                "name": "Red Ogre",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN096",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0206185567010309,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.03125,
+                                    "shift_21": 0.03125,
+                                    "low": 0.53,
+                                    "updated_at": "2018-09-19 11:43:27 -0600",
+                                    "shift_3": -0.01,
+                                    "shift_90": 0.0206185567010309,
+                                    "shift_365": -0.1,
+                                    "high": 2.42,
+                                    "average": 0.99,
+                                    "shift": -0.01
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Zombie / Effect"
+            },
+            {
+                "name": "Revival Gift",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN068",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.169811320754717,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 20:54:50 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0232558139534884,
+                                    "shift_365": -0.548717948717949,
+                                    "high": 2.19,
+                                    "average": 0.88,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Revived King Ha Des",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN044",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0136186770428016,
+                                    "shift_7": 0.05625,
+                                    "shift_30": -0.0193423597678917,
+                                    "shift_21": -0.0193423597678917,
+                                    "low": 2.99,
+                                    "updated_at": "2018-09-19 11:45:44 -0600",
+                                    "shift_3": 0.0221774193548387,
+                                    "shift_90": -0.0831826401446655,
+                                    "shift_365": 0.0810234541577825,
+                                    "high": 9.64,
+                                    "average": 5.07,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Zombie / Synchro"
+            },
+            {
+                "name": "Revived King Ha Des",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN044",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.4739336492891,
+                                    "shift_7": 0.0032258064516129,
+                                    "shift_30": -0.0126984126984127,
+                                    "shift_21": 0.00810372771474878,
+                                    "low": 5.9,
+                                    "updated_at": "2018-09-19 11:46:02 -0600",
+                                    "shift_3": -0.0111287758346582,
+                                    "shift_90": 0.0230263157894737,
+                                    "shift_365": 0.44988344988345,
+                                    "high": 13.49,
+                                    "average": 6.22,
+                                    "shift": -0.00160513643659711
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Zombie / Synchro"
+            },
+            {
+                "name": "Rose, Warrior of Revenge",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN000",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.132124352331606,
+                                    "shift_7": -0.0233236151603499,
+                                    "shift_30": -0.0175953079178886,
+                                    "shift_21": 0.0,
+                                    "low": 1.99,
+                                    "updated_at": "2018-09-11 05:12:00 -0600",
+                                    "shift_3": -0.0455840455840456,
+                                    "shift_90": 0.0244648318042813,
+                                    "shift_365": -0.109042553191489,
+                                    "high": 15.36,
+                                    "average": 3.35,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Tuner"
+            },
+            {
+                "name": "Rose, Warrior of Revenge",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN000",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.114441416893733,
+                                    "shift_7": 0.0848806366047745,
+                                    "shift_30": 0.0199501246882793,
+                                    "shift_21": 0.0328282828282828,
+                                    "low": 2.94,
+                                    "updated_at": "2018-09-19 11:48:18 -0600",
+                                    "shift_3": 0.079155672823219,
+                                    "shift_90": 0.175287356321839,
+                                    "shift_365": 0.0877659574468085,
+                                    "high": 15.85,
+                                    "average": 4.09,
+                                    "shift": 0.0225
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Tuner"
+            },
+            {
+                "name": "Search Striker",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN015",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.175257731958763,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-18 22:17:27 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.00884955752212389,
+                                    "shift_365": 0.266666666666667,
+                                    "high": 8.98,
+                                    "average": 1.15,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Secret Village of the Spellcasters",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN061",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.261822376009227,
+                                    "shift_7": -0.0153015301530153,
+                                    "shift_30": -0.135177865612648,
+                                    "shift_21": -0.0860484544695071,
+                                    "low": 7.5,
+                                    "updated_at": "2018-09-19 10:43:27 -0600",
+                                    "shift_3": 0.00274977085242896,
+                                    "shift_90": 0.25891829689298,
+                                    "shift_365": 0.41343669250646,
+                                    "high": 21.03,
+                                    "average": 10.94,
+                                    "shift": 0.0157845868152275
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Field",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Seed of Deception",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN046",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.146788990825688,
+                                    "shift_7": 0.0449438202247191,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0108695652173913,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 19:49:25 -0600",
+                                    "shift_3": 0.0449438202247191,
+                                    "shift_90": 0.0568181818181818,
+                                    "shift_365": -0.480446927374302,
+                                    "high": 1.5,
+                                    "average": 0.93,
+                                    "shift": -0.0106382978723404
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Seed of Flame",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN081",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": -0.0108695652173913,
+                                    "shift_30": -0.021505376344086,
+                                    "shift_21": 0.0,
+                                    "low": 0.52,
+                                    "updated_at": "2018-09-18 20:22:31 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0319148936170213,
+                                    "shift_365": 0.0581395348837209,
+                                    "high": 14.65,
+                                    "average": 0.91,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Plant / Effect"
+            },
+            {
+                "name": "Seed of Flame",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN081",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.00806451612903226,
+                                    "shift_7": -0.0238095238095238,
+                                    "shift_30": 0.0,
+                                    "shift_21": -0.0390625,
+                                    "low": 1.17,
+                                    "updated_at": "2018-09-18 20:22:49 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0610687022900763,
+                                    "shift_365": 0.0982142857142857,
+                                    "high": 19.0,
+                                    "average": 1.23,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Plant / Effect"
+            },
+            {
+                "name": "Storm Caller",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN022",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0495049504950495,
+                                    "shift_7": -0.111111111111111,
+                                    "shift_30": 0.0,
+                                    "shift_21": -0.0857142857142857,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 22:28:03 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0103092783505155,
+                                    "shift_365": 0.032258064516129,
+                                    "high": 24.74,
+                                    "average": 0.96,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Psychic / Effect"
+            },
+            {
+                "name": "Synchro Strike",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN066",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.010752688172043,
+                                    "shift_7": 0.0454545454545455,
+                                    "shift_30": 0.0222222222222222,
+                                    "shift_21": 0.010989010989011,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:50:59 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.010752688172043,
+                                    "shift_365": 0.0574712643678161,
+                                    "high": 1.5,
+                                    "average": 0.92,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Teleport",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN055",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0333333333333333,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0116279069767442,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:35:31 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0113636363636364,
+                                    "shift_365": 0.0116279069767442,
+                                    "high": 1.12,
+                                    "average": 0.87,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Tempest Magician",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN088",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0072992700729927,
+                                    "shift_7": -0.0779661016949153,
+                                    "shift_30": 0.208888888888889,
+                                    "shift_21": -0.0620689655172414,
+                                    "low": 2.98,
+                                    "updated_at": "2018-09-19 11:29:13 -0600",
+                                    "shift_3": -0.0571923743500867,
+                                    "shift_90": 0.25635103926097,
+                                    "shift_365": -0.260869565217391,
+                                    "high": 29.99,
+                                    "average": 5.44,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Synchro"
+            },
+            {
+                "name": "The White Stone of Legend",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN035",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Short Print",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.120300751879699,
+                                    "shift_7": -0.00847457627118644,
+                                    "shift_30": 0.0173913043478261,
+                                    "shift_21": -0.00847457627118644,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 10:50:25 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0330578512396694,
+                                    "shift_365": -0.170212765957447,
+                                    "high": 4.98,
+                                    "average": 1.17,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Tuner"
+            },
+            {
+                "name": "The World Tree",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN059",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.03,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.03,
+                                    "shift_21": -0.0102040816326531,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-18 20:12:21 -0600",
+                                    "shift_3": 0.0104166666666667,
+                                    "shift_90": -0.170940170940171,
+                                    "shift_365": -0.0490196078431373,
+                                    "high": 18.28,
+                                    "average": 0.97,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Tiger Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN036",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0638297872340425,
+                                    "shift_7": -0.0112359550561798,
+                                    "shift_30": -0.032967032967033,
+                                    "shift_21": -0.032967032967033,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-19 11:35:03 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0638297872340425,
+                                    "shift_365": -0.0736842105263158,
+                                    "high": 19.07,
+                                    "average": 0.88,
+                                    "shift": -0.0112359550561798
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Effect"
+            },
+            {
+                "name": "Time Machine",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN091",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.167613636363636,
+                                    "shift_7": -0.0345963756177924,
+                                    "shift_30": 0.155818540433925,
+                                    "shift_21": -0.159253945480631,
+                                    "low": 4.58,
+                                    "updated_at": "2018-09-19 04:22:58 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.169660678642715,
+                                    "shift_365": 0.487309644670051,
+                                    "high": 29.88,
+                                    "average": 5.86,
+                                    "shift": 0.418886198547215
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Trap of the Imperial Tomb",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN077",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.165217391304348,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0103092783505155,
+                                    "shift_21": 0.0,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-19 02:08:05 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0303030303030303,
+                                    "shift_365": -0.553488372093023,
+                                    "high": 8.98,
+                                    "average": 0.96,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Treacherous Trap Hole",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN089",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.313186813186813,
+                                    "shift_7": 0.518218623481781,
+                                    "shift_30": 0.198083067092652,
+                                    "shift_21": 0.536885245901639,
+                                    "low": 1.8,
+                                    "updated_at": "2018-09-19 08:10:51 -0600",
+                                    "shift_3": 0.436781609195402,
+                                    "shift_90": -0.277456647398844,
+                                    "shift_365": -0.261811023622047,
+                                    "high": 25.44,
+                                    "average": 3.75,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Turbo Synchron",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN002",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0425531914893617,
+                                    "shift_7": -0.010989010989011,
+                                    "shift_30": -0.010989010989011,
+                                    "shift_21": -0.0526315789473684,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-19 11:39:24 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0625,
+                                    "shift_365": -0.166666666666667,
+                                    "high": 18.35,
+                                    "average": 0.9,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Tuner"
+            },
+            {
+                "name": "Turbo Warrior",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN038",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.268041237113402,
+                                    "shift_7": -0.031496062992126,
+                                    "shift_30": -0.0238095238095238,
+                                    "shift_21": 0.0,
+                                    "low": 0.68,
+                                    "updated_at": "2018-09-19 11:39:29 -0600",
+                                    "shift_3": 0.0423728813559322,
+                                    "shift_90": 0.182692307692308,
+                                    "shift_365": 0.118181818181818,
+                                    "high": 19.07,
+                                    "average": 1.23,
+                                    "shift": -0.0538461538461538
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Synchro"
+            },
+            {
+                "name": "Turbo Warrior",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN038",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.246666666666667,
+                                    "shift_7": -0.096,
+                                    "shift_30": -0.130769230769231,
+                                    "shift_21": -0.1171875,
+                                    "low": 1.11,
+                                    "updated_at": "2018-09-19 11:39:42 -0600",
+                                    "shift_3": -0.096,
+                                    "shift_90": -0.0737704918032787,
+                                    "shift_365": -0.169117647058824,
+                                    "high": 21.78,
+                                    "average": 1.14,
+                                    "shift": -0.0813008130081301
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Synchro"
+            },
+            {
+                "name": "Tytannial, Princess of Camellias",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN029",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": 0.037037037037037,
+                                    "shift_30": 0.0467289719626168,
+                                    "shift_21": 0.037037037037037,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-19 09:09:27 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0566037735849057,
+                                    "shift_365": -0.0508474576271186,
+                                    "high": 21.23,
+                                    "average": 1.12,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Plant / Effect"
+            },
+            {
+                "name": "Tytannial, Princess of Camellias",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN029",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.95238095238095,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0524017467248908,
+                                    "shift_21": -0.0203160270880361,
+                                    "low": 2.97,
+                                    "updated_at": "2018-09-19 09:09:28 -0600",
+                                    "shift_3": -0.0091324200913242,
+                                    "shift_90": 0.247126436781609,
+                                    "shift_365": 1.24870466321244,
+                                    "high": 24.83,
+                                    "average": 4.34,
+                                    "shift": -0.0091324200913242
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Plant / Effect"
+            },
+            {
+                "name": "Urgent Tuning",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN065",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.106382978723404,
+                                    "shift_7": 0.0721649484536082,
+                                    "shift_30": 0.118279569892473,
+                                    "shift_21": 0.118279569892473,
+                                    "low": 0.61,
+                                    "updated_at": "2018-09-19 10:22:31 -0600",
+                                    "shift_3": 0.0721649484536082,
+                                    "shift_90": 0.0505050505050505,
+                                    "shift_365": -0.161290322580645,
+                                    "high": 5.24,
+                                    "average": 1.04,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Virus Cannon",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN092",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.128712871287129,
+                                    "shift_7": -0.0222222222222222,
+                                    "shift_30": -0.0222222222222222,
+                                    "shift_21": -0.0112359550561798,
+                                    "low": 0.5,
+                                    "updated_at": "2018-09-18 21:48:23 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0731707317073171,
+                                    "high": 20.16,
+                                    "average": 0.88,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Wall of Ivy",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN004",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.149532710280374,
+                                    "shift_7": 0.0340909090909091,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 21:28:18 -0600",
+                                    "shift_3": 0.0340909090909091,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0581395348837209,
+                                    "high": 1.5,
+                                    "average": 0.91,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Plant / Effect"
+            },
+            {
+                "name": "Zombie Mammoth",
+                "numbers": [
+                    {
+                        "print_tag": "CSOC-EN030",
+                        "name": "Crossroads of Chaos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0319148936170213,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0224719101123595,
+                                    "shift_21": 0.0111111111111111,
+                                    "low": 0.52,
+                                    "updated_at": "2018-09-18 19:23:34 -0600",
+                                    "shift_3": 0.0459770114942529,
+                                    "shift_90": 0.0340909090909091,
+                                    "shift_365": -0.5,
+                                    "high": 1.55,
+                                    "average": 0.91,
+                                    "shift": 0.0340909090909091
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Zombie / Effect"
+            }
+        ],
+        "highest": 2360.349999999999,
+        "average": 304.38000000000005,
+        "tcg_booster_values": {
+            "average": 3.42,
+            "low": 3.2800000000000002,
+            "high": 52.23
+        },
+        "lowest": 204.1800000000002
+    },
+    "status": "success"
+}

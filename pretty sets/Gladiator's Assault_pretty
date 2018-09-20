@@ -1,0 +1,3764 @@
+{
+    "data": {
+        "rarities": {
+            "Super Rare": 9,
+            "Secret Rare": 15,
+            "Ultimate Rare": 14,
+            "Common": 48,
+            "Ultra Rare": 5,
+            "Ghost Rare": 1,
+            "Rare": 18
+        },
+        "cards": [
+            {
+                "name": "\"A\" Cell Incubator",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN062",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0337078651685393,
+                                    "shift_7": -0.0114942528735632,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 20:43:44 -0600",
+                                    "shift_3": 0.0117647058823529,
+                                    "shift_90": 0.036144578313253,
+                                    "shift_365": -0.514124293785311,
+                                    "high": 5.06,
+                                    "average": 0.86,
+                                    "shift": -0.0114942528735632
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Alien Hypno",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN035",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.032967032967033,
+                                    "shift_7": 0.0476190476190476,
+                                    "shift_30": 0.0602409638554217,
+                                    "shift_21": 0.0602409638554217,
+                                    "low": 0.65,
+                                    "updated_at": "2018-09-18 21:36:38 -0600",
+                                    "shift_3": 0.0232558139534884,
+                                    "shift_90": 0.173333333333333,
+                                    "shift_365": 0.0352941176470588,
+                                    "high": 5.06,
+                                    "average": 0.88,
+                                    "shift": 0.0114942528735632
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Reptile / Gemini"
+            },
+            {
+                "name": "Alien Telepath",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN034",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.331877729257642,
+                                    "shift_7": 0.0304054054054054,
+                                    "shift_30": -0.138418079096045,
+                                    "shift_21": -0.207792207792208,
+                                    "low": 4.27,
+                                    "updated_at": "2018-09-18 21:36:28 -0600",
+                                    "shift_3": -0.0348101265822785,
+                                    "shift_90": 0.023489932885906,
+                                    "shift_365": -0.633413461538462,
+                                    "high": 21.15,
+                                    "average": 3.05,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Reptile / Effect"
+            },
+            {
+                "name": "An Unfortunate Report",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN080",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0631578947368421,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.021978021978022,
+                                    "shift_21": -0.021978021978022,
+                                    "low": 0.3,
+                                    "updated_at": "2018-09-18 19:42:09 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.0111111111111111,
+                                    "high": 1.24,
+                                    "average": 0.89,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Ancient Gear Knight",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN029",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0309278350515464,
+                                    "shift_7": 0.032967032967033,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.032967032967033,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-18 21:39:54 -0600",
+                                    "shift_3": 0.032967032967033,
+                                    "shift_90": -0.06,
+                                    "shift_365": -0.229508196721311,
+                                    "high": 2.42,
+                                    "average": 0.94,
+                                    "shift": -0.0105263157894737
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Gemini"
+            },
+            {
+                "name": "Cell Explosion Virus",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN076",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.134453781512605,
+                                    "shift_7": 0.0198019801980198,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0404040404040404,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 03:20:30 -0600",
+                                    "shift_3": 0.0198019801980198,
+                                    "shift_90": -0.019047619047619,
+                                    "shift_365": -0.127118644067797,
+                                    "high": 8.98,
+                                    "average": 1.03,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Chamberlain of the Six Samurai",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN001",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.181818181818182,
+                                    "shift_7": 0.0112359550561798,
+                                    "shift_30": 0.0227272727272727,
+                                    "shift_21": 0.0227272727272727,
+                                    "low": 0.65,
+                                    "updated_at": "2018-09-18 22:47:25 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0112359550561798,
+                                    "shift_365": 0.0465116279069767,
+                                    "high": 1.78,
+                                    "average": 0.9,
+                                    "shift": -0.010989010989011
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior"
+            },
+            {
+                "name": "Cloudian - Acid Cloud",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN010",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.043956043956044,
+                                    "shift_7": 0.0943396226415094,
+                                    "shift_30": 0.0807453416149068,
+                                    "shift_21": 0.0357142857142857,
+                                    "low": 1.24,
+                                    "updated_at": "2018-09-18 22:49:40 -0600",
+                                    "shift_3": -0.00571428571428571,
+                                    "shift_90": 0.0357142857142857,
+                                    "shift_365": -0.330769230769231,
+                                    "high": 8.98,
+                                    "average": 1.74,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Cloudian - Altus",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN012",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.339181286549708,
+                                    "shift_7": 0.0361990950226244,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0269058295964126,
+                                    "low": 0.59,
+                                    "updated_at": "2018-09-18 22:49:41 -0600",
+                                    "shift_3": 0.00881057268722467,
+                                    "shift_90": 0.293785310734463,
+                                    "shift_365": 0.293785310734463,
+                                    "high": 6.35,
+                                    "average": 2.29,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Cloudian - Cirrostratus",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN011",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.00680272108843537,
+                                    "shift_7": 0.00689655172413793,
+                                    "shift_30": -0.0201342281879195,
+                                    "shift_21": -0.0135135135135135,
+                                    "low": 2.95,
+                                    "updated_at": "2018-09-19 09:56:14 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0234113712374582,
+                                    "shift_365": 0.0895522388059701,
+                                    "high": 3.93,
+                                    "average": 2.92,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Cloudian - Eye of the Typhoon",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN005",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.76,
+                                    "shift_7": 0.0422960725075529,
+                                    "shift_30": 0.419753086419753,
+                                    "shift_21": 0.146179401993355,
+                                    "low": 1.04,
+                                    "updated_at": "2018-09-19 05:28:17 -0600",
+                                    "shift_3": 0.0454545454545455,
+                                    "shift_90": 2.0,
+                                    "shift_365": 2.08035714285714,
+                                    "high": 43.38,
+                                    "average": 3.45,
+                                    "shift": 0.0422960725075529
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Aqua / Effect"
+            },
+            {
+                "name": "Cloudian - Eye of the Typhoon",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN005",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 2.07608695652174,
+                                    "shift_7": 1.10408921933085,
+                                    "shift_30": 1.264,
+                                    "shift_21": 1.12781954887218,
+                                    "low": 3.0,
+                                    "updated_at": "2018-09-19 05:28:18 -0600",
+                                    "shift_3": 0.0216606498194946,
+                                    "shift_90": 0.785488958990536,
+                                    "shift_365": 2.19774011299435,
+                                    "high": 28.73,
+                                    "average": 5.66,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Aqua / Effect"
+            },
+            {
+                "name": "Cloudian - Ghost Fog",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN006",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.208695652173913,
+                                    "shift_7": 0.0459770114942529,
+                                    "shift_30": 0.0111111111111111,
+                                    "shift_21": 0.0224719101123595,
+                                    "low": 0.35,
+                                    "updated_at": "2018-09-19 08:44:21 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0224719101123595,
+                                    "shift_365": 0.0705882352941176,
+                                    "high": 1.17,
+                                    "average": 0.91,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Effect"
+            },
+            {
+                "name": "Cloudian - Nimbusman",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN007",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.116504854368932,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.021505376344086,
+                                    "shift_21": 0.0111111111111111,
+                                    "low": 0.3,
+                                    "updated_at": "2018-09-18 22:49:48 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0319148936170213,
+                                    "shift_365": -0.194690265486726,
+                                    "high": 1.2,
+                                    "average": 0.91,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Cloudian - Poison Cloud",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN009",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0224719101123595,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.043956043956044,
+                                    "shift_21": -0.0113636363636364,
+                                    "low": 0.65,
+                                    "updated_at": "2018-09-18 22:49:48 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0481927710843374,
+                                    "shift_365": -0.0224719101123595,
+                                    "high": 1.14,
+                                    "average": 0.87,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Effect"
+            },
+            {
+                "name": "Cloudian - Sheep Cloud",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN008",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.411764705882353,
+                                    "shift_7": 0.024390243902439,
+                                    "shift_30": 0.513513513513513,
+                                    "shift_21": 0.135135135135135,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 21:12:03 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.570093457943925,
+                                    "shift_365": 0.388429752066116,
+                                    "high": 5.49,
+                                    "average": 1.68,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Cloudian - Sheep Cloud",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN008",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.151515151515152,
+                                    "shift_7": -0.415384615384615,
+                                    "shift_30": 0.0704225352112676,
+                                    "shift_21": 0.0857142857142857,
+                                    "low": 2.12,
+                                    "updated_at": "2018-09-18 21:12:04 -0600",
+                                    "shift_3": 0.00662251655629139,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.109489051094891,
+                                    "high": 8.99,
+                                    "average": 1.52,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Cloudian - Smoke Ball",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN002",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.212389380530973,
+                                    "shift_7": -0.0111111111111111,
+                                    "shift_30": -0.0326086956521739,
+                                    "shift_21": -0.043010752688172,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 09:56:48 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0229885057471264,
+                                    "shift_365": -0.245762711864407,
+                                    "high": 6.92,
+                                    "average": 0.89,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy"
+            },
+            {
+                "name": "Cloudian - Turbulence",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN013",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.283333333333333,
+                                    "shift_7": -0.0227272727272727,
+                                    "shift_30": -0.0752688172043011,
+                                    "shift_21": -0.0752688172043011,
+                                    "low": 0.57,
+                                    "updated_at": "2018-09-18 22:49:51 -0600",
+                                    "shift_3": -0.0337078651685393,
+                                    "shift_90": -0.11340206185567,
+                                    "shift_365": -0.0549450549450549,
+                                    "high": 18.28,
+                                    "average": 0.86,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Cloudian Squall",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN052",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.136363636363636,
+                                    "shift_7": -0.0104166666666667,
+                                    "shift_30": -0.0306122448979592,
+                                    "shift_21": -0.0306122448979592,
+                                    "low": 0.78,
+                                    "updated_at": "2018-09-19 10:53:02 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0594059405940594,
+                                    "shift_365": -0.505208333333333,
+                                    "high": 4.83,
+                                    "average": 0.95,
+                                    "shift": 0.021505376344086
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Colosseum - Cage of the Gladiator Beasts",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN054",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0465753424657534,
+                                    "shift_7": -0.0279329608938547,
+                                    "shift_30": 0.00869565217391304,
+                                    "shift_21": -0.0386740331491713,
+                                    "low": 4.99,
+                                    "updated_at": "2018-09-19 10:33:03 -0600",
+                                    "shift_3": 0.0235294117647059,
+                                    "shift_90": -0.00286532951289398,
+                                    "shift_365": 0.029585798816568,
+                                    "high": 11.91,
+                                    "average": 3.48,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Field",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Contact Out",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN045",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 2.51034482758621,
+                                    "shift_7": 0.0,
+                                    "shift_30": 1.12083333333333,
+                                    "shift_21": 0.172811059907834,
+                                    "low": 4.99,
+                                    "updated_at": "2018-09-19 11:19:45 -0600",
+                                    "shift_3": -0.00391389432485323,
+                                    "shift_90": 2.48630136986301,
+                                    "shift_365": 2.04790419161677,
+                                    "high": 6.92,
+                                    "average": 5.09,
+                                    "shift": 0.00196850393700787
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Cunning of the Six Samurai",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN061",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.698795180722892,
+                                    "shift_7": 0.0663507109004739,
+                                    "shift_30": 0.0465116279069767,
+                                    "shift_21": 0.0817307692307692,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 03:32:09 -0600",
+                                    "shift_3": 0.0321100917431193,
+                                    "shift_90": 0.0663507109004739,
+                                    "shift_365": 1.31958762886598,
+                                    "high": 15.45,
+                                    "average": 2.25,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Cunning of the Six Samurai",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN061",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.5,
+                                    "shift_7": 2.08860759493671,
+                                    "shift_30": 2.62017804154303,
+                                    "shift_21": 2.08080808080808,
+                                    "low": 7.05,
+                                    "updated_at": "2018-09-19 05:24:48 -0600",
+                                    "shift_3": 2.05,
+                                    "shift_90": 1.52587991718426,
+                                    "shift_365": 1.68722466960352,
+                                    "high": 34.21,
+                                    "average": 12.2,
+                                    "shift": 2.05
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Dark Fusion",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN047",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.244565217391304,
+                                    "shift_7": 0.122549019607843,
+                                    "shift_30": 0.122549019607843,
+                                    "shift_21": 0.0853080568720379,
+                                    "low": 1.4,
+                                    "updated_at": "2018-09-19 10:15:20 -0600",
+                                    "shift_3": 0.0700934579439252,
+                                    "shift_90": 0.404907975460123,
+                                    "shift_365": 0.0700934579439252,
+                                    "high": 6.35,
+                                    "average": 2.29,
+                                    "shift": 0.0223214285714286
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Defensive Tactics",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN083",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.977272727272727,
+                                    "shift_7": 0.044,
+                                    "shift_30": 0.0155642023346304,
+                                    "shift_21": 0.0609756097560976,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 20:34:06 -0600",
+                                    "shift_3": 0.01953125,
+                                    "shift_90": 0.139737991266376,
+                                    "shift_365": -0.174050632911392,
+                                    "high": 13.34,
+                                    "average": 2.61,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Defensive Tactics",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN083",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0469798657718121,
+                                    "shift_7": -0.235294117647059,
+                                    "shift_30": -0.037037037037037,
+                                    "shift_21": 0.0612244897959184,
+                                    "low": 1.99,
+                                    "updated_at": "2018-09-18 20:34:07 -0600",
+                                    "shift_3": -0.00636942675159236,
+                                    "shift_90": 0.0985915492957746,
+                                    "shift_365": -0.267605633802817,
+                                    "high": 4.89,
+                                    "average": 1.56,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Detonator Circle \"A\"",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN077",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.192660550458716,
+                                    "shift_7": -0.0112359550561798,
+                                    "shift_30": -0.0222222222222222,
+                                    "shift_21": -0.032967032967033,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 21:03:13 -0600",
+                                    "shift_3": -0.0112359550561798,
+                                    "shift_90": -0.0434782608695652,
+                                    "shift_365": 0.0114942528735632,
+                                    "high": 1.11,
+                                    "average": 0.88,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Diamond-Dust Cyclone",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN048",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.102564102564103,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0606060606060606,
+                                    "shift_21": -0.110169491525424,
+                                    "low": 0.39,
+                                    "updated_at": "2018-09-18 17:48:15 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0277777777777778,
+                                    "shift_365": -0.0707964601769911,
+                                    "high": 1.79,
+                                    "average": 1.05,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Disarm",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN071",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0421052631578947,
+                                    "shift_7": 0.0224719101123595,
+                                    "shift_30": 0.0224719101123595,
+                                    "shift_21": 0.0,
+                                    "low": 0.3,
+                                    "updated_at": "2018-09-19 00:21:16 -0600",
+                                    "shift_3": 0.0111111111111111,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.518518518518518,
+                                    "high": 1.2,
+                                    "average": 0.91,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Counter",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Double-Edged Sword Technique",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN074",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.151515151515152,
+                                    "shift_7": 0.024390243902439,
+                                    "shift_30": -0.0344827586206897,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 10:28:14 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.024390243902439,
+                                    "shift_365": -0.192307692307692,
+                                    "high": 1.95,
+                                    "average": 0.84,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Dragon Ice",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN084",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.137226277372263,
+                                    "shift_7": -0.0188916876574307,
+                                    "shift_30": -0.0534629404617254,
+                                    "shift_21": -0.0748218527315914,
+                                    "low": 7.22,
+                                    "updated_at": "2018-09-18 22:11:36 -0600",
+                                    "shift_3": -0.00383631713554987,
+                                    "shift_90": 0.116045845272206,
+                                    "shift_365": 0.0744827586206896,
+                                    "high": 29.95,
+                                    "average": 7.79,
+                                    "shift": -0.00383631713554987
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Effect"
+            },
+            {
+                "name": "Elemental HERO Chaos Neos",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN036",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.230664857530529,
+                                    "shift_7": -0.176577394462097,
+                                    "shift_30": -0.0639834881320949,
+                                    "shift_21": -0.175829168559746,
+                                    "low": 14.08,
+                                    "updated_at": "2018-09-19 09:18:42 -0600",
+                                    "shift_3": -0.0199891950297137,
+                                    "shift_90": -0.261099796334012,
+                                    "shift_365": 0.740882917466411,
+                                    "high": 103.98,
+                                    "average": 18.14,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Fusion"
+            },
+            {
+                "name": "Elemental HERO Chaos Neos",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN036",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Ghost Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.372934888241011,
+                                    "shift_7": -0.0886953717142396,
+                                    "shift_30": 1.90838908903757,
+                                    "shift_21": -0.0243439226519337,
+                                    "low": 74.95,
+                                    "updated_at": "2018-09-06 06:25:34 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.811798653414556,
+                                    "shift_365": 1.17513471901463,
+                                    "high": 129.0,
+                                    "average": 56.51,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Fusion"
+            },
+            {
+                "name": "Elemental HERO Plasma Vice",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN037",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0296577946768061,
+                                    "shift_7": -0.0326004548900682,
+                                    "shift_30": -0.0638297872340425,
+                                    "shift_21": -0.042042042042042,
+                                    "low": 10.79,
+                                    "updated_at": "2018-09-19 07:20:13 -0600",
+                                    "shift_3": -0.031866464339909,
+                                    "shift_90": 0.228103946102021,
+                                    "shift_365": -0.0192159877017679,
+                                    "high": 50.75,
+                                    "average": 12.76,
+                                    "shift": -0.0131477184841454
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Fusion"
+            },
+            {
+                "name": "Energy-Absorbing Monolith",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN075",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.14,
+                                    "shift_7": 0.0117647058823529,
+                                    "shift_30": 0.0238095238095238,
+                                    "shift_21": -0.0337078651685393,
+                                    "low": 0.35,
+                                    "updated_at": "2018-09-18 21:26:45 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0752688172043011,
+                                    "shift_365": -0.11340206185567,
+                                    "high": 2.25,
+                                    "average": 0.86,
+                                    "shift": 0.0117647058823529
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Energy-Absorbing Monolith",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN075",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0423728813559322,
+                                    "shift_7": -0.0173913043478261,
+                                    "shift_30": -0.266233766233766,
+                                    "shift_21": -0.0173913043478261,
+                                    "low": 1.1,
+                                    "updated_at": "2018-09-18 21:26:52 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.323353293413174,
+                                    "shift_365": -0.0341880341880342,
+                                    "high": 5.28,
+                                    "average": 1.14,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Enishi, Shien's Chancellor",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN032",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.128440366972477,
+                                    "shift_7": 0.0165289256198347,
+                                    "shift_30": -0.163265306122449,
+                                    "shift_21": 0.0336134453781513,
+                                    "low": 0.88,
+                                    "updated_at": "2018-09-10 04:09:45 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.031496062992126,
+                                    "shift_365": 0.194174757281553,
+                                    "high": 7.98,
+                                    "average": 1.23,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Enishi, Shien's Chancellor",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN032",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.582142857142857,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0497630331753555,
+                                    "shift_21": 0.121518987341772,
+                                    "low": 2.48,
+                                    "updated_at": "2018-09-18 19:08:01 -0600",
+                                    "shift_3": -0.00225225225225225,
+                                    "shift_90": -0.0634249471458774,
+                                    "shift_365": 0.901287553648069,
+                                    "high": 25.46,
+                                    "average": 4.43,
+                                    "shift": -0.00449438202247191
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Evil HERO Dark Gaia",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN040",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.271844660194175,
+                                    "shift_7": 0.271844660194175,
+                                    "shift_30": 0.212962962962963,
+                                    "shift_21": 0.247619047619048,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 07:18:32 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.763537906137184,
+                                    "shift_365": 0.0564516129032258,
+                                    "high": 19.16,
+                                    "average": 1.31,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Fusion"
+            },
+            {
+                "name": "Evil HERO Infernal Gainer",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN004",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.188679245283019,
+                                    "shift_7": 0.125,
+                                    "shift_30": -0.015625,
+                                    "shift_21": 0.0956521739130435,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 23:08:04 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0232558139534884,
+                                    "shift_365": 0.177570093457944,
+                                    "high": 4.98,
+                                    "average": 1.26,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Effect"
+            },
+            {
+                "name": "Evil HERO Inferno Wing",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN038",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.126190476190476,
+                                    "shift_7": 0.148058252427184,
+                                    "shift_30": 0.128878281622912,
+                                    "shift_21": 0.167901234567901,
+                                    "low": 3.0,
+                                    "updated_at": "2018-09-19 01:39:36 -0600",
+                                    "shift_3": 0.0260303687635575,
+                                    "shift_90": 0.403560830860534,
+                                    "shift_365": 0.241469816272966,
+                                    "high": 55.94,
+                                    "average": 4.73,
+                                    "shift": -0.00421052631578947
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Fusion"
+            },
+            {
+                "name": "Evil HERO Inferno Wing",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN038",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.34633027522936,
+                                    "shift_7": 0.485838779956427,
+                                    "shift_30": 5.39375,
+                                    "shift_21": 0.608490566037736,
+                                    "low": 13.0,
+                                    "updated_at": "2018-09-19 01:39:37 -0600",
+                                    "shift_3": 0.355864811133201,
+                                    "shift_90": 4.91329479768786,
+                                    "shift_365": 1.63320463320463,
+                                    "high": 55.94,
+                                    "average": 20.46,
+                                    "shift": 0.262183837137569
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Fusion"
+            },
+            {
+                "name": "Evil HERO Lightning Golem",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN039",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.220289855072464,
+                                    "shift_7": 0.216763005780347,
+                                    "shift_30": 0.466898954703833,
+                                    "shift_21": 0.0498753117206983,
+                                    "low": 3.59,
+                                    "updated_at": "2018-09-18 18:52:58 -0600",
+                                    "shift_3": 0.0343980343980344,
+                                    "shift_90": 0.670634920634921,
+                                    "shift_365": 0.498220640569395,
+                                    "high": 24.74,
+                                    "average": 4.21,
+                                    "shift": 0.024330900243309
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Fusion"
+            },
+            {
+                "name": "Evil HERO Lightning Golem",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN039",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.54585152838428,
+                                    "shift_7": -0.0315614617940199,
+                                    "shift_30": 0.334096109839817,
+                                    "shift_21": 1.54585152838428,
+                                    "low": 1.86,
+                                    "updated_at": "2018-09-18 18:52:59 -0600",
+                                    "shift_3": 0.021015761821366,
+                                    "shift_90": -0.313309776207303,
+                                    "shift_365": -0.31892523364486,
+                                    "high": 23.99,
+                                    "average": 5.83,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Fusion"
+            },
+            {
+                "name": "Evil HERO Malicious Edge",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN003",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.08,
+                                    "shift_7": 0.41304347826087,
+                                    "shift_30": 1.6530612244898,
+                                    "shift_21": 1.54901960784314,
+                                    "low": 0.6,
+                                    "updated_at": "2018-09-19 10:33:52 -0600",
+                                    "shift_3": 0.397849462365591,
+                                    "shift_90": 3.0625,
+                                    "shift_365": 1.38532110091743,
+                                    "high": 20.98,
+                                    "average": 2.6,
+                                    "shift": 0.00386100386100386
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Effect"
+            },
+            {
+                "name": "Evil HERO Malicious Edge",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN003",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.746073298429319,
+                                    "shift_7": 0.00755287009063444,
+                                    "shift_30": 0.979228486646884,
+                                    "shift_21": 0.0934426229508197,
+                                    "low": 5.39,
+                                    "updated_at": "2018-09-19 10:33:53 -0600",
+                                    "shift_3": -0.0133136094674556,
+                                    "shift_90": -0.143774069319641,
+                                    "shift_365": 0.502252252252252,
+                                    "high": 16.3,
+                                    "average": 6.67,
+                                    "shift": -0.00149700598802395
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Effect"
+            },
+            {
+                "name": "Expressroid",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN016",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0666666666666667,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0103092783505155,
+                                    "shift_21": -0.0101010101010101,
+                                    "low": 0.6,
+                                    "updated_at": "2018-09-18 21:34:52 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0485436893203883,
+                                    "shift_365": -0.176470588235294,
+                                    "high": 18.28,
+                                    "average": 0.98,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Fog Control",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN051",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0777777777777778,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0119047619047619,
+                                    "shift_21": 0.0,
+                                    "low": 0.43,
+                                    "updated_at": "2018-09-19 04:04:32 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0375,
+                                    "shift_365": -0.0674157303370786,
+                                    "high": 18.35,
+                                    "average": 0.83,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Foolish Revival",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN079",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.032258064516129,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.010989010989011,
+                                    "shift_21": -0.010989010989011,
+                                    "low": 0.3,
+                                    "updated_at": "2018-09-19 08:15:56 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0112359550561798,
+                                    "shift_365": 0.0112359550561798,
+                                    "high": 1.19,
+                                    "average": 0.9,
+                                    "shift": -0.010989010989011
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Gambler of Legend",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN031",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.00892857142857143,
+                                    "shift_7": -0.0173913043478261,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.35,
+                                    "updated_at": "2018-09-18 21:15:41 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.189473684210526,
+                                    "shift_365": -0.379120879120879,
+                                    "high": 1.24,
+                                    "average": 1.14,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Gil Garth",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN091",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0430015050526768,
+                                    "shift_7": 0.0816524908869988,
+                                    "shift_30": 0.0472941176470588,
+                                    "shift_21": 0.00861092227509631,
+                                    "low": 24.99,
+                                    "updated_at": "2018-09-19 09:16:28 -0600",
+                                    "shift_3": 0.038497433504433,
+                                    "shift_90": 0.121441169060217,
+                                    "shift_365": 0.235016648168701,
+                                    "high": 59.99,
+                                    "average": 44.51,
+                                    "shift": 0.0527436140018921
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend"
+            },
+            {
+                "name": "Gladiator Beast Alexander",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN017",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.150406504065041,
+                                    "shift_7": 0.0885416666666667,
+                                    "shift_30": -0.106837606837607,
+                                    "shift_21": -0.079295154185022,
+                                    "low": 1.19,
+                                    "updated_at": "2018-09-19 07:41:47 -0600",
+                                    "shift_3": 0.0663265306122449,
+                                    "shift_90": 0.14207650273224,
+                                    "shift_365": 0.077319587628866,
+                                    "high": 4.5,
+                                    "average": 2.09,
+                                    "shift": 0.0663265306122449
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Beast / Effect"
+            },
+            {
+                "name": "Gladiator Beast Alexander",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN017",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.164948453608247,
+                                    "shift_7": 0.384615384615385,
+                                    "shift_30": 0.8,
+                                    "shift_21": 0.52112676056338,
+                                    "low": 4.49,
+                                    "updated_at": "2018-09-19 07:41:48 -0600",
+                                    "shift_3": -0.00307692307692308,
+                                    "shift_90": 0.830508474576271,
+                                    "shift_365": 0.0156739811912226,
+                                    "high": 22.78,
+                                    "average": 3.24,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Beast / Effect"
+            },
+            {
+                "name": "Gladiator Beast Bestiari",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN020",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.027972027972028,
+                                    "shift_7": 0.214876033057851,
+                                    "shift_30": 0.0808823529411765,
+                                    "shift_21": 0.0888888888888889,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 10:40:42 -0600",
+                                    "shift_3": 0.0888888888888889,
+                                    "shift_90": 0.1484375,
+                                    "shift_365": -0.279411764705882,
+                                    "high": 7.99,
+                                    "average": 1.47,
+                                    "shift": 0.0808823529411765
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Winged Beast / Effect"
+            },
+            {
+                "name": "Gladiator Beast Dimacari",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN023",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.1,
+                                    "shift_7": 0.0384615384615385,
+                                    "shift_30": 0.0253164556962025,
+                                    "shift_21": -0.0240963855421687,
+                                    "low": 0.3,
+                                    "updated_at": "2018-09-18 19:53:07 -0600",
+                                    "shift_3": 0.0384615384615385,
+                                    "shift_90": 0.08,
+                                    "shift_365": -0.0470588235294118,
+                                    "high": 3.8,
+                                    "average": 0.81,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Beast / Effect"
+            },
+            {
+                "name": "Gladiator Beast Gaiodiaz",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN043",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.865,
+                                    "shift_7": 0.0874635568513119,
+                                    "shift_30": 0.0448179271708683,
+                                    "shift_21": 0.147692307692308,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 21:51:43 -0600",
+                                    "shift_3": 0.00810810810810811,
+                                    "shift_90": 0.48015873015873,
+                                    "shift_365": 0.418250950570342,
+                                    "high": 21.15,
+                                    "average": 3.73,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dinosaur / Fusion"
+            },
+            {
+                "name": "Gladiator Beast Heraklinos",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN044",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.171502590673575,
+                                    "shift_7": 0.0263157894736842,
+                                    "shift_30": 0.0296200901481005,
+                                    "shift_21": 0.0230326295585413,
+                                    "low": 9.14,
+                                    "updated_at": "2018-09-19 07:24:51 -0600",
+                                    "shift_3": 0.00629326620516048,
+                                    "shift_90": -0.0955882352941176,
+                                    "shift_365": -0.269529465509365,
+                                    "high": 40.55,
+                                    "average": 15.99,
+                                    "shift": -0.00373831775700935
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Beast-Warrior / Fusion"
+            },
+            {
+                "name": "Gladiator Beast Hoplomus",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN022",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0421052631578947,
+                                    "shift_7": -0.021505376344086,
+                                    "shift_30": -0.0319148936170213,
+                                    "shift_21": -0.021505376344086,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 21:51:44 -0600",
+                                    "shift_3": -0.0108695652173913,
+                                    "shift_90": 0.0224719101123595,
+                                    "shift_365": -0.099009900990099,
+                                    "high": 7.59,
+                                    "average": 0.91,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Rock / Effect"
+            },
+            {
+                "name": "Gladiator Beast Laquari",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN021",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.505,
+                                    "shift_7": 0.0379310344827586,
+                                    "shift_30": 0.135849056603774,
+                                    "shift_21": 0.171206225680934,
+                                    "low": 2.14,
+                                    "updated_at": "2018-09-19 08:45:01 -0600",
+                                    "shift_3": -0.0414012738853503,
+                                    "shift_90": 0.49009900990099,
+                                    "shift_365": -0.0795107033639144,
+                                    "high": 9.26,
+                                    "average": 3.01,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Beast-Warrior / Effect"
+            },
+            {
+                "name": "Gladiator Beast Murmillo",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN019",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.156462585034014,
+                                    "shift_7": -0.111111111111111,
+                                    "shift_30": -0.123674911660777,
+                                    "shift_21": -0.0915750915750916,
+                                    "low": 1.5,
+                                    "updated_at": "2018-09-18 21:52:08 -0600",
+                                    "shift_3": 0.00813008130081301,
+                                    "shift_90": 0.0735930735930736,
+                                    "shift_365": 0.0829694323144105,
+                                    "high": 20.43,
+                                    "average": 2.48,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fish / Effect"
+            },
+            {
+                "name": "Gladiator Beast Octavius",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN000",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.712742980561555,
+                                    "shift_7": -0.461277173913043,
+                                    "shift_30": -0.02937576499388,
+                                    "shift_21": -0.131434830230011,
+                                    "low": 7.93,
+                                    "updated_at": "2018-09-18 19:59:03 -0600",
+                                    "shift_3": -0.00125944584382872,
+                                    "shift_90": 0.250788643533123,
+                                    "shift_365": 0.698072805139186,
+                                    "high": 36.46,
+                                    "average": 7.93,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Winged Beast / Effect"
+            },
+            {
+                "name": "Gladiator Beast Secutor",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN024",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0689655172413793,
+                                    "shift_7": 0.0333333333333333,
+                                    "shift_30": 0.0108695652173913,
+                                    "shift_21": 0.0333333333333333,
+                                    "low": 0.65,
+                                    "updated_at": "2018-09-18 20:01:15 -0600",
+                                    "shift_3": 0.0333333333333333,
+                                    "shift_90": 0.021978021978022,
+                                    "shift_365": 0.148148148148148,
+                                    "high": 5.0,
+                                    "average": 0.93,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Reptile / Effect"
+            },
+            {
+                "name": "Gladiator Beast Spartacus",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN018",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.419928825622776,
+                                    "shift_7": -0.0244498777506112,
+                                    "shift_30": 0.0611702127659574,
+                                    "shift_21": 0.0152671755725191,
+                                    "low": 2.69,
+                                    "updated_at": "2018-09-18 20:01:57 -0600",
+                                    "shift_3": 0.0310077519379845,
+                                    "shift_90": 0.361774744027304,
+                                    "shift_365": 0.0813008130081301,
+                                    "high": 6.66,
+                                    "average": 3.99,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dinosaur / Effect"
+            },
+            {
+                "name": "Gladiator Beast Torax",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN081",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0747663551401869,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0388349514563107,
+                                    "shift_21": -0.0198019801980198,
+                                    "low": 0.59,
+                                    "updated_at": "2018-09-18 20:02:35 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0833333333333333,
+                                    "shift_365": 0.0,
+                                    "high": 28.52,
+                                    "average": 0.99,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fish / Effect"
+            },
+            {
+                "name": "Gladiator Beast Torax",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN081",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0735294117647059,
+                                    "shift_7": -0.0232558139534884,
+                                    "shift_30": -0.0307692307692308,
+                                    "shift_21": -0.0232558139534884,
+                                    "low": 1.58,
+                                    "updated_at": "2018-09-18 20:02:36 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0454545454545455,
+                                    "shift_365": -0.148648648648649,
+                                    "high": 29.17,
+                                    "average": 1.26,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fish / Effect"
+            },
+            {
+                "name": "Gladiator Beast's Battle Gladius",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN056",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.010752688172043,
+                                    "shift_7": -0.0105263157894737,
+                                    "shift_30": 0.0217391304347826,
+                                    "shift_21": 0.0217391304347826,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 19:58:40 -0600",
+                                    "shift_3": -0.0105263157894737,
+                                    "shift_90": -0.0309278350515464,
+                                    "shift_365": 0.0561797752808989,
+                                    "high": 7.59,
+                                    "average": 0.94,
+                                    "shift": -0.0105263157894737
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Gladiator Beast's Battle Halberd",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN055",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.10989010989011,
+                                    "shift_7": 0.0253164556962025,
+                                    "shift_30": 0.0253164556962025,
+                                    "shift_21": -0.0121951219512195,
+                                    "low": 0.65,
+                                    "updated_at": "2018-09-18 19:58:40 -0600",
+                                    "shift_3": -0.0121951219512195,
+                                    "shift_90": -0.0689655172413793,
+                                    "shift_365": 0.0,
+                                    "high": 1.82,
+                                    "average": 0.81,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Gladiator Beast's Battle Manica",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN057",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.52020202020202,
+                                    "shift_7": 0.135849056603774,
+                                    "shift_30": -0.0504731861198738,
+                                    "shift_21": -0.0352564102564103,
+                                    "low": 0.69,
+                                    "updated_at": "2018-09-18 19:58:40 -0600",
+                                    "shift_3": 0.00333333333333333,
+                                    "shift_90": 0.18503937007874,
+                                    "shift_365": 0.34375,
+                                    "high": 5.6,
+                                    "average": 3.01,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Gladiator Beast's Respite",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN058",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0551181102362205,
+                                    "shift_7": 0.0151515151515152,
+                                    "shift_30": -0.00740740740740741,
+                                    "shift_21": -0.00740740740740741,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 17:53:57 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.126050420168067,
+                                    "shift_365": -0.112582781456954,
+                                    "high": 8.52,
+                                    "average": 1.34,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Gladiator's Return",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN059",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.125,
+                                    "shift_7": 0.0224719101123595,
+                                    "shift_30": -0.0108695652173913,
+                                    "shift_21": 0.0,
+                                    "low": 0.3,
+                                    "updated_at": "2018-09-18 19:58:46 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.116504854368932,
+                                    "shift_365": 0.0111111111111111,
+                                    "high": 1.83,
+                                    "average": 0.91,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Goblin Black Ops",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN030",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.125,
+                                    "shift_7": 0.0625,
+                                    "shift_30": 0.0625,
+                                    "shift_21": 0.0625,
+                                    "low": 0.62,
+                                    "updated_at": "2018-09-19 07:01:31 -0600",
+                                    "shift_3": 0.0625,
+                                    "shift_90": 0.0625,
+                                    "shift_365": 0.155339805825243,
+                                    "high": 8.98,
+                                    "average": 1.19,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Beast-Warrior / Effect"
+            },
+            {
+                "name": "Infinity Dark",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN027",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.00925925925925926,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.00925925925925926,
+                                    "shift_21": 0.0,
+                                    "low": 0.35,
+                                    "updated_at": "2018-09-19 11:04:11 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.244186046511628,
+                                    "high": 1.19,
+                                    "average": 1.07,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Gemini"
+            },
+            {
+                "name": "Interdimensional Warp",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN078",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.211009174311927,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": -0.0114942528735632,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 05:21:47 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0227272727272727,
+                                    "shift_365": -0.0227272727272727,
+                                    "high": 1.14,
+                                    "average": 0.86,
+                                    "shift": 0.0117647058823529
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Light-Imprisoning Mirror",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN069",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0731707317073171,
+                                    "shift_7": 0.00884955752212389,
+                                    "shift_30": 0.0178571428571429,
+                                    "shift_21": 0.0,
+                                    "low": 0.66,
+                                    "updated_at": "2018-09-19 11:27:13 -0600",
+                                    "shift_3": 0.00884955752212389,
+                                    "shift_90": 0.0754716981132075,
+                                    "shift_365": -0.474654377880184,
+                                    "high": 7.98,
+                                    "average": 1.15,
+                                    "shift": 0.00884955752212389
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Lucky Cloud",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN050",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0568181818181818,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0235294117647059,
+                                    "shift_21": -0.0119047619047619,
+                                    "low": 0.43,
+                                    "updated_at": "2018-09-18 20:39:46 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0246913580246914,
+                                    "high": 1.13,
+                                    "average": 0.83,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Magic Formula",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN093",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.152800336882633,
+                                    "shift_7": 0.916491649164917,
+                                    "shift_30": 0.638003248140867,
+                                    "shift_21": 0.65927785955494,
+                                    "low": 99.99,
+                                    "updated_at": "2018-09-19 00:58:25 -0600",
+                                    "shift_3": 0.00182977833542451,
+                                    "shift_90": 0.774516158903602,
+                                    "shift_365": 0.100626041008558,
+                                    "high": 299.99,
+                                    "average": 191.63,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Magical Reflect Slime",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN028",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.00840336134453781,
+                                    "shift_7": -0.0483870967741935,
+                                    "shift_30": 0.156862745098039,
+                                    "shift_21": 0.0727272727272727,
+                                    "low": 0.35,
+                                    "updated_at": "2018-09-19 11:14:26 -0600",
+                                    "shift_3": -0.0708661417322835,
+                                    "shift_90": -0.0166666666666667,
+                                    "shift_365": 0.0,
+                                    "high": 18.35,
+                                    "average": 1.18,
+                                    "shift": -0.056
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Aqua / Gemini"
+            },
+            {
+                "name": "Natural Disaster",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN065",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0978260869565217,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0506329113924051,
+                                    "shift_21": 0.0246913580246914,
+                                    "low": 0.43,
+                                    "updated_at": "2018-09-18 21:14:34 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0459770114942529,
+                                    "shift_365": -0.0459770114942529,
+                                    "high": 1.99,
+                                    "average": 0.83,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Necroface",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN090",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.39680623897503,
+                                    "shift_7": 0.00737503414367659,
+                                    "shift_30": -0.0820977777777778,
+                                    "shift_21": 0.918977179811195,
+                                    "low": 89.94,
+                                    "updated_at": "2018-09-19 09:41:23 -0600",
+                                    "shift_3": 0.00713923458042367,
+                                    "shift_90": 0.736930633115791,
+                                    "shift_365": 1.75223880597015,
+                                    "high": 599.95,
+                                    "average": 258.16,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Zombie / Effect"
+            },
+            {
+                "name": "No Entry!!",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN064",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0459770114942529,
+                                    "shift_7": 0.0340909090909091,
+                                    "shift_30": 0.0224719101123595,
+                                    "shift_21": 0.0340909090909091,
+                                    "low": 0.65,
+                                    "updated_at": "2018-09-19 01:49:29 -0600",
+                                    "shift_3": -0.165137614678899,
+                                    "shift_90": -0.165137614678899,
+                                    "shift_365": 0.109756097560976,
+                                    "high": 4.59,
+                                    "average": 0.91,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Over Limit",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN063",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0875,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0394736842105263,
+                                    "shift_21": -0.0135135135135135,
+                                    "low": 0.31,
+                                    "updated_at": "2018-09-19 11:26:41 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0266666666666667,
+                                    "shift_365": -0.0987654320987654,
+                                    "high": 1.1,
+                                    "average": 0.73,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Parry",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN072",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0860215053763441,
+                                    "shift_7": 0.0493827160493827,
+                                    "shift_30": 0.0625,
+                                    "shift_21": 0.0625,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 21:17:16 -0600",
+                                    "shift_3": 0.0119047619047619,
+                                    "shift_90": -0.0449438202247191,
+                                    "shift_365": 0.0,
+                                    "high": 1.24,
+                                    "average": 0.85,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Counter",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Rain Storm",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN066",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0114942528735632,
+                                    "low": 0.65,
+                                    "updated_at": "2018-09-19 04:48:10 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.1,
+                                    "high": 11.49,
+                                    "average": 0.88,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Release from Stone",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN068",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.09375,
+                                    "shift_7": -0.0454545454545455,
+                                    "shift_30": -0.0540540540540541,
+                                    "shift_21": -0.0186915887850467,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 20:54:13 -0600",
+                                    "shift_3": -0.0625,
+                                    "shift_90": 0.05,
+                                    "shift_365": -0.0454545454545455,
+                                    "high": 18.28,
+                                    "average": 1.05,
+                                    "shift": 0.0194174757281553
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Royal Firestorm Guards",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN087",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0812302839116719,
+                                    "shift_7": 0.0300525920360631,
+                                    "shift_30": 0.0323795180722892,
+                                    "shift_21": 0.0425855513307985,
+                                    "low": 13.22,
+                                    "updated_at": "2018-09-19 09:19:57 -0600",
+                                    "shift_3": -0.0338266384778013,
+                                    "shift_90": -0.00652173913043478,
+                                    "shift_365": 0.192173913043478,
+                                    "high": 49.34,
+                                    "average": 13.71,
+                                    "shift": -0.000728862973760933
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Pyro / Effect"
+            },
+            {
+                "name": "Security Orb",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN089",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.727891156462585,
+                                    "shift_7": 0.788732394366197,
+                                    "shift_30": 0.577639751552795,
+                                    "shift_21": 0.814285714285714,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 20:44:49 -0600",
+                                    "shift_3": 0.0452674897119342,
+                                    "shift_90": 1.24778761061947,
+                                    "shift_365": 1.20869565217391,
+                                    "high": 19.91,
+                                    "average": 2.54,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Security Orb",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN089",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.140989198408186,
+                                    "shift_7": 0.0026542800265428,
+                                    "shift_30": -0.0538509705698184,
+                                    "shift_21": -0.055625,
+                                    "low": 1.22,
+                                    "updated_at": "2018-09-18 20:44:56 -0600",
+                                    "shift_3": 0.00132538104705103,
+                                    "shift_90": -0.049685534591195,
+                                    "shift_365": -0.415247678018576,
+                                    "high": 39.18,
+                                    "average": 15.11,
+                                    "shift": 0.000662251655629139
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Shadow-Imprisoning Mirror",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN070",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.315436241610738,
+                                    "shift_7": -0.00970873786407767,
+                                    "shift_30": -0.128205128205128,
+                                    "shift_21": -0.0192307692307692,
+                                    "low": 0.49,
+                                    "updated_at": "2018-09-19 06:14:45 -0600",
+                                    "shift_3": 0.0099009900990099,
+                                    "shift_90": -0.105263157894737,
+                                    "shift_365": -0.00970873786407767,
+                                    "high": 1.33,
+                                    "average": 1.02,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Silent Doom",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN094",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0847583643122677,
+                                    "shift_7": -0.0442546583850932,
+                                    "shift_30": -0.0847583643122677,
+                                    "shift_21": -0.0856647685070562,
+                                    "low": 35.5,
+                                    "updated_at": "2018-09-19 03:43:05 -0600",
+                                    "shift_3": -0.0327396542692509,
+                                    "shift_90": -0.0506426735218509,
+                                    "shift_365": -0.177505567928731,
+                                    "high": 399.9,
+                                    "average": 36.93,
+                                    "shift": -0.0327396542692509
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Skreech",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN086",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.48322147651007,
+                                    "shift_7": 0.0,
+                                    "shift_30": 1.66187050359712,
+                                    "shift_21": -0.00671140939597315,
+                                    "low": 2.87,
+                                    "updated_at": "2018-09-19 10:20:29 -0600",
+                                    "shift_3": -0.00269541778975741,
+                                    "shift_90": 1.64285714285714,
+                                    "shift_365": 1.78195488721805,
+                                    "high": 17.95,
+                                    "average": 7.4,
+                                    "shift": -0.00537634408602151
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Reptile / Effect"
+            },
+            {
+                "name": "Soul Devouring Bamboo Sword",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN060",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.652892561983471,
+                                    "shift_7": 0.092896174863388,
+                                    "shift_30": 0.183431952662722,
+                                    "shift_21": 0.515151515151515,
+                                    "low": 2.9,
+                                    "updated_at": "2018-09-19 09:05:57 -0600",
+                                    "shift_3": -0.0196078431372549,
+                                    "shift_90": 0.639344262295082,
+                                    "shift_365": 1.0,
+                                    "high": 17.1,
+                                    "average": 2.0,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Soul Taker",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN092",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.133109082172033,
+                                    "shift_7": -0.0117351215423303,
+                                    "shift_30": -0.0175,
+                                    "shift_21": -0.0347932869422841,
+                                    "low": 19.58,
+                                    "updated_at": "2018-09-19 11:30:42 -0600",
+                                    "shift_3": -0.0125628140703518,
+                                    "shift_90": -0.0383360522022839,
+                                    "shift_365": 0.0550335570469799,
+                                    "high": 99.95,
+                                    "average": 23.58,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Spirit of the Six Samurai",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN033",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.15929203539823,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0104166666666667,
+                                    "shift_21": 0.0326086956521739,
+                                    "low": 0.3,
+                                    "updated_at": "2018-09-19 07:43:40 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0306122448979592,
+                                    "shift_365": 0.130952380952381,
+                                    "high": 1.67,
+                                    "average": 0.95,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Union"
+            },
+            {
+                "name": "Stealthroid",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN015",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.273684210526316,
+                                    "shift_7": 0.222222222222222,
+                                    "shift_30": 0.163461538461538,
+                                    "shift_21": 0.23469387755102,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 02:18:39 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.23469387755102,
+                                    "shift_365": 0.32967032967033,
+                                    "high": 5.17,
+                                    "average": 1.21,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Summon Cloud",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN049",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.212962962962963,
+                                    "shift_7": 0.0119047619047619,
+                                    "shift_30": -0.0116279069767442,
+                                    "shift_21": -0.0116279069767442,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 19:55:34 -0600",
+                                    "shift_3": -0.0116279069767442,
+                                    "shift_90": 0.0119047619047619,
+                                    "shift_365": -0.527777777777778,
+                                    "high": 1.16,
+                                    "average": 0.85,
+                                    "shift": -0.0116279069767442
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Super Double Summon",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN053",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.138297872340426,
+                                    "shift_7": 0.0125,
+                                    "shift_30": -0.0121951219512195,
+                                    "shift_21": 0.0,
+                                    "low": 0.25,
+                                    "updated_at": "2018-09-18 19:55:41 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0384615384615385,
+                                    "shift_365": -0.138297872340426,
+                                    "high": 1.19,
+                                    "average": 0.81,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Super Vehicroid - Stealth Union",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN041",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.017535314174379,
+                                    "shift_7": -0.00523809523809524,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.00481000481000481,
+                                    "low": 17.77,
+                                    "updated_at": "2018-09-19 07:19:05 -0600",
+                                    "shift_3": -0.0141576215195847,
+                                    "shift_90": -0.021087160262418,
+                                    "shift_365": 0.0341584158415842,
+                                    "high": 24.99,
+                                    "average": 20.89,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Fusion"
+            },
+            {
+                "name": "Superalloy Beast Raptinus",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN042",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.131578947368421,
+                                    "shift_7": 0.0206185567010309,
+                                    "shift_30": 0.0645161290322581,
+                                    "shift_21": 0.0645161290322581,
+                                    "low": 0.3,
+                                    "updated_at": "2018-09-18 22:30:04 -0600",
+                                    "shift_3": 0.0421052631578947,
+                                    "shift_90": -0.0198019801980198,
+                                    "shift_365": -0.244274809160305,
+                                    "high": 1.43,
+                                    "average": 0.99,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Fusion"
+            },
+            {
+                "name": "Swiftstrike Armor",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN073",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.35,
+                                    "updated_at": "2018-09-18 20:48:52 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0425531914893617,
+                                    "shift_365": -0.0576923076923077,
+                                    "high": 1.29,
+                                    "average": 0.98,
+                                    "shift": -0.0101010101010101
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Swing of Memories",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN046",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.269565217391304,
+                                    "shift_7": -0.0232558139534884,
+                                    "shift_30": -0.0232558139534884,
+                                    "shift_21": -0.0561797752808989,
+                                    "low": 0.46,
+                                    "updated_at": "2018-09-19 11:36:57 -0600",
+                                    "shift_3": -0.0344827586206897,
+                                    "shift_90": -0.142857142857143,
+                                    "shift_365": -0.39568345323741,
+                                    "high": 6.73,
+                                    "average": 0.84,
+                                    "shift": -0.0344827586206897
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Test Ape",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN025",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0520833333333333,
+                                    "shift_7": 0.0340909090909091,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.3,
+                                    "updated_at": "2018-09-19 11:29:39 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0459770114942529,
+                                    "shift_365": 0.0,
+                                    "high": 1.2,
+                                    "average": 0.91,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Beast / Effect"
+            },
+            {
+                "name": "Test Tiger",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN082",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0221518987341772,
+                                    "shift_7": 0.0385852090032154,
+                                    "shift_30": -0.0358208955223881,
+                                    "shift_21": 0.0352564102564103,
+                                    "low": 2.49,
+                                    "updated_at": "2018-09-19 11:29:46 -0600",
+                                    "shift_3": 0.0157232704402516,
+                                    "shift_90": 0.0695364238410596,
+                                    "shift_365": -0.283813747228381,
+                                    "high": 10.96,
+                                    "average": 3.23,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Beast / Effect"
+            },
+            {
+                "name": "Test Tiger",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN082",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.807296538821328,
+                                    "shift_7": 0.00103626943005181,
+                                    "shift_30": 0.0131095962244363,
+                                    "shift_21": -0.0112589559877175,
+                                    "low": 14.98,
+                                    "updated_at": "2018-09-19 11:29:56 -0600",
+                                    "shift_3": 0.0020746887966805,
+                                    "shift_90": 0.373134328358209,
+                                    "shift_365": 0.533333333333333,
+                                    "high": 39.93,
+                                    "average": 19.33,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Beast / Effect"
+            },
+            {
+                "name": "Tongue Twister",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN085",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.248917748917749,
+                                    "shift_7": 0.0285204991087344,
+                                    "shift_30": 0.00522648083623693,
+                                    "shift_21": 0.0303571428571429,
+                                    "low": 5.85,
+                                    "updated_at": "2018-09-19 11:36:03 -0600",
+                                    "shift_3": -0.0102915951972556,
+                                    "shift_90": 0.0907372400756144,
+                                    "shift_365": -0.121765601217656,
+                                    "high": 25.56,
+                                    "average": 5.77,
+                                    "shift": -0.0102915951972556
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Effect"
+            },
+            {
+                "name": "Truckroid",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN014",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.194444444444444,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0224719101123595,
+                                    "shift_21": -0.0224719101123595,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:38:52 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0333333333333333,
+                                    "shift_365": 0.0609756097560976,
+                                    "high": 1.14,
+                                    "average": 0.87,
+                                    "shift": -0.0113636363636364
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Updraft",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN067",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.05,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0106382978723404,
+                                    "shift_21": -0.0104166666666667,
+                                    "low": 0.52,
+                                    "updated_at": "2018-09-18 10:49:31 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0104166666666667,
+                                    "shift_365": 0.0555555555555556,
+                                    "high": 6.25,
+                                    "average": 0.95,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Updraft",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN067",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0763358778625954,
+                                    "shift_7": -0.433734939759036,
+                                    "shift_30": -0.373333333333333,
+                                    "shift_21": 0.0143884892086331,
+                                    "low": 1.85,
+                                    "updated_at": "2018-09-18 10:49:32 -0600",
+                                    "shift_3": -0.433734939759036,
+                                    "shift_90": 0.184873949579832,
+                                    "shift_365": -0.291457286432161,
+                                    "high": 29.17,
+                                    "average": 1.41,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Veil of Darkness",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN088",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.08967391304348,
+                                    "shift_7": 0.122627737226277,
+                                    "shift_30": 1.16619718309859,
+                                    "shift_21": 0.10806916426513,
+                                    "low": 5.85,
+                                    "updated_at": "2018-09-19 10:49:15 -0600",
+                                    "shift_3": 0.124269005847953,
+                                    "shift_90": 0.809411764705882,
+                                    "shift_365": 1.30930930930931,
+                                    "high": 33.06,
+                                    "average": 7.69,
+                                    "shift": 0.0308310991957105
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Witch Doctor of Sparta",
+                "numbers": [
+                    {
+                        "print_tag": "GLAS-EN026",
+                        "name": "Gladiator's Assault",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0235294117647059,
+                                    "shift_7": 0.0246913580246914,
+                                    "shift_30": 0.0,
+                                    "shift_21": -0.0119047619047619,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 08:41:49 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.0459770114942529,
+                                    "high": 1.14,
+                                    "average": 0.83,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            }
+        ],
+        "highest": 3043.249999999998,
+        "average": 952.6100000000002,
+        "tcg_booster_values": {
+            "average": 5.7,
+            "low": 2.6900000000000004,
+            "high": 117.82
+        },
+        "lowest": 581.2900000000001
+    },
+    "status": "success"
+}

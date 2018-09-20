@@ -1,0 +1,3219 @@
+{
+    "data": {
+        "rarities": {
+            "Super Rare": 7,
+            "Secret Rare": 9,
+            "Ultimate Rare": 25,
+            "Common": 35,
+            "Ultra Rare": 4,
+            "Rare": 14
+        },
+        "cards": [
+            {
+                "name": "\"A\" Cell Scatter Burst",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN041",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.00917431192660551,
+                                    "shift_7": 0.125,
+                                    "shift_30": -0.00917431192660551,
+                                    "shift_21": -0.027027027027027,
+                                    "low": 0.9,
+                                    "updated_at": "2018-09-19 03:12:01 -0600",
+                                    "shift_3": 0.125,
+                                    "shift_90": 0.173913043478261,
+                                    "shift_365": 0.173913043478261,
+                                    "high": 15.17,
+                                    "average": 1.08,
+                                    "shift": 0.125
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Advanced Ritual Art",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN045",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.16551724137931,
+                                    "shift_7": 0.0304878048780488,
+                                    "shift_30": 0.0764331210191083,
+                                    "shift_21": 0.207142857142857,
+                                    "low": 1.89,
+                                    "updated_at": "2018-09-19 09:10:51 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.261194029850746,
+                                    "shift_365": -0.133333333333333,
+                                    "high": 19.07,
+                                    "average": 1.69,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Ritual",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Aegis of Gaia",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN068",
+                        "name": "Strike of Neos",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.142034548944338,
+                                    "shift_7": -0.00833333333333333,
+                                    "shift_30": -0.0165289256198347,
+                                    "shift_21": 0.0170940170940171,
+                                    "low": 3.09,
+                                    "updated_at": "2018-09-19 07:39:29 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0372168284789644,
+                                    "shift_365": 0.666666666666667,
+                                    "high": 29.88,
+                                    "average": 5.95,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Alien Psychic",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN031",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": -0.0350877192982456,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.00917431192660551,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 21:36:45 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0185185185185185,
+                                    "shift_365": 0.182795698924731,
+                                    "high": 1.5,
+                                    "average": 1.1,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Reptile / Effect"
+            },
+            {
+                "name": "Ancient Rules",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN037",
+                        "name": "Strike of Neos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0653061224489796,
+                                    "shift_7": -0.00865800865800866,
+                                    "shift_30": 0.00881057268722467,
+                                    "shift_21": 0.00881057268722467,
+                                    "low": 1.49,
+                                    "updated_at": "2018-09-19 11:24:50 -0600",
+                                    "shift_3": -0.00865800865800866,
+                                    "shift_90": -0.0171673819742489,
+                                    "shift_365": -0.115830115830116,
+                                    "high": 26.0,
+                                    "average": 2.29,
+                                    "shift": 0.00881057268722467
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Ancient Rules",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN037",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.299071618037135,
+                                    "shift_7": -0.05625,
+                                    "shift_30": -0.0382165605095541,
+                                    "shift_21": -0.0417044424297371,
+                                    "low": 5.0,
+                                    "updated_at": "2018-09-19 11:24:52 -0600",
+                                    "shift_3": -0.0194805194805195,
+                                    "shift_90": -0.175507020280811,
+                                    "shift_365": -0.310502283105023,
+                                    "high": 24.5,
+                                    "average": 10.57,
+                                    "shift": -0.0185701021355617
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Anti-Fusion Device",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN055",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0740740740740741,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.25,
+                                    "updated_at": "2018-09-19 10:14:02 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0116279069767442,
+                                    "shift_365": -0.0113636363636364,
+                                    "high": 1.5,
+                                    "average": 0.87,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Birthright",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN057",
+                        "name": "Strike of Neos",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.03333333333333,
+                                    "shift_7": 0.0280898876404494,
+                                    "shift_30": 0.262068965517241,
+                                    "shift_21": 0.0517241379310345,
+                                    "low": 0.58,
+                                    "updated_at": "2018-09-18 21:12:29 -0600",
+                                    "shift_3": 0.102409638554217,
+                                    "shift_90": 1.07954545454545,
+                                    "shift_365": 1.0561797752809,
+                                    "high": 7.99,
+                                    "average": 1.83,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Birthright",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN057",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.616438356164384,
+                                    "shift_7": -0.00323624595469256,
+                                    "shift_30": 1.464,
+                                    "shift_21": 0.0845070422535211,
+                                    "low": 4.89,
+                                    "updated_at": "2018-09-18 21:12:36 -0600",
+                                    "shift_3": -0.00323624595469256,
+                                    "shift_90": -0.0941176470588235,
+                                    "shift_365": -0.246943765281174,
+                                    "high": 17.99,
+                                    "average": 3.08,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Card Trader",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN046",
+                        "name": "Strike of Neos",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0862944162436548,
+                                    "shift_7": 0.273809523809524,
+                                    "shift_30": 0.222857142857143,
+                                    "shift_21": 0.258823529411765,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 07:58:58 -0600",
+                                    "shift_3": 0.266272189349112,
+                                    "shift_90": 0.0490196078431373,
+                                    "shift_365": 0.475862068965517,
+                                    "high": 18.35,
+                                    "average": 2.14,
+                                    "shift": 0.329192546583851
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Card Trader",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN046",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.114503816793893,
+                                    "shift_7": -0.0580645161290323,
+                                    "shift_30": 1.80769230769231,
+                                    "shift_21": -0.0244988864142539,
+                                    "low": 5.18,
+                                    "updated_at": "2018-09-19 07:58:59 -0600",
+                                    "shift_3": -0.0436681222707424,
+                                    "shift_90": 0.00921658986175115,
+                                    "shift_365": 0.171122994652406,
+                                    "high": 10.97,
+                                    "average": 4.38,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Change of Hero - Reflector Ray",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN049",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0537634408602151,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": -0.0222222222222222,
+                                    "low": 0.59,
+                                    "updated_at": "2018-09-10 07:13:39 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.185185185185185,
+                                    "high": 8.01,
+                                    "average": 0.88,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Cloak and Dagger",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN059",
+                        "name": "Strike of Neos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0752688172043011,
+                                    "shift_7": 0.0238095238095238,
+                                    "shift_30": 0.0238095238095238,
+                                    "shift_21": 0.036144578313253,
+                                    "low": 0.57,
+                                    "updated_at": "2018-09-18 19:40:53 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0114942528735632,
+                                    "shift_365": -0.0337078651685393,
+                                    "high": 19.07,
+                                    "average": 0.86,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Cloak and Dagger",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN059",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.523809523809524,
+                                    "shift_7": 0.00840336134453781,
+                                    "shift_30": 0.0256410256410256,
+                                    "shift_21": 0.0526315789473684,
+                                    "low": 1.82,
+                                    "updated_at": "2018-09-18 19:40:56 -0600",
+                                    "shift_3": 0.0256410256410256,
+                                    "shift_90": -0.480519480519481,
+                                    "shift_365": -0.457013574660633,
+                                    "high": 23.3,
+                                    "average": 1.2,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "C\u00fa Chulainn the Awakened",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN033",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0454545454545455,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0232558139534884,
+                                    "shift_21": 0.0,
+                                    "low": 0.92,
+                                    "updated_at": "2018-09-19 10:10:04 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.207547169811321,
+                                    "high": 6.92,
+                                    "average": 0.84,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Ritual"
+            },
+            {
+                "name": "D.D. Crow",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN024",
+                        "name": "Strike of Neos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.152838427947598,
+                                    "shift_7": 0.00518134715025907,
+                                    "shift_30": -0.0102040816326531,
+                                    "shift_21": -0.00512820512820513,
+                                    "low": 1.3,
+                                    "updated_at": "2018-09-19 09:14:57 -0600",
+                                    "shift_3": -0.0102040816326531,
+                                    "shift_90": 0.0104166666666667,
+                                    "shift_365": -0.184873949579832,
+                                    "high": 20.51,
+                                    "average": 1.94,
+                                    "shift": -0.00512820512820513
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Winged Beast / Effect"
+            },
+            {
+                "name": "D.D. Crow",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN024",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.230074597565764,
+                                    "shift_7": 0.208256315465188,
+                                    "shift_30": 0.139453805926787,
+                                    "shift_21": 0.129608294930876,
+                                    "low": 15.95,
+                                    "updated_at": "2018-09-19 07:51:17 -0600",
+                                    "shift_3": 0.0930880713489409,
+                                    "shift_90": 0.00204394481349004,
+                                    "shift_365": -0.114272809394761,
+                                    "high": 299.9,
+                                    "average": 19.61,
+                                    "shift": 0.0531686358754028
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Winged Beast / Effect"
+            },
+            {
+                "name": "Dark World Dealings",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN038",
+                        "name": "Strike of Neos",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.597582037996546,
+                                    "shift_7": 0.00762527233115468,
+                                    "shift_30": -0.0895669291338583,
+                                    "shift_21": 0.00108225108225108,
+                                    "low": 6.99,
+                                    "updated_at": "2018-09-19 10:08:28 -0600",
+                                    "shift_3": -0.00537634408602151,
+                                    "shift_90": 0.703499079189687,
+                                    "shift_365": 0.581196581196581,
+                                    "high": 42.86,
+                                    "average": 9.25,
+                                    "shift": -0.00537634408602151
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Dark World Dealings",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN038",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.266839378238342,
+                                    "shift_7": -0.044175136825645,
+                                    "shift_30": -0.0208249899879856,
+                                    "shift_21": -0.0192539109506619,
+                                    "low": 29.74,
+                                    "updated_at": "2018-09-19 08:53:38 -0600",
+                                    "shift_3": -0.0541586073500967,
+                                    "shift_90": 0.165395614871306,
+                                    "shift_365": 0.2734375,
+                                    "high": 58.0,
+                                    "average": 24.45,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Destruction Cyclone",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN028",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": 0.0224719101123595,
+                                    "shift_30": 0.0111111111111111,
+                                    "shift_21": 0.0,
+                                    "low": 0.5,
+                                    "updated_at": "2018-09-19 11:53:03 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0459770114942529,
+                                    "high": 4.99,
+                                    "average": 0.91,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Reptile / Effect"
+            },
+            {
+                "name": "Electric Virus",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN021",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0843373493975904,
+                                    "shift_7": -0.126436781609195,
+                                    "shift_30": -0.0256410256410256,
+                                    "shift_21": -0.05,
+                                    "low": 0.5,
+                                    "updated_at": "2018-09-19 11:35:13 -0600",
+                                    "shift_3": -0.0952380952380952,
+                                    "shift_90": -0.05,
+                                    "shift_365": -0.012987012987013,
+                                    "high": 19.74,
+                                    "average": 0.76,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Thunder / Effect"
+            },
+            {
+                "name": "Elemental HERO Air Neos",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN034",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.61249615266236,
+                                    "shift_7": -0.317355637767412,
+                                    "shift_30": 0.0566413544130462,
+                                    "shift_21": -0.153316708229426,
+                                    "low": 63.6,
+                                    "updated_at": "2018-09-19 09:26:34 -0600",
+                                    "shift_3": 0.0550652579241765,
+                                    "shift_90": 1.53448790683786,
+                                    "shift_365": 2.71466083150985,
+                                    "high": 147.77,
+                                    "average": 84.88,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Fusion"
+            },
+            {
+                "name": "Elemental HERO Air Neos",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN034",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 2.30456852791878,
+                                    "shift_7": -0.310137760508654,
+                                    "shift_30": -0.379014308426073,
+                                    "shift_21": -0.423519688293288,
+                                    "low": 43.95,
+                                    "updated_at": "2018-09-19 09:03:25 -0600",
+                                    "shift_3": 0.141838166510758,
+                                    "shift_90": 2.43838028169014,
+                                    "shift_365": 1.93684210526316,
+                                    "high": 149.99,
+                                    "average": 97.65,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Fusion"
+            },
+            {
+                "name": "Elemental HERO Glow Neos",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN036",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 2.38709677419355,
+                                    "shift_7": 0.206166868198307,
+                                    "shift_30": 0.0901639344262295,
+                                    "shift_21": 0.239900559353636,
+                                    "low": 10.84,
+                                    "updated_at": "2018-09-19 09:51:01 -0600",
+                                    "shift_3": 0.184679334916865,
+                                    "shift_90": 0.614077669902913,
+                                    "shift_365": 2.54982206405694,
+                                    "high": 32.07,
+                                    "average": 19.95,
+                                    "shift": 0.183976261127596
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Fusion"
+            },
+            {
+                "name": "Elemental HERO Glow Neos",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN036",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.147128618889416,
+                                    "shift_7": 0.0158281514980215,
+                                    "shift_30": -0.322653599698455,
+                                    "shift_21": -0.271289537712895,
+                                    "low": 16.95,
+                                    "updated_at": "2018-09-19 09:51:02 -0600",
+                                    "shift_3": 0.0502630040911747,
+                                    "shift_90": -0.297498045347928,
+                                    "shift_365": 0.594498669032831,
+                                    "high": 49.99,
+                                    "average": 17.97,
+                                    "shift": 0.0502630040911747
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Fusion"
+            },
+            {
+                "name": "Elemental HERO Grand Neos",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN035",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.46704871060172,
+                                    "shift_7": -0.0114810562571757,
+                                    "shift_30": 1.28381962864721,
+                                    "shift_21": 1.52492668621701,
+                                    "low": 6.84,
+                                    "updated_at": "2018-09-19 10:52:04 -0600",
+                                    "shift_3": -0.38412017167382,
+                                    "shift_90": 1.47413793103448,
+                                    "shift_365": 1.51754385964912,
+                                    "high": 31.32,
+                                    "average": 8.61,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Fusion"
+            },
+            {
+                "name": "Elemental HERO Grand Neos",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN035",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 2.01519756838906,
+                                    "shift_7": 0.0889132821075741,
+                                    "shift_30": -0.0746268656716418,
+                                    "shift_21": 0.0643776824034335,
+                                    "low": 33.0,
+                                    "updated_at": "2018-09-19 07:18:20 -0600",
+                                    "shift_3": -0.147400085947572,
+                                    "shift_90": 5.2984126984127,
+                                    "shift_365": 2.92871287128713,
+                                    "high": 46.42,
+                                    "average": 19.84,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Fusion"
+            },
+            {
+                "name": "Eliminating the League",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN052",
+                        "name": "Strike of Neos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0344827586206897,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0227272727272727,
+                                    "shift_21": 0.0112359550561798,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 21:26:29 -0600",
+                                    "shift_3": 0.0112359550561798,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0,
+                                    "high": 19.0,
+                                    "average": 0.9,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Eliminating the League",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN052",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0675675675675676,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.254545454545455,
+                                    "shift_21": 0.254545454545455,
+                                    "low": 1.85,
+                                    "updated_at": "2018-09-18 21:26:48 -0600",
+                                    "shift_3": 0.254545454545455,
+                                    "shift_90": -0.31,
+                                    "shift_365": 0.0,
+                                    "high": 15.78,
+                                    "average": 1.38,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Emblem of the Awakening",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN044",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0116279069767442,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0235294117647059,
+                                    "shift_21": 0.0,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 20:35:05 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0235294117647059,
+                                    "shift_365": -0.0113636363636364,
+                                    "high": 4.99,
+                                    "average": 0.87,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Ritual",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Firestorm Prominence",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN026",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0864197530864197,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0133333333333333,
+                                    "shift_21": -0.0133333333333333,
+                                    "low": 0.57,
+                                    "updated_at": "2018-09-19 10:44:40 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0133333333333333,
+                                    "shift_365": -0.129411764705882,
+                                    "high": 6.0,
+                                    "average": 0.74,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Reptile / Effect"
+            },
+            {
+                "name": "Flashbang",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN053",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.104761904761905,
+                                    "shift_7": 0.0217391304347826,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.010752688172043,
+                                    "low": 0.65,
+                                    "updated_at": "2018-09-19 05:16:55 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.010752688172043,
+                                    "shift_365": -0.113207547169811,
+                                    "high": 18.35,
+                                    "average": 0.94,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Freya, Spirit of Victory",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN064",
+                        "name": "Strike of Neos",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.106276150627615,
+                                    "shift_7": 0.119390347163421,
+                                    "shift_30": -0.180409175449473,
+                                    "shift_21": -0.20885697187313,
+                                    "low": 11.88,
+                                    "updated_at": "2018-09-19 10:05:36 -0600",
+                                    "shift_3": 0.202911737943585,
+                                    "shift_90": 0.136715391229579,
+                                    "shift_365": -0.28733153638814,
+                                    "high": 30.78,
+                                    "average": 13.22,
+                                    "shift": 0.206204379562044
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Frostosaurus",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN002",
+                        "name": "Strike of Neos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.032967032967033,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 11:12:00 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0561797752808989,
+                                    "shift_365": -0.153153153153153,
+                                    "high": 3.22,
+                                    "average": 0.94,
+                                    "shift": -0.0105263157894737
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dinosaur"
+            },
+            {
+                "name": "Frostosaurus",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN002",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.298642533936652,
+                                    "shift_7": -0.215189873417722,
+                                    "shift_30": -0.138888888888889,
+                                    "shift_21": -0.194805194805195,
+                                    "low": 4.49,
+                                    "updated_at": "2018-09-19 11:12:06 -0600",
+                                    "shift_3": -0.18848167539267,
+                                    "shift_90": -0.324618736383442,
+                                    "shift_365": -0.462738301559792,
+                                    "high": 8.81,
+                                    "average": 3.1,
+                                    "shift": -0.190600522193211
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dinosaur"
+            },
+            {
+                "name": "Fusion Devourer",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN020",
+                        "name": "Strike of Neos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.163636363636364,
+                                    "shift_7": 0.010989010989011,
+                                    "shift_30": -0.010752688172043,
+                                    "shift_21": -0.010752688172043,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 11:12:19 -0600",
+                                    "shift_3": 0.010989010989011,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.0315789473684211,
+                                    "high": 15.49,
+                                    "average": 0.92,
+                                    "shift": 0.010989010989011
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Effect"
+            },
+            {
+                "name": "Fusion Devourer",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN020",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.040983606557377,
+                                    "shift_7": 0.0173913043478261,
+                                    "shift_30": 0.0353982300884956,
+                                    "shift_21": 0.0173913043478261,
+                                    "low": 1.84,
+                                    "updated_at": "2018-09-19 11:12:27 -0600",
+                                    "shift_3": 0.0173913043478261,
+                                    "shift_90": -0.0330578512396694,
+                                    "shift_365": -0.214765100671141,
+                                    "high": 25.71,
+                                    "average": 1.17,
+                                    "shift": 0.0173913043478261
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Effect"
+            },
+            {
+                "name": "Gellenduo",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN067",
+                        "name": "Strike of Neos",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.231005372217959,
+                                    "shift_7": -0.0252918287937743,
+                                    "shift_30": -0.0556079170593779,
+                                    "shift_21": -0.012807881773399,
+                                    "low": 6.95,
+                                    "updated_at": "2018-09-19 04:51:02 -0600",
+                                    "shift_3": 0.0193285859613428,
+                                    "shift_90": -0.0989208633093525,
+                                    "shift_365": -0.012807881773399,
+                                    "high": 36.5,
+                                    "average": 10.03,
+                                    "shift": 0.0193285859613428
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Gene-Warped Warwolf",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN001",
+                        "name": "Strike of Neos",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.186991869918699,
+                                    "shift_7": 0.0138888888888889,
+                                    "shift_30": -0.0457516339869281,
+                                    "shift_21": -0.0266666666666667,
+                                    "low": 0.89,
+                                    "updated_at": "2018-09-19 08:14:17 -0600",
+                                    "shift_3": 0.020979020979021,
+                                    "shift_90": 0.247863247863248,
+                                    "shift_365": -0.60752688172043,
+                                    "high": 1.68,
+                                    "average": 1.46,
+                                    "shift": 0.020979020979021
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Beast-Warrior"
+            },
+            {
+                "name": "Gene-Warped Warwolf",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN001",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.212285456187895,
+                                    "shift_7": -0.0146892655367232,
+                                    "shift_30": 0.441322314049587,
+                                    "shift_21": -0.0202247191011236,
+                                    "low": 5.73,
+                                    "updated_at": "2018-09-19 08:14:18 -0600",
+                                    "shift_3": 0.460636515912898,
+                                    "shift_90": 4.89189189189189,
+                                    "shift_365": -0.353595255744996,
+                                    "high": 27.59,
+                                    "average": 8.72,
+                                    "shift": 0.45819397993311
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Beast-Warrior"
+            },
+            {
+                "name": "Grandmaster of the Six Samurai",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN000",
+                        "name": "Strike of Neos",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.584679280110752,
+                                    "shift_7": -0.0185767362103458,
+                                    "shift_30": -0.060207991242474,
+                                    "shift_21": -0.014916810097533,
+                                    "low": 16.35,
+                                    "updated_at": "2018-09-19 11:58:54 -0600",
+                                    "shift_3": -0.0378257214906136,
+                                    "shift_90": -0.00550246162757023,
+                                    "shift_365": -0.237227898711684,
+                                    "high": 59.98,
+                                    "average": 34.34,
+                                    "shift": -0.0199771689497717
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Great Shogun Shien",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN013",
+                        "name": "Strike of Neos",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 3.16049382716049,
+                                    "shift_7": -0.0131771595900439,
+                                    "shift_30": 0.0564263322884013,
+                                    "shift_21": 0.0888529886914378,
+                                    "low": 4.99,
+                                    "updated_at": "2018-09-19 09:17:17 -0600",
+                                    "shift_3": 0.00148588410104012,
+                                    "shift_90": 0.110378912685338,
+                                    "shift_365": 3.71328671328671,
+                                    "high": 10.72,
+                                    "average": 6.74,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Great Shogun Shien",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN013",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.743641912512716,
+                                    "shift_7": 0.110823071937784,
+                                    "shift_30": 0.0245068738792588,
+                                    "shift_21": 0.0924155513065647,
+                                    "low": 19.99,
+                                    "updated_at": "2018-09-19 09:17:18 -0600",
+                                    "shift_3": 0.0343995171997586,
+                                    "shift_90": -0.0955145118733509,
+                                    "shift_365": 0.741869918699187,
+                                    "high": 35.0,
+                                    "average": 17.14,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Gren, Tactician of Dark World",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN019",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.043956043956044,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": -0.0113636363636364,
+                                    "low": 0.9,
+                                    "updated_at": "2018-09-18 19:55:17 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.186915887850467,
+                                    "high": 18.28,
+                                    "average": 0.87,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Effect"
+            },
+            {
+                "name": "Harvest Angel of Wisdom",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN063",
+                        "name": "Strike of Neos",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.69902912621359,
+                                    "shift_7": -0.0124333925399645,
+                                    "shift_30": 2.20461095100865,
+                                    "shift_21": 0.0054249547920434,
+                                    "low": 3.67,
+                                    "updated_at": "2018-09-18 19:29:35 -0600",
+                                    "shift_3": -0.00269058295964126,
+                                    "shift_90": 0.745682888540031,
+                                    "shift_365": 1.19329388560158,
+                                    "high": 26.18,
+                                    "average": 11.12,
+                                    "shift": -0.0044762757385855
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Hero Medal",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN050",
+                        "name": "Strike of Neos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0186915887850467,
+                                    "shift_7": -0.0186915887850467,
+                                    "shift_30": -0.00943396226415094,
+                                    "shift_21": -0.00943396226415094,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 01:22:50 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.141304347826087,
+                                    "high": 4.07,
+                                    "average": 1.05,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Hero Medal",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN050",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0178571428571429,
+                                    "shift_7": -0.0178571428571429,
+                                    "shift_30": -0.0178571428571429,
+                                    "shift_21": -0.00900900900900901,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 01:22:51 -0600",
+                                    "shift_3": 0.0476190476190476,
+                                    "shift_90": 0.122448979591837,
+                                    "shift_365": -0.0833333333333333,
+                                    "high": 19.07,
+                                    "average": 1.1,
+                                    "shift": 0.0476190476190476
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Kahkki, Guerilla of Dark World",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN018",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0510204081632653,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.03125,
+                                    "shift_21": 0.0,
+                                    "low": 0.57,
+                                    "updated_at": "2018-09-19 11:48:42 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0412371134020619,
+                                    "shift_365": -0.03125,
+                                    "high": 1.53,
+                                    "average": 0.93,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Effect"
+            },
+            {
+                "name": "Legendary Ebon Steed",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN040",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.173076923076923,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0487804878048781,
+                                    "shift_21": 0.0117647058823529,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:01:40 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0227272727272727,
+                                    "shift_365": -0.211009174311927,
+                                    "high": 27.43,
+                                    "average": 0.86,
+                                    "shift": -0.0114942528735632
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Lycanthrope",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN032",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0454545454545455,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.65,
+                                    "updated_at": "2018-09-19 11:56:31 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0232558139534884,
+                                    "shift_365": -0.16,
+                                    "high": 15.18,
+                                    "average": 0.84,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Beast-Warrior / Ritual"
+            },
+            {
+                "name": "Marionette Mite",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN023",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0752688172043011,
+                                    "shift_7": 0.0117647058823529,
+                                    "shift_30": -0.0227272727272727,
+                                    "shift_21": 0.0117647058823529,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:17:14 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0227272727272727,
+                                    "shift_365": -0.0227272727272727,
+                                    "high": 18.35,
+                                    "average": 0.86,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Insect / Effect"
+            },
+            {
+                "name": "Meltiel, Sage of the Sky",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN062",
+                        "name": "Strike of Neos",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.231362467866324,
+                                    "shift_7": -0.0323624595469256,
+                                    "shift_30": 0.0310344827586207,
+                                    "shift_21": -0.0549936788874842,
+                                    "low": 10.56,
+                                    "updated_at": "2018-09-19 11:20:31 -0600",
+                                    "shift_3": -0.0112433862433862,
+                                    "shift_90": -0.0828220858895705,
+                                    "shift_365": -0.556642941874259,
+                                    "high": 29.17,
+                                    "average": 14.95,
+                                    "shift": 0.015625
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Neo-Parshath, the Sky Paladin",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN061",
+                        "name": "Strike of Neos",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.197826086956522,
+                                    "shift_7": 0.433937823834197,
+                                    "shift_30": 0.370049504950495,
+                                    "shift_21": 0.358282208588957,
+                                    "low": 5.73,
+                                    "updated_at": "2018-09-19 09:38:28 -0600",
+                                    "shift_3": 0.422879177377892,
+                                    "shift_90": 0.437662337662338,
+                                    "shift_365": -0.687729196050776,
+                                    "high": 35.6,
+                                    "average": 11.07,
+                                    "shift": 0.422879177377892
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Neo-Spacian Air Hummingbird",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN004",
+                        "name": "Strike of Neos",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.553398058252427,
+                                    "shift_7": 0.0702341137123746,
+                                    "shift_30": 1.16216216216216,
+                                    "shift_21": 0.0884353741496599,
+                                    "low": 1.79,
+                                    "updated_at": "2018-09-19 10:18:08 -0600",
+                                    "shift_3": 0.0491803278688525,
+                                    "shift_90": 0.180811808118081,
+                                    "shift_365": 0.6,
+                                    "high": 25.56,
+                                    "average": 3.2,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Winged Beast / Effect"
+            },
+            {
+                "name": "Neo-Spacian Air Hummingbird",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN004",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.398162327718224,
+                                    "shift_7": -0.142723004694836,
+                                    "shift_30": -0.13047619047619,
+                                    "shift_21": -0.213608957795004,
+                                    "low": 9.75,
+                                    "updated_at": "2018-09-19 11:57:19 -0600",
+                                    "shift_3": -0.0702647657841141,
+                                    "shift_90": 1.12325581395349,
+                                    "shift_365": 0.463141025641026,
+                                    "high": 35.02,
+                                    "average": 9.13,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Winged Beast / Effect"
+            },
+            {
+                "name": "Neo-Spacian Glow Moss",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN006",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.04,
+                                    "shift_7": 0.0105263157894737,
+                                    "shift_30": -0.0204081632653061,
+                                    "shift_21": 0.0,
+                                    "low": 0.69,
+                                    "updated_at": "2018-09-11 20:46:52 -0600",
+                                    "shift_3": -0.0103092783505155,
+                                    "shift_90": 0.0666666666666667,
+                                    "shift_365": -0.549295774647887,
+                                    "high": 18.11,
+                                    "average": 0.96,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Plant / Effect"
+            },
+            {
+                "name": "Neo-Spacian Grand Mole",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN005",
+                        "name": "Strike of Neos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.01,
+                                    "shift_7": 0.0202020202020202,
+                                    "shift_30": 0.0520833333333333,
+                                    "shift_21": 0.0202020202020202,
+                                    "low": 0.66,
+                                    "updated_at": "2018-09-19 10:48:27 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0194174757281553,
+                                    "shift_365": -0.172131147540984,
+                                    "high": 20.51,
+                                    "average": 1.01,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Rock / Effect"
+            },
+            {
+                "name": "Neo-Spacian Grand Mole",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN005",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.24773413897281,
+                                    "shift_7": 0.0853391684901532,
+                                    "shift_30": 0.137614678899083,
+                                    "shift_21": 0.132420091324201,
+                                    "low": 12.43,
+                                    "updated_at": "2018-09-19 10:48:28 -0600",
+                                    "shift_3": 0.0276243093922652,
+                                    "shift_90": 0.133282559025133,
+                                    "shift_365": 0.576271186440678,
+                                    "high": 41.06,
+                                    "average": 14.88,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Rock / Effect"
+            },
+            {
+                "name": "Neos Force",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN039",
+                        "name": "Strike of Neos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0470588235294118,
+                                    "shift_7": 0.0229885057471264,
+                                    "shift_30": -0.043010752688172,
+                                    "shift_21": -0.021978021978022,
+                                    "low": 0.56,
+                                    "updated_at": "2018-09-19 01:28:26 -0600",
+                                    "shift_3": 0.0229885057471264,
+                                    "shift_90": -0.043010752688172,
+                                    "shift_365": -0.258333333333333,
+                                    "high": 3.74,
+                                    "average": 0.89,
+                                    "shift": 0.0113636363636364
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Neos Force",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN039",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.709677419354839,
+                                    "shift_7": -0.0955631399317406,
+                                    "shift_30": 1.12,
+                                    "shift_21": -0.00749063670411985,
+                                    "low": 4.89,
+                                    "updated_at": "2018-09-19 01:28:28 -0600",
+                                    "shift_3": -0.0363636363636364,
+                                    "shift_90": 0.766666666666667,
+                                    "shift_365": 0.687898089171974,
+                                    "high": 27.72,
+                                    "average": 2.65,
+                                    "shift": -0.0501792114695341
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Nova Summoner",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN065",
+                        "name": "Strike of Neos",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.00710479573712256,
+                                    "shift_7": 0.0256880733944954,
+                                    "shift_30": 0.0791505791505791,
+                                    "shift_21": 0.0791505791505791,
+                                    "low": 2.99,
+                                    "updated_at": "2018-09-19 11:59:34 -0600",
+                                    "shift_3": 0.00359066427289048,
+                                    "shift_90": -0.00710479573712256,
+                                    "shift_365": 0.303030303030303,
+                                    "high": 32.87,
+                                    "average": 5.59,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Pulling the Rug",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN060",
+                        "name": "Strike of Neos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.129032258064516,
+                                    "shift_7": -0.0526315789473684,
+                                    "shift_30": -0.0769230769230769,
+                                    "shift_21": -0.0442477876106195,
+                                    "low": 0.7,
+                                    "updated_at": "2018-09-18 21:19:20 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0357142857142857,
+                                    "shift_365": -0.234042553191489,
+                                    "high": 14.72,
+                                    "average": 1.08,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Counter",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Pulling the Rug",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN060",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.121621621621622,
+                                    "shift_7": -0.004,
+                                    "shift_30": 0.197115384615385,
+                                    "shift_21": 0.033195020746888,
+                                    "low": 1.99,
+                                    "updated_at": "2018-09-18 21:19:32 -0600",
+                                    "shift_3": 0.00809716599190283,
+                                    "shift_90": 0.185714285714286,
+                                    "shift_365": 0.163551401869159,
+                                    "high": 6.56,
+                                    "average": 2.49,
+                                    "shift": 0.00809716599190283
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Counter",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Puppet Plant",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN022",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0229885057471264,
+                                    "shift_7": 0.0119047619047619,
+                                    "shift_30": -0.0116279069767442,
+                                    "shift_21": -0.0116279069767442,
+                                    "low": 0.49,
+                                    "updated_at": "2018-09-19 11:34:20 -0600",
+                                    "shift_3": -0.0116279069767442,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0759493670886076,
+                                    "high": 7.33,
+                                    "average": 0.85,
+                                    "shift": -0.0116279069767442
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Plant / Effect"
+            },
+            {
+                "name": "Radiant Jeral",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN066",
+                        "name": "Strike of Neos",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.205394190871369,
+                                    "shift_7": 0.0421768707482993,
+                                    "shift_30": 0.0478796169630643,
+                                    "shift_21": 0.0199733688415446,
+                                    "low": 2.91,
+                                    "updated_at": "2018-09-19 10:25:19 -0600",
+                                    "shift_3": 0.0653685674547983,
+                                    "shift_90": -0.200417536534447,
+                                    "shift_365": -0.0647130647130647,
+                                    "high": 23.83,
+                                    "average": 7.66,
+                                    "shift": 0.0638888888888889
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Radiant Spirit",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN029",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.132075471698113,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.010752688172043,
+                                    "shift_21": -0.010752688172043,
+                                    "low": 0.9,
+                                    "updated_at": "2018-09-19 11:41:05 -0600",
+                                    "shift_3": -0.010752688172043,
+                                    "shift_90": -0.010752688172043,
+                                    "shift_365": -0.010752688172043,
+                                    "high": 4.98,
+                                    "average": 0.92,
+                                    "shift": -0.010752688172043
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Reptile / Effect"
+            },
+            {
+                "name": "Raging Earth",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN027",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0348837209302326,
+                                    "shift_7": 0.0246913580246914,
+                                    "shift_30": -0.0348837209302326,
+                                    "shift_21": -0.0235294117647059,
+                                    "low": 0.49,
+                                    "updated_at": "2018-09-19 11:41:12 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0119047619047619,
+                                    "shift_365": -0.0348837209302326,
+                                    "high": 15.44,
+                                    "average": 0.83,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Reptile / Effect"
+            },
+            {
+                "name": "Reign-Beaux, Overlord of Dark World",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN017",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0781893004115226,
+                                    "shift_7": -0.00569259962049336,
+                                    "shift_30": -0.0541516245487365,
+                                    "shift_21": -0.00945179584120983,
+                                    "low": 3.42,
+                                    "updated_at": "2018-09-19 11:44:24 -0600",
+                                    "shift_3": 0.0234375,
+                                    "shift_90": -0.0278293135435993,
+                                    "shift_365": -0.125208681135225,
+                                    "high": 26.5,
+                                    "average": 5.24,
+                                    "shift": -0.00380228136882129
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Effect"
+            },
+            {
+                "name": "Reign-Beaux, Overlord of Dark World",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN017",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.19260700389105,
+                                    "shift_7": 0.0348943985307622,
+                                    "shift_30": 0.0339449541284404,
+                                    "shift_21": 0.0367985280588776,
+                                    "low": 10.47,
+                                    "updated_at": "2018-09-19 11:44:41 -0600",
+                                    "shift_3": -0.116771159874608,
+                                    "shift_90": -0.00529567519858782,
+                                    "shift_365": 0.529172320217096,
+                                    "high": 26.62,
+                                    "average": 11.27,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Effect"
+            },
+            {
+                "name": "Return of the Six Samurai",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN051",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0319148936170213,
+                                    "shift_7": 0.0224719101123595,
+                                    "shift_30": 0.0459770114942529,
+                                    "shift_21": 0.0459770114942529,
+                                    "low": 0.49,
+                                    "updated_at": "2018-09-19 01:36:03 -0600",
+                                    "shift_3": 0.0224719101123595,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0111111111111111,
+                                    "high": 18.35,
+                                    "average": 0.91,
+                                    "shift": 0.0224719101123595
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Ritual Sealing",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN056",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0777777777777778,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0119047619047619,
+                                    "shift_21": -0.0119047619047619,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 10:22:01 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0246913580246914,
+                                    "shift_365": -0.0674157303370786,
+                                    "high": 18.35,
+                                    "average": 0.83,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Sage of Silence",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN015",
+                        "name": "Strike of Neos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.160919540229885,
+                                    "shift_7": -0.00980392156862745,
+                                    "shift_30": 0.0520833333333333,
+                                    "shift_21": 0.0520833333333333,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 11:24:48 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.134831460674157,
+                                    "shift_365": 0.122222222222222,
+                                    "high": 3.22,
+                                    "average": 1.01,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Sage of Silence",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN015",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.658767772511848,
+                                    "shift_7": 0.0769230769230769,
+                                    "shift_30": 0.0869565217391304,
+                                    "shift_21": 0.174496644295302,
+                                    "low": 5.62,
+                                    "updated_at": "2018-09-19 11:24:48 -0600",
+                                    "shift_3": 0.00286532951289398,
+                                    "shift_90": 0.0263929618768328,
+                                    "shift_365": 0.555555555555556,
+                                    "high": 7.99,
+                                    "average": 3.5,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Sage of Stillness",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN016",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0104166666666667,
+                                    "shift_7": 0.0106382978723404,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0106382978723404,
+                                    "low": 0.9,
+                                    "updated_at": "2018-09-19 11:43:28 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0326086956521739,
+                                    "high": 2.42,
+                                    "average": 0.95,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Shien's Castle of Mist",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN047",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.270588235294118,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.173913043478261,
+                                    "shift_21": 0.173913043478261,
+                                    "low": 0.9,
+                                    "updated_at": "2018-09-19 11:13:09 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.2,
+                                    "shift_365": 0.241379310344828,
+                                    "high": 1.25,
+                                    "average": 1.08,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Field",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Shien's Footsoldier",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN014",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.222222222222222,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0232558139534884,
+                                    "shift_21": -0.0232558139534884,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 07:06:33 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.0454545454545455,
+                                    "high": 15.47,
+                                    "average": 0.84,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Silent Abyss",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN025",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.118181818181818,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0104166666666667,
+                                    "shift_21": 0.0210526315789474,
+                                    "low": 0.65,
+                                    "updated_at": "2018-09-18 22:20:09 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0898876404494382,
+                                    "high": 15.45,
+                                    "average": 0.97,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Reptile / Effect"
+            },
+            {
+                "name": "Skyscraper 2 - Hero City",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN048",
+                        "name": "Strike of Neos",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.194945848375451,
+                                    "shift_7": 0.0746753246753247,
+                                    "shift_30": 0.277992277992278,
+                                    "shift_21": 0.22140221402214,
+                                    "low": 3.47,
+                                    "updated_at": "2018-09-19 10:10:54 -0600",
+                                    "shift_3": 0.0279503105590062,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.125850340136054,
+                                    "high": 20.51,
+                                    "average": 3.31,
+                                    "shift": 0.0060790273556231
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Field",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Skyscraper 2 - Hero City",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN048",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.298989898989899,
+                                    "shift_7": -0.0280112044817927,
+                                    "shift_30": 0.0116618075801749,
+                                    "shift_21": -0.038781163434903,
+                                    "low": 3.31,
+                                    "updated_at": "2018-09-19 10:10:55 -0600",
+                                    "shift_3": -0.0028735632183908,
+                                    "shift_90": -0.24400871459695,
+                                    "shift_365": -0.0113960113960114,
+                                    "high": 31.32,
+                                    "average": 3.47,
+                                    "shift": 0.00579710144927536
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Field",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Spiral Serpent",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN003",
+                        "name": "Strike of Neos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0689655172413793,
+                                    "shift_7": 0.0449438202247191,
+                                    "shift_30": 0.0449438202247191,
+                                    "shift_21": 0.0449438202247191,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 09:17:58 -0600",
+                                    "shift_3": 0.021978021978022,
+                                    "shift_90": 0.021978021978022,
+                                    "shift_365": -0.0106382978723404,
+                                    "high": 17.29,
+                                    "average": 0.93,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Sea Serpent"
+            },
+            {
+                "name": "Spiral Serpent",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN003",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0445344129554656,
+                                    "shift_7": -0.0247933884297521,
+                                    "shift_30": -0.0708661417322835,
+                                    "shift_21": -0.0923076923076923,
+                                    "low": 2.76,
+                                    "updated_at": "2018-09-19 09:17:59 -0600",
+                                    "shift_3": -0.0308008213552361,
+                                    "shift_90": -0.0690335305719921,
+                                    "shift_365": -0.353424657534247,
+                                    "high": 26.28,
+                                    "average": 4.72,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Sea Serpent"
+            },
+            {
+                "name": "Swift Samurai Storm!",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN058",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.134020618556701,
+                                    "shift_7": 0.0769230769230769,
+                                    "shift_30": 0.0120481927710843,
+                                    "shift_21": 0.024390243902439,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 05:26:38 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0454545454545455,
+                                    "shift_365": -0.106382978723404,
+                                    "high": 6.92,
+                                    "average": 0.84,
+                                    "shift": -0.0117647058823529
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Synthesis Spell",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN043",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.203703703703704,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0227272727272727,
+                                    "shift_21": 0.0,
+                                    "low": 0.83,
+                                    "updated_at": "2018-09-18 19:56:55 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0652173913043478,
+                                    "shift_365": -0.0337078651685393,
+                                    "high": 15.78,
+                                    "average": 0.86,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Ritual",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "The Six Samurai - Irou",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN012",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.00934579439252336,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.00934579439252336,
+                                    "shift_21": 0.00934579439252336,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:08:58 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.00934579439252336,
+                                    "shift_365": 0.186813186813187,
+                                    "high": 2.52,
+                                    "average": 1.08,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "The Six Samurai - Kamon",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN008",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0555555555555556,
+                                    "shift_7": 0.0625,
+                                    "shift_30": -0.0116279069767442,
+                                    "shift_21": 0.0240963855421687,
+                                    "low": 0.47,
+                                    "updated_at": "2018-09-19 11:32:27 -0600",
+                                    "shift_3": 0.0240963855421687,
+                                    "shift_90": 0.0365853658536585,
+                                    "shift_365": 0.0,
+                                    "high": 1.15,
+                                    "average": 0.85,
+                                    "shift": 0.0240963855421687
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "The Six Samurai - Nisashi",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN010",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.118279569892473,
+                                    "shift_7": 0.0123456790123457,
+                                    "shift_30": 0.0123456790123457,
+                                    "shift_21": 0.0123456790123457,
+                                    "low": 0.45,
+                                    "updated_at": "2018-09-19 11:32:31 -0600",
+                                    "shift_3": 0.0123456790123457,
+                                    "shift_90": 0.0123456790123457,
+                                    "shift_365": -0.0352941176470588,
+                                    "high": 5.65,
+                                    "average": 0.82,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "The Six Samurai - Yaichi",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN007",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0235294117647059,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0121951219512195,
+                                    "low": 0.48,
+                                    "updated_at": "2018-09-19 11:32:30 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0121951219512195,
+                                    "shift_365": -0.126315789473684,
+                                    "high": 1.11,
+                                    "average": 0.83,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "The Six Samurai - Yariza",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN009",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0581395348837209,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.42,
+                                    "updated_at": "2018-09-12 02:25:16 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0357142857142857,
+                                    "shift_365": -0.0357142857142857,
+                                    "high": 18.05,
+                                    "average": 0.81,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "The Six Samurai - Zanji",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN011",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0927835051546392,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0114942528735632,
+                                    "shift_21": 0.0232558139534884,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 10:13:40 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.032967032967033,
+                                    "shift_365": -0.0222222222222222,
+                                    "high": 1.19,
+                                    "average": 0.88,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "The Transmigration Prophecy",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN054",
+                        "name": "Strike of Neos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0229885057471264,
+                                    "shift_7": 0.0625,
+                                    "shift_30": -0.0116279069767442,
+                                    "shift_21": -0.0116279069767442,
+                                    "low": 0.56,
+                                    "updated_at": "2018-09-19 04:03:07 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0625,
+                                    "shift_365": -0.608294930875576,
+                                    "high": 21.23,
+                                    "average": 0.85,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "The Transmigration Prophecy",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN054",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.307971014492754,
+                                    "shift_7": 0.0255681818181818,
+                                    "shift_30": 0.0840840840840841,
+                                    "shift_21": 0.0840840840840841,
+                                    "low": 2.29,
+                                    "updated_at": "2018-09-19 04:03:08 -0600",
+                                    "shift_3": 0.00557103064066852,
+                                    "shift_90": 0.153354632587859,
+                                    "shift_365": 0.266666666666667,
+                                    "high": 27.72,
+                                    "average": 3.61,
+                                    "shift": 0.00557103064066852
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Twister",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN042",
+                        "name": "Strike of Neos",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0465116279069767,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0112359550561798,
+                                    "shift_21": 0.0,
+                                    "low": 0.53,
+                                    "updated_at": "2018-09-19 03:32:09 -0600",
+                                    "shift_3": -0.010989010989011,
+                                    "shift_90": -0.010989010989011,
+                                    "shift_365": -0.181818181818182,
+                                    "high": 20.41,
+                                    "average": 0.9,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Twister",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN042",
+                        "name": "Strike of Neos",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.564835164835165,
+                                    "shift_7": -0.352941176470588,
+                                    "shift_30": -0.0480769230769231,
+                                    "shift_21": -0.0388349514563107,
+                                    "low": 2.02,
+                                    "updated_at": "2018-09-19 03:32:10 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.52744630071599,
+                                    "shift_365": -0.112107623318386,
+                                    "high": 25.84,
+                                    "average": 1.98,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Umbral Soul",
+                "numbers": [
+                    {
+                        "print_tag": "STON-EN030",
+                        "name": "Strike of Neos",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.141509433962264,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0108695652173913,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 02:03:34 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0111111111111111,
+                                    "high": 18.35,
+                                    "average": 0.91,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Reptile / Effect"
+            }
+        ],
+        "highest": 2322.63,
+        "average": 597.2300000000004,
+        "tcg_booster_values": {
+            "average": 8.03,
+            "low": 3.83,
+            "high": 72.67
+        },
+        "lowest": 451.5400000000003
+    },
+    "status": "success"
+}

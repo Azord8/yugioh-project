@@ -1,0 +1,3798 @@
+{
+    "data": {
+        "rarities": {
+            "Super Rare": 14,
+            "Secret Rare": 8,
+            "Ultimate Rare": 10,
+            "Common": 48,
+            "Ultra Rare": 10,
+            "Ghost Rare": 1,
+            "Rare": 20
+        },
+        "cards": [
+            {
+                "name": "Avenging Knight Parshath",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN000",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.318364997121474,
+                                    "shift_7": 0.136276391554703,
+                                    "shift_30": 0.0942698706099815,
+                                    "shift_21": 0.14175506268081,
+                                    "low": 8.54,
+                                    "updated_at": "2018-09-19 05:50:41 -0600",
+                                    "shift_3": 0.0286707211120765,
+                                    "shift_90": -0.048995983935743,
+                                    "shift_365": 0.570291777188329,
+                                    "high": 31.22,
+                                    "average": 11.84,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Synchro"
+            },
+            {
+                "name": "Battle Tuned",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN048",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.218181818181818,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 20:05:47 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0114942528735632,
+                                    "shift_365": 0.0117647058823529,
+                                    "high": 18.76,
+                                    "average": 0.86,
+                                    "shift": -0.0114942528735632
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Beast of the Pharaoh",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN032",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.252032520325203,
+                                    "shift_7": -0.010752688172043,
+                                    "shift_30": 0.0337078651685393,
+                                    "shift_21": 0.010989010989011,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 11:14:21 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0515463917525773,
+                                    "shift_365": -0.163636363636364,
+                                    "high": 15.17,
+                                    "average": 0.92,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Zombie / Effect"
+            },
+            {
+                "name": "Big Piece Golem",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN008",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0315789473684211,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 22:37:12 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.010752688172043,
+                                    "shift_365": -0.0515463917525773,
+                                    "high": 18.28,
+                                    "average": 0.92,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Rock / Effect"
+            },
+            {
+                "name": "Book of Eclipse",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN062",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0905349794238683,
+                                    "shift_7": 0.00454545454545455,
+                                    "shift_30": 0.0091324200913242,
+                                    "shift_21": 0.00454545454545455,
+                                    "low": 1.55,
+                                    "updated_at": "2018-09-19 12:09:03 -0600",
+                                    "shift_3": 0.00454545454545455,
+                                    "shift_90": 0.127551020408163,
+                                    "shift_365": 0.0833333333333333,
+                                    "high": 19.07,
+                                    "average": 2.21,
+                                    "shift": 0.0327102803738318
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Broken Blocker",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN069",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0306122448979592,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0106382978723404,
+                                    "shift_21": 0.021505376344086,
+                                    "low": 0.58,
+                                    "updated_at": "2018-09-18 21:13:40 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0326086956521739,
+                                    "shift_365": 0.0326086956521739,
+                                    "high": 14.37,
+                                    "average": 0.95,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Charge of the Light Brigade",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN089",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.270965265783919,
+                                    "shift_7": 0.562088815789474,
+                                    "shift_30": 0.556967213114754,
+                                    "shift_21": 0.508138150059547,
+                                    "low": 16.99,
+                                    "updated_at": "2018-09-19 11:06:17 -0600",
+                                    "shift_3": -0.0106770833333333,
+                                    "shift_90": 0.493317610062893,
+                                    "shift_365": -0.298430286241921,
+                                    "high": 114.74,
+                                    "average": 37.99,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Cold Enchanter",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN096",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.21978021978022,
+                                    "shift_7": -0.00892857142857143,
+                                    "shift_30": -0.00892857142857143,
+                                    "shift_21": -0.00892857142857143,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 18:56:43 -0600",
+                                    "shift_3": -0.00892857142857143,
+                                    "shift_90": -0.00892857142857143,
+                                    "shift_365": 0.261363636363636,
+                                    "high": 20.43,
+                                    "average": 1.11,
+                                    "shift": -0.00892857142857143
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Aqua / Effect"
+            },
+            {
+                "name": "Counselor Lily",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN081",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0434782608695652,
+                                    "shift_7": -0.032967032967033,
+                                    "shift_30": -0.032967032967033,
+                                    "shift_21": -0.0112359550561798,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 22:51:08 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0638297872340425,
+                                    "shift_365": -0.234782608695652,
+                                    "high": 19.0,
+                                    "average": 0.88,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Tuner"
+            },
+            {
+                "name": "Cyber Shark",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN086",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.268096514745308,
+                                    "shift_7": 0.281842818428184,
+                                    "shift_30": 0.261333333333333,
+                                    "shift_21": 0.274932614555256,
+                                    "low": 3.99,
+                                    "updated_at": "2018-09-19 12:06:29 -0600",
+                                    "shift_3": 0.0441501103752759,
+                                    "shift_90": 0.437689969604863,
+                                    "shift_365": 0.261333333333333,
+                                    "high": 21.23,
+                                    "average": 4.73,
+                                    "shift": 0.0418502202643172
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fish / Effect"
+            },
+            {
+                "name": "Dark Hunter",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN033",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0631578947368421,
+                                    "shift_7": -0.043010752688172,
+                                    "shift_30": -0.0631578947368421,
+                                    "shift_21": -0.0631578947368421,
+                                    "low": 0.6,
+                                    "updated_at": "2018-09-18 20:54:35 -0600",
+                                    "shift_3": 0.0113636363636364,
+                                    "shift_90": -0.0531914893617021,
+                                    "shift_365": -0.548223350253807,
+                                    "high": 6.26,
+                                    "average": 0.89,
+                                    "shift": 0.0113636363636364
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Effect"
+            },
+            {
+                "name": "Dark Hunter",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN033",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0884955752212389,
+                                    "shift_7": -0.00806451612903226,
+                                    "shift_30": -0.0238095238095238,
+                                    "shift_21": 0.0,
+                                    "low": 1.17,
+                                    "updated_at": "2018-09-18 20:54:37 -0600",
+                                    "shift_3": 0.00819672131147541,
+                                    "shift_90": -0.0681818181818182,
+                                    "shift_365": -0.0238095238095238,
+                                    "high": 20.43,
+                                    "average": 1.23,
+                                    "shift": 0.00819672131147541
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Effect"
+            },
+            {
+                "name": "Dark Resonator",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN010",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0470588235294118,
+                                    "shift_7": 0.0348837209302326,
+                                    "shift_30": 0.0470588235294118,
+                                    "shift_21": 0.0229885057471264,
+                                    "low": 0.56,
+                                    "updated_at": "2018-09-19 03:55:23 -0600",
+                                    "shift_3": -0.0111111111111111,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.0631578947368421,
+                                    "high": 6.73,
+                                    "average": 0.89,
+                                    "shift": 0.0113636363636364
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Tuner"
+            },
+            {
+                "name": "De-Synchro",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN049",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.758064516129032,
+                                    "shift_7": 0.101010101010101,
+                                    "shift_30": 0.09,
+                                    "shift_21": 0.406451612903226,
+                                    "low": 1.3,
+                                    "updated_at": "2018-09-19 11:02:06 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.703125,
+                                    "shift_365": 0.178378378378378,
+                                    "high": 20.51,
+                                    "average": 2.18,
+                                    "shift": -0.00909090909090909
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Defense Draw",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN065",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.358369098712446,
+                                    "shift_7": 0.0480132450331126,
+                                    "shift_30": -0.0481203007518797,
+                                    "shift_21": -0.0509745127436282,
+                                    "low": 1.06,
+                                    "updated_at": "2018-09-19 11:00:36 -0600",
+                                    "shift_3": -0.0261538461538462,
+                                    "shift_90": 0.324267782426778,
+                                    "shift_365": 2.38502673796791,
+                                    "high": 19.07,
+                                    "average": 6.33,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Destructotron",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN023",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.108695652173913,
+                                    "shift_7": -0.0238095238095238,
+                                    "shift_30": 0.0,
+                                    "shift_21": -0.0352941176470588,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 22:08:20 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0352941176470588,
+                                    "shift_365": -0.240740740740741,
+                                    "high": 18.28,
+                                    "average": 0.82,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Psychic / Effect"
+            },
+            {
+                "name": "Dharc the Dark Charmer",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN026",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.149532710280374,
+                                    "shift_7": 0.0111111111111111,
+                                    "shift_30": 0.0224719101123595,
+                                    "shift_21": 0.0224719101123595,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 03:49:04 -0600",
+                                    "shift_3": 0.0224719101123595,
+                                    "shift_90": 0.0581395348837209,
+                                    "shift_365": 0.0963855421686747,
+                                    "high": 18.35,
+                                    "average": 0.91,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Doctor Cranium",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN017",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.207547169811321,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0232558139534884,
+                                    "shift_21": -0.0232558139534884,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 02:01:24 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0454545454545455,
+                                    "shift_365": -0.0561797752808989,
+                                    "high": 20.47,
+                                    "average": 0.84,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Psychic / Effect"
+            },
+            {
+                "name": "Domino Effect",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN046",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0344827586206897,
+                                    "shift_7": 0.0120481927710843,
+                                    "shift_30": 0.0120481927710843,
+                                    "shift_21": 0.0120481927710843,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 02:52:41 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.553191489361702,
+                                    "high": 18.35,
+                                    "average": 0.84,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Emergency Teleport",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN053",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0735785953177258,
+                                    "shift_7": 0.0388349514563107,
+                                    "shift_30": -0.0389221556886228,
+                                    "shift_21": 0.00626959247648903,
+                                    "low": 2.35,
+                                    "updated_at": "2018-09-19 09:29:49 -0600",
+                                    "shift_3": 0.00943396226415094,
+                                    "shift_90": 0.0629139072847682,
+                                    "shift_365": 0.0354838709677419,
+                                    "high": 19.73,
+                                    "average": 3.21,
+                                    "shift": 0.00626959247648903
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Emergency Teleport",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN053",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0437235543018336,
+                                    "shift_7": -0.115361625821877,
+                                    "shift_30": 0.0503903477643719,
+                                    "shift_21": -0.178690344062153,
+                                    "low": 11.1,
+                                    "updated_at": "2018-09-19 09:29:50 -0600",
+                                    "shift_3": -0.103573591762568,
+                                    "shift_90": -0.0500641848523748,
+                                    "shift_365": 0.703107019562716,
+                                    "high": 43.75,
+                                    "average": 14.8,
+                                    "shift": -0.0761548064918851
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Equip Shot",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN063",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.2,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0114942528735632,
+                                    "shift_21": 0.0,
+                                    "low": 0.81,
+                                    "updated_at": "2018-09-18 21:26:35 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0114942528735632,
+                                    "shift_365": -0.0434782608695652,
+                                    "high": 1.19,
+                                    "average": 0.88,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Fiendish Engine \u03a9",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN095",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.198675496688742,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0254237288135593,
+                                    "shift_21": 0.00833333333333333,
+                                    "low": 0.77,
+                                    "updated_at": "2018-09-19 11:07:46 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.047244094488189,
+                                    "shift_365": -0.214285714285714,
+                                    "high": 29.17,
+                                    "average": 1.21,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Fighting Spirit",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN045",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0434782608695652,
+                                    "shift_7": -0.032967032967033,
+                                    "shift_30": -0.0434782608695652,
+                                    "shift_21": -0.0434782608695652,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 02:52:18 -0600",
+                                    "shift_3": -0.0222222222222222,
+                                    "shift_90": -0.0434782608695652,
+                                    "shift_365": -0.0638297872340425,
+                                    "high": 19.07,
+                                    "average": 0.88,
+                                    "shift": -0.0434782608695652
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Fish Depth Charge",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN078",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.127272727272727,
+                                    "shift_7": 0.0212765957446809,
+                                    "shift_30": 0.0212765957446809,
+                                    "shift_21": 0.0549450549450549,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 21:21:35 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0212765957446809,
+                                    "shift_365": -0.206611570247934,
+                                    "high": 18.28,
+                                    "average": 0.96,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Geartown",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN057",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.15,
+                                    "shift_7": 0.0087719298245614,
+                                    "shift_30": 0.0176991150442478,
+                                    "shift_21": 0.0267857142857143,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 10:01:11 -0600",
+                                    "shift_3": 0.0454545454545455,
+                                    "shift_90": 0.185567010309278,
+                                    "shift_365": -0.0725806451612903,
+                                    "high": 20.51,
+                                    "average": 1.16,
+                                    "shift": 0.0087719298245614
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Field",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Ghost Gardna",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN004",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0375,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.39,
+                                    "updated_at": "2018-09-18 21:49:24 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0266666666666667,
+                                    "shift_365": 0.0405405405405405,
+                                    "high": 4.98,
+                                    "average": 0.77,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Gladiator Beast Equeste",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN024",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.20952380952381,
+                                    "shift_7": -0.0592592592592593,
+                                    "shift_30": 0.032520325203252,
+                                    "shift_21": 0.032520325203252,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 00:22:27 -0600",
+                                    "shift_3": -0.0522388059701493,
+                                    "shift_90": 0.144144144144144,
+                                    "shift_365": 0.336842105263158,
+                                    "high": 7.93,
+                                    "average": 1.27,
+                                    "shift": 0.032520325203252
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Winged Beast / Effect"
+            },
+            {
+                "name": "Gladiator Beast War Chariot",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN074",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.167464114832536,
+                                    "shift_7": -0.183946488294314,
+                                    "shift_30": -0.134751773049645,
+                                    "shift_21": 0.14018691588785,
+                                    "low": 1.65,
+                                    "updated_at": "2018-09-18 21:29:07 -0600",
+                                    "shift_3": 0.0562770562770563,
+                                    "shift_90": -0.235109717868339,
+                                    "shift_365": -0.432558139534884,
+                                    "high": 13.99,
+                                    "average": 2.44,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Counter",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Gonogo",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN015",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.104651162790698,
+                                    "shift_7": 0.0266666666666667,
+                                    "shift_30": 0.0266666666666667,
+                                    "shift_21": 0.0266666666666667,
+                                    "low": 0.41,
+                                    "updated_at": "2018-09-18 21:53:46 -0600",
+                                    "shift_3": 0.0266666666666667,
+                                    "shift_90": 0.0266666666666667,
+                                    "shift_365": -0.0253164556962025,
+                                    "high": 18.28,
+                                    "average": 0.77,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Rock / Effect"
+            },
+            {
+                "name": "Goyo Guardian",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN042",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.00625,
+                                    "shift_7": 0.118055555555556,
+                                    "shift_30": 0.154121863799283,
+                                    "shift_21": 0.118055555555556,
+                                    "low": 1.88,
+                                    "updated_at": "2018-09-19 10:59:30 -0600",
+                                    "shift_3": 0.0353697749196141,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.114186851211073,
+                                    "high": 21.07,
+                                    "average": 3.22,
+                                    "shift": 0.00311526479750779
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Synchro"
+            },
+            {
+                "name": "Goyo Guardian",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN042",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.218604651162791,
+                                    "shift_7": 0.0135396518375242,
+                                    "shift_30": 0.0501002004008016,
+                                    "shift_21": 0.0396825396825397,
+                                    "low": 4.5,
+                                    "updated_at": "2018-09-19 10:59:31 -0600",
+                                    "shift_3": 0.0194552529182879,
+                                    "shift_90": -0.0260223048327138,
+                                    "shift_365": 0.746666666666667,
+                                    "high": 28.14,
+                                    "average": 5.24,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Synchro"
+            },
+            {
+                "name": "Graceful Revival",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN064",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0105263157894737,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0105263157894737,
+                                    "shift_21": 0.0105263157894737,
+                                    "low": 0.55,
+                                    "updated_at": "2018-09-19 11:28:55 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0105263157894737,
+                                    "shift_365": 0.0786516853932584,
+                                    "high": 15.9,
+                                    "average": 0.96,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Grapple Blocker",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN087",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0333333333333333,
+                                    "shift_7": -0.0113636363636364,
+                                    "shift_30": -0.0113636363636364,
+                                    "shift_21": 0.0,
+                                    "low": 0.5,
+                                    "updated_at": "2018-09-18 21:55:31 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.074468085106383,
+                                    "shift_365": -0.0113636363636364,
+                                    "high": 19.0,
+                                    "average": 0.87,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Psychic / Effect"
+            },
+            {
+                "name": "Hand of the Six Samurai",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN085",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0666666666666667,
+                                    "shift_7": -0.0078740157480315,
+                                    "shift_30": -0.0430379746835443,
+                                    "shift_21": -0.0104712041884817,
+                                    "low": 1.65,
+                                    "updated_at": "2018-09-19 10:54:13 -0600",
+                                    "shift_3": 0.008,
+                                    "shift_90": -0.169230769230769,
+                                    "shift_365": -0.0257731958762887,
+                                    "high": 24.83,
+                                    "average": 3.78,
+                                    "shift": 0.00531914893617021
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Handcuffs Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN013",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0217391304347826,
+                                    "shift_7": 0.010752688172043,
+                                    "shift_30": 0.0217391304347826,
+                                    "shift_21": 0.010752688172043,
+                                    "low": 0.55,
+                                    "updated_at": "2018-09-18 19:28:27 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0105263157894737,
+                                    "shift_365": 0.0681818181818182,
+                                    "high": 15.18,
+                                    "average": 0.94,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Effect"
+            },
+            {
+                "name": "Herald of Orange Light",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN082",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.2,
+                                    "shift_7": -0.196850393700787,
+                                    "shift_30": 0.457142857142857,
+                                    "shift_21": 0.0569948186528497,
+                                    "low": 1.78,
+                                    "updated_at": "2018-09-19 07:42:27 -0600",
+                                    "shift_3": 0.0099009900990099,
+                                    "shift_90": 0.236363636363636,
+                                    "shift_365": -0.238805970149254,
+                                    "high": 21.23,
+                                    "average": 2.05,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Tuner"
+            },
+            {
+                "name": "Ice Master",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN097",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.621951219512195,
+                                    "shift_7": 0.0072202166064982,
+                                    "shift_30": 0.0072202166064982,
+                                    "shift_21": -0.0141342756183746,
+                                    "low": 1.15,
+                                    "updated_at": "2018-09-19 11:02:25 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0412371134020619,
+                                    "shift_365": 0.192307692307692,
+                                    "high": 13.83,
+                                    "average": 2.79,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Intercept",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN076",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0262008733624454,
+                                    "shift_7": -0.00888888888888889,
+                                    "shift_30": 0.21195652173913,
+                                    "shift_21": -0.00888888888888889,
+                                    "low": 1.49,
+                                    "updated_at": "2018-09-18 18:57:48 -0600",
+                                    "shift_3": -0.00446428571428571,
+                                    "shift_90": -0.206405693950178,
+                                    "shift_365": -0.587037037037037,
+                                    "high": 27.86,
+                                    "average": 2.23,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Counter",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Izanagi",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN030",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.167567567567568,
+                                    "shift_7": -0.414448669201521,
+                                    "shift_30": -0.0253164556962025,
+                                    "shift_21": -0.435897435897436,
+                                    "low": 1.49,
+                                    "updated_at": "2018-09-19 11:05:54 -0600",
+                                    "shift_3": -0.0253164556962025,
+                                    "shift_90": 0.140740740740741,
+                                    "shift_365": -0.603092783505155,
+                                    "high": 19.74,
+                                    "average": 1.54,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Izanami",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN083",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0175438596491228,
+                                    "shift_7": 0.00900900900900901,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0181818181818182,
+                                    "low": 1.49,
+                                    "updated_at": "2018-09-19 11:05:55 -0600",
+                                    "shift_3": 0.00900900900900901,
+                                    "shift_90": 0.0181818181818182,
+                                    "shift_365": -0.104,
+                                    "high": 20.51,
+                                    "average": 1.12,
+                                    "shift": 0.00900900900900901
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Spirit"
+            },
+            {
+                "name": "Jenis, Lightsworn Mender",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN025",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0193548387096774,
+                                    "shift_7": -0.0193548387096774,
+                                    "shift_30": -0.0256410256410256,
+                                    "shift_21": -0.0193548387096774,
+                                    "low": 1.03,
+                                    "updated_at": "2018-09-19 08:06:25 -0600",
+                                    "shift_3": -0.0193548387096774,
+                                    "shift_90": 0.0133333333333333,
+                                    "shift_365": -0.0843373493975904,
+                                    "high": 18.35,
+                                    "average": 1.52,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Judgment of Thunder",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN077",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.232142857142857,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0337078651685393,
+                                    "shift_21": -0.225225225225225,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 11:27:52 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.0549450549450549,
+                                    "high": 2.42,
+                                    "average": 0.86,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Junk Barrage",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN047",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.153846153846154,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.032967032967033,
+                                    "shift_21": -0.0434782608695652,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 02:07:04 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0232558139534884,
+                                    "shift_365": 0.0731707317073171,
+                                    "high": 18.35,
+                                    "average": 0.88,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Jutte Fighter",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN012",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0666666666666667,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0561797752808989,
+                                    "shift_21": 0.0120481927710843,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:02:19 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0120481927710843,
+                                    "shift_365": 0.0,
+                                    "high": 3.0,
+                                    "average": 0.84,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Tuner"
+            },
+            {
+                "name": "Kinka-byo",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN034",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.504,
+                                    "shift_7": 0.0386740331491713,
+                                    "shift_30": -0.0122591943957968,
+                                    "shift_21": 0.0930232558139535,
+                                    "low": 1.99,
+                                    "updated_at": "2018-09-19 11:50:49 -0600",
+                                    "shift_3": 0.0425138632162662,
+                                    "shift_90": 0.218142548596112,
+                                    "shift_365": -0.11875,
+                                    "high": 21.23,
+                                    "average": 5.64,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Beast / Spirit"
+            },
+            {
+                "name": "Krebons",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN018",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.222222222222222,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0120481927710843,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:52:00 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0117647058823529,
+                                    "shift_365": -0.0454545454545455,
+                                    "high": 18.35,
+                                    "average": 0.84,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Psychic / Tuner"
+            },
+            {
+                "name": "Kunai with Chain",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN098",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0158730158730159,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0163934426229508,
+                                    "shift_21": 0.0163934426229508,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 23:35:45 -0600",
+                                    "shift_3": -0.0158730158730159,
+                                    "shift_90": 0.127272727272727,
+                                    "shift_365": 0.569620253164557,
+                                    "high": 19.71,
+                                    "average": 2.48,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Kunoichi",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN031",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0659340659340659,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:52:10 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0119047619047619,
+                                    "high": 18.35,
+                                    "average": 0.85,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Lightsworn Barrier",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN075",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0674157303370786,
+                                    "shift_7": -0.0104166666666667,
+                                    "shift_30": -0.0206185567010309,
+                                    "shift_21": -0.0206185567010309,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 01:31:14 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.021505376344086,
+                                    "shift_365": -0.510309278350515,
+                                    "high": 18.35,
+                                    "average": 0.95,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Lightsworn Sabre",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN059",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.208609271523179,
+                                    "shift_7": -0.00416666666666667,
+                                    "shift_30": -0.0590551181102362,
+                                    "shift_21": -0.0362903225806452,
+                                    "low": 1.78,
+                                    "updated_at": "2018-09-18 19:59:42 -0600",
+                                    "shift_3": -0.0204918032786885,
+                                    "shift_90": -0.101503759398496,
+                                    "shift_365": -0.260061919504644,
+                                    "high": 20.43,
+                                    "average": 2.39,
+                                    "shift": 0.0346320346320346
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Lightwave Tuning",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN050",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0493827160493827,
+                                    "shift_21": -0.0493827160493827,
+                                    "low": 0.45,
+                                    "updated_at": "2018-09-18 20:39:23 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0405405405405405,
+                                    "shift_365": -0.114942528735632,
+                                    "high": 18.28,
+                                    "average": 0.77,
+                                    "shift": 0.0266666666666667
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Magical Android",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN043",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0099009900990099,
+                                    "shift_7": -0.0377358490566038,
+                                    "shift_30": -0.0892857142857143,
+                                    "shift_21": -0.0642201834862385,
+                                    "low": 0.76,
+                                    "updated_at": "2018-09-19 11:14:11 -0600",
+                                    "shift_3": -0.0285714285714286,
+                                    "shift_90": -0.0642201834862385,
+                                    "shift_365": -0.0810810810810811,
+                                    "high": 6.59,
+                                    "average": 1.02,
+                                    "shift": -0.0285714285714286
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Psychic / Synchro"
+            },
+            {
+                "name": "Maiden of Macabre",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN084",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.178571428571429,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0731707317073171,
+                                    "shift_21": 0.0153846153846154,
+                                    "low": 0.49,
+                                    "updated_at": "2018-09-19 11:15:10 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.1,
+                                    "shift_365": 0.1,
+                                    "high": 1.7,
+                                    "average": 1.32,
+                                    "shift": -0.0364963503649635
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Mecha Bunny",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN027",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0930232558139535,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.032967032967033,
+                                    "shift_21": -0.0105263157894737,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:18:50 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.119047619047619,
+                                    "shift_365": -0.489130434782609,
+                                    "high": 4.98,
+                                    "average": 0.94,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Medium Piece Golem",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN007",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:19:43 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0833333333333333,
+                                    "shift_365": 0.0705882352941176,
+                                    "high": 18.35,
+                                    "average": 0.91,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Rock / Effect"
+            },
+            {
+                "name": "Mind Master",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN016",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0120481927710843,
+                                    "shift_7": -0.0117647058823529,
+                                    "shift_30": -0.0117647058823529,
+                                    "shift_21": 0.0,
+                                    "low": 0.49,
+                                    "updated_at": "2018-09-19 11:23:18 -0600",
+                                    "shift_3": -0.0117647058823529,
+                                    "shift_90": 0.05,
+                                    "shift_365": 0.0,
+                                    "high": 18.35,
+                                    "average": 0.84,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Psychic / Tuner"
+            },
+            {
+                "name": "Mind Over Matter",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN073",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.113207547169811,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.06,
+                                    "shift_21": -0.0309278350515464,
+                                    "low": 0.55,
+                                    "updated_at": "2018-09-19 02:02:15 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0784313725490196,
+                                    "shift_365": -0.196581196581197,
+                                    "high": 20.25,
+                                    "average": 0.94,
+                                    "shift": -0.0105263157894737
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Counter",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Mind Protector",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN019",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.03125,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0108695652173913,
+                                    "shift_21": 0.0,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 11:23:15 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0210526315789474,
+                                    "shift_365": -0.138888888888889,
+                                    "high": 18.35,
+                                    "average": 0.93,
+                                    "shift": -0.0106382978723404
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Psychic / Effect"
+            },
+            {
+                "name": "Mirror of Yata",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN056",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.282608695652174,
+                                    "shift_7": 0.282608695652174,
+                                    "shift_30": 0.00854700854700855,
+                                    "shift_21": 0.0,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 01:16:46 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.282608695652174,
+                                    "shift_365": -0.448598130841121,
+                                    "high": 2.42,
+                                    "average": 1.18,
+                                    "shift": -0.0166666666666667
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Montage Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN014",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0342679127725857,
+                                    "shift_7": -0.133159268929504,
+                                    "shift_30": -0.10752688172043,
+                                    "shift_21": -0.150895140664962,
+                                    "low": 3.38,
+                                    "updated_at": "2018-09-19 11:24:58 -0600",
+                                    "shift_3": 0.00302114803625378,
+                                    "shift_90": 0.0184049079754601,
+                                    "shift_365": 0.00911854103343465,
+                                    "high": 31.32,
+                                    "average": 3.32,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Effect"
+            },
+            {
+                "name": "Montage Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN014",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.129213483146067,
+                                    "shift_7": 0.00431965442764579,
+                                    "shift_30": 0.476190476190476,
+                                    "shift_21": -0.0372670807453416,
+                                    "low": 3.25,
+                                    "updated_at": "2018-09-19 11:25:20 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.117647058823529,
+                                    "shift_365": -0.115969581749049,
+                                    "high": 37.01,
+                                    "average": 4.65,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Effect"
+            },
+            {
+                "name": "Multiple Piece Golem",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN038",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": -0.0319148936170213,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.57,
+                                    "updated_at": "2018-09-19 11:17:14 -0600",
+                                    "shift_3": 0.0111111111111111,
+                                    "shift_90": 0.0224719101123595,
+                                    "shift_365": 0.0224719101123595,
+                                    "high": 19.04,
+                                    "average": 0.91,
+                                    "shift": 0.0111111111111111
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Rock / Fusion"
+            },
+            {
+                "name": "Multiple Piece Golem",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN038",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.119266055045872,
+                                    "shift_7": 0.0166666666666667,
+                                    "shift_30": 0.12962962962963,
+                                    "shift_21": 0.109090909090909,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 11:17:15 -0600",
+                                    "shift_3": 0.00826446280991736,
+                                    "shift_90": 0.12962962962963,
+                                    "shift_365": 0.244897959183673,
+                                    "high": 18.35,
+                                    "average": 1.22,
+                                    "shift": 0.00826446280991736
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Rock / Fusion"
+            },
+            {
+                "name": "Needlebug Nest",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN079",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.191489361702128,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.178947368421053,
+                                    "shift_21": 0.191489361702128,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 09:31:13 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.191489361702128,
+                                    "shift_365": -0.0894308943089431,
+                                    "high": 2.24,
+                                    "average": 1.13,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Nitro Synchron",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN002",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.43650793650794,
+                                    "shift_7": 0.11231884057971,
+                                    "shift_30": 0.180769230769231,
+                                    "shift_21": 0.0622837370242214,
+                                    "low": 1.0,
+                                    "updated_at": "2018-09-19 11:07:37 -0600",
+                                    "shift_3": 0.0513698630136986,
+                                    "shift_90": 0.208661417322835,
+                                    "shift_365": 2.07,
+                                    "high": 9.39,
+                                    "average": 3.07,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Tuner"
+            },
+            {
+                "name": "Nitro Warrior",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN039",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.130952380952381,
+                                    "shift_7": 0.0795454545454545,
+                                    "shift_30": 0.319444444444444,
+                                    "shift_21": 0.357142857142857,
+                                    "low": 0.39,
+                                    "updated_at": "2018-09-19 11:58:54 -0600",
+                                    "shift_3": 0.0614525139664804,
+                                    "shift_90": 0.357142857142857,
+                                    "shift_365": 0.0919540229885057,
+                                    "high": 20.51,
+                                    "average": 1.9,
+                                    "shift": -0.0104166666666667
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Synchro"
+            },
+            {
+                "name": "Nitro Warrior",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN039",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0108108108108108,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.117924528301887,
+                                    "shift_21": -0.050761421319797,
+                                    "low": 1.5,
+                                    "updated_at": "2018-09-19 11:59:04 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0747126436781609,
+                                    "shift_365": 0.0685714285714286,
+                                    "high": 9.41,
+                                    "average": 1.87,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "fire",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Synchro"
+            },
+            {
+                "name": "Noisy Gnat",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN037",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.245283018867925,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0126582278481013,
+                                    "shift_21": 0.038961038961039,
+                                    "low": 0.65,
+                                    "updated_at": "2018-09-19 11:59:18 -0600",
+                                    "shift_3": -0.024390243902439,
+                                    "shift_90": 0.038961038961039,
+                                    "shift_365": -0.111111111111111,
+                                    "high": 18.35,
+                                    "average": 0.8,
+                                    "shift": 0.038961038961039
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Insect / Effect"
+            },
+            {
+                "name": "Orb of Yasaka",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN055",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.104761904761905,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.010752688172043,
+                                    "shift_21": 0.010752688172043,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:33:02 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0561797752808989,
+                                    "shift_365": -0.494623655913978,
+                                    "high": 18.35,
+                                    "average": 0.94,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Overworked",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN080",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0357142857142857,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0357142857142857,
+                                    "shift_21": 0.0357142857142857,
+                                    "low": 0.33,
+                                    "updated_at": "2018-09-18 21:27:54 -0600",
+                                    "shift_3": -0.0224719101123595,
+                                    "shift_90": 0.0116279069767442,
+                                    "shift_365": 0.0116279069767442,
+                                    "high": 18.28,
+                                    "average": 0.87,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Oyster Meister",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN028",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.147727272727273,
+                                    "shift_7": -0.0131578947368421,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0135135135135135,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 11:55:11 -0600",
+                                    "shift_3": -0.0131578947368421,
+                                    "shift_90": -0.0384615384615385,
+                                    "shift_365": -0.0740740740740741,
+                                    "high": 18.35,
+                                    "average": 0.75,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "water",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fish / Effect"
+            },
+            {
+                "name": "Power Filter",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN058",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.281914893617021,
+                                    "shift_7": -0.0217391304347826,
+                                    "shift_30": 0.0150375939849624,
+                                    "shift_21": 0.0150375939849624,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 19:47:27 -0600",
+                                    "shift_3": -0.0287769784172662,
+                                    "shift_90": -0.129032258064516,
+                                    "shift_365": -0.503676470588235,
+                                    "high": 26.95,
+                                    "average": 1.35,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Psi-Impulse",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN052",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0909090909090909,
+                                    "shift_7": 0.0632911392405063,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.53,
+                                    "updated_at": "2018-09-18 19:48:07 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0909090909090909,
+                                    "shift_365": 0.166666666666667,
+                                    "high": 18.28,
+                                    "average": 0.84,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Psi-Station",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN051",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.211009174311927,
+                                    "shift_7": 0.0238095238095238,
+                                    "shift_30": 0.0238095238095238,
+                                    "shift_21": 0.0238095238095238,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 19:48:07 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0238095238095238,
+                                    "high": 18.28,
+                                    "average": 0.86,
+                                    "shift": -0.0114942528735632
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Psychic Commander",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN020",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.135416666666667,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0121951219512195,
+                                    "shift_21": 0.0506329113924051,
+                                    "low": 0.68,
+                                    "updated_at": "2018-09-19 12:10:59 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0568181818181818,
+                                    "shift_365": -0.31404958677686,
+                                    "high": 18.35,
+                                    "average": 0.83,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Psychic / Tuner"
+            },
+            {
+                "name": "Psychic Overload",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN070",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.134920634920635,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.00925925925925926,
+                                    "shift_21": 0.00925925925925926,
+                                    "low": 0.67,
+                                    "updated_at": "2018-09-19 01:00:28 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.00909090909090909,
+                                    "shift_365": -0.0521739130434783,
+                                    "high": 18.28,
+                                    "average": 1.09,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Psychic Overload",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN070",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.104046242774566,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0197368421052632,
+                                    "shift_21": 0.0197368421052632,
+                                    "low": 1.17,
+                                    "updated_at": "2018-09-19 01:00:29 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.119318181818182,
+                                    "shift_365": -0.18848167539267,
+                                    "high": 19.0,
+                                    "average": 1.55,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Psychic Rejuvenation",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN071",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.214953271028037,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 06:22:51 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0769230769230769,
+                                    "shift_365": 0.024390243902439,
+                                    "high": 18.35,
+                                    "average": 0.84,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Psychic Snail",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN021",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0947368421052632,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.225225225225225,
+                                    "shift_21": -0.0114942528735632,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 12:11:11 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.0227272727272727,
+                                    "high": 2.42,
+                                    "average": 0.86,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Psychic / Effect"
+            },
+            {
+                "name": "Quillbolt Hedgehog",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN003",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0537634408602151,
+                                    "shift_7": -0.0434782608695652,
+                                    "shift_30": 0.0114942528735632,
+                                    "shift_21": 0.0114942528735632,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 11:06:41 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0731707317073171,
+                                    "shift_365": 0.0352941176470588,
+                                    "high": 18.35,
+                                    "average": 0.88,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Recycling Batteries",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN061",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0555555555555556,
+                                    "shift_7": 0.0106382978723404,
+                                    "shift_30": -0.128440366972477,
+                                    "shift_21": -0.128440366972477,
+                                    "low": 0.5,
+                                    "updated_at": "2018-09-18 19:41:03 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0674157303370786,
+                                    "shift_365": 0.130952380952381,
+                                    "high": 20.4,
+                                    "average": 0.95,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Red Dragon Archfiend",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN041",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0893854748603352,
+                                    "shift_7": -0.0441176470588235,
+                                    "shift_30": 0.012987012987013,
+                                    "shift_21": -0.0930232558139535,
+                                    "low": 2.15,
+                                    "updated_at": "2018-09-19 09:28:18 -0600",
+                                    "shift_3": -0.00763358778625954,
+                                    "shift_90": 0.0344827586206897,
+                                    "shift_365": 0.150442477876106,
+                                    "high": 29.88,
+                                    "average": 3.9,
+                                    "shift": 0.0025706940874036
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Synchro"
+            },
+            {
+                "name": "Red Dragon Archfiend",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN041",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.8970297029703,
+                                    "shift_7": -0.0387647831800263,
+                                    "shift_30": 0.0339222614840989,
+                                    "shift_21": -0.0154777927321669,
+                                    "low": 8.45,
+                                    "updated_at": "2018-09-19 09:28:19 -0600",
+                                    "shift_3": 0.363466915191053,
+                                    "shift_90": 1.67948717948718,
+                                    "shift_365": 0.331210191082803,
+                                    "high": 41.06,
+                                    "average": 14.63,
+                                    "shift": 0.000683994528043776
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Synchro"
+            },
+            {
+                "name": "Remote Revenge",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN066",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.126436781609195,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 20:54:20 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.0617283950617284,
+                                    "high": 18.28,
+                                    "average": 0.76,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Shield Warrior",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN005",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.335820895522388,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0111111111111111,
+                                    "shift_21": -0.0111111111111111,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 22:18:47 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.381944444444444,
+                                    "shift_365": 0.0595238095238095,
+                                    "high": 19.0,
+                                    "average": 0.89,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Silent Strider",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN036",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0602409638554217,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.025,
+                                    "shift_21": 0.012987012987013,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 22:20:34 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.037037037037037,
+                                    "high": 18.28,
+                                    "average": 0.78,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Insect / Effect"
+            },
+            {
+                "name": "Sinister Sprocket",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN009",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0,
+                                    "shift_7": 0.0531914893617021,
+                                    "shift_30": 0.0421052631578947,
+                                    "shift_21": 0.0645161290322581,
+                                    "low": 0.58,
+                                    "updated_at": "2018-09-18 22:20:54 -0600",
+                                    "shift_3": 0.0206185567010309,
+                                    "shift_90": 0.0,
+                                    "shift_365": 0.0,
+                                    "high": 10.31,
+                                    "average": 0.99,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fiend / Tuner"
+            },
+            {
+                "name": "Small Piece Golem",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN006",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.010989010989011,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0112359550561798,
+                                    "shift_21": 0.0112359550561798,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 22:22:35 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0227272727272727,
+                                    "shift_365": 0.0,
+                                    "high": 2.42,
+                                    "average": 0.9,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Rock / Effect"
+            },
+            {
+                "name": "Spacegate",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN067",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.254716981132075,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 09:17:50 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.0595238095238095,
+                                    "high": 18.35,
+                                    "average": 0.79,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Continuous",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Splendid Venus",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN094",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.318606627017842,
+                                    "shift_7": -0.00372670807453416,
+                                    "shift_30": 0.295638126009693,
+                                    "shift_21": 0.482439926062847,
+                                    "low": 3.53,
+                                    "updated_at": "2018-09-06 01:58:55 -0600",
+                                    "shift_3": -0.00742574257425743,
+                                    "shift_90": -0.114790286975717,
+                                    "shift_365": -0.395173453996983,
+                                    "high": 31.96,
+                                    "average": 8.02,
+                                    "shift": 0.00880503144654088
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Fairy / Effect"
+            },
+            {
+                "name": "Stardust Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN040",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.363358778625954,
+                                    "shift_7": -0.00477326968973747,
+                                    "shift_30": 0.0556962025316456,
+                                    "shift_21": 0.0664961636828645,
+                                    "low": 6.35,
+                                    "updated_at": "2018-09-19 08:29:35 -0600",
+                                    "shift_3": 0.0036101083032491,
+                                    "shift_90": -0.219101123595506,
+                                    "shift_365": 0.112,
+                                    "high": 102.07,
+                                    "average": 8.34,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Synchro"
+            },
+            {
+                "name": "Stardust Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN040",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0870967741935484,
+                                    "shift_7": -0.1077246452969,
+                                    "shift_30": -0.118380062305296,
+                                    "shift_21": -0.130122950819672,
+                                    "low": 10.8,
+                                    "updated_at": "2018-09-19 11:35:14 -0600",
+                                    "shift_3": -0.0535117056856187,
+                                    "shift_90": -0.0439189189189189,
+                                    "shift_365": -0.274358974358974,
+                                    "high": 102.07,
+                                    "average": 16.99,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Synchro"
+            },
+            {
+                "name": "Stardust Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN040",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Ghost Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.661443553362122,
+                                    "shift_7": 1.83435066301831,
+                                    "shift_30": 1.83554432512108,
+                                    "shift_21": 1.73977619532045,
+                                    "low": 49.99,
+                                    "updated_at": "2018-09-19 10:56:55 -0600",
+                                    "shift_3": 1.77878662814693,
+                                    "shift_90": 1.73587972368956,
+                                    "shift_365": 2.77198879551821,
+                                    "high": 411.81,
+                                    "average": 134.66,
+                                    "shift": 1.77535037098104
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Dragon / Synchro"
+            },
+            {
+                "name": "Sword of Kusanagi",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN054",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.117021276595745,
+                                    "shift_7": -0.0119047619047619,
+                                    "shift_30": 0.0121951219512195,
+                                    "shift_21": 0.0,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-19 12:00:33 -0600",
+                                    "shift_3": -0.0119047619047619,
+                                    "shift_90": -0.0119047619047619,
+                                    "shift_365": -0.0674157303370786,
+                                    "high": 18.35,
+                                    "average": 0.83,
+                                    "shift": -0.0119047619047619
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Synchro Deflector",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN068",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0210526315789474,
+                                    "shift_7": 0.0449438202247191,
+                                    "shift_30": 0.0813953488372093,
+                                    "shift_21": -0.03125,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-18 20:49:01 -0600",
+                                    "shift_3": 0.0568181818181818,
+                                    "shift_90": 0.0108695652173913,
+                                    "shift_365": 0.0449438202247191,
+                                    "high": 19.0,
+                                    "average": 0.93,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Telekinetic Charging Cell",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN088",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.137614678899083,
+                                    "shift_7": -0.0105263157894737,
+                                    "shift_30": 0.0217391304347826,
+                                    "shift_21": 0.032967032967033,
+                                    "low": 0.55,
+                                    "updated_at": "2018-09-18 23:33:50 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.12962962962963,
+                                    "shift_365": -0.0105263157894737,
+                                    "high": 3.69,
+                                    "average": 0.94,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Telekinetic Shocker",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN022",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.168224299065421,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.0,
+                                    "low": 0.68,
+                                    "updated_at": "2018-09-19 11:29:02 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.021978021978022,
+                                    "shift_365": 0.0348837209302326,
+                                    "high": 18.35,
+                                    "average": 0.89,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Psychic / Effect"
+            },
+            {
+                "name": "Telepathic Power",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN072",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.240740740740741,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0352941176470588,
+                                    "shift_21": -0.0120481927710843,
+                                    "low": 0.45,
+                                    "updated_at": "2018-09-18 21:05:51 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.233644859813084,
+                                    "shift_365": -0.0120481927710843,
+                                    "high": 18.28,
+                                    "average": 0.82,
+                                    "shift": -0.0120481927710843
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "The Selection",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN093",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.168141592920354,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.010752688172043,
+                                    "shift_21": -0.0408163265306122,
+                                    "low": 0.62,
+                                    "updated_at": "2018-09-18 21:07:08 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.0,
+                                    "shift_365": -0.0784313725490196,
+                                    "high": 4.6,
+                                    "average": 0.94,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Counter",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "The Tricky",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN090",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.04,
+                                    "shift_7": 0.0,
+                                    "shift_30": 0.0434782608695652,
+                                    "shift_21": 0.0909090909090909,
+                                    "low": 0.63,
+                                    "updated_at": "2018-09-19 11:32:55 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0303030303030303,
+                                    "shift_365": -0.150442477876106,
+                                    "high": 3.61,
+                                    "average": 0.96,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "wind",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Thought Ruler Archfiend",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN044",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Ultra Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.294964028776978,
+                                    "shift_7": 0.0198300283286119,
+                                    "shift_30": 0.220338983050847,
+                                    "shift_21": 0.176470588235294,
+                                    "low": 2.99,
+                                    "updated_at": "2018-09-19 11:34:15 -0600",
+                                    "shift_3": 0.0227272727272727,
+                                    "shift_90": 0.0682492581602374,
+                                    "shift_365": 0.176470588235294,
+                                    "high": 20.34,
+                                    "average": 3.6,
+                                    "shift": 0.0112359550561798
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Psychic / Synchro"
+            },
+            {
+                "name": "Thought Ruler Archfiend",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN044",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Ultimate Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0886917960088692,
+                                    "shift_7": -0.00484261501210654,
+                                    "shift_30": 0.0,
+                                    "shift_21": 0.035264483627204,
+                                    "low": 2.87,
+                                    "updated_at": "2018-09-19 11:34:39 -0600",
+                                    "shift_3": -0.0143884892086331,
+                                    "shift_90": -0.0508083140877598,
+                                    "shift_365": -0.102620087336245,
+                                    "high": 13.5,
+                                    "average": 4.11,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Psychic / Synchro"
+            },
+            {
+                "name": "Toy Magician",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN099",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Secret Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0155210643015521,
+                                    "shift_7": -0.0472103004291846,
+                                    "shift_30": 0.0909090909090909,
+                                    "shift_21": -0.0472103004291846,
+                                    "low": 5.84,
+                                    "updated_at": "2018-09-19 11:37:24 -0600",
+                                    "shift_3": -0.0155210643015521,
+                                    "shift_90": 0.0698795180722892,
+                                    "shift_365": -0.106639839034205,
+                                    "high": 37.37,
+                                    "average": 4.44,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "light",
+                "property": null,
+                "card_type": "monster",
+                "type": "Spellcaster / Effect"
+            },
+            {
+                "name": "Trap of Darkness",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN092",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.108910891089109,
+                                    "shift_7": 0.0,
+                                    "shift_30": -0.0217391304347826,
+                                    "shift_21": 0.0,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 10:25:07 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0217391304347826,
+                                    "shift_365": -0.528795811518325,
+                                    "high": 6.35,
+                                    "average": 0.9,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Normal",
+                "card_type": "trap",
+                "type": null
+            },
+            {
+                "name": "Tricky Spell 4",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN091",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.20952380952381,
+                                    "shift_7": 0.0121951219512195,
+                                    "shift_30": 0.0121951219512195,
+                                    "shift_21": 0.0121951219512195,
+                                    "low": 0.54,
+                                    "updated_at": "2018-09-18 20:13:49 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0119047619047619,
+                                    "shift_365": -0.0235294117647059,
+                                    "high": 18.73,
+                                    "average": 0.83,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Quick-Play",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Turbo Booster",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN001",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0309278350515464,
+                                    "shift_7": 0.0444444444444444,
+                                    "shift_30": 0.0804597701149425,
+                                    "shift_21": 0.0804597701149425,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 11:39:20 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": 0.032967032967033,
+                                    "shift_365": -0.0309278350515464,
+                                    "high": 18.35,
+                                    "average": 0.94,
+                                    "shift": 0.0
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Twin-Barrel Dragon",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN029",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 1.65116279069767,
+                                    "shift_7": -0.0284090909090909,
+                                    "shift_30": 0.243636363636364,
+                                    "shift_21": 0.243636363636364,
+                                    "low": 0.59,
+                                    "updated_at": "2018-09-19 11:39:43 -0600",
+                                    "shift_3": -0.0420168067226891,
+                                    "shift_90": 1.06024096385542,
+                                    "shift_365": 2.10909090909091,
+                                    "high": 6.36,
+                                    "average": 3.42,
+                                    "shift": -0.0604395604395604
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Machine / Effect"
+            },
+            {
+                "name": "Twin-Shield Defender",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN011",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Common",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.0212765957446809,
+                                    "shift_7": 0.0454545454545455,
+                                    "shift_30": 0.0574712643678161,
+                                    "shift_21": 0.0454545454545455,
+                                    "low": 0.99,
+                                    "updated_at": "2018-09-19 11:40:17 -0600",
+                                    "shift_3": 0.0454545454545455,
+                                    "shift_90": 0.0222222222222222,
+                                    "shift_365": 0.0337078651685393,
+                                    "high": 18.35,
+                                    "average": 0.92,
+                                    "shift": 0.0574712643678161
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "earth",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Effect"
+            },
+            {
+                "name": "Unstable Evolution",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN060",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Super Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": -0.212389380530973,
+                                    "shift_7": -0.0111111111111111,
+                                    "shift_30": -0.0111111111111111,
+                                    "shift_21": -0.0111111111111111,
+                                    "low": 0.51,
+                                    "updated_at": "2018-09-18 20:05:15 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.0531914893617021,
+                                    "shift_365": -0.190909090909091,
+                                    "high": 29.86,
+                                    "average": 0.89,
+                                    "shift": -0.0111111111111111
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": null,
+                "property": "Equip",
+                "card_type": "spell",
+                "type": null
+            },
+            {
+                "name": "Yamato-no-Kami",
+                "numbers": [
+                    {
+                        "print_tag": "TDGS-EN035",
+                        "name": "The Duelist Genesis",
+                        "rarity": "Rare",
+                        "price_data": {
+                            "data": {
+                                "listings": [],
+                                "prices": {
+                                    "shift_180": 0.0786516853932584,
+                                    "shift_7": -0.0204081632653061,
+                                    "shift_30": -0.0204081632653061,
+                                    "shift_21": -0.0204081632653061,
+                                    "low": 0.68,
+                                    "updated_at": "2018-09-18 19:34:33 -0600",
+                                    "shift_3": 0.0,
+                                    "shift_90": -0.04,
+                                    "shift_365": -0.111111111111111,
+                                    "high": 19.66,
+                                    "average": 0.96,
+                                    "shift": -0.0103092783505155
+                                }
+                            },
+                            "status": "success"
+                        }
+                    }
+                ],
+                "family": "dark",
+                "property": null,
+                "card_type": "monster",
+                "type": "Warrior / Spirit"
+            }
+        ],
+        "highest": 2612.1999999999994,
+        "average": 406.9799999999999,
+        "tcg_booster_values": {
+            "average": 3.64,
+            "low": 3.88,
+            "high": 59.300000000000004
+        },
+        "lowest": 224.48000000000008
+    },
+    "status": "success"
+}
