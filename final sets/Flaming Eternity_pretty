@@ -4,26 +4,6 @@
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN037",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
-                        "prices": {
-                            "high": 24.95,
-                            "low": 1.45,
-                            "average": 2.17,
-                            "shift": 0.0,
-                            "shift_3": 0.014018691588785,
-                            "shift_7": -0.0606060606060606,
-                            "shift_21": 0.331288343558282,
-                            "shift_30": 0.339506172839506,
-                            "shift_90": 0.466216216216216,
-                            "shift_180": 0.595588235294118,
-                            "shift_365": 0.427631578947368,
-                            "updated_at": "2018-09-19 10:48:51 -0600"
-                        }
-                    }
-                }
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -31,13 +11,11 @@
     },
     {
         "name": "A Feather of the Phoenix",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN037",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.72,
                             "low": 8.78,
@@ -54,6 +32,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -61,13 +41,11 @@
     },
     {
         "name": "Abare Ushioni",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN026",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.23,
                             "low": 0.5,
@@ -84,6 +62,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -91,13 +71,11 @@
     },
     {
         "name": "Armed Samurai - Ben Kei",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN023",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.0,
                             "low": 0.54,
@@ -114,6 +92,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -121,13 +101,11 @@
     },
     {
         "name": "Assault on GHQ",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN056",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.92,
                             "low": 0.99,
@@ -144,6 +122,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -151,13 +131,11 @@
     },
     {
         "name": "Assault on GHQ",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN056",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.95,
                             "low": 1.39,
@@ -174,6 +152,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -181,13 +161,11 @@
     },
     {
         "name": "Beast Soul Swap",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN055",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.14,
                             "low": 0.72,
@@ -204,6 +182,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -211,13 +191,11 @@
     },
     {
         "name": "Behemoth the King of All Animals",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN014",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.15,
                             "low": 0.99,
@@ -234,6 +212,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -241,13 +221,11 @@
     },
     {
         "name": "Behemoth the King of All Animals",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN014",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.77,
                             "low": 1.29,
@@ -264,6 +242,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -271,13 +251,11 @@
     },
     {
         "name": "Big-Tusked Mammoth",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN015",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.56,
                             "low": 0.77,
@@ -294,6 +272,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -301,13 +281,11 @@
     },
     {
         "name": "Big-Tusked Mammoth",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN015",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 81.21,
                             "low": 2.99,
@@ -324,6 +302,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -331,13 +311,11 @@
     },
     {
         "name": "Blade Rabbit",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN018",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.43,
                             "low": 0.54,
@@ -354,6 +332,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -361,13 +341,11 @@
     },
     {
         "name": "Blast Magician",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN020",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.38,
                             "low": 0.99,
@@ -384,6 +362,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -391,13 +371,11 @@
     },
     {
         "name": "Blast Magician",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN020",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.95,
                             "low": 1.33,
@@ -414,6 +392,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -421,13 +401,11 @@
     },
     {
         "name": "Brain Jacker",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN034",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.07,
                             "low": 0.99,
@@ -444,6 +422,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -451,13 +431,11 @@
     },
     {
         "name": "Brain Jacker",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN034",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 10.46,
                             "low": 2.28,
@@ -474,6 +452,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -481,13 +461,11 @@
     },
     {
         "name": "Catnipped Kitty",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN013",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.54,
@@ -504,6 +482,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -511,13 +491,11 @@
     },
     {
         "name": "Centrifugal Field",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN045",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.43,
                             "low": 0.54,
@@ -534,6 +512,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -541,13 +521,11 @@
     },
     {
         "name": "Chiron the Mage",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN021",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.06,
                             "low": 0.77,
@@ -564,6 +542,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -571,13 +551,11 @@
     },
     {
         "name": "Chiron the Mage",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN021",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.49,
                             "low": 1.83,
@@ -594,6 +572,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -601,13 +581,11 @@
     },
     {
         "name": "Chu-Ske the Mouse Fighter",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN003",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.23,
                             "low": 0.54,
@@ -624,6 +602,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -631,13 +611,11 @@
     },
     {
         "name": "Cross Counter",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN049",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.9,
@@ -654,6 +632,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -661,13 +641,11 @@
     },
     {
         "name": "Cross Counter",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN049",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 24.83,
                             "low": 0.99,
@@ -684,6 +662,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -691,13 +671,11 @@
     },
     {
         "name": "D.D. Dynamite",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN057",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.51,
                             "low": 1.11,
@@ -714,6 +692,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -721,13 +701,11 @@
     },
     {
         "name": "Deck Devastation Virus",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN058",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.78,
                             "low": 1.0,
@@ -744,6 +722,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -751,13 +731,11 @@
     },
     {
         "name": "Deck Devastation Virus",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN058",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.7,
                             "low": 1.64,
@@ -774,6 +752,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -781,13 +761,11 @@
     },
     {
         "name": "Divine Dragon Ragnarok",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN002",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.69,
@@ -804,6 +782,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -811,13 +791,11 @@
     },
     {
         "name": "Element Doom",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN011",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.99,
@@ -834,6 +812,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -841,13 +821,11 @@
     },
     {
         "name": "Element Valkyrie",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN010",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.54,
@@ -864,6 +842,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -871,13 +851,11 @@
     },
     {
         "name": "Elemental Burst",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN059",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.99,
                             "low": 0.99,
@@ -894,6 +872,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -901,13 +881,11 @@
     },
     {
         "name": "Firebird",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN032",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.42,
                             "low": 0.54,
@@ -924,6 +902,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -931,13 +911,11 @@
     },
     {
         "name": "Flame Ruler",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN031",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.43,
                             "low": 0.54,
@@ -954,6 +932,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -961,13 +941,11 @@
     },
     {
         "name": "Forced Ceasefire",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN060",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.0,
                             "low": 0.99,
@@ -984,6 +962,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -991,13 +971,11 @@
     },
     {
         "name": "Forced Ceasefire",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN060",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 27.0,
                             "low": 2.52,
@@ -1014,6 +992,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1021,13 +1001,11 @@
     },
     {
         "name": "Fulfillment of the Contract",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN046",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.54,
@@ -1044,6 +1022,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -1051,13 +1031,11 @@
     },
     {
         "name": "Gatling Dragon",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN035",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 40.69,
                             "low": 4.99,
@@ -1074,6 +1052,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1081,13 +1061,11 @@
     },
     {
         "name": "Gatling Dragon",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN035",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 42.0,
                             "low": 15.0,
@@ -1104,6 +1082,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1111,13 +1091,11 @@
     },
     {
         "name": "Gearfried the Swordmaster",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN022",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 13.32,
                             "low": 5.47,
@@ -1134,6 +1112,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1141,13 +1121,11 @@
     },
     {
         "name": "Gearfried the Swordmaster",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN022",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 25.83,
                             "low": 5.0,
@@ -1164,6 +1142,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1171,13 +1151,11 @@
     },
     {
         "name": "Golem Sentry",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN025",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.5,
                             "low": 0.99,
@@ -1194,6 +1172,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1201,13 +1181,11 @@
     },
     {
         "name": "Good Goblin Housekeeping",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN054",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.99,
                             "low": 0.54,
@@ -1224,6 +1202,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1231,13 +1211,11 @@
     },
     {
         "name": "Granmarg the Rock Monarch",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN009",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 40.69,
                             "low": 1.14,
@@ -1254,6 +1232,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1261,13 +1241,11 @@
     },
     {
         "name": "Granmarg the Rock Monarch",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN009",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 52.95,
                             "low": 4.71,
@@ -1284,6 +1262,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1291,13 +1271,11 @@
     },
     {
         "name": "Hand of Nephthys",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN006",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.43,
                             "low": 0.54,
@@ -1314,6 +1292,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1321,13 +1301,11 @@
     },
     {
         "name": "Hyena",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN017",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.92,
                             "low": 0.98,
@@ -1344,6 +1322,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1351,13 +1331,11 @@
     },
     {
         "name": "Insect Knight",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN004",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.44,
                             "low": 0.99,
@@ -1374,6 +1352,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1381,13 +1361,11 @@
     },
     {
         "name": "Kangaroo Champ",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN016",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.99,
                             "low": 0.54,
@@ -1404,6 +1382,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1411,13 +1391,11 @@
     },
     {
         "name": "King Dragun",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN036",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.18,
                             "low": 5.95,
@@ -1434,6 +1412,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1441,13 +1421,11 @@
     },
     {
         "name": "King Dragun",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN036",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 93.16,
                             "low": 17.99,
@@ -1464,6 +1442,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1471,13 +1451,11 @@
     },
     {
         "name": "Lightning Vortex",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN040",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 26.28,
                             "low": 4.95,
@@ -1494,6 +1472,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1501,13 +1481,11 @@
     },
     {
         "name": "Lightning Vortex",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN040",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 54.99,
                             "low": 19.99,
@@ -1524,6 +1502,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1531,13 +1511,11 @@
     },
     {
         "name": "Maji-Gire Panda",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN012",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.99,
                             "low": 0.54,
@@ -1554,6 +1532,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1561,13 +1541,11 @@
     },
     {
         "name": "Mecha-Dog Marron",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN019",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.99,
                             "low": 0.54,
@@ -1584,6 +1562,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1591,13 +1571,11 @@
     },
     {
         "name": "Meteor of Destruction",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN041",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.99,
                             "low": 0.99,
@@ -1614,6 +1592,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1621,13 +1601,11 @@
     },
     {
         "name": "Meteor of Destruction",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN041",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.77,
                             "low": 3.56,
@@ -1644,6 +1622,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1651,13 +1631,11 @@
     },
     {
         "name": "Penalty Game!",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN051",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.49,
@@ -1674,6 +1652,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1681,13 +1661,11 @@
     },
     {
         "name": "Penalty Game!",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN051",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 41.06,
                             "low": 6.99,
@@ -1704,6 +1682,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1711,13 +1691,11 @@
     },
     {
         "name": "Phoenix Wing Wind Blast",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN053",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.51,
                             "low": 0.77,
@@ -1734,6 +1712,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1741,13 +1721,11 @@
     },
     {
         "name": "Phoenix Wing Wind Blast",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN053",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 24.95,
                             "low": 4.8,
@@ -1764,6 +1742,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1771,13 +1751,11 @@
     },
     {
         "name": "Poison Fangs",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN038",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.98,
                             "low": 0.99,
@@ -1794,6 +1772,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -1801,13 +1781,11 @@
     },
     {
         "name": "Pole Position",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN050",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.54,
@@ -1824,6 +1802,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -1831,13 +1811,11 @@
     },
     {
         "name": "Re-Fusion",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN047",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.64,
                             "low": 0.54,
@@ -1854,6 +1832,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -1861,13 +1841,11 @@
     },
     {
         "name": "Release Restraint",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN044",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.23,
                             "low": 0.54,
@@ -1884,6 +1862,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1891,13 +1871,11 @@
     },
     {
         "name": "Rescue Cat",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN033",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.85,
                             "low": 4.0,
@@ -1914,6 +1892,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1921,13 +1901,11 @@
     },
     {
         "name": "Sacred Phoenix of Nephthys",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN005",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 32.95,
                             "low": 4.14,
@@ -1944,6 +1922,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -1951,13 +1931,11 @@
     },
     {
         "name": "Sacred Phoenix of Nephthys",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN005",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 39.95,
                             "low": 23.45,
@@ -1974,6 +1952,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -1981,13 +1961,11 @@
     },
     {
         "name": "Shadowslayer",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN024",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.77,
@@ -2004,6 +1982,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2011,13 +1991,11 @@
     },
     {
         "name": "Shadowslayer",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN024",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.0,
                             "low": 0.69,
@@ -2034,6 +2012,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2041,13 +2021,11 @@
     },
     {
         "name": "Silent Swordsman LV5",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN008",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 27.0,
                             "low": 2.57,
@@ -2064,6 +2042,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2071,13 +2051,11 @@
     },
     {
         "name": "Silent Swordsman LV5",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN008",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.95,
                             "low": 9.12,
@@ -2094,6 +2072,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2101,13 +2081,11 @@
     },
     {
         "name": "Space Mambo",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN001",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.89,
                             "low": 0.54,
@@ -2124,6 +2102,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2131,13 +2111,11 @@
     },
     {
         "name": "Spell Absorption",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN039",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 23.39,
                             "low": 3.25,
@@ -2154,6 +2132,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -2161,13 +2141,11 @@
     },
     {
         "name": "Spell Absorption",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN039",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.77,
                             "low": 4.28,
@@ -2184,6 +2162,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -2191,13 +2171,11 @@
     },
     {
         "name": "Spiral Spear Strike",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN043",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.57,
                             "low": 0.99,
@@ -2214,6 +2192,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -2221,13 +2201,11 @@
     },
     {
         "name": "Spiral Spear Strike",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN043",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 25.56,
                             "low": 2.0,
@@ -2244,6 +2222,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -2251,13 +2231,11 @@
     },
     {
         "name": "Swords of Concealing Light",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN042",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.07,
                             "low": 0.77,
@@ -2274,6 +2252,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -2281,13 +2261,11 @@
     },
     {
         "name": "Swords of Concealing Light",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN042",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 30.31,
                             "low": 8.04,
@@ -2304,6 +2282,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -2311,13 +2291,11 @@
     },
     {
         "name": "The Big March of Animals",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN048",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.23,
                             "low": 0.52,
@@ -2334,6 +2312,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -2341,13 +2321,11 @@
     },
     {
         "name": "The Dark - Hex-Sealed Fusion",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN028",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.98,
                             "low": 0.99,
@@ -2364,6 +2342,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2371,13 +2351,11 @@
     },
     {
         "name": "The Earth - Hex-Sealed Fusion",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN029",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.14,
                             "low": 0.99,
@@ -2394,6 +2372,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2401,13 +2381,11 @@
     },
     {
         "name": "The Light - Hex-Sealed Fusion",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN027",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.53,
                             "low": 0.54,
@@ -2424,6 +2402,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2431,13 +2411,11 @@
     },
     {
         "name": "Threatening Roar",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN052",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.07,
                             "low": 0.54,
@@ -2454,6 +2432,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2461,13 +2441,11 @@
     },
     {
         "name": "Ultimate Insect LV5",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN007",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.15,
                             "low": 1.24,
@@ -2484,6 +2462,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -2491,13 +2471,11 @@
     },
     {
         "name": "Ultimate Insect LV5",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN007",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 26.59,
                             "low": 2.99,
@@ -2514,6 +2492,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -2521,13 +2501,11 @@
     },
     {
         "name": "Whirlwind Prodigy",
+        "numbers": [
+            {
                 "name": "Flaming Eternity",
                 "print_tag": "FET-EN030",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.98,
@@ -2544,6 +2522,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",

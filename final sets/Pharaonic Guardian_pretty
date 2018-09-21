@@ -4,26 +4,6 @@
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-024",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
-                        "prices": {
-                            "high": 18.35,
-                            "low": 0.39,
-                            "average": 0.87,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0116279069767442,
-                            "shift_90": 0.0,
-                            "shift_180": -0.074468085106383,
-                            "shift_365": 0.0,
-                            "updated_at": "2018-09-19 10:54:13 -0600"
-                        }
-                    }
-                }
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -31,13 +11,11 @@
     },
     {
         "name": "A Cat of Ill Omen",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-070",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.91,
                             "low": 1.99,
@@ -54,6 +32,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -61,13 +41,11 @@
     },
     {
         "name": "A Man with Wdjat",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-068",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 13.83,
                             "low": 0.62,
@@ -84,6 +62,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -91,13 +71,11 @@
     },
     {
         "name": "An Owl of Luck",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-073",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.73,
                             "low": 1.55,
@@ -114,6 +92,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -121,13 +101,11 @@
     },
     {
         "name": "Arsenal Bug",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-007",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.23,
                             "low": 0.99,
@@ -144,6 +122,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -151,13 +131,11 @@
     },
     {
         "name": "Banner of Courage",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-089",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.9,
@@ -174,6 +152,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -181,13 +161,11 @@
     },
     {
         "name": "Barrel Behind the Door",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-095",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 22.67,
                             "low": 2.0,
@@ -204,6 +182,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -211,13 +191,11 @@
     },
     {
         "name": "Birdface",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-005",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.49,
                             "low": 0.46,
@@ -234,6 +212,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -241,13 +221,11 @@
     },
     {
         "name": "Book of Life",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-033",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 38.78,
                             "low": 1.73,
@@ -264,6 +242,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -271,13 +251,11 @@
     },
     {
         "name": "Book of Moon",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-035",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 23.31,
                             "low": 0.77,
@@ -294,6 +272,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -301,13 +281,11 @@
     },
     {
         "name": "Book of Taiyou",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-034",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.86,
                             "low": 0.99,
@@ -324,6 +302,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -331,13 +311,11 @@
     },
     {
         "name": "Bottomless Shifting Sand",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-043",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 15.32,
                             "low": 0.39,
@@ -354,6 +332,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -361,13 +341,11 @@
     },
     {
         "name": "Buster Rancher",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-085",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.55,
                             "low": 0.99,
@@ -384,6 +362,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -391,13 +371,11 @@
     },
     {
         "name": "Byser Shock",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-103",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 25.46,
                             "low": 0.99,
@@ -414,6 +392,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -421,13 +401,11 @@
     },
     {
         "name": "Call of the Mummy",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-038",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.73,
                             "low": 0.9,
@@ -444,6 +422,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -451,13 +431,11 @@
     },
     {
         "name": "Card Shuffle",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-080",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.39,
@@ -474,6 +452,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -481,13 +461,11 @@
     },
     {
         "name": "Charm of Shabti",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-074",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.0,
                             "low": 0.99,
@@ -504,6 +482,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -511,13 +491,11 @@
     },
     {
         "name": "Cobra Jar",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-075",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.48,
                             "low": 0.99,
@@ -534,6 +512,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -541,13 +521,11 @@
     },
     {
         "name": "Cobraman Sakuzy",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-032",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.64,
                             "low": 0.39,
@@ -564,6 +542,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -571,13 +551,11 @@
     },
     {
         "name": "Coffin Seller",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-093",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.24,
                             "low": 0.67,
@@ -594,6 +572,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -601,13 +581,11 @@
     },
     {
         "name": "Curse of Aging",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-094",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.9,
@@ -624,6 +602,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -631,13 +611,11 @@
     },
     {
         "name": "Curse of Royal",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-044",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.85,
                             "low": 0.65,
@@ -654,6 +632,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -661,13 +641,11 @@
     },
     {
         "name": "D. Tribe",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-102",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.54,
@@ -684,6 +662,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -691,13 +671,11 @@
     },
     {
         "name": "Dark Coffin",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-047",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.68,
                             "low": 0.53,
@@ -714,6 +692,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -721,13 +701,11 @@
     },
     {
         "name": "Dark Designator",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-079",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.99,
@@ -744,6 +722,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -751,13 +731,11 @@
     },
     {
         "name": "Dark Dust Spirit",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-017",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.23,
                             "low": 0.62,
@@ -774,6 +752,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -781,13 +761,11 @@
     },
     {
         "name": "Dark Jeroid",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-056",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 36.44,
                             "low": 0.99,
@@ -804,6 +782,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -811,13 +791,11 @@
     },
     {
         "name": "Dark Room of Nightmare",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-082",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 30.99,
                             "low": 2.64,
@@ -834,6 +812,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -841,13 +821,11 @@
     },
     {
         "name": "Dark Scorpion Burglars",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-028",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 15.17,
                             "low": 0.99,
@@ -864,6 +842,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -871,13 +851,11 @@
     },
     {
         "name": "Dark Snake Syndrome",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-087",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.99,
@@ -894,6 +872,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -901,13 +881,11 @@
     },
     {
         "name": "Des Lacooda",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-030",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.48,
                             "low": 0.99,
@@ -924,6 +902,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -931,13 +911,11 @@
     },
     {
         "name": "Dice Jar",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-027",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 27.72,
                             "low": 2.33,
@@ -954,6 +932,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -961,13 +941,11 @@
     },
     {
         "name": "Different Dimension Capsule",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-083",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.99,
@@ -984,6 +962,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -991,13 +971,11 @@
     },
     {
         "name": "Disturbance Strategy",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-098",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 25.95,
                             "low": 0.96,
@@ -1014,6 +992,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1021,13 +1001,11 @@
     },
     {
         "name": "Don Zaloog",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-029",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 39.95,
                             "low": 1.83,
@@ -1044,6 +1022,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1051,13 +1031,11 @@
     },
     {
         "name": "Fushioh Richie",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-031",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 22.67,
                             "low": 0.76,
@@ -1074,6 +1052,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1081,13 +1061,11 @@
     },
     {
         "name": "Giant Axe Mummy",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-023",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.43,
                             "low": 0.99,
@@ -1104,6 +1082,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1111,13 +1091,11 @@
     },
     {
         "name": "Gora Turtle",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-014",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.55,
                             "low": 0.99,
@@ -1134,6 +1112,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1141,13 +1121,11 @@
     },
     {
         "name": "Gravekeeper's Assailant",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-067",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.07,
                             "low": 0.57,
@@ -1164,6 +1142,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1171,13 +1151,11 @@
     },
     {
         "name": "Gravekeeper's Cannonholder",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-066",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.73,
                             "low": 0.99,
@@ -1194,6 +1172,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1201,13 +1181,11 @@
     },
     {
         "name": "Gravekeeper's Chief",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-065",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 58.7,
                             "low": 0.99,
@@ -1224,6 +1202,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1231,13 +1211,11 @@
     },
     {
         "name": "Gravekeeper's Curse",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-060",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.99,
@@ -1254,6 +1232,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1261,13 +1241,11 @@
     },
     {
         "name": "Gravekeeper's Guard",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-061",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.99,
@@ -1284,6 +1262,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1291,13 +1271,11 @@
     },
     {
         "name": "Gravekeeper's Spear Soldier",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-062",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.43,
                             "low": 0.99,
@@ -1314,6 +1292,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1321,13 +1301,11 @@
     },
     {
         "name": "Gravekeeper's Spy",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-059",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.51,
                             "low": 0.62,
@@ -1344,6 +1322,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1351,13 +1331,11 @@
     },
     {
         "name": "Gravekeeper's Vassal",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-063",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.99,
@@ -1374,6 +1352,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1381,13 +1361,11 @@
     },
     {
         "name": "Gravekeeper's Watcher",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-064",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 36.37,
                             "low": 3.75,
@@ -1404,6 +1382,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1411,13 +1391,11 @@
     },
     {
         "name": "Great Dezard",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-020",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 79.99,
                             "low": 0.88,
@@ -1434,6 +1412,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1441,13 +1421,11 @@
     },
     {
         "name": "Guardian Sphinx",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-025",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 25.56,
                             "low": 1.37,
@@ -1464,6 +1442,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1471,13 +1451,11 @@
     },
     {
         "name": "Helpoemer",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-058",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 37.81,
                             "low": 4.52,
@@ -1494,6 +1472,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1501,13 +1481,11 @@
     },
     {
         "name": "Hieroglyph Lithograph",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-086",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.99,
@@ -1524,6 +1502,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1531,13 +1511,11 @@
     },
     {
         "name": "Inpachi",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-055",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.19,
                             "low": 0.39,
@@ -1554,6 +1532,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1561,13 +1541,11 @@
     },
     {
         "name": "Jowls of Dark Demise",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-009",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.99,
                             "low": 0.99,
@@ -1584,6 +1562,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1591,13 +1571,11 @@
     },
     {
         "name": "Kabazauls",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-054",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.23,
                             "low": 0.99,
@@ -1614,6 +1592,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1621,13 +1601,11 @@
     },
     {
         "name": "King Tiger Wanghu",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-004",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.07,
                             "low": 0.99,
@@ -1644,6 +1622,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1651,13 +1631,11 @@
     },
     {
         "name": "Kryuel",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-006",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.07,
                             "low": 0.99,
@@ -1674,6 +1652,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1681,13 +1661,11 @@
     },
     {
         "name": "Lava Golem",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-107",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 282.0,
                             "low": 3.86,
@@ -1704,6 +1682,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -1711,13 +1691,11 @@
     },
     {
         "name": "Maiden of the Aqua",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-008",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.3,
                             "low": 0.35,
@@ -1734,6 +1712,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1741,13 +1721,11 @@
     },
     {
         "name": "Master Kyonshee",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-053",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.99,
@@ -1764,6 +1742,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1771,13 +1751,11 @@
     },
     {
         "name": "Metamorphosis",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-090",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 25.56,
                             "low": 2.77,
@@ -1794,6 +1772,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1801,13 +1781,11 @@
     },
     {
         "name": "Mirage of Nightmare",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-036",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.18,
                             "low": 1.17,
@@ -1824,6 +1802,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -1831,13 +1811,11 @@
     },
     {
         "name": "Moisture Creature",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-013",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.99,
@@ -1854,6 +1832,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1861,13 +1841,11 @@
     },
     {
         "name": "Molten Behemoth",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-001",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.99,
@@ -1884,6 +1862,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -1891,13 +1871,11 @@
     },
     {
         "name": "Mucus Yolk",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-011",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.99,
@@ -1914,6 +1892,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1921,13 +1901,11 @@
     },
     {
         "name": "Mystical Knight of Jackal",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-069",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 30.9,
                             "low": 3.06,
@@ -1944,6 +1922,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1951,13 +1931,11 @@
     },
     {
         "name": "Narrow Pass",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-097",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.99,
@@ -1974,6 +1952,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -1981,13 +1961,11 @@
     },
     {
         "name": "Necrovalley",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-084",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 25.83,
                             "low": 0.42,
@@ -2004,6 +1982,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -2011,13 +1991,11 @@
     },
     {
         "name": "Needle Ceiling",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-045",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.43,
                             "low": 0.99,
@@ -2034,6 +2012,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2041,13 +2021,11 @@
     },
     {
         "name": "Needle Wall",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-048",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.79,
@@ -2064,6 +2042,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -2071,13 +2051,11 @@
     },
     {
         "name": "Newdoria",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-057",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 37.03,
                             "low": 0.55,
@@ -2094,6 +2072,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2101,13 +2081,11 @@
     },
     {
         "name": "Nightmare Horse",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-077",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 1.13,
@@ -2124,6 +2102,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2131,13 +2111,11 @@
     },
     {
         "name": "Nightmare Wheel",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-106",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 24.38,
                             "low": 2.75,
@@ -2154,6 +2132,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -2161,13 +2141,11 @@
     },
     {
         "name": "Non Aggression Area",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-101",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 41.99,
                             "low": 0.62,
@@ -2184,6 +2162,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2191,13 +2171,11 @@
     },
     {
         "name": "Ordeal of a Traveler",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-042",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.0,
                             "low": 1.63,
@@ -2214,6 +2192,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -2221,13 +2201,11 @@
     },
     {
         "name": "Pharaoh's Treasure",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-052",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.3,
                             "low": 0.99,
@@ -2244,6 +2222,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2251,13 +2231,11 @@
     },
     {
         "name": "Poison Mummy",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-016",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.99,
@@ -2274,6 +2252,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2281,13 +2261,11 @@
     },
     {
         "name": "Pyramid Energy",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-040",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.39,
@@ -2304,6 +2282,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -2311,13 +2291,11 @@
     },
     {
         "name": "Pyramid Turtle",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-026",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.73,
                             "low": 0.56,
@@ -2334,6 +2312,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2341,13 +2321,11 @@
     },
     {
         "name": "Pyro Clock of Destiny",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-050",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.99,
@@ -2364,6 +2342,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2371,13 +2351,11 @@
     },
     {
         "name": "Question",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-104",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 23.39,
                             "low": 2.85,
@@ -2394,6 +2372,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2401,13 +2381,11 @@
     },
     {
         "name": "Raigeki Break",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-096",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.51,
                             "low": 0.59,
@@ -2424,6 +2402,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2431,13 +2411,11 @@
     },
     {
         "name": "Reaper on the Nightmare",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-078",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 27.07,
                             "low": 2.39,
@@ -2454,6 +2432,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2461,13 +2441,11 @@
     },
     {
         "name": "Reasoning",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-081",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.07,
                             "low": 0.67,
@@ -2484,6 +2462,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2491,13 +2471,11 @@
     },
     {
         "name": "Reckless Greed",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-051",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 27.39,
                             "low": 1.99,
@@ -2514,6 +2492,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2521,13 +2501,11 @@
     },
     {
         "name": "Reversal Quiz",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-092",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 1.33,
@@ -2544,6 +2522,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2551,13 +2531,11 @@
     },
     {
         "name": "Ring of Destruction",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-000",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 50.78,
                             "low": 2.49,
@@ -2574,6 +2552,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2581,13 +2561,11 @@
     },
     {
         "name": "Rite of Spirit",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-100",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.99,
@@ -2604,6 +2582,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2611,13 +2591,11 @@
     },
     {
         "name": "Rope of Life",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-105",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 16.5,
                             "low": 1.5,
@@ -2634,6 +2612,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2641,13 +2621,11 @@
     },
     {
         "name": "Royal Keeper",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-018",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.99,
@@ -2664,6 +2642,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2671,13 +2651,11 @@
     },
     {
         "name": "Royal Tribute",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-091",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.72,
                             "low": 0.54,
@@ -2694,6 +2672,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2701,13 +2681,11 @@
     },
     {
         "name": "Sasuke Samurai",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-015",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.51,
                             "low": 1.45,
@@ -2724,6 +2702,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -2731,13 +2711,11 @@
     },
     {
         "name": "Secret Pass to the Treasures",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-037",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.99,
@@ -2754,6 +2732,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2761,13 +2741,11 @@
     },
     {
         "name": "Servant of Catabolism",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-012",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.73,
                             "low": 0.99,
@@ -2784,6 +2762,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2791,13 +2771,11 @@
     },
     {
         "name": "Shapesnatch",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-002",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.99,
@@ -2814,6 +2792,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2821,13 +2801,11 @@
     },
     {
         "name": "Souleater",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-003",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 13.16,
                             "low": 0.54,
@@ -2844,6 +2822,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2851,13 +2831,11 @@
     },
     {
         "name": "Spirit Reaper",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-076",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.51,
                             "low": 0.88,
@@ -2874,6 +2852,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2881,13 +2861,11 @@
     },
     {
         "name": "Statue of the Wicked",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-046",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.07,
                             "low": 0.99,
@@ -2904,6 +2882,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2911,13 +2891,11 @@
     },
     {
         "name": "Swarm of Locusts",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-022",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.46,
                             "low": 0.54,
@@ -2934,6 +2912,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2941,13 +2921,11 @@
     },
     {
         "name": "Swarm of Scarabs",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-021",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.59,
                             "low": 0.61,
@@ -2964,6 +2942,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2971,13 +2951,11 @@
     },
     {
         "name": "Terraforming",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-088",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 22.67,
                             "low": 1.05,
@@ -2994,6 +2972,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -3001,13 +2981,11 @@
     },
     {
         "name": "Timeater",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-010",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.99,
@@ -3024,6 +3002,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -3031,13 +3011,11 @@
     },
     {
         "name": "Timidity",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-039",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.73,
                             "low": 0.54,
@@ -3054,6 +3032,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -3061,13 +3041,11 @@
     },
     {
         "name": "Trap Dustshoot",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-049",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.96,
                             "low": 0.99,
@@ -3084,6 +3062,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -3091,13 +3071,11 @@
     },
     {
         "name": "Trap of Board Eraser",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-099",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.07,
                             "low": 0.52,
@@ -3114,6 +3092,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -3121,13 +3101,11 @@
     },
     {
         "name": "Tutan Mask",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-041",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.73,
                             "low": 0.99,
@@ -3144,6 +3122,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -3151,13 +3131,11 @@
     },
     {
         "name": "Wandering Mummy",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-019",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.63,
                             "low": 0.99,
@@ -3174,6 +3152,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3181,13 +3161,11 @@
     },
     {
         "name": "Winged Sage Falcos",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-072",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.11,
                             "low": 0.61,
@@ -3204,6 +3182,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -3211,13 +3191,11 @@
     },
     {
         "name": "Yomi Ship",
+        "numbers": [
+            {
                 "name": "Pharaonic Guardian",
                 "print_tag": "PGD-071",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 15.28,
                             "low": 0.99,
@@ -3234,6 +3212,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",

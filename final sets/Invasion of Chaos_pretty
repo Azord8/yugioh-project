@@ -4,41 +4,6 @@
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN104",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
-        "card_type": "trap",
-        "property": "Normal",
-        "family": null,
-        "type": null
-    },
-        "name": "A Hero Emerges",
-                "name": "Invasion of Chaos",
-                "print_tag": "IOC-104",
-                "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
-                        "prices": {
-                            "high": 4.98,
-                            "low": 0.5,
-                            "average": 0.91,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0224719101123595,
-                            "shift_30": 0.0111111111111111,
-                            "shift_90": 0.0224719101123595,
-                            "shift_180": -0.0618556701030928,
-                            "shift_365": -0.0108695652173913,
-                            "updated_at": "2018-09-19 11:08:43 -0600"
-                        }
-                    }
-                }
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -46,28 +11,23 @@
     },
     {
         "name": "Amphibious Bugroth MK-3",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN081",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
         "type": "Machine / Effect"
     },
+    {
         "name": "Amphibious Bugroth MK-3",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-081",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.24,
                             "low": 0.99,
@@ -84,6 +44,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -91,28 +53,23 @@
     },
     {
         "name": "Anti-Aircraft Flower",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN076",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
         "type": "Plant / Effect"
     },
+    {
         "name": "Anti-Aircraft Flower",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-076",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.73,
                             "low": 0.59,
@@ -129,6 +86,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -136,28 +95,23 @@
     },
     {
         "name": "Balloon Lizard",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN072",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
         "type": "Reptile / Effect"
     },
+    {
         "name": "Balloon Lizard",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-072",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.71,
                             "low": 0.99,
@@ -174,6 +128,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -181,28 +137,23 @@
     },
     {
         "name": "Begone, Knave!",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN107",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
         "type": null
     },
+    {
         "name": "Begone, Knave!",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-107",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.06,
                             "low": 0.56,
@@ -219,6 +170,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -226,28 +179,23 @@
     },
     {
         "name": "Berserk Gorilla",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN013",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
         "type": "Beast / Effect"
     },
+    {
         "name": "Berserk Gorilla",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-013",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.99,
@@ -264,6 +212,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -271,13 +221,11 @@
     },
     {
         "name": "Big Burn",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN047",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.85,
                             "low": 1.88,
@@ -294,6 +242,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -301,13 +251,11 @@
     },
     {
         "name": "Big Burn",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-047",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.0,
                             "low": 1.0,
@@ -324,6 +272,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -331,28 +281,23 @@
     },
     {
         "name": "Big Koala",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN004",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
         "type": "Beast"
     },
+    {
         "name": "Big Koala",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-004",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.99,
@@ -369,6 +314,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -376,28 +323,23 @@
     },
     {
         "name": "Black Luster Soldier - Envoy of the Beginning",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN025",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
         "type": "Warrior / Effect"
     },
+    {
         "name": "Black Luster Soldier - Envoy of the Beginning",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-025",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 203.98,
                             "low": 12.0,
@@ -414,6 +356,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -421,13 +365,11 @@
     },
     {
         "name": "Black Tyranno",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN075",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 24.95,
                             "low": 24.95,
@@ -444,6 +386,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -451,13 +395,11 @@
     },
     {
         "name": "Black Tyranno",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-075",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.57,
                             "low": 3.74,
@@ -474,6 +416,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -481,28 +425,23 @@
     },
     {
         "name": "Blasting the Ruins",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN048",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Blasting the Ruins",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-048",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.55,
                             "low": 0.54,
@@ -519,6 +458,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -526,28 +467,23 @@
     },
     {
         "name": "Blazing Inpachi",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN061",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
         "type": "Pyro"
     },
+    {
         "name": "Blazing Inpachi",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-061",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.43,
                             "low": 0.54,
@@ -564,6 +500,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -571,28 +509,23 @@
     },
     {
         "name": "Bowganian",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN029",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
         "type": "Machine / Effect"
     },
+    {
         "name": "Bowganian",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-029",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.23,
                             "low": 0.47,
@@ -609,6 +542,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -616,13 +551,11 @@
     },
     {
         "name": "Burning Algae",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN062",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.0,
                             "low": 5.0,
@@ -639,6 +572,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -646,13 +581,11 @@
     },
     {
         "name": "Burning Algae",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-062",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.73,
                             "low": 0.65,
@@ -669,6 +602,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -676,28 +611,23 @@
     },
     {
         "name": "Cannonball Spear Shellfish",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN085",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
         "type": "Aqua / Effect"
     },
+    {
         "name": "Cannonball Spear Shellfish",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-085",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.14,
                             "low": 0.52,
@@ -714,6 +644,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -721,13 +653,11 @@
     },
     {
         "name": "Chain Disappearance",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN052",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.99,
                             "low": 1.99,
@@ -744,6 +674,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -751,13 +683,11 @@
     },
     {
         "name": "Chain Disappearance",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-052",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.83,
                             "low": 0.66,
@@ -774,6 +704,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -781,13 +713,11 @@
     },
     {
         "name": "Chaos Emperor Dragon - Envoy of the End",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN000",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 124.0,
                             "low": 124.0,
@@ -804,6 +734,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -811,13 +743,11 @@
     },
     {
         "name": "Chaos Emperor Dragon - Envoy of the End",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-000",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 737.49,
                             "low": 14.95,
@@ -834,6 +764,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -841,28 +773,23 @@
     },
     {
         "name": "Chaos End",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN036",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Chaos End",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-036",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.54,
                             "low": 0.59,
@@ -879,20 +806,6 @@
                         }
                     }
                 }
-        "card_type": "spell",
-        "property": "Normal",
-        "family": null,
-        "type": null
-    },
-    {
-        "name": "Chaos Greed",
-                "name": "Invasion of Chaos",
-                "print_tag": "IOC-EN038",
-                "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
             }
         ],
         "card_type": "spell",
@@ -900,14 +813,25 @@
         "family": null,
         "type": null
     },
+    {
         "name": "Chaos Greed",
+        "numbers": [
+            {
+                "name": "Invasion of Chaos",
+                "print_tag": "IOC-EN038",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Chaos Greed",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-038",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.51,
                             "low": 0.54,
@@ -924,6 +848,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -931,28 +857,23 @@
     },
     {
         "name": "Chaos Necromancer",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN017",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
         "type": "Fiend / Effect"
     },
+    {
         "name": "Chaos Necromancer",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-017",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.0,
                             "low": 0.57,
@@ -969,6 +890,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -976,13 +899,11 @@
     },
     {
         "name": "Chaos Sorcerer",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN023",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.0,
                             "low": 7.0,
@@ -999,6 +920,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1006,13 +929,11 @@
     },
     {
         "name": "Chaos Sorcerer",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-023",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.54,
                             "low": 0.99,
@@ -1029,6 +950,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1036,28 +959,23 @@
     },
     {
         "name": "Chaosrider Gustaph",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN018",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
         "type": "Warrior / Effect"
     },
+    {
         "name": "Chaosrider Gustaph",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-018",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.0,
                             "low": 0.5,
@@ -1074,6 +992,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1081,13 +1001,11 @@
     },
     {
         "name": "Chopman the Desperate Outlaw",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN010",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.1,
                             "low": 1.1,
@@ -1104,6 +1022,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1111,13 +1031,11 @@
     },
     {
         "name": "Chopman the Desperate Outlaw",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-010",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.99,
@@ -1134,6 +1052,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1141,13 +1061,11 @@
     },
     {
         "name": "Coach Goblin",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN015",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.21,
                             "low": 1.21,
@@ -1164,6 +1082,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1171,13 +1091,11 @@
     },
     {
         "name": "Coach Goblin",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-015",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.39,
@@ -1194,6 +1112,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1201,28 +1121,23 @@
     },
     {
         "name": "Compulsory Evacuation Device",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN103",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Compulsory Evacuation Device",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-103",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.52,
                             "low": 0.6,
@@ -1239,6 +1154,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1246,28 +1163,23 @@
     },
     {
         "name": "Crimson Ninja",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN006",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
         "type": "Warrior / Flip"
     },
+    {
         "name": "Crimson Ninja",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-006",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.73,
                             "low": 0.99,
@@ -1284,6 +1196,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1291,28 +1205,23 @@
     },
     {
         "name": "Curse of Darkness",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN106",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
         "type": null
     },
+    {
         "name": "Curse of Darkness",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-106",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.23,
                             "low": 1.0,
@@ -1329,6 +1238,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -1336,13 +1247,11 @@
     },
     {
         "name": "Cursed Seal of the Forbidden Spell",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN049",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.5,
                             "low": 1.5,
@@ -1359,6 +1268,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -1366,13 +1277,11 @@
     },
     {
         "name": "Cursed Seal of the Forbidden Spell",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-049",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.51,
                             "low": 1.4,
@@ -1389,6 +1298,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -1396,28 +1307,23 @@
     },
     {
         "name": "D.D. Borderline",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN040",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
         "type": null
     },
+    {
         "name": "D.D. Borderline",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-040",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.22,
                             "low": 0.54,
@@ -1434,6 +1340,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -1441,13 +1349,11 @@
     },
     {
         "name": "D.D. Designator",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN039",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.35,
                             "low": 9.35,
@@ -1464,6 +1370,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1471,13 +1379,11 @@
     },
     {
         "name": "D.D. Designator",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-039",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.79,
                             "low": 1.11,
@@ -1494,6 +1400,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1501,28 +1409,23 @@
     },
     {
         "name": "D.D. Scout Plane",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN012",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
         "type": "Machine / Effect"
     },
+    {
         "name": "D.D. Scout Plane",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-012",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 44.69,
                             "low": 0.99,
@@ -1539,6 +1442,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1546,28 +1451,23 @@
     },
     {
         "name": "DNA Transplant",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN108",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
         "type": null
     },
+    {
         "name": "DNA Transplant",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-108",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.79,
                             "low": 0.54,
@@ -1584,6 +1484,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -1591,13 +1493,11 @@
     },
     {
         "name": "Dark Driceratops",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN073",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.48,
                             "low": 1.48,
@@ -1614,6 +1514,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1621,13 +1523,11 @@
     },
     {
         "name": "Dark Driceratops",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-073",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 16.91,
                             "low": 0.77,
@@ -1644,6 +1544,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1651,13 +1553,11 @@
     },
     {
         "name": "Dark Magician of Chaos",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN065",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 27.99,
                             "low": 5.15,
@@ -1674,6 +1574,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1681,13 +1583,11 @@
     },
     {
         "name": "Dark Magician of Chaos",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-065",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 255.0,
                             "low": 6.64,
@@ -1704,6 +1604,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1711,13 +1613,11 @@
     },
     {
         "name": "Dark Mirror Force",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN054",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 12.93,
                             "low": 12.93,
@@ -1734,6 +1634,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1741,13 +1643,11 @@
     },
     {
         "name": "Dark Mirror Force",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-054",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 31.52,
                             "low": 1.79,
@@ -1764,6 +1664,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1771,13 +1673,11 @@
     },
     {
         "name": "Dedication through Light and Darkness",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN095",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 11.84,
                             "low": 11.83,
@@ -1794,6 +1694,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -1801,13 +1703,11 @@
     },
     {
         "name": "Dedication through Light and Darkness",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-095",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.98,
                             "low": 1.55,
@@ -1824,6 +1724,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -1831,28 +1733,23 @@
     },
     {
         "name": "Des Kangaroo",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN005",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
         "type": "Beast / Effect"
     },
+    {
         "name": "Des Kangaroo",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-005",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.61,
@@ -1869,6 +1766,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1876,13 +1775,11 @@
     },
     {
         "name": "Destruction Ring",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN101",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.79,
                             "low": 1.79,
@@ -1899,6 +1796,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1906,13 +1805,11 @@
     },
     {
         "name": "Destruction Ring",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-101",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.99,
@@ -1929,6 +1826,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1936,28 +1835,23 @@
     },
     {
         "name": "Dimension Distortion",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN044",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Dimension Distortion",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-044",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.45,
                             "low": 0.54,
@@ -1974,20 +1868,6 @@
                         }
                     }
                 }
-        "card_type": "spell",
-        "property": "Normal",
-        "family": null,
-        "type": null
-    },
-    {
-        "name": "Dimension Fusion",
-                "name": "Invasion of Chaos",
-                "print_tag": "IOC-EN094",
-                "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
             }
         ],
         "card_type": "spell",
@@ -1995,14 +1875,25 @@
         "family": null,
         "type": null
     },
+    {
         "name": "Dimension Fusion",
+        "numbers": [
+            {
+                "name": "Invasion of Chaos",
+                "print_tag": "IOC-EN094",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dimension Fusion",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-094",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 36.42,
                             "low": 7.47,
@@ -2019,6 +1910,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2026,28 +1919,23 @@
     },
     {
         "name": "Don Turtle",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN071",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
         "type": "Reptile / Effect"
     },
+    {
         "name": "Don Turtle",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-071",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.82,
                             "low": 0.53,
@@ -2064,6 +1952,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2071,13 +1961,11 @@
     },
     {
         "name": "Drillago",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN026",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.65,
                             "low": 14.65,
@@ -2094,6 +1982,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2101,13 +1991,11 @@
     },
     {
         "name": "Drillago",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-026",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.24,
                             "low": 0.99,
@@ -2124,6 +2012,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2131,28 +2021,23 @@
     },
     {
         "name": "Earth Chant",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN099",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Ritual",
         "family": null,
         "type": null
     },
+    {
         "name": "Earth Chant",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-099",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.0,
                             "low": 0.99,
@@ -2169,6 +2054,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Ritual",
         "family": null,
@@ -2176,28 +2063,23 @@
     },
     {
         "name": "Energy Drain",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN055",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Energy Drain",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-055",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.23,
                             "low": 0.54,
@@ -2214,6 +2096,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2221,13 +2105,11 @@
     },
     {
         "name": "Enraged Battle Ox",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN070",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.79,
                             "low": 14.79,
@@ -2244,6 +2126,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2251,13 +2135,11 @@
     },
     {
         "name": "Enraged Battle Ox",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-070",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.99,
@@ -2274,6 +2156,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2281,13 +2165,11 @@
     },
     {
         "name": "Fenrir",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN020",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.23,
                             "low": 1.23,
@@ -2304,6 +2186,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2311,13 +2195,11 @@
     },
     {
         "name": "Fenrir",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-020",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.99,
                             "low": 0.99,
@@ -2334,6 +2216,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2341,13 +2225,11 @@
     },
     {
         "name": "Fiend's Hand Mirror",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN102",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.4,
                             "low": 1.4,
@@ -2364,6 +2246,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2371,13 +2255,11 @@
     },
     {
         "name": "Fiend's Hand Mirror",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-102",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.99,
                             "low": 0.99,
@@ -2394,6 +2276,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2401,28 +2285,23 @@
     },
     {
         "name": "Freed the Brave Wanderer",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN014",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
         "type": "Warrior / Effect"
     },
+    {
         "name": "Freed the Brave Wanderer",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-014",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.39,
                             "low": 0.64,
@@ -2439,6 +2318,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2446,28 +2327,23 @@
     },
     {
         "name": "Fuhma Shuriken",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN031",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
         "type": null
     },
+    {
         "name": "Fuhma Shuriken",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-031",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.88,
@@ -2484,6 +2360,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -2491,13 +2369,11 @@
     },
     {
         "name": "Gale Lizard",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN008",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.23,
                             "low": 1.23,
@@ -2514,6 +2390,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2521,13 +2399,11 @@
     },
     {
         "name": "Gale Lizard",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-008",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.44,
                             "low": 0.49,
@@ -2544,6 +2420,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2551,28 +2429,23 @@
     },
     {
         "name": "Getsu Fuhma",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN089",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
         "type": "Warrior / Effect"
     },
+    {
         "name": "Getsu Fuhma",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-089",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.99,
@@ -2589,6 +2462,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2596,28 +2471,23 @@
     },
     {
         "name": "Giga Gagagigo",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN056",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
         "type": "Reptile"
     },
+    {
         "name": "Giga Gagagigo",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-056",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 11.54,
                             "low": 1.99,
@@ -2634,6 +2504,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2641,13 +2513,11 @@
     },
     {
         "name": "Gigantes",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN021",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.75,
                             "low": 1.75,
@@ -2664,6 +2534,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2671,13 +2543,11 @@
     },
     {
         "name": "Gigantes",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-021",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.73,
                             "low": 0.99,
@@ -2694,6 +2564,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2701,28 +2573,23 @@
     },
     {
         "name": "Gora Turtle of Illusion",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN066",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
         "type": "Aqua / Effect"
     },
+    {
         "name": "Gora Turtle of Illusion",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-066",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.22,
                             "low": 0.39,
@@ -2739,6 +2606,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2746,28 +2615,23 @@
     },
     {
         "name": "Granadora",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN030",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
         "type": "Reptile / Effect"
     },
+    {
         "name": "Granadora",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-030",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.0,
                             "low": 0.99,
@@ -2784,6 +2648,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2791,13 +2657,11 @@
     },
     {
         "name": "Gren Maju Da Eiza",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN024",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.0,
                             "low": 3.0,
@@ -2814,6 +2678,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2821,13 +2687,11 @@
     },
     {
         "name": "Gren Maju Da Eiza",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-024",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 24.83,
                             "low": 2.23,
@@ -2844,6 +2708,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2851,28 +2717,23 @@
     },
     {
         "name": "Gryphon's Feather Duster",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN091",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Gryphon's Feather Duster",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-091",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.59,
                             "low": 0.99,
@@ -2889,6 +2750,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2896,28 +2759,23 @@
     },
     {
         "name": "Guardian Angel Joan",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN087",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
         "type": "Fairy / Effect"
     },
+    {
         "name": "Guardian Angel Joan",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-087",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.88,
                             "low": 3.09,
@@ -2934,6 +2792,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2941,13 +2801,11 @@
     },
     {
         "name": "Heart of the Underdog",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN032",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.93,
                             "low": 9.93,
@@ -2964,6 +2822,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -2971,13 +2831,11 @@
     },
     {
         "name": "Heart of the Underdog",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-032",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.51,
                             "low": 1.9,
@@ -2994,6 +2852,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -3001,28 +2861,23 @@
     },
     {
         "name": "Hyper Hammerhead",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN074",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
         "type": "Dinosaur / Effect"
     },
+    {
         "name": "Hyper Hammerhead",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-074",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.46,
                             "low": 0.59,
@@ -3039,6 +2894,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3046,28 +2903,23 @@
     },
     {
         "name": "Inferno",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN019",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
         "type": "Pyro / Effect"
     },
+    {
         "name": "Inferno",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-019",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.99,
@@ -3084,6 +2936,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -3091,13 +2945,11 @@
     },
     {
         "name": "Insect Princess",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN080",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.99,
                             "low": 1.99,
@@ -3114,6 +2966,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -3121,13 +2975,11 @@
     },
     {
         "name": "Insect Princess",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-080",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 22.67,
                             "low": 1.59,
@@ -3144,6 +2996,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -3151,28 +3005,23 @@
     },
     {
         "name": "Invader of Darkness",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN111",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
         "type": "Fiend / Effect"
     },
+    {
         "name": "Invader of Darkness",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-111",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 149.99,
                             "low": 0.77,
@@ -3189,6 +3038,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -3196,28 +3047,23 @@
     },
     {
         "name": "Jade Insect Whistle",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN100",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Jade Insect Whistle",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-100",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.42,
                             "low": 0.54,
@@ -3234,6 +3080,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -3241,28 +3089,23 @@
     },
     {
         "name": "Lekunga",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN027",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
         "type": "Plant / Effect"
     },
+    {
         "name": "Lekunga",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-027",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.97,
                             "low": 0.53,
@@ -3279,6 +3122,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -3286,28 +3131,23 @@
     },
     {
         "name": "Levia-Dragon - Daedalus",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN083",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
         "type": "Sea Serpent / Effect"
     },
+    {
         "name": "Levia-Dragon - Daedalus",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-083",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.24,
                             "low": 3.16,
@@ -3324,6 +3164,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -3331,28 +3173,23 @@
     },
     {
         "name": "Lord Poison",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN028",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
         "type": "Plant / Effect"
     },
+    {
         "name": "Lord Poison",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-028",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.52,
                             "low": 0.59,
@@ -3369,6 +3206,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -3376,13 +3215,11 @@
     },
     {
         "name": "Mad Dog of Darkness",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN057",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.48,
                             "low": 1.48,
@@ -3399,6 +3236,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -3406,13 +3245,11 @@
     },
     {
         "name": "Mad Dog of Darkness",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-057",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.5,
@@ -3429,6 +3266,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -3436,13 +3275,11 @@
     },
     {
         "name": "Manju of the Ten Thousand Hands",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN088",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.38,
                             "low": 5.38,
@@ -3459,6 +3296,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -3466,13 +3305,11 @@
     },
     {
         "name": "Manju of the Ten Thousand Hands",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-088",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.82,
                             "low": 5.77,
@@ -3489,6 +3326,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -3496,13 +3335,11 @@
     },
     {
         "name": "Manticore of Darkness",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN067",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 10.99,
                             "low": 10.99,
@@ -3519,6 +3356,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -3526,13 +3365,11 @@
     },
     {
         "name": "Manticore of Darkness",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-067",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 24.87,
                             "low": 2.54,
@@ -3549,6 +3386,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -3556,28 +3395,23 @@
     },
     {
         "name": "Mataza the Zapper",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN086",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
         "type": "Warrior / Effect"
     },
+    {
         "name": "Mataza the Zapper",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-086",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.72,
                             "low": 0.99,
@@ -3594,6 +3428,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -3601,13 +3437,11 @@
     },
     {
         "name": "Molten Zombie",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN064",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.42,
                             "low": 2.42,
@@ -3624,6 +3458,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -3631,13 +3467,11 @@
     },
     {
         "name": "Molten Zombie",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-064",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.22,
                             "low": 0.49,
@@ -3654,6 +3488,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -3661,28 +3497,23 @@
     },
     {
         "name": "Multiplication of Ants",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN098",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Multiplication of Ants",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-098",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.09,
                             "low": 2.22,
@@ -3699,6 +3530,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -3706,28 +3539,23 @@
     },
     {
         "name": "Neo Bug",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN058",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
         "type": "Insect"
     },
+    {
         "name": "Neo Bug",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-058",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.42,
                             "low": 0.99,
@@ -3744,6 +3572,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3751,28 +3581,23 @@
     },
     {
         "name": "Ojama Black",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN002",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
         "type": "Beast"
     },
+    {
         "name": "Ojama Black",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-002",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 15.17,
                             "low": 0.99,
@@ -3789,6 +3614,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -3796,28 +3623,23 @@
     },
     {
         "name": "Ojama Delta Hurricane!!",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN034",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Ojama Delta Hurricane!!",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-034",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.73,
                             "low": 1.7,
@@ -3834,6 +3656,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -3841,28 +3665,23 @@
     },
     {
         "name": "Ojama Yellow",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN001",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
         "type": "Beast"
     },
+    {
         "name": "Ojama Yellow",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-001",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.35,
                             "low": 0.61,
@@ -3879,6 +3698,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -3886,28 +3707,23 @@
     },
     {
         "name": "Orca Mega-Fortress of Darkness",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN084",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
         "type": "Sea Serpent / Effect"
     },
+    {
         "name": "Orca Mega-Fortress of Darkness",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-084",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 44.99,
                             "low": 0.99,
@@ -3924,6 +3740,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -3931,28 +3749,23 @@
     },
     {
         "name": "Pinch Hopper",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN078",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
         "type": "Insect / Effect"
     },
+    {
         "name": "Pinch Hopper",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-078",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 10.26,
                             "low": 1.62,
@@ -3969,6 +3782,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3976,13 +3791,11 @@
     },
     {
         "name": "Prickle Fairy",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN077",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.68,
                             "low": 2.42,
@@ -3999,6 +3812,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -4006,13 +3821,11 @@
     },
     {
         "name": "Prickle Fairy",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-077",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 10.3,
                             "low": 0.57,
@@ -4029,6 +3842,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -4036,28 +3851,23 @@
     },
     {
         "name": "Primal Seed",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN042",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Primal Seed",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-042",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 10.94,
                             "low": 0.99,
@@ -4074,6 +3884,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -4081,28 +3893,23 @@
     },
     {
         "name": "Recycle",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN041",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
         "type": null
     },
+    {
         "name": "Recycle",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-041",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.42,
                             "low": 0.99,
@@ -4119,6 +3926,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -4126,28 +3935,23 @@
     },
     {
         "name": "Reload",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN045",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
         "type": null
     },
+    {
         "name": "Reload",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-045",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 25.56,
                             "low": 1.8,
@@ -4164,6 +3968,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -4171,28 +3977,23 @@
     },
     {
         "name": "Robbin' Zombie",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN109",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
         "type": null
     },
+    {
         "name": "Robbin' Zombie",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-109",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.86,
                             "low": 0.55,
@@ -4209,6 +4010,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -4216,13 +4019,11 @@
     },
     {
         "name": "Ryu Kokki",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN090",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.42,
                             "low": 2.42,
@@ -4239,6 +4040,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -4246,13 +4049,11 @@
     },
     {
         "name": "Ryu Kokki",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-090",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.43,
                             "low": 0.46,
@@ -4269,6 +4070,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -4276,28 +4079,23 @@
     },
     {
         "name": "Sacred Crane",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN069",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
         "type": "Winged Beast / Effect"
     },
+    {
         "name": "Sacred Crane",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-069",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.94,
                             "low": 0.48,
@@ -4314,6 +4112,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -4321,28 +4121,23 @@
     },
     {
         "name": "Salvage",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN096",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Salvage",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-096",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.73,
                             "low": 0.66,
@@ -4359,6 +4154,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -4366,13 +4163,11 @@
     },
     {
         "name": "Sasuke Samurai 3",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN011",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.28,
                             "low": 4.28,
@@ -4389,6 +4184,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -4396,13 +4193,11 @@
     },
     {
         "name": "Sasuke Samurai 3",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-011",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.23,
                             "low": 0.54,
@@ -4419,6 +4214,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -4426,28 +4223,23 @@
     },
     {
         "name": "Sea Serpent Warrior of Darkness",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN059",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
         "type": "Sea Serpent"
     },
+    {
         "name": "Sea Serpent Warrior of Darkness",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-059",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.92,
                             "low": 0.65,
@@ -4464,6 +4256,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -4471,28 +4265,23 @@
     },
     {
         "name": "Self-Destruct Button",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN105",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Self-Destruct Button",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-105",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 16.5,
                             "low": 1.0,
@@ -4509,6 +4298,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -4516,13 +4307,11 @@
     },
     {
         "name": "Silpheed",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN022",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.42,
                             "low": 1.11,
@@ -4539,6 +4328,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -4546,13 +4337,11 @@
     },
     {
         "name": "Silpheed",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-022",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.22,
                             "low": 0.53,
@@ -4569,6 +4358,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -4576,28 +4367,23 @@
     },
     {
         "name": "Skull-Mark Ladybug",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN079",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
         "type": "Insect / Effect"
     },
+    {
         "name": "Skull-Mark Ladybug",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-079",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.99,
                             "low": 0.39,
@@ -4614,6 +4400,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -4621,28 +4409,23 @@
     },
     {
         "name": "Smashing Ground",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN093",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Smashing Ground",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-093",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.99,
                             "low": 0.59,
@@ -4659,6 +4442,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -4666,28 +4451,23 @@
     },
     {
         "name": "Soul Absorption",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN046",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
         "type": null
     },
+    {
         "name": "Soul Absorption",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-046",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.99,
@@ -4704,6 +4484,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -4711,28 +4493,23 @@
     },
     {
         "name": "Soul Tiger",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN003",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
         "type": "Beast"
     },
+    {
         "name": "Soul Tiger",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-003",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.54,
@@ -4749,6 +4526,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -4756,13 +4535,11 @@
     },
     {
         "name": "Spatial Collapse",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN051",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.42,
                             "low": 2.42,
@@ -4779,6 +4556,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -4786,13 +4565,11 @@
     },
     {
         "name": "Spatial Collapse",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-051",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.99,
                             "low": 0.51,
@@ -4809,6 +4586,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -4816,28 +4595,23 @@
     },
     {
         "name": "Spirit of the Pot of Greed",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN009",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
         "type": "Fairy / Effect"
     },
+    {
         "name": "Spirit of the Pot of Greed",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-009",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.33,
                             "low": 0.3,
@@ -4854,6 +4628,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -4861,28 +4637,23 @@
     },
     {
         "name": "Stealth Bird",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN068",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
         "type": "Winged Beast / Effect"
     },
+    {
         "name": "Stealth Bird",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-068",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.92,
                             "low": 1.04,
@@ -4899,6 +4670,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -4906,13 +4679,11 @@
     },
     {
         "name": "Stray Lambs",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN092",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 15.17,
                             "low": 15.17,
@@ -4929,6 +4700,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -4936,13 +4709,11 @@
     },
     {
         "name": "Stray Lambs",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-092",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.24,
                             "low": 0.98,
@@ -4959,6 +4730,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -4966,13 +4739,11 @@
     },
     {
         "name": "Strike Ninja",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN007",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.54,
                             "low": 10.39,
@@ -4989,6 +4760,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -4996,13 +4769,11 @@
     },
     {
         "name": "Strike Ninja",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-007",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 34.07,
                             "low": 1.61,
@@ -5019,6 +4790,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -5026,28 +4799,23 @@
     },
     {
         "name": "Stumbling",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN035",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
         "type": null
     },
+    {
         "name": "Stumbling",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-035",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.43,
                             "low": 1.43,
@@ -5064,6 +4832,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -5071,28 +4841,23 @@
     },
     {
         "name": "Terrorking Salmon",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN060",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
         "type": "Fish"
     },
+    {
         "name": "Terrorking Salmon",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-060",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.23,
                             "low": 0.99,
@@ -5109,6 +4874,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -5116,28 +4883,23 @@
     },
     {
         "name": "The Thing in the Crater",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN063",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
         "type": "Pyro / Effect"
     },
+    {
         "name": "The Thing in the Crater",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-063",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.99,
                             "low": 0.99,
@@ -5154,6 +4916,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -5161,28 +4925,23 @@
     },
     {
         "name": "Thunder Crash",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN043",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Thunder Crash",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-043",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.22,
                             "low": 0.54,
@@ -5199,6 +4958,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -5206,28 +4967,23 @@
     },
     {
         "name": "Torpedo Fish",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN082",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
         "type": "Fish / Effect"
     },
+    {
         "name": "Torpedo Fish",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-082",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 32.89,
                             "low": 0.61,
@@ -5244,6 +5000,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -5251,28 +5009,23 @@
     },
     {
         "name": "Tower of Babel",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN050",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
         "type": null
     },
+    {
         "name": "Tower of Babel",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-050",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.9,
                             "low": 0.65,
@@ -5289,6 +5042,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -5296,28 +5051,23 @@
     },
     {
         "name": "Trap Jammer",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN110",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
         "type": null
     },
+    {
         "name": "Trap Jammer",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-110",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 12.0,
                             "low": 1.89,
@@ -5334,6 +5084,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -5341,43 +5093,35 @@
     },
     {
         "name": "Trap Jammer",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-FR110",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
         "type": null
     },
+    {
         "name": "Ultra Evolution Pill",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN097",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Ultra Evolution Pill",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-097",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.98,
                             "low": 0.57,
@@ -5394,6 +5138,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -5401,13 +5147,11 @@
     },
     {
         "name": "Wild Nature's Release",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN033",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.4,
                             "low": 1.0,
@@ -5424,6 +5168,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -5431,13 +5177,11 @@
     },
     {
         "name": "Wild Nature's Release",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-033",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.99,
                             "low": 0.58,
@@ -5454,6 +5198,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -5461,28 +5207,23 @@
     },
     {
         "name": "Witch Doctor of Chaos",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN016",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
         "type": "Spellcaster / Effect"
     },
+    {
         "name": "Witch Doctor of Chaos",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-016",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.0,
                             "low": 0.99,
@@ -5499,6 +5240,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -5506,28 +5249,23 @@
     },
     {
         "name": "Yellow Luster Shield",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN037",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
         "type": null
     },
+    {
         "name": "Yellow Luster Shield",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-037",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.73,
                             "low": 0.99,
@@ -5544,6 +5282,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -5551,13 +5291,11 @@
     },
     {
         "name": "Zero Gravity",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-EN053",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.42,
                             "low": 2.42,
@@ -5574,6 +5312,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -5581,13 +5321,11 @@
     },
     {
         "name": "Zero Gravity",
+        "numbers": [
+            {
                 "name": "Invasion of Chaos",
                 "print_tag": "IOC-053",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.42,
                             "low": 0.54,
@@ -5604,6 +5342,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,

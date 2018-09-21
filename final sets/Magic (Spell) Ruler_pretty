@@ -4,26 +4,6 @@
                 "name": "Magic Ruler",
                 "print_tag": "MRL-010",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
-                        "prices": {
-                            "high": 18.52,
-                            "low": 0.99,
-                            "average": 0.92,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": -0.010752688172043,
-                            "shift_30": -0.0416666666666667,
-                            "shift_90": -0.010752688172043,
-                            "shift_180": 0.0574712643678161,
-                            "shift_365": 0.0222222222222222,
-                            "updated_at": "2018-09-21 04:02:06 -0600"
-                        }
-                    }
-                }
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -31,13 +11,11 @@
     },
     {
         "name": "Axe of Despair",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-002",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 37.43,
                             "low": 3.7,
@@ -54,6 +32,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -61,13 +41,11 @@
     },
     {
         "name": "Banisher of the Light",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-078",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.22,
                             "low": 1.0,
@@ -84,6 +62,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -91,13 +71,11 @@
     },
     {
         "name": "Black Illusion Ritual",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-051",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.94,
                             "low": 3.49,
@@ -114,6 +92,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Ritual",
         "family": null,
@@ -121,13 +101,11 @@
     },
     {
         "name": "Black Pendant",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-003",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 30.77,
                             "low": 0.67,
@@ -144,6 +122,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -151,13 +131,11 @@
     },
     {
         "name": "Blue-Eyes Toon Dragon",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-000",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 582.99,
                             "low": 22.06,
@@ -174,6 +152,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -181,13 +161,11 @@
     },
     {
         "name": "Boar Soldier",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-089",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.43,
                             "low": 0.39,
@@ -204,6 +182,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -211,13 +191,11 @@
     },
     {
         "name": "Ceremonial Bell",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-092",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.52,
                             "low": 0.39,
@@ -234,6 +212,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -241,13 +221,11 @@
     },
     {
         "name": "Chain Energy",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-046",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.48,
                             "low": 0.66,
@@ -264,6 +242,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -271,13 +251,11 @@
     },
     {
         "name": "Chorus of Sanctuary",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-037",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.72,
                             "low": 0.99,
@@ -294,6 +272,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -301,13 +281,11 @@
     },
     {
         "name": "Commencement Dance",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-062",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.98,
                             "low": 0.39,
@@ -324,6 +302,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Ritual",
         "family": null,
@@ -331,13 +311,11 @@
     },
     {
         "name": "Confiscation",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-038",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.98,
                             "low": 0.66,
@@ -354,6 +332,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -361,13 +341,11 @@
     },
     {
         "name": "Crab Turtle",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-069",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.54,
                             "low": 0.99,
@@ -384,6 +362,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -391,13 +371,11 @@
     },
     {
         "name": "Curse of Fiend",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-032",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.45,
                             "low": 0.66,
@@ -414,6 +392,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -421,13 +401,11 @@
     },
     {
         "name": "Cyber Jar",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-077",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 23.63,
                             "low": 2.65,
@@ -444,6 +422,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -451,13 +431,11 @@
     },
     {
         "name": "Dark Zebra",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-084",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.99,
                             "low": 0.39,
@@ -474,6 +452,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -481,13 +461,11 @@
     },
     {
         "name": "Darkness Approaches",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-040",
                 "rarity": "Super Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.52,
                             "low": 0.54,
@@ -504,6 +482,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -511,13 +491,11 @@
     },
     {
         "name": "Delinquent Duo",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-039",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 64.99,
                             "low": 5.4,
@@ -534,6 +512,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -541,13 +521,11 @@
     },
     {
         "name": "Eatgaboon",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-065",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.43,
                             "low": 0.39,
@@ -564,6 +542,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -571,13 +551,11 @@
     },
     {
         "name": "Electric Snake",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-008",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.49,
                             "low": 0.54,
@@ -594,6 +572,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -601,13 +581,11 @@
     },
     {
         "name": "Eternal Rest",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-060",
                 "rarity": "Super Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.82,
                             "low": 0.54,
@@ -624,6 +602,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -631,13 +611,11 @@
     },
     {
         "name": "Fairy's Hand Mirror",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-041",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.25,
                             "low": 0.3,
@@ -654,6 +632,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -661,13 +641,11 @@
     },
     {
         "name": "Final Destiny",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-035",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.32,
                             "low": 0.54,
@@ -684,6 +662,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -691,13 +671,11 @@
     },
     {
         "name": "Flash Assailant",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-082",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.99,
@@ -714,6 +692,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -721,13 +701,11 @@
     },
     {
         "name": "Flying Kamakiri 1",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-091",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.48,
                             "low": 0.77,
@@ -744,6 +722,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -751,13 +731,11 @@
     },
     {
         "name": "Gaia Power",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-096",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.5,
                             "low": 0.3,
@@ -774,6 +752,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -781,13 +761,11 @@
     },
     {
         "name": "Giant Germ",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-085",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 31.28,
                             "low": 1.13,
@@ -804,6 +782,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -811,13 +791,11 @@
     },
     {
         "name": "Giant Rat",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-079",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.24,
                             "low": 0.5,
@@ -834,6 +812,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -841,13 +821,11 @@
     },
     {
         "name": "Gravekeeper's Servant",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-031",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.66,
                             "low": 1.19,
@@ -864,6 +842,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -871,13 +851,11 @@
     },
     {
         "name": "Griggle",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-016",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.24,
                             "low": 0.99,
@@ -894,6 +872,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -901,13 +881,11 @@
     },
     {
         "name": "Guardian of the Throne Room",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-013",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.43,
                             "low": 0.39,
@@ -924,6 +902,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -931,13 +911,11 @@
     },
     {
         "name": "Hamburger Recipe",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-063",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.24,
                             "low": 0.54,
@@ -954,6 +932,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Ritual",
         "family": null,
@@ -961,13 +941,11 @@
     },
     {
         "name": "Hiro's Shadow Scout",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-024",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.99,
                             "low": 0.99,
@@ -984,6 +962,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -991,13 +971,11 @@
     },
     {
         "name": "Horn of Light",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-004",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.58,
                             "low": 0.99,
@@ -1014,6 +992,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -1021,13 +1001,11 @@
     },
     {
         "name": "Horn of the Unicorn",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-054",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.75,
                             "low": 0.65,
@@ -1044,6 +1022,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -1051,13 +1031,11 @@
     },
     {
         "name": "House of Adhesive Tape",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-064",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.23,
                             "low": 0.54,
@@ -1074,6 +1052,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1081,13 +1061,11 @@
     },
     {
         "name": "Hungry Burger",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-068",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.51,
                             "low": 0.99,
@@ -1104,6 +1082,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1111,13 +1091,11 @@
     },
     {
         "name": "Hyozanryu",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-075",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.52,
                             "low": 0.62,
@@ -1134,6 +1112,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1141,13 +1121,11 @@
     },
     {
         "name": "Invader of the Throne",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-026",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.66,
                             "low": 0.52,
@@ -1164,6 +1142,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1171,13 +1151,11 @@
     },
     {
         "name": "Jigen Bakudan",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-074",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.24,
                             "low": 0.25,
@@ -1194,6 +1172,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -1201,13 +1181,11 @@
     },
     {
         "name": "Karate Man",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-083",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.99,
                             "low": 0.61,
@@ -1224,6 +1202,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1231,13 +1211,11 @@
     },
     {
         "name": "Kotodama",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-095",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.45,
                             "low": 0.39,
@@ -1254,6 +1232,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1261,13 +1241,11 @@
     },
     {
         "name": "Labyrinth Wall",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-055",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.49,
                             "low": 0.99,
@@ -1284,6 +1262,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1291,13 +1271,11 @@
     },
     {
         "name": "Luminous Spark",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-100",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.9,
                             "low": 0.99,
@@ -1314,6 +1292,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -1321,13 +1301,11 @@
     },
     {
         "name": "Magical Labyrinth",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-059",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.39,
@@ -1344,6 +1322,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -1351,13 +1331,11 @@
     },
     {
         "name": "Maha Vailo",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-012",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 37.99,
                             "low": 0.67,
@@ -1374,6 +1352,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1381,13 +1361,11 @@
     },
     {
         "name": "Malevolent Nuzzler",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-005",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.99,
                             "low": 0.54,
@@ -1404,6 +1382,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -1411,13 +1391,11 @@
     },
     {
         "name": "Manga Ryu-Ran",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-071",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.7,
                             "low": 0.56,
@@ -1434,6 +1412,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -1441,13 +1421,11 @@
     },
     {
         "name": "Megamorph",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-061",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.0,
                             "low": 1.19,
@@ -1464,6 +1442,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -1471,13 +1451,11 @@
     },
     {
         "name": "Messenger of Peace",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-102",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 45.99,
                             "low": 1.95,
@@ -1494,6 +1472,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -1501,13 +1481,11 @@
     },
     {
         "name": "Minar",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-015",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.43,
                             "low": 0.54,
@@ -1524,6 +1502,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1531,13 +1511,11 @@
     },
     {
         "name": "Molten Destruction",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-098",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.89,
@@ -1554,6 +1532,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -1561,13 +1541,11 @@
     },
     {
         "name": "Mother Grizzly",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-090",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.56,
@@ -1584,6 +1562,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1591,13 +1571,11 @@
     },
     {
         "name": "Mystic Plasma Zone",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-101",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.66,
                             "low": 0.99,
@@ -1614,6 +1592,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -1621,13 +1601,11 @@
     },
     {
         "name": "Mystic Tomato",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-094",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 10.0,
                             "low": 1.49,
@@ -1644,6 +1622,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1651,13 +1631,11 @@
     },
     {
         "name": "Mystical Space Typhoon",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-047",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 472.95,
                             "low": 3.19,
@@ -1674,6 +1652,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -1681,13 +1661,11 @@
     },
     {
         "name": "Nimble Momonga",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-086",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.43,
                             "low": 2.0,
@@ -1704,6 +1682,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1711,13 +1691,11 @@
     },
     {
         "name": "Octoberser",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-052",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.22,
                             "low": 0.39,
@@ -1734,6 +1712,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1741,13 +1721,11 @@
     },
     {
         "name": "Painful Choice",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-049",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 26.03,
                             "low": 2.26,
@@ -1764,6 +1742,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1771,13 +1751,11 @@
     },
     {
         "name": "Performance of Sword",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-067",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.21,
                             "low": 0.25,
@@ -1794,6 +1772,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1801,13 +1781,11 @@
     },
     {
         "name": "Psychic Kappa",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-053",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.45,
                             "low": 0.54,
@@ -1824,6 +1802,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1831,13 +1811,11 @@
     },
     {
         "name": "Relinquished",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-029",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 210.0,
                             "low": 1.99,
@@ -1854,6 +1832,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1861,13 +1841,11 @@
     },
     {
         "name": "Rising Air Current",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-099",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.66,
                             "low": 0.66,
@@ -1884,6 +1862,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -1891,13 +1871,11 @@
     },
     {
         "name": "Rush Recklessly",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-043",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.24,
                             "low": 0.56,
@@ -1914,6 +1892,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -1921,13 +1901,11 @@
     },
     {
         "name": "Ryu-Ran",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-070",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 28.7,
                             "low": 0.61,
@@ -1944,6 +1922,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -1951,13 +1931,11 @@
     },
     {
         "name": "Senju of the Thousand Hands",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-080",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.0,
                             "low": 1.06,
@@ -1974,6 +1952,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1981,13 +1961,11 @@
     },
     {
         "name": "Serpent Night Dragon",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-103",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 71.07,
                             "low": 2.0,
@@ -2004,6 +1982,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2011,13 +1991,11 @@
     },
     {
         "name": "Shining Angel",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-088",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.51,
                             "low": 0.67,
@@ -2034,6 +2012,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2041,13 +2021,11 @@
     },
     {
         "name": "Slot Machine",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-028",
                 "rarity": "Super Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.43,
                             "low": 0.3,
@@ -2064,6 +2042,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2071,13 +2051,11 @@
     },
     {
         "name": "Snake Fang",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-050",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.47,
                             "low": 0.66,
@@ -2094,6 +2072,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2101,13 +2081,11 @@
     },
     {
         "name": "Snatch Steal",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-036",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 93.98,
                             "low": 3.78,
@@ -2124,6 +2102,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -2131,13 +2111,11 @@
     },
     {
         "name": "Sonic Bird",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-093",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.18,
                             "low": 0.77,
@@ -2154,6 +2132,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -2161,13 +2141,11 @@
     },
     {
         "name": "Spear Cretin",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-087",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.43,
                             "low": 0.99,
@@ -2184,6 +2162,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2191,13 +2171,11 @@
     },
     {
         "name": "Spellbinding Circle",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-006",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 49.99,
                             "low": 2.79,
@@ -2214,6 +2192,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -2221,13 +2201,11 @@
     },
     {
         "name": "Stone Ogre Grotto",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-058",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.44,
                             "low": 0.39,
@@ -2244,6 +2222,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2251,13 +2231,11 @@
     },
     {
         "name": "Tailor of the Fickle",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-042",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.52,
                             "low": 0.99,
@@ -2274,6 +2252,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -2281,13 +2261,11 @@
     },
     {
         "name": "The Forceful Sentry",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-045",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.99,
                             "low": 2.28,
@@ -2304,6 +2282,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2311,13 +2291,11 @@
     },
     {
         "name": "The Reliable Guardian",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-044",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.49,
                             "low": 0.54,
@@ -2334,6 +2312,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -2341,13 +2321,11 @@
     },
     {
         "name": "Toll",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-034",
                 "rarity": "Super Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.06,
                             "low": 0.99,
@@ -2364,6 +2342,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -2371,13 +2351,11 @@
     },
     {
         "name": "Toon Mermaid",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-072",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 352.98,
                             "low": 2.5,
@@ -2394,6 +2372,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2401,13 +2381,11 @@
     },
     {
         "name": "Toon Summoned Skull",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-073",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 252.07,
                             "low": 2.7,
@@ -2424,6 +2402,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2431,13 +2411,11 @@
     },
     {
         "name": "Toon World",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-076",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 203.98,
                             "low": 1.6,
@@ -2454,6 +2432,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -2461,13 +2441,11 @@
     },
     {
         "name": "Turtle Oath",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-066",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.57,
                             "low": 0.56,
@@ -2484,6 +2462,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Ritual",
         "family": null,
@@ -2491,13 +2471,11 @@
     },
     {
         "name": "Twin Long Rods 2",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-057",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.74,
                             "low": 0.57,
@@ -2514,6 +2492,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2521,13 +2501,11 @@
     },
     {
         "name": "Tyhone 2",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-017",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.5,
                             "low": 0.47,
@@ -2544,6 +2522,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2551,13 +2531,11 @@
     },
     {
         "name": "UFO Turtle",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-081",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.52,
                             "low": 0.54,
@@ -2574,6 +2552,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2581,13 +2561,11 @@
     },
     {
         "name": "Umiiruka",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-097",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.89,
                             "low": 0.74,
@@ -2604,6 +2582,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -2611,13 +2591,11 @@
     },
     {
         "name": "Upstart Goblin",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-033",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.1,
                             "low": 2.36,
@@ -2634,6 +2612,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2641,13 +2621,11 @@
     },
     {
         "name": "Wall Shadow",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-056",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.46,
                             "low": 0.49,
@@ -2664,6 +2642,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2671,13 +2651,11 @@
     },
     {
         "name": "Weather Report",
+        "numbers": [
+            {
                 "name": "Magic Ruler",
                 "print_tag": "MRL-020",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 10.61,
                             "low": 0.39,
@@ -2694,6 +2672,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",

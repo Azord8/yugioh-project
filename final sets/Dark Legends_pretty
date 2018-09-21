@@ -4,26 +4,6 @@
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN098",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
-                        "prices": {
-                            "high": 6.59,
-                            "low": 0.93,
-                            "average": 1.74,
-                            "shift": -0.0279329608938547,
-                            "shift_3": -0.0279329608938547,
-                            "shift_7": -0.0279329608938547,
-                            "shift_21": -0.0491803278688525,
-                            "shift_30": -0.0543478260869565,
-                            "shift_90": 0.00578034682080925,
-                            "shift_180": -0.0491803278688525,
-                            "shift_365": -0.116751269035533,
-                            "updated_at": "2018-09-19 12:20:55 -0600"
-                        }
-                    }
-                }
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -31,13 +11,11 @@
     },
     {
         "name": "Ancient Lamp",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN105",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.84,
                             "low": 0.49,
@@ -54,6 +32,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -61,13 +41,11 @@
     },
     {
         "name": "Armed Ninja",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN014",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.0,
                             "low": 0.99,
@@ -84,6 +62,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -91,13 +71,11 @@
     },
     {
         "name": "Axe of Despair",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN052",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.99,
                             "low": 0.99,
@@ -114,6 +92,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -121,13 +101,11 @@
     },
     {
         "name": "B. Skull Dragon",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN029",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 15.06,
                             "low": 2.5,
@@ -144,6 +122,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -151,13 +131,11 @@
     },
     {
         "name": "Baby Dragon",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN035",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.79,
                             "low": 0.5,
@@ -174,6 +152,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -181,13 +161,11 @@
     },
     {
         "name": "Barrel Dragon",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN045",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.16,
                             "low": 0.99,
@@ -204,6 +182,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -211,13 +191,11 @@
     },
     {
         "name": "Black Illusion Ritual",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN061",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.58,
                             "low": 0.99,
@@ -234,6 +212,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Ritual",
         "family": null,
@@ -241,13 +221,11 @@
     },
     {
         "name": "Black Pendant",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN053",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.33,
                             "low": 0.39,
@@ -264,6 +242,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -271,13 +251,11 @@
     },
     {
         "name": "Blast Sphere",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN092",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.22,
                             "low": 3.21,
@@ -294,6 +272,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -301,13 +281,11 @@
     },
     {
         "name": "Blizzard Dragon",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN101",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.24,
                             "low": 1.34,
@@ -324,6 +302,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -331,13 +311,11 @@
     },
     {
         "name": "Blue-Eyes Toon Dragon",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN051",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.99,
                             "low": 1.79,
@@ -354,6 +332,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -361,13 +341,11 @@
     },
     {
         "name": "Blue-Eyes Ultimate Dragon",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN001",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 10.99,
                             "low": 5.68,
@@ -384,6 +362,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -391,13 +371,11 @@
     },
     {
         "name": "Blue-Eyes White Dragon",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN002",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.24,
                             "low": 3.19,
@@ -414,6 +392,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -421,13 +401,11 @@
     },
     {
         "name": "Cannon Soldier",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN042",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.22,
                             "low": 0.3,
@@ -444,6 +422,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -451,13 +431,11 @@
     },
     {
         "name": "Card Destruction",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN085",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 39.97,
                             "low": 14.5,
@@ -474,6 +452,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -481,13 +461,11 @@
     },
     {
         "name": "Card Trooper",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN107",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 10.05,
                             "low": 1.0,
@@ -504,6 +482,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -511,13 +491,11 @@
     },
     {
         "name": "Catapult Turtle",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN039",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.62,
                             "low": 0.63,
@@ -534,6 +512,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -541,13 +521,11 @@
     },
     {
         "name": "Cloning",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN095",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.88,
                             "low": 1.0,
@@ -564,6 +542,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -571,13 +551,11 @@
     },
     {
         "name": "Copycat",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN093",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.96,
                             "low": 2.4,
@@ -594,6 +572,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -601,13 +581,11 @@
     },
     {
         "name": "Curse of Dragon",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN010",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.55,
                             "low": 0.3,
@@ -624,6 +602,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -631,13 +611,11 @@
     },
     {
         "name": "Cyber Harpie Lady",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN097",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.39,
                             "low": 5.95,
@@ -654,6 +632,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -661,13 +641,11 @@
     },
     {
         "name": "Dark Bribe",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN106",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.99,
                             "low": 9.99,
@@ -684,6 +662,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -691,13 +671,11 @@
     },
     {
         "name": "Dark Magician",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN004",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.39,
                             "low": 1.58,
@@ -714,6 +692,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -721,13 +701,11 @@
     },
     {
         "name": "Des Mosquito",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN103",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.72,
                             "low": 0.99,
@@ -744,6 +722,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -751,13 +731,11 @@
     },
     {
         "name": "Destiny Draw",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN109",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.73,
                             "low": 1.81,
@@ -774,6 +752,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -781,13 +761,11 @@
     },
     {
         "name": "Destiny HERO - Malicious",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN108",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.52,
                             "low": 7.19,
@@ -804,6 +782,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -811,13 +791,11 @@
     },
     {
         "name": "Elegant Egotist",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN030",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.22,
                             "low": 0.54,
@@ -834,6 +812,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -841,13 +821,11 @@
     },
     {
         "name": "Embodiment of Apophis",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN099",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.0,
                             "low": 0.69,
@@ -864,6 +842,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -871,13 +851,11 @@
     },
     {
         "name": "Exchange of the Spirit",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN100",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.57,
                             "low": 1.81,
@@ -894,6 +872,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -901,13 +881,11 @@
     },
     {
         "name": "Exodia the Forbidden One",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN022",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 32.44,
                             "low": 8.02,
@@ -924,6 +902,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -931,13 +911,11 @@
     },
     {
         "name": "Fissure",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN007",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.73,
                             "low": 0.78,
@@ -954,6 +932,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -961,13 +941,11 @@
     },
     {
         "name": "Flame Swordsman",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN003",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.22,
                             "low": 0.99,
@@ -984,6 +962,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -991,13 +971,11 @@
     },
     {
         "name": "Flying Kamakiri 1",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN075",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.65,
@@ -1014,6 +992,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1021,13 +1001,11 @@
     },
     {
         "name": "Gaia Power",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN078",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.33,
                             "low": 0.35,
@@ -1044,6 +1022,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -1051,13 +1031,11 @@
     },
     {
         "name": "Gaia The Fierce Knight",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN005",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.75,
                             "low": 0.74,
@@ -1074,6 +1052,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1081,13 +1061,11 @@
     },
     {
         "name": "Gaia the Dragon Champion",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN023",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.95,
                             "low": 1.9,
@@ -1104,6 +1082,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1111,13 +1091,11 @@
     },
     {
         "name": "Gate Guardian",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN024",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 24.99,
                             "low": 7.32,
@@ -1134,6 +1112,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1141,13 +1121,11 @@
     },
     {
         "name": "Gazelle the King of Mythical Beasts",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN044",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.33,
                             "low": 0.35,
@@ -1164,6 +1142,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1171,13 +1151,11 @@
     },
     {
         "name": "Gellenduo",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN112",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 22.95,
                             "low": 3.99,
@@ -1194,6 +1172,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1201,13 +1181,11 @@
     },
     {
         "name": "Giant Germ",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN071",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.49,
                             "low": 3.99,
@@ -1224,6 +1202,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1231,13 +1211,11 @@
     },
     {
         "name": "Giant Rat",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN068",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.33,
                             "low": 0.51,
@@ -1254,6 +1232,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1261,13 +1241,11 @@
     },
     {
         "name": "Giant Soldier of Stone",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN011",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.22,
                             "low": 0.39,
@@ -1284,6 +1262,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1291,13 +1271,11 @@
     },
     {
         "name": "Giant Trunade",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN059",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.22,
                             "low": 0.48,
@@ -1314,6 +1292,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1321,13 +1301,11 @@
     },
     {
         "name": "Gorz the Emissary of Darkness",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN000",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.63,
                             "low": 1.39,
@@ -1344,6 +1322,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1351,13 +1331,11 @@
     },
     {
         "name": "Graceful Charity",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN089",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 16.99,
                             "low": 6.76,
@@ -1374,6 +1352,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1381,13 +1361,11 @@
     },
     {
         "name": "Gravekeeper's Servant",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN056",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.49,
                             "low": 1.58,
@@ -1404,6 +1382,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -1411,13 +1391,11 @@
     },
     {
         "name": "Green Baboon, Defender of the Forest",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN104",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 1.2,
@@ -1434,6 +1412,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1441,13 +1421,11 @@
     },
     {
         "name": "Hane-Hane",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN016",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.33,
                             "low": 0.3,
@@ -1464,6 +1442,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1471,13 +1451,11 @@
     },
     {
         "name": "Harpie Lady",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN026",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.27,
                             "low": 0.3,
@@ -1494,6 +1472,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1501,13 +1481,11 @@
     },
     {
         "name": "Harpie Lady Sisters",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN027",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.5,
@@ -1524,6 +1502,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1531,13 +1511,11 @@
     },
     {
         "name": "Heavy Storm",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN049",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.2,
                             "low": 0.99,
@@ -1554,6 +1532,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1561,13 +1541,11 @@
     },
     {
         "name": "Hyozanryu",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN066",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.22,
                             "low": 0.3,
@@ -1584,6 +1562,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1591,13 +1571,11 @@
     },
     {
         "name": "Jirai Gumo",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN040",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.33,
                             "low": 0.35,
@@ -1614,6 +1592,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1621,13 +1601,11 @@
     },
     {
         "name": "Kaibaman",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN096",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.0,
                             "low": 0.59,
@@ -1644,6 +1622,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1651,13 +1631,11 @@
     },
     {
         "name": "Kazejin",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN032",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.93,
                             "low": 1.61,
@@ -1674,6 +1652,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1681,13 +1661,11 @@
     },
     {
         "name": "Kuriboh",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN038",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.49,
                             "low": 0.35,
@@ -1704,6 +1682,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1711,13 +1691,11 @@
     },
     {
         "name": "La Jinn the Mystical Genie of the Lamp",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN086",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.33,
                             "low": 0.49,
@@ -1734,6 +1712,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1741,13 +1721,11 @@
     },
     {
         "name": "Left Arm of the Forbidden One",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN021",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.35,
                             "low": 2.06,
@@ -1764,6 +1742,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1771,13 +1751,11 @@
     },
     {
         "name": "Left Leg of the Forbidden One",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN019",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.74,
                             "low": 2.08,
@@ -1794,6 +1772,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1801,13 +1781,11 @@
     },
     {
         "name": "Lord of D.",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN087",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.79,
                             "low": 1.31,
@@ -1824,6 +1802,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1831,13 +1811,11 @@
     },
     {
         "name": "Luminous Spark",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN082",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.0,
                             "low": 0.35,
@@ -1854,6 +1832,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -1861,13 +1841,11 @@
     },
     {
         "name": "Magic Jammer",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN047",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.77,
                             "low": 0.35,
@@ -1884,6 +1862,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -1891,13 +1871,11 @@
     },
     {
         "name": "Magician of Faith",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN034",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.83,
                             "low": 1.5,
@@ -1914,6 +1892,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1921,13 +1901,11 @@
     },
     {
         "name": "Maha Vailo",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN054",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.33,
                             "low": 0.3,
@@ -1944,6 +1922,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1951,13 +1931,11 @@
     },
     {
         "name": "Man-Eater Bug",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN015",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.29,
                             "low": 0.59,
@@ -1974,6 +1952,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1981,13 +1961,11 @@
     },
     {
         "name": "Manga Ryu-Ran",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN063",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.25,
                             "low": 0.49,
@@ -2004,6 +1982,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2011,13 +1991,11 @@
     },
     {
         "name": "Mask of Darkness",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN028",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 1.49,
@@ -2034,6 +2012,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2041,13 +2021,11 @@
     },
     {
         "name": "Megamorph",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN062",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.49,
                             "low": 0.39,
@@ -2064,6 +2042,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -2071,13 +2051,11 @@
     },
     {
         "name": "Meltiel, Sage of the Sky",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN110",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 16.94,
                             "low": 6.0,
@@ -2094,6 +2072,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2101,13 +2081,11 @@
     },
     {
         "name": "Messenger of Peace",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN083",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.59,
                             "low": 1.25,
@@ -2124,6 +2102,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -2131,13 +2111,11 @@
     },
     {
         "name": "Metal Shooter",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN102",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.3,
                             "low": 0.49,
@@ -2154,6 +2132,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2161,13 +2141,11 @@
     },
     {
         "name": "Molten Destruction",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN080",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.99,
                             "low": 0.35,
@@ -2184,6 +2162,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -2191,13 +2171,11 @@
     },
     {
         "name": "Monster Reborn",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN017",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 23.67,
                             "low": 5.99,
@@ -2214,6 +2192,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2221,13 +2201,11 @@
     },
     {
         "name": "Mother Grizzly",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN074",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.24,
                             "low": 0.3,
@@ -2244,6 +2222,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2251,13 +2231,11 @@
     },
     {
         "name": "Mystic Tomato",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN077",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.59,
                             "low": 0.39,
@@ -2274,6 +2252,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2281,13 +2261,11 @@
     },
     {
         "name": "Mystical Space Typhoon",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN058",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.92,
                             "low": 0.35,
@@ -2304,6 +2282,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -2311,13 +2291,11 @@
     },
     {
         "name": "Nimble Momonga",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN072",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.14,
                             "low": 1.95,
@@ -2334,6 +2312,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2341,13 +2321,11 @@
     },
     {
         "name": "Nova Summoner",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN111",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.48,
                             "low": 2.24,
@@ -2364,6 +2342,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2371,13 +2351,11 @@
     },
     {
         "name": "Painful Choice",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN060",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.99,
                             "low": 1.49,
@@ -2394,6 +2372,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2401,13 +2381,11 @@
     },
     {
         "name": "Penguin Soldier",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN090",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.65,
                             "low": 0.39,
@@ -2424,6 +2402,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2431,13 +2411,11 @@
     },
     {
         "name": "Polymerization",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN009",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 10.0,
                             "low": 2.4,
@@ -2454,6 +2432,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2461,13 +2441,11 @@
     },
     {
         "name": "Raigeki",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN006",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 47.72,
                             "low": 15.99,
@@ -2484,6 +2462,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2491,13 +2471,11 @@
     },
     {
         "name": "Red-Eyes B. Dragon",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN012",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.04,
                             "low": 4.52,
@@ -2514,6 +2492,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2521,13 +2501,11 @@
     },
     {
         "name": "Relieve Monster",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN094",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.99,
                             "low": 1.85,
@@ -2544,6 +2522,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2551,13 +2531,11 @@
     },
     {
         "name": "Relinquished",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN055",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.04,
                             "low": 1.9,
@@ -2574,6 +2552,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2581,13 +2561,11 @@
     },
     {
         "name": "Right Arm of the Forbidden One",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN020",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.74,
                             "low": 1.75,
@@ -2604,6 +2582,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2611,13 +2591,11 @@
     },
     {
         "name": "Right Leg of the Forbidden One",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN018",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.74,
                             "low": 2.13,
@@ -2634,6 +2612,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2641,13 +2621,11 @@
     },
     {
         "name": "Rising Air Current",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN081",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.21,
                             "low": 0.35,
@@ -2664,6 +2642,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -2671,13 +2651,11 @@
     },
     {
         "name": "Sanga of the Thunder",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN031",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.25,
                             "low": 2.06,
@@ -2694,6 +2672,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2701,13 +2681,11 @@
     },
     {
         "name": "Sangan",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN037",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 12.69,
                             "low": 5.0,
@@ -2724,6 +2702,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2731,13 +2711,11 @@
     },
     {
         "name": "Scapegoat",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN091",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 17.82,
                             "low": 7.05,
@@ -2754,6 +2732,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -2761,13 +2741,11 @@
     },
     {
         "name": "Senju of the Thousand Hands",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN069",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.99,
                             "low": 1.0,
@@ -2784,6 +2762,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2791,13 +2771,11 @@
     },
     {
         "name": "Seven Tools of the Bandit",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN048",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.47,
                             "low": 0.49,
@@ -2814,6 +2792,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -2821,13 +2801,11 @@
     },
     {
         "name": "Shining Angel",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN073",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.31,
                             "low": 0.99,
@@ -2844,6 +2822,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2851,13 +2831,11 @@
     },
     {
         "name": "Solemn Judgment",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN046",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 22.34,
                             "low": 3.42,
@@ -2874,6 +2852,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -2881,13 +2861,11 @@
     },
     {
         "name": "Sonic Bird",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN076",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.68,
                             "low": 0.49,
@@ -2904,6 +2882,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -2911,13 +2891,11 @@
     },
     {
         "name": "Suijin",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN033",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.97,
                             "low": 1.0,
@@ -2934,6 +2912,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2941,13 +2921,11 @@
     },
     {
         "name": "Summoned Skull",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN025",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.99,
                             "low": 0.84,
@@ -2964,6 +2942,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2971,13 +2951,11 @@
     },
     {
         "name": "Swords of Revealing Light",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN013",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.73,
                             "low": 0.69,
@@ -2994,6 +2972,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -3001,13 +2981,11 @@
     },
     {
         "name": "The Flute of Summoning Dragon",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN088",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.81,
                             "low": 0.39,
@@ -3024,6 +3002,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -3031,13 +3011,11 @@
     },
     {
         "name": "Thousand Dragon",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN050",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.95,
                             "low": 0.99,
@@ -3054,6 +3032,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -3061,13 +3041,11 @@
     },
     {
         "name": "Thunder Dragon",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN041",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.46,
                             "low": 2.25,
@@ -3084,6 +3062,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -3091,13 +3071,11 @@
     },
     {
         "name": "Time Wizard",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN036",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.24,
                             "low": 1.5,
@@ -3114,6 +3092,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -3121,13 +3101,11 @@
     },
     {
         "name": "Toon Mermaid",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN064",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.99,
                             "low": 1.59,
@@ -3144,6 +3122,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -3151,13 +3131,11 @@
     },
     {
         "name": "Toon Summoned Skull",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN065",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.77,
                             "low": 0.5,
@@ -3174,6 +3152,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -3181,13 +3161,11 @@
     },
     {
         "name": "Toon World",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN067",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.75,
                             "low": 0.49,
@@ -3204,6 +3182,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -3211,13 +3191,11 @@
     },
     {
         "name": "Trap Hole",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN008",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.27,
                             "low": 0.39,
@@ -3234,6 +3212,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -3241,13 +3221,11 @@
     },
     {
         "name": "Twin-Headed Thunder Dragon",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN043",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.33,
                             "low": 0.39,
@@ -3264,6 +3242,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -3271,13 +3251,11 @@
     },
     {
         "name": "UFO Turtle",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN070",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.33,
                             "low": 0.35,
@@ -3294,6 +3272,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -3301,13 +3281,11 @@
     },
     {
         "name": "Umiiruka",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN079",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.55,
                             "low": 0.39,
@@ -3324,6 +3302,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -3331,13 +3311,11 @@
     },
     {
         "name": "Upstart Goblin",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN057",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.99,
                             "low": 2.5,
@@ -3354,6 +3332,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -3361,13 +3341,11 @@
     },
     {
         "name": "Wall of Illusion",
+        "numbers": [
+            {
                 "name": "Dark Legends",
                 "print_tag": "DLG1-EN084",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.32,
                             "low": 0.99,
@@ -3384,6 +3362,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",

@@ -4,26 +4,6 @@
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN054",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
-                        "prices": {
-                            "high": 1.86,
-                            "low": 0.59,
-                            "average": 1.25,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": -0.015748031496063,
-                            "shift_180": -0.0740740740740741,
-                            "shift_365": -0.149659863945578,
-                            "updated_at": "2018-09-21 00:10:42 -0600"
-                        }
-                    }
-                }
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -31,13 +11,11 @@
     },
     {
         "name": "Adhesive Explosive",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN131",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.88,
                             "low": 0.49,
@@ -54,6 +32,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -61,13 +41,11 @@
     },
     {
         "name": "Ancient Gear (card)",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN128",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.71,
                             "low": 0.3,
@@ -84,6 +62,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -91,13 +71,11 @@
     },
     {
         "name": "Ancient Gear Cannon",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN129",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.51,
                             "low": 0.3,
@@ -114,6 +92,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -121,13 +101,11 @@
     },
     {
         "name": "Ancient Gear Castle",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN167",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.97,
                             "low": 3.29,
@@ -144,6 +122,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -151,28 +131,23 @@
     },
     {
         "name": "Ancient Gear Drill",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN160",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Ancient Gear Factory",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN159",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 1.21,
@@ -189,6 +164,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -196,28 +173,23 @@
     },
     {
         "name": "Anteatereatingant",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN142",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
         "type": "Insect / Effect"
     },
+    {
         "name": "Armed Changer",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN105",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.35,
@@ -234,6 +206,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -241,13 +215,11 @@
     },
     {
         "name": "Attack Reflector Unit",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN171",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.99,
                             "low": 1.99,
@@ -264,6 +236,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -271,13 +245,11 @@
     },
     {
         "name": "Avalanching Aussa",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN206",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.5,
                             "low": 0.39,
@@ -294,6 +266,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -301,28 +275,23 @@
     },
     {
         "name": "B.E.S. Covered Core",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN133",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
         "type": "Machine / Effect"
     },
+    {
         "name": "B.E.S. Crystal Core",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN021",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.98,
                             "low": 0.79,
@@ -339,6 +308,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -346,13 +317,11 @@
     },
     {
         "name": "B.E.S. Tetran",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN077",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 12.49,
                             "low": 7.57,
@@ -369,6 +338,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -376,13 +347,11 @@
     },
     {
         "name": "Banisher of the Radiance",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN202",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 39.99,
                             "low": 13.43,
@@ -399,6 +368,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -406,13 +377,11 @@
     },
     {
         "name": "Batteryman C",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN030",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.91,
                             "low": 0.49,
@@ -429,6 +398,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -436,13 +407,11 @@
     },
     {
         "name": "Batteryman D",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN210",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.47,
                             "low": 1.09,
@@ -459,6 +428,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -466,13 +437,11 @@
     },
     {
         "name": "Beelze Frog",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN146",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.35,
@@ -489,6 +458,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -496,13 +467,11 @@
     },
     {
         "name": "Beiige, Vanguard of Dark World",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN080",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.99,
                             "low": 1.99,
@@ -519,6 +488,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -526,13 +497,11 @@
     },
     {
         "name": "Blade Skater",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN063",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.99,
@@ -549,6 +518,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -556,13 +527,11 @@
     },
     {
         "name": "Blazing Hiita",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN208",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.13,
                             "low": 0.49,
@@ -579,6 +548,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -586,13 +557,11 @@
     },
     {
         "name": "Bonding - H2O",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN103",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.96,
                             "low": 0.49,
@@ -609,6 +578,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -616,13 +587,11 @@
     },
     {
         "name": "Boss Rush",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN107",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.99,
                             "low": 0.49,
@@ -639,6 +608,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -646,13 +617,11 @@
     },
     {
         "name": "Bountiful Artemis",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN200",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 124.99,
                             "low": 39.95,
@@ -669,6 +638,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -676,13 +647,11 @@
     },
     {
         "name": "Branch!",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN106",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.35,
@@ -699,6 +668,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -706,13 +677,11 @@
     },
     {
         "name": "Broww, Huntsman of Dark World",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN081",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 13.8,
                             "low": 11.99,
@@ -729,6 +698,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -736,13 +707,11 @@
     },
     {
         "name": "Brron, Mad King of Dark World",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN082",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.99,
                             "low": 4.21,
@@ -759,6 +728,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -766,13 +737,11 @@
     },
     {
         "name": "Bubble Shuffle",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN046",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.57,
                             "low": 0.35,
@@ -789,6 +758,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -796,13 +767,11 @@
     },
     {
         "name": "Celestial Transformation",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN224",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.97,
                             "low": 14.97,
@@ -819,6 +788,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -826,13 +797,11 @@
     },
     {
         "name": "Chain Thrasher",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN135",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.06,
                             "low": 0.35,
@@ -849,6 +818,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -856,13 +827,11 @@
     },
     {
         "name": "Chainsaw Insect",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN141",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.29,
                             "low": 1.29,
@@ -879,6 +848,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -886,13 +857,11 @@
     },
     {
         "name": "Chthonian Alliance",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN104",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.86,
                             "low": 0.3,
@@ -909,6 +878,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -916,13 +887,11 @@
     },
     {
         "name": "Chthonian Blast",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN110",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.5,
                             "low": 0.3,
@@ -939,6 +908,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -946,13 +917,11 @@
     },
     {
         "name": "Chthonian Polymer",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN117",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.85,
                             "low": 0.3,
@@ -969,6 +938,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -976,13 +947,11 @@
     },
     {
         "name": "Chthonian Soldier",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN070",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.86,
                             "low": 0.39,
@@ -999,6 +968,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1006,28 +977,23 @@
     },
     {
         "name": "Clock Tower Prison",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN228",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
         "type": null
     },
+    {
         "name": "Conscription",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN058",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.3,
@@ -1044,6 +1010,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1051,13 +1019,11 @@
     },
     {
         "name": "Cyber Archfiend",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN019",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.03,
                             "low": 0.35,
@@ -1074,6 +1040,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1081,28 +1049,23 @@
     },
     {
         "name": "Cyber Barrier Dragon",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN126",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
         "type": "Machine / Effect"
     },
+    {
         "name": "Cyber Blader",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN092",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.99,
                             "low": 4.97,
@@ -1119,6 +1082,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1126,13 +1091,11 @@
     },
     {
         "name": "Cyber Dragon",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN015",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 77.64,
                             "low": 41.07,
@@ -1149,6 +1112,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1156,13 +1121,11 @@
     },
     {
         "name": "Cyber End Dragon",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN036",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 39.98,
                             "low": 39.98,
@@ -1179,6 +1142,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1186,13 +1151,11 @@
     },
     {
         "name": "Cyber Gymnast",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN186",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.13,
                             "low": 4.13,
@@ -1209,6 +1172,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1216,13 +1181,11 @@
     },
     {
         "name": "Cyber Kirin",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN188",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 0.49,
                             "low": 0.49,
@@ -1239,20 +1202,6 @@
                         }
                     }
                 }
-        "card_type": "monster",
-        "property": null,
-        "family": "light",
-        "type": "Machine / Effect"
-    },
-    {
-        "name": "Cyber Laser Dragon",
-                "name": "Dark Revelation Volume 4",
-                "print_tag": "DR04-EN127",
-                "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
             }
         ],
         "card_type": "monster",
@@ -1260,14 +1209,25 @@
         "family": "light",
         "type": "Machine / Effect"
     },
+    {
+        "name": "Cyber Laser Dragon",
+        "numbers": [
+            {
+                "name": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN127",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
         "name": "Cyber Phoenix",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN189",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 12.92,
                             "low": 7.25,
@@ -1284,6 +1244,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -1291,13 +1253,11 @@
     },
     {
         "name": "Cyber Prima",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN187",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.61,
                             "low": 1.19,
@@ -1314,6 +1274,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1321,13 +1283,11 @@
     },
     {
         "name": "Cyber Tutu",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN185",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 2.0,
@@ -1344,6 +1304,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1351,13 +1313,11 @@
     },
     {
         "name": "Cyber Twin Dragon",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN035",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 128.27,
                             "low": 5.78,
@@ -1374,6 +1334,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1381,13 +1343,11 @@
     },
     {
         "name": "Cybernetic Cyclopean",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN017",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.33,
                             "low": 0.54,
@@ -1404,6 +1364,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1411,28 +1373,23 @@
     },
     {
         "name": "Cybernetic Magician",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN016",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
         "type": "Spellcaster / Effect"
     },
+    {
         "name": "Cyclone Boomerang",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN162",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.35,
@@ -1449,6 +1406,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -1456,13 +1415,11 @@
     },
     {
         "name": "Cycroid",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN001",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.02,
                             "low": 0.35,
@@ -1479,6 +1436,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1486,13 +1445,11 @@
     },
     {
         "name": "D - Shield",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN234",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.14,
                             "low": 0.3,
@@ -1509,6 +1466,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1516,13 +1475,11 @@
     },
     {
         "name": "D - Time",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN233",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.39,
@@ -1539,6 +1496,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1546,13 +1505,11 @@
     },
     {
         "name": "D.3.S. Frog",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN156",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.86,
                             "low": 0.35,
@@ -1569,6 +1526,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1576,13 +1535,11 @@
     },
     {
         "name": "D.D. Assailant",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN244",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 115.26,
                             "low": 115.26,
@@ -1599,6 +1556,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1606,13 +1565,11 @@
     },
     {
         "name": "D.D. Guide",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN134",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.86,
                             "low": 0.35,
@@ -1629,6 +1586,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1636,13 +1595,11 @@
     },
     {
         "name": "D.D. Trap Hole",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN057",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.57,
                             "low": 0.35,
@@ -1659,6 +1616,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1666,13 +1625,11 @@
     },
     {
         "name": "D.D.M. - Different Dimension Master",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN032",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.51,
                             "low": 1.17,
@@ -1689,6 +1646,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1696,13 +1655,11 @@
     },
     {
         "name": "Damage Condenser",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN172",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.98,
                             "low": 1.5,
@@ -1719,6 +1676,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1726,13 +1685,11 @@
     },
     {
         "name": "Dark Catapulter",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN013",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.86,
                             "low": 0.49,
@@ -1749,6 +1706,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1756,13 +1715,11 @@
     },
     {
         "name": "Dark Deal",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN112",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.98,
                             "low": 2.23,
@@ -1779,6 +1736,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1786,13 +1745,11 @@
     },
     {
         "name": "Dark World Lightning",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN098",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.22,
                             "low": 0.79,
@@ -1809,6 +1766,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1816,13 +1775,11 @@
     },
     {
         "name": "Demise, King of Armageddon",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN155",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 36.49,
                             "low": 21.21,
@@ -1839,6 +1796,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1846,13 +1805,11 @@
     },
     {
         "name": "Des Croaking",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN042",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.53,
                             "low": 1.31,
@@ -1869,6 +1826,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1876,13 +1835,11 @@
     },
     {
         "name": "Des Frog",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN026",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.99,
                             "low": 0.99,
@@ -1899,6 +1856,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1906,13 +1865,11 @@
     },
     {
         "name": "Destiny HERO - Captain Tenacious",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN182",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.92,
                             "low": 0.35,
@@ -1929,6 +1886,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1936,13 +1895,11 @@
     },
     {
         "name": "Destiny HERO - Diamond Dude",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN183",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.37,
                             "low": 7.37,
@@ -1959,6 +1916,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1966,13 +1925,11 @@
     },
     {
         "name": "Destiny HERO - Doom Lord",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN181",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.46,
                             "low": 22.99,
@@ -1989,6 +1946,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1996,13 +1955,11 @@
     },
     {
         "name": "Destiny HERO - Dreadmaster",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN184",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 13.53,
                             "low": 11.49,
@@ -2019,6 +1976,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2026,13 +1985,11 @@
     },
     {
         "name": "Destiny Signal",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN232",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.15,
                             "low": 0.49,
@@ -2049,6 +2006,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2056,13 +2015,11 @@
     },
     {
         "name": "Destruction of Destiny",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN231",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.86,
                             "low": 0.3,
@@ -2079,20 +2036,6 @@
                         }
                     }
                 }
-        "card_type": "trap",
-        "property": "Normal",
-        "family": null,
-        "type": null
-    },
-    {
-        "name": "Dimension Wall",
-                "name": "Dark Revelation Volume 4",
-                "print_tag": "DR04-EN059",
-                "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
             }
         ],
         "card_type": "trap",
@@ -2100,14 +2043,25 @@
         "family": null,
         "type": null
     },
+    {
+        "name": "Dimension Wall",
+        "numbers": [
+            {
+                "name": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN059",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
         "name": "Dimensional Fissure",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN227",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.99,
                             "low": 3.32,
@@ -2124,6 +2078,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -2131,13 +2087,11 @@
     },
     {
         "name": "Disciple of the Forbidden Spell",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN136",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.49,
@@ -2154,6 +2108,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2161,13 +2117,11 @@
     },
     {
         "name": "Divine Dragon - Excelion",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN153",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 10.47,
                             "low": 4.6,
@@ -2184,6 +2138,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2191,13 +2147,11 @@
     },
     {
         "name": "Doitsu",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN025",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.39,
@@ -2214,6 +2168,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2221,13 +2177,11 @@
     },
     {
         "name": "Doom Dozer",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN144",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.84,
                             "low": 3.99,
@@ -2244,6 +2198,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2251,13 +2207,11 @@
     },
     {
         "name": "Dragon's Mirror",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN040",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.95,
                             "low": 15.99,
@@ -2274,6 +2228,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2281,13 +2237,11 @@
     },
     {
         "name": "Drillroid",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN009",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 25.84,
                             "low": 9.99,
@@ -2304,6 +2258,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2311,13 +2267,11 @@
     },
     {
         "name": "E - Emergency Call",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN219",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.99,
                             "low": 1.49,
@@ -2334,6 +2288,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2341,13 +2297,11 @@
     },
     {
         "name": "Ebon Magician Curran",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN031",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.14,
                             "low": 0.49,
@@ -2364,6 +2318,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2371,13 +2327,11 @@
     },
     {
         "name": "Elemental Absorber",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN236",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.39,
@@ -2394,6 +2348,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -2401,13 +2357,11 @@
     },
     {
         "name": "Elemental HERO Bladedge",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN067",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.99,
                             "low": 4.47,
@@ -2424,6 +2378,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2431,13 +2387,11 @@
     },
     {
         "name": "Elemental HERO Bubbleman",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN014",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.19,
                             "low": 1.87,
@@ -2454,6 +2408,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2461,13 +2417,11 @@
     },
     {
         "name": "Elemental HERO Mariner",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN214",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.0,
                             "low": 2.99,
@@ -2484,6 +2438,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2491,13 +2447,11 @@
     },
     {
         "name": "Elemental HERO Necroid Shaman",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN216",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.09,
                             "low": 1.09,
@@ -2514,6 +2468,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2521,13 +2477,11 @@
     },
     {
         "name": "Elemental HERO Neo Bubbleman",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN124",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.6,
                             "low": 2.39,
@@ -2544,6 +2498,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2551,13 +2507,11 @@
     },
     {
         "name": "Elemental HERO Phoenix Enforcer",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN212",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 12.77,
                             "low": 5.86,
@@ -2574,6 +2528,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2581,13 +2537,11 @@
     },
     {
         "name": "Elemental HERO Rampart Blaster",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN093",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.99,
                             "low": 3.69,
@@ -2604,6 +2558,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2611,13 +2567,11 @@
     },
     {
         "name": "Elemental HERO Shining Flare Wingman",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN096",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 129.99,
                             "low": 27.99,
@@ -2634,6 +2588,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2641,13 +2597,11 @@
     },
     {
         "name": "Elemental HERO Shining Phoenix Enforcer",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN213",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 24.99,
                             "low": 14.08,
@@ -2664,6 +2618,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2671,28 +2627,23 @@
     },
     {
         "name": "Elemental HERO Tempest",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN094",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
         "type": "Warrior / Fusion"
     },
+    {
         "name": "Elemental HERO Wild Wingman",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN215",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.59,
                             "low": 6.99,
@@ -2709,6 +2660,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2716,13 +2669,11 @@
     },
     {
         "name": "Elemental HERO Wildedge",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN095",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.0,
                             "low": 4.95,
@@ -2739,6 +2690,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2746,13 +2699,11 @@
     },
     {
         "name": "Elemental HERO Wildheart",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN068",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 25.4,
                             "low": 11.99,
@@ -2769,6 +2720,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2776,13 +2729,11 @@
     },
     {
         "name": "Elemental Recharge",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN230",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.31,
                             "low": 0.3,
@@ -2799,6 +2750,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2806,13 +2759,11 @@
     },
     {
         "name": "End of the World",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN166",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.56,
                             "low": 7.56,
@@ -2829,6 +2780,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Ritual",
         "family": null,
@@ -2836,13 +2789,11 @@
     },
     {
         "name": "Etoile Cyber",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN076",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.89,
@@ -2859,6 +2810,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2866,13 +2819,11 @@
     },
     {
         "name": "Exarion Universe",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN243",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 144.99,
                             "low": 119.9,
@@ -2889,6 +2840,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2896,13 +2849,11 @@
     },
     {
         "name": "Familiar-Possessed - Aussa",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN086",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.49,
                             "low": 0.49,
@@ -2919,6 +2870,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2926,13 +2879,11 @@
     },
     {
         "name": "Familiar-Possessed - Eria",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN087",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.99,
                             "low": 2.29,
@@ -2949,6 +2900,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2956,13 +2909,11 @@
     },
     {
         "name": "Familiar-Possessed - Hiita",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN088",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.27,
                             "low": 2.27,
@@ -2979,6 +2930,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2986,13 +2939,11 @@
     },
     {
         "name": "Familiar-Possessed - Wynn",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN089",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.23,
                             "low": 0.49,
@@ -3009,6 +2960,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -3016,13 +2969,11 @@
     },
     {
         "name": "Feather Shot",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN102",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.35,
@@ -3039,6 +2990,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -3046,13 +2999,11 @@
     },
     {
         "name": "Feather Wind",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN118",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.42,
                             "low": 0.35,
@@ -3069,6 +3020,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -3076,13 +3029,11 @@
     },
     {
         "name": "Fire Darts",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN049",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.86,
                             "low": 0.49,
@@ -3099,6 +3050,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -3106,13 +3059,11 @@
     },
     {
         "name": "Forced Back",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN240",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.37,
                             "low": 4.25,
@@ -3129,6 +3080,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -3136,13 +3089,11 @@
     },
     {
         "name": "Full Salvo",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN176",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.86,
                             "low": 0.35,
@@ -3159,6 +3110,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -3166,13 +3119,11 @@
     },
     {
         "name": "Fusion Recovery",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN038",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.93,
                             "low": 1.94,
@@ -3189,6 +3140,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -3196,13 +3149,11 @@
     },
     {
         "name": "Gateway to Dark World",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN108",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.39,
@@ -3219,6 +3170,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -3226,13 +3179,11 @@
     },
     {
         "name": "Generation Shift",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN175",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.83,
                             "low": 0.99,
@@ -3249,6 +3200,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -3256,13 +3209,11 @@
     },
     {
         "name": "Giant Kozaky",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN022",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.37,
                             "low": 0.3,
@@ -3279,6 +3230,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -3286,13 +3239,11 @@
     },
     {
         "name": "Gilford the Lightning",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN242",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 55.0,
                             "low": 54.9,
@@ -3309,6 +3260,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -3316,13 +3269,11 @@
     },
     {
         "name": "Goblin Elite Attack Force",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN020",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.94,
                             "low": 1.49,
@@ -3339,6 +3290,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3346,13 +3299,11 @@
     },
     {
         "name": "Goblin Out of the Frying Pan",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN179",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.49,
@@ -3369,6 +3320,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -3376,13 +3329,11 @@
     },
     {
         "name": "Gokipon",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN139",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.48,
                             "low": 0.49,
@@ -3399,6 +3350,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3406,13 +3359,11 @@
     },
     {
         "name": "Goldd, Wu-Lord of Dark World",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN084",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 11.99,
                             "low": 5.6,
@@ -3429,6 +3380,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -3436,13 +3389,11 @@
     },
     {
         "name": "Grand Convergence",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN226",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.99,
                             "low": 0.39,
@@ -3459,6 +3410,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -3466,13 +3419,11 @@
     },
     {
         "name": "Grass Phantom",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN151",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.44,
                             "low": 0.35,
@@ -3489,6 +3440,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -3496,13 +3449,11 @@
     },
     {
         "name": "Guard Dog",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN204",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.13,
                             "low": 0.49,
@@ -3519,6 +3470,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3526,13 +3479,11 @@
     },
     {
         "name": "Guard Penalty",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN225",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.42,
                             "low": 0.49,
@@ -3549,6 +3500,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -3556,13 +3509,11 @@
     },
     {
         "name": "Gyroid",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN007",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.99,
                             "low": 21.84,
@@ -3579,6 +3530,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -3586,13 +3539,11 @@
     },
     {
         "name": "H - Heated Heart",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN218",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.35,
@@ -3609,6 +3560,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -3616,28 +3569,23 @@
     },
     {
         "name": "Hamon, Lord of Striking Thunder",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN122",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
         "type": "Thunder / Effect"
     },
+    {
         "name": "Harpie's Pet Baby Dragon",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN193",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 10.0,
                             "low": 10.0,
@@ -3654,6 +3602,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -3661,13 +3611,11 @@
     },
     {
         "name": "Herald of Green Light",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN198",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.99,
                             "low": 2.99,
@@ -3684,6 +3632,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -3691,13 +3641,11 @@
     },
     {
         "name": "Herald of Purple Light",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN199",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 0.89,
                             "low": 0.89,
@@ -3714,6 +3662,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -3721,13 +3671,11 @@
     },
     {
         "name": "Hero Barrier",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN109",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.21,
                             "low": 0.49,
@@ -3744,6 +3692,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -3751,13 +3701,11 @@
     },
     {
         "name": "Hero Flash!!",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN222",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.54,
                             "low": 0.3,
@@ -3774,6 +3722,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -3781,13 +3731,11 @@
     },
     {
         "name": "Hero Heart",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN157",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.42,
                             "low": 0.35,
@@ -3804,6 +3752,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -3811,28 +3761,23 @@
     },
     {
         "name": "Hero Kid",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN125",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
         "type": "Warrior / Effect"
     },
+    {
         "name": "Hydrogeddon",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN073",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 199.95,
                             "low": 7.99,
@@ -3849,6 +3794,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -3856,13 +3803,11 @@
     },
     {
         "name": "Icarus Attack",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN235",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 27.99,
                             "low": 14.31,
@@ -3879,6 +3824,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -3886,13 +3833,11 @@
     },
     {
         "name": "Indomitable Fighter Lei Lei",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN023",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.86,
                             "low": 0.35,
@@ -3909,6 +3854,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3916,13 +3863,11 @@
     },
     {
         "name": "Infernal Incinerator",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN072",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.86,
                             "low": 0.35,
@@ -3939,6 +3884,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -3946,13 +3893,11 @@
     },
     {
         "name": "Jack's Knight",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN065",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.31,
                             "low": 1.69,
@@ -3969,6 +3914,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -3976,13 +3923,11 @@
     },
     {
         "name": "Jerry Beans Man",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN004",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.01,
                             "low": 0.69,
@@ -3999,6 +3944,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -4006,13 +3953,11 @@
     },
     {
         "name": "Jetroid",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN011",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.03,
                             "low": 0.35,
@@ -4029,6 +3974,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -4036,13 +3983,11 @@
     },
     {
         "name": "Kaibaman",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN245",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 67.2,
                             "low": 22.99,
@@ -4059,6 +4004,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -4066,13 +4013,11 @@
     },
     {
         "name": "Karma Cut",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN173",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 24.67,
                             "low": 5.73,
@@ -4089,6 +4034,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -4096,13 +4043,11 @@
     },
     {
         "name": "King's Knight",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN066",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.99,
                             "low": 3.62,
@@ -4119,6 +4064,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -4126,13 +4073,11 @@
     },
     {
         "name": "Layard the Liberator",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN201",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.35,
@@ -4149,6 +4094,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -4156,13 +4103,11 @@
     },
     {
         "name": "Level Limit - Area A",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN120",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.21,
                             "low": 0.49,
@@ -4179,6 +4124,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -4186,13 +4133,11 @@
     },
     {
         "name": "Level Modulation",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN099",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 0.49,
                             "low": 0.49,
@@ -4209,6 +4154,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -4216,13 +4163,11 @@
     },
     {
         "name": "Life Equalizer",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN229",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.03,
                             "low": 1.54,
@@ -4239,6 +4184,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -4246,13 +4193,11 @@
     },
     {
         "name": "Machine King Prototype",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN132",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.48,
                             "low": 0.3,
@@ -4269,6 +4214,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -4276,13 +4223,11 @@
     },
     {
         "name": "Macro Cosmos",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN237",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 92.82,
                             "low": 15.0,
@@ -4299,6 +4244,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -4306,13 +4253,11 @@
     },
     {
         "name": "Mad Lobster",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN003",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.44,
                             "low": 0.49,
@@ -4329,6 +4274,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -4336,13 +4283,11 @@
     },
     {
         "name": "Magical Explosion",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN055",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.49,
                             "low": 0.39,
@@ -4359,6 +4304,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -4366,13 +4313,11 @@
     },
     {
         "name": "Magnet Circle LV2",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN158",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.21,
                             "low": 0.49,
@@ -4389,6 +4334,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -4396,13 +4343,11 @@
     },
     {
         "name": "Majestic Mech - Goryu",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN196",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.36,
                             "low": 1.25,
@@ -4419,6 +4364,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -4426,13 +4373,11 @@
     },
     {
         "name": "Majestic Mech - Ohka",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN195",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.05,
                             "low": 2.98,
@@ -4449,6 +4394,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -4456,13 +4403,11 @@
     },
     {
         "name": "Majestic Mech - Senku",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN194",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.86,
                             "low": 0.49,
@@ -4479,6 +4424,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -4486,13 +4433,11 @@
     },
     {
         "name": "Malfunction",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN180",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.5,
                             "low": 0.49,
@@ -4509,6 +4454,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -4516,13 +4463,11 @@
     },
     {
         "name": "Malice Ascendant",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN150",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.99,
                             "low": 0.35,
@@ -4539,6 +4484,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -4546,13 +4493,11 @@
     },
     {
         "name": "Mechanical Hound",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN018",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.55,
                             "low": 0.35,
@@ -4569,6 +4514,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -4576,13 +4523,11 @@
     },
     {
         "name": "Memory Crusher",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN149",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.35,
@@ -4599,6 +4544,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -4606,13 +4553,11 @@
     },
     {
         "name": "Miracle Fusion",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN039",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 49.99,
                             "low": 6.86,
@@ -4629,6 +4574,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -4636,13 +4583,11 @@
     },
     {
         "name": "Miracle Kids",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN170",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.44,
                             "low": 0.35,
@@ -4659,6 +4604,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -4666,13 +4613,11 @@
     },
     {
         "name": "Miraculous Descent",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN238",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 33.99,
                             "low": 33.99,
@@ -4689,6 +4634,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -4696,13 +4643,11 @@
     },
     {
         "name": "Misfortune",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN217",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.49,
@@ -4719,6 +4664,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -4726,13 +4673,11 @@
     },
     {
         "name": "Nanobreaker",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN078",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.86,
                             "low": 0.49,
@@ -4749,6 +4694,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -4756,13 +4703,11 @@
     },
     {
         "name": "Next to be Lost",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN174",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.42,
                             "low": 0.35,
@@ -4779,6 +4724,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -4786,13 +4733,11 @@
     },
     {
         "name": "Non-Fusion Area",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN119",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.97,
                             "low": 0.39,
@@ -4809,6 +4754,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -4816,13 +4763,11 @@
     },
     {
         "name": "O - Oversoul",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN221",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.49,
                             "low": 0.49,
@@ -4839,6 +4784,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -4846,13 +4793,11 @@
     },
     {
         "name": "Ojamagic",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN100",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.99,
                             "low": 1.49,
@@ -4869,6 +4814,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -4876,13 +4823,11 @@
     },
     {
         "name": "Ojamuscle",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN101",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.84,
                             "low": 0.35,
@@ -4899,6 +4844,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -4906,13 +4853,11 @@
     },
     {
         "name": "Option Hunter",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN178",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.14,
                             "low": 0.35,
@@ -4929,6 +4874,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -4936,13 +4883,11 @@
     },
     {
         "name": "Oxygeddon",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN074",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.49,
@@ -4959,6 +4904,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -4966,13 +4913,11 @@
     },
     {
         "name": "Parasitic Ticky",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN138",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.42,
                             "low": 0.35,
@@ -4989,6 +4934,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -4996,13 +4943,11 @@
     },
     {
         "name": "Patroid",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN006",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.57,
                             "low": 0.35,
@@ -5019,6 +4964,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -5026,13 +4973,11 @@
     },
     {
         "name": "Phantasmal Martyrs",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN161",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.49,
@@ -5049,6 +4994,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -5056,13 +5003,11 @@
     },
     {
         "name": "Photon Generator Unit",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN165",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.5,
                             "low": 0.39,
@@ -5079,6 +5024,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -5086,13 +5033,11 @@
     },
     {
         "name": "Poison Draw Frog",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN028",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.19,
                             "low": 1.66,
@@ -5109,6 +5054,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -5116,13 +5063,11 @@
     },
     {
         "name": "Pot of Avarice",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN097",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 43.06,
                             "low": 24.95,
@@ -5139,6 +5084,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -5146,13 +5093,11 @@
     },
     {
         "name": "Pot of Generosity",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN043",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.5,
                             "low": 0.49,
@@ -5169,6 +5114,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -5176,13 +5123,11 @@
     },
     {
         "name": "Power Bond",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN037",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 49.99,
                             "low": 18.0,
@@ -5199,6 +5144,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -5206,13 +5153,11 @@
     },
     {
         "name": "Power Capsule",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN223",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.86,
                             "low": 0.3,
@@ -5229,6 +5174,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -5236,13 +5183,11 @@
     },
     {
         "name": "Prepare to Strike Back",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN060",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.42,
                             "low": 0.35,
@@ -5259,6 +5204,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -5266,13 +5213,11 @@
     },
     {
         "name": "Princess Curran",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN148",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 0.69,
                             "low": 0.69,
@@ -5289,6 +5234,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -5296,13 +5243,11 @@
     },
     {
         "name": "Princess Pikeru",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN147",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 0.89,
                             "low": 0.89,
@@ -5319,6 +5264,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -5326,13 +5273,11 @@
     },
     {
         "name": "Protective Soul Ailin",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN024",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.38,
                             "low": 0.3,
@@ -5349,6 +5294,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -5356,13 +5303,11 @@
     },
     {
         "name": "Proto-Cyber Dragon",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN130",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.23,
                             "low": 8.95,
@@ -5379,6 +5324,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -5386,13 +5333,11 @@
     },
     {
         "name": "Queen's Knight",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN064",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.99,
                             "low": 2.98,
@@ -5409,6 +5354,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -5416,13 +5363,11 @@
     },
     {
         "name": "R - Righteous Justice",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN220",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.35,
@@ -5439,6 +5384,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -5446,13 +5393,11 @@
     },
     {
         "name": "Raging Eria",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN207",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.49,
@@ -5469,6 +5414,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -5476,28 +5423,23 @@
     },
     {
         "name": "Rapid-Fire Magician",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN079",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
         "type": "Spellcaster / Effect"
     },
+    {
         "name": "Raviel, Lord of Phantasms",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN123",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 25.07,
                             "low": 17.99,
@@ -5514,6 +5456,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -5521,13 +5465,11 @@
     },
     {
         "name": "Reborn Zombie",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN069",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.48,
                             "low": 0.35,
@@ -5544,6 +5486,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -5551,13 +5495,11 @@
     },
     {
         "name": "Rising Energy",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN056",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.39,
@@ -5574,6 +5516,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -5581,13 +5525,11 @@
     },
     {
         "name": "Roll Out!",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN116",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.42,
                             "low": 0.35,
@@ -5604,6 +5546,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -5611,13 +5555,11 @@
     },
     {
         "name": "Royal Knight",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN197",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.48,
                             "low": 0.35,
@@ -5634,6 +5576,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -5641,13 +5585,11 @@
     },
     {
         "name": "Ruin, Queen of Oblivion",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN154",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.84,
                             "low": 17.66,
@@ -5664,6 +5606,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -5671,13 +5615,11 @@
     },
     {
         "name": "Saber Beetle",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN143",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.99,
                             "low": 1.79,
@@ -5694,6 +5636,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -5701,13 +5645,11 @@
     },
     {
         "name": "Samsara",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN168",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.92,
                             "low": 0.39,
@@ -5724,6 +5666,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -5731,13 +5675,11 @@
     },
     {
         "name": "Sand Moth",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN152",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.35,
                             "low": 2.35,
@@ -5754,6 +5696,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -5761,13 +5705,11 @@
     },
     {
         "name": "Satellite Cannon",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN241",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 49.99,
                             "low": 34.99,
@@ -5784,6 +5726,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -5791,13 +5735,11 @@
     },
     {
         "name": "Scarr, Scout of Dark World",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN085",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.35,
@@ -5814,6 +5756,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -5821,13 +5765,11 @@
     },
     {
         "name": "Searchlightman",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN190",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.53,
                             "low": 0.35,
@@ -5844,6 +5786,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -5851,13 +5795,11 @@
     },
     {
         "name": "Shattered Axe",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN239",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.5,
                             "low": 0.54,
@@ -5874,6 +5816,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -5881,13 +5825,11 @@
     },
     {
         "name": "Shien's Spy",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN044",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.42,
                             "low": 0.39,
@@ -5904,6 +5846,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -5911,13 +5855,11 @@
     },
     {
         "name": "Silent Insect",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN140",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.49,
                             "low": 0.49,
@@ -5934,6 +5876,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -5941,13 +5885,11 @@
     },
     {
         "name": "Sillva, Warlord of Dark World",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN083",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 40.28,
                             "low": 8.49,
@@ -5964,6 +5906,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -5971,13 +5915,11 @@
     },
     {
         "name": "Simultaneous Loss",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN113",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.44,
                             "low": 0.3,
@@ -5994,6 +5936,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -6001,13 +5945,11 @@
     },
     {
         "name": "Skyscraper",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN048",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.43,
                             "low": 3.59,
@@ -6024,6 +5966,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -6031,13 +5975,11 @@
     },
     {
         "name": "Soitsu",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN002",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.44,
                             "low": 0.35,
@@ -6054,6 +5996,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -6061,13 +6005,11 @@
     },
     {
         "name": "Spark Blaster",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN047",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.3,
@@ -6084,6 +6026,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -6091,13 +6035,11 @@
     },
     {
         "name": "Spiritual Earth Art - Kurogane",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN050",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.49,
                             "low": 0.49,
@@ -6114,6 +6056,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -6121,13 +6065,11 @@
     },
     {
         "name": "Spiritual Fire Art - Kurenai",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN052",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.12,
                             "low": 0.3,
@@ -6144,6 +6086,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -6151,13 +6095,11 @@
     },
     {
         "name": "Spiritual Water Art - Aoi",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN051",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.32,
                             "low": 0.69,
@@ -6174,6 +6116,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -6181,13 +6125,11 @@
     },
     {
         "name": "Spiritual Wind Art - Miyabi",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN053",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.39,
@@ -6204,6 +6146,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -6211,13 +6155,11 @@
     },
     {
         "name": "Steam Gyroid",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN033",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.99,
@@ -6234,6 +6176,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -6241,13 +6185,11 @@
     },
     {
         "name": "Steamroid",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN008",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.37,
                             "low": 6.79,
@@ -6264,6 +6206,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -6271,13 +6215,11 @@
     },
     {
         "name": "Storming Wynn",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN209",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.49,
                             "low": 0.49,
@@ -6294,6 +6236,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -6301,13 +6245,11 @@
     },
     {
         "name": "Success Probability 0%",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN177",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.48,
                             "low": 0.35,
@@ -6324,6 +6266,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -6331,13 +6275,11 @@
     },
     {
         "name": "Super Junior Confrontation",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN169",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.32,
                             "low": 0.35,
@@ -6354,6 +6296,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -6361,13 +6305,11 @@
     },
     {
         "name": "Super-Electromagnetic Voltech Dragon",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN211",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 23.84,
                             "low": 4.1,
@@ -6384,6 +6326,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -6391,13 +6335,11 @@
     },
     {
         "name": "Swift Birdman Joe",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN192",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.86,
                             "low": 0.35,
@@ -6414,6 +6356,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -6421,13 +6365,11 @@
     },
     {
         "name": "Symbol of Heritage",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN163",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.24,
                             "low": 0.39,
@@ -6444,6 +6386,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -6451,13 +6395,11 @@
     },
     {
         "name": "System Down",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN041",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.5,
                             "low": 0.89,
@@ -6474,6 +6416,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -6481,13 +6425,11 @@
     },
     {
         "name": "T.A.D.P.O.L.E.",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN027",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.31,
                             "low": 1.49,
@@ -6504,6 +6446,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -6511,13 +6455,11 @@
     },
     {
         "name": "Tenkabito Shien",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN137",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.49,
                             "low": 6.49,
@@ -6534,6 +6476,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -6541,13 +6485,11 @@
     },
     {
         "name": "The Forces of Darkness",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN111",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.35,
@@ -6564,6 +6506,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -6571,13 +6515,11 @@
     },
     {
         "name": "The League of Uniform Nomenclature",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN115",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.99,
                             "low": 0.49,
@@ -6594,6 +6536,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -6601,13 +6545,11 @@
     },
     {
         "name": "Transcendent Wings",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN045",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.35,
                             "low": 0.49,
@@ -6624,6 +6566,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -6631,13 +6575,11 @@
     },
     {
         "name": "Treeborn Frog",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN145",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.99,
                             "low": 12.75,
@@ -6654,6 +6596,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -6661,13 +6605,11 @@
     },
     {
         "name": "Trial of the Princesses",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN164",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.03,
                             "low": 0.35,
@@ -6684,6 +6626,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -6691,13 +6635,11 @@
     },
     {
         "name": "Tyranno Infinity",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN029",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 74.97,
                             "low": 74.97,
@@ -6714,6 +6656,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -6721,13 +6665,11 @@
     },
     {
         "name": "UFOroid",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN010",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.25,
                             "low": 0.49,
@@ -6744,6 +6686,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -6751,13 +6695,11 @@
     },
     {
         "name": "UFOroid Fighter",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN034",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.0,
                             "low": 5.0,
@@ -6774,6 +6716,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -6781,13 +6725,11 @@
     },
     {
         "name": "Uria, Lord of Searing Flames",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN121",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 47.99,
                             "low": 47.99,
@@ -6804,6 +6746,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -6811,13 +6755,11 @@
     },
     {
         "name": "V-Tiger Jet",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN062",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.29,
                             "low": 1.49,
@@ -6834,6 +6776,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -6841,13 +6785,11 @@
     },
     {
         "name": "VW-Tiger Catapult",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN090",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.7,
                             "low": 0.49,
@@ -6864,6 +6806,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -6871,13 +6815,11 @@
     },
     {
         "name": "VWXYZ-Dragon Catapult Cannon",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN091",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.2,
                             "low": 3.2,
@@ -6894,6 +6836,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -6901,13 +6845,11 @@
     },
     {
         "name": "Victory Viper XX03",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN191",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.99,
                             "low": 29.99,
@@ -6924,6 +6866,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -6931,13 +6875,11 @@
     },
     {
         "name": "Voltanis the Adjudicator",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN203",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.84,
                             "low": 4.97,
@@ -6954,6 +6896,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -6961,13 +6905,11 @@
     },
     {
         "name": "W-Wing Catapult",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN071",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.47,
                             "low": 0.49,
@@ -6984,6 +6926,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -6991,13 +6935,11 @@
     },
     {
         "name": "Water Dragon",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN075",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.19,
                             "low": 2.79,
@@ -7014,6 +6956,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -7021,13 +6965,11 @@
     },
     {
         "name": "Weed Out",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN114",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.5,
                             "low": 0.35,
@@ -7044,6 +6986,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -7051,13 +6995,11 @@
     },
     {
         "name": "Whirlwind Weasel",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN205",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.99,
@@ -7074,6 +7016,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -7081,13 +7025,11 @@
     },
     {
         "name": "Winged Kuriboh LV10",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN005",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 23.95,
                             "low": 12.99,
@@ -7104,6 +7046,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -7111,13 +7055,11 @@
     },
     {
         "name": "Wroughtweiler",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN012",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.28,
                             "low": 0.49,
@@ -7134,6 +7076,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -7141,13 +7085,11 @@
     },
     {
         "name": "Zure, Knight of Dark World",
+        "numbers": [
+            {
                 "name": "Dark Revelation Volume 4",
                 "print_tag": "DR04-EN061",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.44,
                             "low": 0.3,
@@ -7164,6 +7106,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",

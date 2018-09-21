@@ -4,26 +4,6 @@
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN062",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
-                        "prices": {
-                            "high": 5.06,
-                            "low": 0.99,
-                            "average": 0.86,
-                            "shift": -0.0114942528735632,
-                            "shift_3": 0.0117647058823529,
-                            "shift_7": -0.0114942528735632,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": 0.036144578313253,
-                            "shift_180": -0.0337078651685393,
-                            "shift_365": -0.514124293785311,
-                            "updated_at": "2018-09-18 20:43:44 -0600"
-                        }
-                    }
-                }
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -31,13 +11,11 @@
     },
     {
         "name": "Alien Hypno",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN035",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.06,
                             "low": 0.65,
@@ -54,6 +32,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -61,13 +41,11 @@
     },
     {
         "name": "Alien Telepath",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN034",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.15,
                             "low": 4.27,
@@ -84,6 +62,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -91,13 +71,11 @@
     },
     {
         "name": "An Unfortunate Report",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN080",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.24,
                             "low": 0.3,
@@ -114,6 +92,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -121,13 +101,11 @@
     },
     {
         "name": "Ancient Gear Knight",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN029",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.42,
                             "low": 0.77,
@@ -144,6 +122,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -151,13 +131,11 @@
     },
     {
         "name": "Cell Explosion Virus",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN076",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.98,
                             "low": 0.99,
@@ -174,6 +152,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -181,13 +161,11 @@
     },
     {
         "name": "Chamberlain of the Six Samurai",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN001",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.78,
                             "low": 0.65,
@@ -204,6 +182,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -211,13 +191,11 @@
     },
     {
         "name": "Cloudian - Acid Cloud",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN010",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.98,
                             "low": 1.24,
@@ -234,6 +212,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -241,13 +221,11 @@
     },
     {
         "name": "Cloudian - Altus",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN012",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.35,
                             "low": 0.59,
@@ -264,6 +242,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -271,13 +251,11 @@
     },
     {
         "name": "Cloudian - Cirrostratus",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN011",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.93,
                             "low": 2.95,
@@ -294,6 +272,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -301,13 +281,11 @@
     },
     {
         "name": "Cloudian - Eye of the Typhoon",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN005",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 43.38,
                             "low": 1.04,
@@ -324,6 +302,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -331,13 +311,11 @@
     },
     {
         "name": "Cloudian - Eye of the Typhoon",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN005",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 28.73,
                             "low": 3.0,
@@ -354,6 +332,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -361,13 +341,11 @@
     },
     {
         "name": "Cloudian - Ghost Fog",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN006",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.17,
                             "low": 0.35,
@@ -384,6 +362,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -391,13 +371,11 @@
     },
     {
         "name": "Cloudian - Nimbusman",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN007",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.2,
                             "low": 0.3,
@@ -414,6 +392,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -421,13 +401,11 @@
     },
     {
         "name": "Cloudian - Poison Cloud",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN009",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.14,
                             "low": 0.65,
@@ -444,6 +422,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -451,13 +431,11 @@
     },
     {
         "name": "Cloudian - Sheep Cloud",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN008",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.49,
                             "low": 0.99,
@@ -474,6 +452,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -481,13 +461,11 @@
     },
     {
         "name": "Cloudian - Sheep Cloud",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN008",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.99,
                             "low": 2.12,
@@ -504,6 +482,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -511,13 +491,11 @@
     },
     {
         "name": "Cloudian - Smoke Ball",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN002",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.92,
                             "low": 0.54,
@@ -534,6 +512,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -541,13 +521,11 @@
     },
     {
         "name": "Cloudian - Turbulence",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN013",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.57,
@@ -564,6 +542,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -571,13 +551,11 @@
     },
     {
         "name": "Cloudian Squall",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN052",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.83,
                             "low": 0.78,
@@ -594,6 +572,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -601,13 +581,11 @@
     },
     {
         "name": "Colosseum - Cage of the Gladiator Beasts",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN054",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 11.91,
                             "low": 4.99,
@@ -624,6 +602,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -631,13 +611,11 @@
     },
     {
         "name": "Contact Out",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN045",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.92,
                             "low": 4.99,
@@ -654,6 +632,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -661,13 +641,11 @@
     },
     {
         "name": "Cunning of the Six Samurai",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN061",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 15.45,
                             "low": 0.99,
@@ -684,6 +662,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -691,13 +671,11 @@
     },
     {
         "name": "Cunning of the Six Samurai",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN061",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 34.21,
                             "low": 7.05,
@@ -714,6 +692,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -721,13 +701,11 @@
     },
     {
         "name": "Dark Fusion",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN047",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.35,
                             "low": 1.4,
@@ -744,6 +722,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -751,13 +731,11 @@
     },
     {
         "name": "Defensive Tactics",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN083",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 13.34,
                             "low": 0.99,
@@ -774,6 +752,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -781,13 +761,11 @@
     },
     {
         "name": "Defensive Tactics",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN083",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.89,
                             "low": 1.99,
@@ -804,6 +782,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -811,13 +791,11 @@
     },
     {
         "name": "Detonator Circle \"A\"",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN077",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.11,
                             "low": 0.54,
@@ -834,6 +812,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -841,13 +821,11 @@
     },
     {
         "name": "Diamond-Dust Cyclone",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN048",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.79,
                             "low": 0.39,
@@ -864,6 +842,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -871,13 +851,11 @@
     },
     {
         "name": "Disarm",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN071",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.2,
                             "low": 0.3,
@@ -894,6 +872,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -901,13 +881,11 @@
     },
     {
         "name": "Double-Edged Sword Technique",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN074",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.95,
                             "low": 0.54,
@@ -924,6 +902,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -931,13 +911,11 @@
     },
     {
         "name": "Dragon Ice",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN084",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.95,
                             "low": 7.22,
@@ -954,6 +932,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -961,13 +941,11 @@
     },
     {
         "name": "Elemental HERO Chaos Neos",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN036",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 103.98,
                             "low": 14.08,
@@ -984,6 +962,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -991,13 +971,11 @@
     },
     {
         "name": "Elemental HERO Chaos Neos",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN036",
                 "rarity": "Ghost Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 129.0,
                             "low": 74.95,
@@ -1014,6 +992,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1021,13 +1001,11 @@
     },
     {
         "name": "Elemental HERO Plasma Vice",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN037",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 50.75,
                             "low": 10.79,
@@ -1044,6 +1022,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1051,13 +1031,11 @@
     },
     {
         "name": "Energy-Absorbing Monolith",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN075",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.25,
                             "low": 0.35,
@@ -1074,6 +1052,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1081,13 +1061,11 @@
     },
     {
         "name": "Energy-Absorbing Monolith",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN075",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.28,
                             "low": 1.1,
@@ -1104,6 +1082,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1111,13 +1091,11 @@
     },
     {
         "name": "Enishi, Shien's Chancellor",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN032",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.98,
                             "low": 0.88,
@@ -1134,6 +1112,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1141,13 +1121,11 @@
     },
     {
         "name": "Enishi, Shien's Chancellor",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN032",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 25.46,
                             "low": 2.48,
@@ -1164,6 +1142,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1171,13 +1151,11 @@
     },
     {
         "name": "Evil HERO Dark Gaia",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN040",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.16,
                             "low": 0.99,
@@ -1194,6 +1172,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1201,13 +1181,11 @@
     },
     {
         "name": "Evil HERO Infernal Gainer",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN004",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.99,
@@ -1224,6 +1202,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1231,13 +1211,11 @@
     },
     {
         "name": "Evil HERO Inferno Wing",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN038",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 55.94,
                             "low": 3.0,
@@ -1254,6 +1232,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -1261,13 +1241,11 @@
     },
     {
         "name": "Evil HERO Inferno Wing",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN038",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 55.94,
                             "low": 13.0,
@@ -1284,6 +1262,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -1291,13 +1271,11 @@
     },
     {
         "name": "Evil HERO Lightning Golem",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN039",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 24.74,
                             "low": 3.59,
@@ -1314,6 +1292,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1321,13 +1301,11 @@
     },
     {
         "name": "Evil HERO Lightning Golem",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN039",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 23.99,
                             "low": 1.86,
@@ -1344,6 +1322,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1351,13 +1331,11 @@
     },
     {
         "name": "Evil HERO Malicious Edge",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN003",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.98,
                             "low": 0.6,
@@ -1374,6 +1352,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1381,13 +1361,11 @@
     },
     {
         "name": "Evil HERO Malicious Edge",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN003",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 16.3,
                             "low": 5.39,
@@ -1404,6 +1382,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1411,13 +1391,11 @@
     },
     {
         "name": "Expressroid",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN016",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.6,
@@ -1434,6 +1412,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1441,13 +1421,11 @@
     },
     {
         "name": "Fog Control",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN051",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.43,
@@ -1464,6 +1442,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -1471,13 +1451,11 @@
     },
     {
         "name": "Foolish Revival",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN079",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.19,
                             "low": 0.3,
@@ -1494,6 +1472,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1501,13 +1481,11 @@
     },
     {
         "name": "Gambler of Legend",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN031",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.24,
                             "low": 0.35,
@@ -1524,6 +1502,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1531,13 +1511,11 @@
     },
     {
         "name": "Gil Garth",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN091",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 59.99,
                             "low": 24.99,
@@ -1554,6 +1532,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1561,13 +1541,11 @@
     },
     {
         "name": "Gladiator Beast Alexander",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN017",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.5,
                             "low": 1.19,
@@ -1584,6 +1562,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1591,13 +1571,11 @@
     },
     {
         "name": "Gladiator Beast Alexander",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN017",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 22.78,
                             "low": 4.49,
@@ -1614,6 +1592,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1621,13 +1601,11 @@
     },
     {
         "name": "Gladiator Beast Bestiari",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN020",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.99,
                             "low": 0.99,
@@ -1644,6 +1622,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1651,13 +1631,11 @@
     },
     {
         "name": "Gladiator Beast Dimacari",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN023",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.8,
                             "low": 0.3,
@@ -1674,6 +1652,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1681,13 +1661,11 @@
     },
     {
         "name": "Gladiator Beast Gaiodiaz",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN043",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.15,
                             "low": 0.99,
@@ -1704,6 +1682,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1711,13 +1691,11 @@
     },
     {
         "name": "Gladiator Beast Heraklinos",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN044",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 40.55,
                             "low": 9.14,
@@ -1734,6 +1712,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -1741,13 +1721,11 @@
     },
     {
         "name": "Gladiator Beast Hoplomus",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN022",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.59,
                             "low": 0.99,
@@ -1764,6 +1742,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1771,13 +1751,11 @@
     },
     {
         "name": "Gladiator Beast Laquari",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN021",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.26,
                             "low": 2.14,
@@ -1794,6 +1772,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -1801,13 +1781,11 @@
     },
     {
         "name": "Gladiator Beast Murmillo",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN019",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.43,
                             "low": 1.5,
@@ -1824,6 +1802,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1831,13 +1811,11 @@
     },
     {
         "name": "Gladiator Beast Octavius",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN000",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 36.46,
                             "low": 7.93,
@@ -1854,6 +1832,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1861,13 +1841,11 @@
     },
     {
         "name": "Gladiator Beast Secutor",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN024",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.0,
                             "low": 0.65,
@@ -1884,6 +1862,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1891,13 +1871,11 @@
     },
     {
         "name": "Gladiator Beast Spartacus",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN018",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.66,
                             "low": 2.69,
@@ -1914,6 +1892,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1921,13 +1901,11 @@
     },
     {
         "name": "Gladiator Beast Torax",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN081",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 28.52,
                             "low": 0.59,
@@ -1944,6 +1922,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1951,13 +1931,11 @@
     },
     {
         "name": "Gladiator Beast Torax",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN081",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.17,
                             "low": 1.58,
@@ -1974,6 +1952,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1981,13 +1961,11 @@
     },
     {
         "name": "Gladiator Beast's Battle Gladius",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN056",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.59,
                             "low": 0.54,
@@ -2004,6 +1982,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -2011,13 +1991,11 @@
     },
     {
         "name": "Gladiator Beast's Battle Halberd",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN055",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.82,
                             "low": 0.65,
@@ -2034,6 +2012,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -2041,13 +2021,11 @@
     },
     {
         "name": "Gladiator Beast's Battle Manica",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN057",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.6,
                             "low": 0.69,
@@ -2064,6 +2042,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -2071,13 +2051,11 @@
     },
     {
         "name": "Gladiator Beast's Respite",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN058",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.52,
                             "low": 0.99,
@@ -2094,6 +2072,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2101,13 +2081,11 @@
     },
     {
         "name": "Gladiator's Return",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN059",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.83,
                             "low": 0.3,
@@ -2124,6 +2102,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2131,13 +2111,11 @@
     },
     {
         "name": "Goblin Black Ops",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN030",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.98,
                             "low": 0.62,
@@ -2154,6 +2132,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2161,13 +2141,11 @@
     },
     {
         "name": "Infinity Dark",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN027",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.19,
                             "low": 0.35,
@@ -2184,6 +2162,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2191,13 +2171,11 @@
     },
     {
         "name": "Interdimensional Warp",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN078",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.14,
                             "low": 0.54,
@@ -2214,6 +2192,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2221,13 +2201,11 @@
     },
     {
         "name": "Light-Imprisoning Mirror",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN069",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.98,
                             "low": 0.66,
@@ -2244,6 +2222,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -2251,13 +2231,11 @@
     },
     {
         "name": "Lucky Cloud",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN050",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.13,
                             "low": 0.43,
@@ -2274,6 +2252,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2281,13 +2261,11 @@
     },
     {
         "name": "Magic Formula",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN093",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 299.99,
                             "low": 99.99,
@@ -2304,6 +2282,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -2311,13 +2291,11 @@
     },
     {
         "name": "Magical Reflect Slime",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN028",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.35,
@@ -2334,6 +2312,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2341,13 +2321,11 @@
     },
     {
         "name": "Natural Disaster",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN065",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.99,
                             "low": 0.43,
@@ -2364,6 +2342,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -2371,13 +2351,11 @@
     },
     {
         "name": "Necroface",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN090",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 599.95,
                             "low": 89.94,
@@ -2394,6 +2372,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2401,13 +2381,11 @@
     },
     {
         "name": "No Entry!!",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN064",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.59,
                             "low": 0.65,
@@ -2424,6 +2402,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2431,13 +2411,11 @@
     },
     {
         "name": "Over Limit",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN063",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.1,
                             "low": 0.31,
@@ -2454,6 +2432,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2461,13 +2441,11 @@
     },
     {
         "name": "Parry",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN072",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.24,
                             "low": 0.54,
@@ -2484,6 +2462,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -2491,13 +2471,11 @@
     },
     {
         "name": "Rain Storm",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN066",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 11.49,
                             "low": 0.65,
@@ -2514,6 +2492,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2521,13 +2501,11 @@
     },
     {
         "name": "Release from Stone",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN068",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.99,
@@ -2544,6 +2522,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -2551,13 +2531,11 @@
     },
     {
         "name": "Royal Firestorm Guards",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN087",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 49.34,
                             "low": 13.22,
@@ -2574,6 +2552,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2581,13 +2561,11 @@
     },
     {
         "name": "Security Orb",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN089",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.91,
                             "low": 0.99,
@@ -2604,6 +2582,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2611,13 +2591,11 @@
     },
     {
         "name": "Security Orb",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN089",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 39.18,
                             "low": 1.22,
@@ -2634,6 +2612,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2641,13 +2621,11 @@
     },
     {
         "name": "Shadow-Imprisoning Mirror",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN070",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.33,
                             "low": 0.49,
@@ -2664,6 +2642,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -2671,13 +2651,11 @@
     },
     {
         "name": "Silent Doom",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN094",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 399.9,
                             "low": 35.5,
@@ -2694,6 +2672,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2701,13 +2681,11 @@
     },
     {
         "name": "Skreech",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN086",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 17.95,
                             "low": 2.87,
@@ -2724,6 +2702,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2731,13 +2711,11 @@
     },
     {
         "name": "Soul Devouring Bamboo Sword",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN060",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 17.1,
                             "low": 2.9,
@@ -2754,6 +2732,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -2761,13 +2741,11 @@
     },
     {
         "name": "Soul Taker",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN092",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 99.95,
                             "low": 19.58,
@@ -2784,6 +2762,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2791,13 +2771,11 @@
     },
     {
         "name": "Spirit of the Six Samurai",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN033",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.67,
                             "low": 0.3,
@@ -2814,6 +2792,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2821,13 +2801,11 @@
     },
     {
         "name": "Stealthroid",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN015",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.17,
                             "low": 0.99,
@@ -2844,6 +2822,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2851,13 +2831,11 @@
     },
     {
         "name": "Summon Cloud",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN049",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.16,
                             "low": 0.54,
@@ -2874,6 +2852,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -2881,13 +2861,11 @@
     },
     {
         "name": "Super Double Summon",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN053",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.19,
                             "low": 0.25,
@@ -2904,6 +2882,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -2911,13 +2891,11 @@
     },
     {
         "name": "Super Vehicroid - Stealth Union",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN041",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 24.99,
                             "low": 17.77,
@@ -2934,6 +2912,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2941,13 +2921,11 @@
     },
     {
         "name": "Superalloy Beast Raptinus",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN042",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.43,
                             "low": 0.3,
@@ -2964,6 +2942,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2971,13 +2951,11 @@
     },
     {
         "name": "Swiftstrike Armor",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN073",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.29,
                             "low": 0.35,
@@ -2994,6 +2972,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -3001,13 +2981,11 @@
     },
     {
         "name": "Swing of Memories",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN046",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.73,
                             "low": 0.46,
@@ -3024,6 +3002,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -3031,13 +3011,11 @@
     },
     {
         "name": "Test Ape",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN025",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.2,
                             "low": 0.3,
@@ -3054,6 +3032,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3061,13 +3041,11 @@
     },
     {
         "name": "Test Tiger",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN082",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 10.96,
                             "low": 2.49,
@@ -3084,6 +3062,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3091,13 +3071,11 @@
     },
     {
         "name": "Test Tiger",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN082",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 39.93,
                             "low": 14.98,
@@ -3114,6 +3092,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3121,13 +3101,11 @@
     },
     {
         "name": "Tongue Twister",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN085",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 25.56,
                             "low": 5.85,
@@ -3144,6 +3122,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -3151,13 +3131,11 @@
     },
     {
         "name": "Truckroid",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN014",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.14,
                             "low": 0.54,
@@ -3174,6 +3152,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3181,13 +3161,11 @@
     },
     {
         "name": "Updraft",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN067",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.25,
                             "low": 0.52,
@@ -3204,6 +3182,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -3211,13 +3191,11 @@
     },
     {
         "name": "Updraft",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN067",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.17,
                             "low": 1.85,
@@ -3234,6 +3212,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -3241,13 +3221,11 @@
     },
     {
         "name": "Veil of Darkness",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN088",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 33.06,
                             "low": 5.85,
@@ -3264,6 +3242,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -3271,13 +3251,11 @@
     },
     {
         "name": "Witch Doctor of Sparta",
+        "numbers": [
+            {
                 "name": "Gladiator's Assault",
                 "print_tag": "GLAS-EN026",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.14,
                             "low": 0.54,
@@ -3294,6 +3272,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",

@@ -4,26 +4,6 @@
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN050",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
-                        "prices": {
-                            "high": 18.28,
-                            "low": 0.77,
-                            "average": 1.09,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.197802197802198,
-                            "shift_21": 0.224719101123595,
-                            "shift_30": 0.238636363636364,
-                            "shift_90": 0.0186915887850467,
-                            "shift_180": -0.120967741935484,
-                            "shift_365": -0.46039603960396,
-                            "updated_at": "2018-09-18 20:15:24 -0600"
-                        }
-                    }
-                }
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -31,13 +11,11 @@
     },
     {
         "name": "Alien Dog",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN033",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.08,
                             "low": 0.49,
@@ -54,6 +32,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -61,13 +41,11 @@
     },
     {
         "name": "Attack of the Cornered Rat",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN075",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.11,
                             "low": 0.54,
@@ -84,6 +62,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -91,13 +71,11 @@
     },
     {
         "name": "Automatic Laser",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN074",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.2,
                             "low": 0.54,
@@ -114,6 +92,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -121,13 +101,11 @@
     },
     {
         "name": "Battlestorm",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN000",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.23,
                             "low": 1.76,
@@ -144,6 +122,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -151,13 +131,11 @@
     },
     {
         "name": "Beast Striker",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN085",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.99,
                             "low": 0.71,
@@ -174,6 +152,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -181,13 +161,11 @@
     },
     {
         "name": "Berserking",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN089",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.98,
                             "low": 0.39,
@@ -204,6 +182,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -211,13 +191,11 @@
     },
     {
         "name": "Black Whirlwind",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN051",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.23,
                             "low": 1.95,
@@ -234,6 +212,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -241,13 +221,11 @@
     },
     {
         "name": "Blackwing - Blizzard the Far North",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN010",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.98,
                             "low": 1.49,
@@ -264,6 +242,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -271,13 +251,11 @@
     },
     {
         "name": "Blackwing - Elphin the Raven",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN013",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.51,
                             "low": 0.99,
@@ -294,6 +272,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -301,13 +281,11 @@
     },
     {
         "name": "Blackwing - Elphin the Raven",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN013",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 22.67,
                             "low": 1.7,
@@ -324,6 +302,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -331,13 +311,11 @@
     },
     {
         "name": "Blackwing - Kalut the Moon Shadow",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN012",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.07,
                             "low": 0.81,
@@ -354,6 +332,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -361,13 +341,11 @@
     },
     {
         "name": "Blackwing - Shura the Blue Flame",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN011",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.52,
@@ -384,6 +362,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -391,13 +371,11 @@
     },
     {
         "name": "Blackwing Armed Wing",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN041",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.15,
                             "low": 1.1,
@@ -414,6 +392,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -421,13 +401,11 @@
     },
     {
         "name": "Bone Temple Block",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN077",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.39,
@@ -444,6 +422,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -451,13 +431,11 @@
     },
     {
         "name": "Brain Golem",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN027",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.48,
                             "low": 0.77,
@@ -474,6 +452,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -481,13 +461,11 @@
     },
     {
         "name": "Calming Magic",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN062",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.69,
                             "low": 0.77,
@@ -504,6 +482,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -511,13 +491,11 @@
     },
     {
         "name": "Chaos-End Master",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN092",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.83,
                             "low": 8.75,
@@ -534,6 +512,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -541,13 +521,11 @@
     },
     {
         "name": "Crimson Fire",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN064",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.15,
                             "low": 0.54,
@@ -564,6 +542,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -571,13 +551,11 @@
     },
     {
         "name": "Dark Verger",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN004",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.45,
                             "low": 0.77,
@@ -594,6 +572,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -601,13 +581,11 @@
     },
     {
         "name": "Deep Sea Diva",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN035",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.29,
                             "low": 0.77,
@@ -624,6 +602,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -631,13 +611,11 @@
     },
     {
         "name": "Delta Crow - Anti Reverse",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN068",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 22.67,
                             "low": 1.27,
@@ -654,6 +632,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -661,13 +641,11 @@
     },
     {
         "name": "Double Tool C&D",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN053",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.53,
@@ -684,6 +662,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -691,13 +671,11 @@
     },
     {
         "name": "Earthbound Immortal Aslla piscu",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN019",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 42.13,
                             "low": 7.43,
@@ -714,6 +692,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -721,13 +701,11 @@
     },
     {
         "name": "Earthbound Immortal Aslla piscu",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN019",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.85,
                             "low": 2.98,
@@ -744,6 +722,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -751,13 +731,11 @@
     },
     {
         "name": "Earthbound Immortal Ccapac Apu",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN020",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.99,
                             "low": 3.65,
@@ -774,6 +752,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -781,13 +761,11 @@
     },
     {
         "name": "Earthbound Immortal Ccapac Apu",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN020",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 53.56,
                             "low": 6.0,
@@ -804,6 +782,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -811,13 +791,11 @@
     },
     {
         "name": "Emissary from Pandemonium",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN031",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.2,
                             "low": 0.54,
@@ -834,6 +812,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -841,13 +821,11 @@
     },
     {
         "name": "Emperor Sem",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN099",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 10.12,
                             "low": 0.77,
@@ -864,6 +842,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -871,13 +851,11 @@
     },
     {
         "name": "Evil Thorn",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN009",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.62,
                             "low": 1.95,
@@ -894,6 +872,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -901,13 +881,11 @@
     },
     {
         "name": "Exploder Dragonwing",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN040",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 17.76,
                             "low": 2.85,
@@ -924,6 +902,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -931,13 +911,11 @@
     },
     {
         "name": "Exploder Dragonwing",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN040",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 22.34,
                             "low": 3.15,
@@ -954,6 +932,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -961,13 +941,11 @@
     },
     {
         "name": "Fake Feather",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN070",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.19,
                             "low": 0.54,
@@ -984,6 +962,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -991,13 +971,11 @@
     },
     {
         "name": "Forbidden Chalice",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN061",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 37.09,
                             "low": 6.95,
@@ -1014,6 +992,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -1021,13 +1001,11 @@
     },
     {
         "name": "Forbidden Chalice",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN061",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 54.41,
                             "low": 19.99,
@@ -1044,6 +1022,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -1051,13 +1031,11 @@
     },
     {
         "name": "G.B. Hunter",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN039",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.75,
                             "low": 0.54,
@@ -1074,6 +1052,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1081,13 +1061,11 @@
     },
     {
         "name": "Gadget Arms",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN017",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.19,
                             "low": 0.54,
@@ -1104,6 +1082,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1111,13 +1091,11 @@
     },
     {
         "name": "Gigastone Omega",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN032",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.11,
                             "low": 0.54,
@@ -1134,6 +1112,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1141,13 +1121,11 @@
     },
     {
         "name": "Grave of the Super Ancient Organism",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN078",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 27.69,
                             "low": 1.98,
@@ -1164,6 +1142,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -1171,13 +1151,11 @@
     },
     {
         "name": "Grave of the Super Ancient Organism",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN078",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 35.48,
                             "low": 2.97,
@@ -1194,6 +1172,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -1201,13 +1181,11 @@
     },
     {
         "name": "Hardened Armed Dragon",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN083",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 10.0,
                             "low": 3.42,
@@ -1224,6 +1202,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1231,13 +1211,11 @@
     },
     {
         "name": "Hedge Guard",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN008",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.13,
                             "low": 0.41,
@@ -1254,6 +1232,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1261,13 +1241,11 @@
     },
     {
         "name": "Immortal Ruler",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN082",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.99,
                             "low": 8.49,
@@ -1284,6 +1262,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1291,13 +1271,11 @@
     },
     {
         "name": "Iron Core Immediate Disposal",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN056",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.87,
                             "low": 0.54,
@@ -1314,6 +1292,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1321,13 +1301,11 @@
     },
     {
         "name": "Iron Core of Koa'ki Meiru",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN055",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.66,
@@ -1344,6 +1322,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1351,13 +1331,11 @@
     },
     {
         "name": "Junk Box",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN052",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.21,
                             "low": 0.54,
@@ -1374,6 +1352,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1381,13 +1361,11 @@
     },
     {
         "name": "King of the Beasts",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN086",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.59,
                             "low": 2.0,
@@ -1404,6 +1382,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1411,13 +1391,11 @@
     },
     {
         "name": "Koa'ki Meiru Doom",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN026",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.07,
                             "low": 0.43,
@@ -1434,6 +1412,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1441,13 +1421,11 @@
     },
     {
         "name": "Koa'ki Meiru Drago",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN024",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 25.67,
                             "low": 1.85,
@@ -1464,6 +1442,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1471,13 +1451,11 @@
     },
     {
         "name": "Koa'ki Meiru Drago",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN024",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 25.65,
                             "low": 3.99,
@@ -1494,6 +1472,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1501,13 +1481,11 @@
     },
     {
         "name": "Koa'ki Meiru Guardian",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN023",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.93,
                             "low": 0.44,
@@ -1524,6 +1502,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1531,13 +1511,11 @@
     },
     {
         "name": "Koa'ki Meiru Ice",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN025",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.53,
@@ -1554,6 +1532,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1561,13 +1541,11 @@
     },
     {
         "name": "Koa'ki Meiru Powerhand",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN022",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.98,
                             "low": 0.79,
@@ -1584,6 +1562,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1591,13 +1571,11 @@
     },
     {
         "name": "Koa'ki Meiru Valafar",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN021",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.51,
                             "low": 0.77,
@@ -1614,6 +1592,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -1621,13 +1601,11 @@
     },
     {
         "name": "Koa'ki Meiru War Arms",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN081",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.95,
                             "low": 0.51,
@@ -1644,6 +1622,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1651,13 +1631,11 @@
     },
     {
         "name": "Lava Dragon",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN037",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.77,
                             "low": 0.43,
@@ -1674,6 +1652,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -1681,13 +1661,11 @@
     },
     {
         "name": "Level Retuner",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN069",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.11,
                             "low": 0.54,
@@ -1704,6 +1682,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1711,13 +1691,11 @@
     },
     {
         "name": "Level Warrior",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN002",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.07,
                             "low": 0.52,
@@ -1734,6 +1712,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1741,13 +1721,11 @@
     },
     {
         "name": "Light End Dragon",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN091",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 27.0,
                             "low": 3.86,
@@ -1764,6 +1742,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1771,13 +1751,11 @@
     },
     {
         "name": "Magic Planter",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN048",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 32.04,
                             "low": 2.49,
@@ -1794,6 +1772,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1801,13 +1781,11 @@
     },
     {
         "name": "Master Gig",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN030",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.93,
                             "low": 0.54,
@@ -1824,6 +1802,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1831,13 +1811,11 @@
     },
     {
         "name": "Mermaid Archer",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN036",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.13,
                             "low": 0.41,
@@ -1854,6 +1832,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1861,13 +1841,11 @@
     },
     {
         "name": "Mind Trust",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN046",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.54,
@@ -1884,6 +1862,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1891,13 +1871,11 @@
     },
     {
         "name": "Minoan Centaur",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN028",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.54,
@@ -1914,6 +1892,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1921,13 +1901,11 @@
     },
     {
         "name": "Miracle Locus",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN063",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.11,
                             "low": 0.54,
@@ -1944,6 +1922,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1951,13 +1931,11 @@
     },
     {
         "name": "Mirror of Oaths",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN080",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.05,
                             "low": 0.52,
@@ -1974,6 +1952,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1981,13 +1961,11 @@
     },
     {
         "name": "Moja",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN084",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.22,
                             "low": 0.39,
@@ -2004,6 +1982,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2011,13 +1991,11 @@
     },
     {
         "name": "Morphtronic Bind",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN072",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.19,
                             "low": 0.54,
@@ -2034,6 +2012,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -2041,13 +2021,11 @@
     },
     {
         "name": "Morphtronic Remoten",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN014",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.99,
                             "low": 2.7,
@@ -2064,6 +2042,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2071,13 +2051,11 @@
     },
     {
         "name": "Morphtronic Repair Unit",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN054",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.92,
                             "low": 0.68,
@@ -2094,6 +2072,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -2101,13 +2081,11 @@
     },
     {
         "name": "Morphtronic Scopen",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN016",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 15.3,
                             "low": 0.72,
@@ -2124,6 +2102,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2131,13 +2111,11 @@
     },
     {
         "name": "Morphtronic Videon",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN015",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.19,
                             "low": 0.54,
@@ -2154,6 +2132,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2161,13 +2141,11 @@
     },
     {
         "name": "Natural Tune",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN059",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.5,
                             "low": 0.54,
@@ -2184,6 +2162,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2191,13 +2171,11 @@
     },
     {
         "name": "Ojama Blue",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN097",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 12.0,
                             "low": 2.67,
@@ -2214,6 +2192,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2221,13 +2201,11 @@
     },
     {
         "name": "Ojama Country",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN098",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.44,
                             "low": 4.24,
@@ -2244,6 +2222,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -2251,13 +2231,11 @@
     },
     {
         "name": "Ojama Red",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN096",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 34.99,
                             "low": 3.5,
@@ -2274,6 +2252,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2281,13 +2261,11 @@
     },
     {
         "name": "One for One",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN045",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 1.03,
@@ -2304,6 +2282,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2311,13 +2291,11 @@
     },
     {
         "name": "Overdoom Line",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN066",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.11,
                             "low": 0.54,
@@ -2334,6 +2312,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -2341,13 +2321,11 @@
     },
     {
         "name": "Overwhelm",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN088",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 11.83,
                             "low": 4.3,
@@ -2364,6 +2342,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -2371,13 +2351,11 @@
     },
     {
         "name": "Phoenixian Cluster Amaryllis",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN006",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 27.0,
                             "low": 2.99,
@@ -2394,6 +2372,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2401,13 +2381,11 @@
     },
     {
         "name": "Phoenixian Seed",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN005",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.19,
                             "low": 0.54,
@@ -2424,6 +2402,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2431,13 +2411,11 @@
     },
     {
         "name": "Power Tool Dragon",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN042",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 43.22,
                             "low": 3.97,
@@ -2454,6 +2432,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2461,13 +2441,11 @@
     },
     {
         "name": "Power Tool Dragon",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN042",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 63.76,
                             "low": 6.98,
@@ -2484,6 +2462,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2491,13 +2471,11 @@
     },
     {
         "name": "Power Tool Dragon",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN042",
                 "rarity": "Ghost Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 100.94,
                             "low": 22.99,
@@ -2514,6 +2492,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2521,13 +2501,11 @@
     },
     {
         "name": "Proof of Powerlessness",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN076",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.22,
                             "low": 0.54,
@@ -2544,6 +2522,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2551,13 +2531,11 @@
     },
     {
         "name": "Psychic Path",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN058",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.07,
                             "low": 0.99,
@@ -2574,6 +2552,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2581,13 +2561,11 @@
     },
     {
         "name": "Reckoned Power",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN073",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.54,
@@ -2604,6 +2582,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2611,13 +2591,11 @@
     },
     {
         "name": "Reinforced Human Psychic Borg",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN029",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.18,
                             "low": 0.83,
@@ -2634,6 +2612,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2641,13 +2621,11 @@
     },
     {
         "name": "Rockstone Warrior",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN001",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.98,
                             "low": 0.57,
@@ -2664,6 +2642,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2671,13 +2651,11 @@
     },
     {
         "name": "Rose Tentacles",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN007",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.19,
                             "low": 0.54,
@@ -2694,6 +2672,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2701,13 +2681,11 @@
     },
     {
         "name": "Sea Dragon Lord Gishilnodon",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN044",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 23.39,
                             "low": 2.98,
@@ -2724,6 +2702,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2731,13 +2711,11 @@
     },
     {
         "name": "Snowman Eater",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN094",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.77,
@@ -2754,6 +2732,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2761,13 +2741,11 @@
     },
     {
         "name": "Spell of Pain",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN090",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.4,
                             "low": 0.67,
@@ -2784,6 +2762,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -2791,13 +2771,11 @@
     },
     {
         "name": "Sphere of Chaos",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN093",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 27.0,
                             "low": 3.41,
@@ -2814,6 +2792,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2821,13 +2801,11 @@
     },
     {
         "name": "Spined Gillman",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN034",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.25,
                             "low": 0.54,
@@ -2844,6 +2822,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2851,13 +2831,11 @@
     },
     {
         "name": "Strong Wind Dragon",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN003",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 12.66,
                             "low": 3.0,
@@ -2874,6 +2852,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -2881,13 +2861,11 @@
     },
     {
         "name": "Strong Wind Dragon",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN003",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 16.31,
                             "low": 3.57,
@@ -2904,6 +2882,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -2911,13 +2891,11 @@
     },
     {
         "name": "Supremacy Berry",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN060",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 17.95,
                             "low": 0.99,
@@ -2934,6 +2912,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2941,13 +2921,11 @@
     },
     {
         "name": "Swallow Flip",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN079",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.98,
                             "low": 0.61,
@@ -2964,6 +2942,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -2971,13 +2951,11 @@
     },
     {
         "name": "Swallow's Nest",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN087",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.51,
                             "low": 3.0,
@@ -2994,6 +2972,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -3001,13 +2981,11 @@
     },
     {
         "name": "Thorn of Malice",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN047",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.24,
                             "low": 0.54,
@@ -3024,6 +3002,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -3031,13 +3011,11 @@
     },
     {
         "name": "Torapart",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN018",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.99,
                             "low": 0.99,
@@ -3054,6 +3032,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -3061,13 +3041,11 @@
     },
     {
         "name": "Trap Stun",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN071",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.99,
@@ -3084,6 +3062,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -3091,13 +3071,11 @@
     },
     {
         "name": "Tree Otter",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN095",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.55,
                             "low": 0.63,
@@ -3114,6 +3092,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -3121,13 +3101,11 @@
     },
     {
         "name": "Trident Dragion",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN043",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 13.41,
                             "low": 1.65,
@@ -3144,6 +3122,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -3151,13 +3131,11 @@
     },
     {
         "name": "Trident Dragion",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN043",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.46,
                             "low": 3.09,
@@ -3174,6 +3152,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -3181,13 +3161,11 @@
     },
     {
         "name": "Tuner Capture",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN065",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.15,
                             "low": 0.54,
@@ -3204,6 +3182,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -3211,13 +3191,11 @@
     },
     {
         "name": "Urgent Synthesis",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN057",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.11,
                             "low": 0.43,
@@ -3234,6 +3212,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -3241,13 +3221,11 @@
     },
     {
         "name": "Vanguard of the Dragon",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN038",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.75,
                             "low": 0.64,
@@ -3264,6 +3242,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3271,13 +3251,11 @@
     },
     {
         "name": "Wicked Rebirth",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN067",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.19,
                             "low": 0.54,
@@ -3294,6 +3272,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -3301,13 +3281,11 @@
     },
     {
         "name": "Wonder Clover",
+        "numbers": [
+            {
                 "name": "Raging Battle",
                 "print_tag": "RGBT-EN049",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.06,
                             "low": 0.54,
@@ -3324,6 +3302,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,

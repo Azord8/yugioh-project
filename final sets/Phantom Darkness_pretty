@@ -4,26 +4,6 @@
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN058",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.54,
-                            "average": 1.04,
-                            "shift": 0.0196078431372549,
-                            "shift_3": 0.0196078431372549,
-                            "shift_7": -0.00952380952380952,
-                            "shift_21": 0.181818181818182,
-                            "shift_30": 0.181818181818182,
-                            "shift_90": 0.168539325842697,
-                            "shift_180": -0.0280373831775701,
-                            "shift_365": -0.463917525773196,
-                            "updated_at": "2018-09-18 20:15:08 -0600"
-                        }
-                    }
-                }
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -31,13 +11,11 @@
     },
     {
         "name": "Alchemy Cycle",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN068",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.93,
                             "low": 0.69,
@@ -54,6 +32,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -61,13 +41,11 @@
     },
     {
         "name": "All-Out Attacks",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN075",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.93,
                             "low": 0.99,
@@ -84,6 +62,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -91,13 +71,11 @@
     },
     {
         "name": "Allure of Darkness",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN084",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 63.01,
                             "low": 10.0,
@@ -114,6 +92,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -121,13 +101,11 @@
     },
     {
         "name": "Allure of Darkness",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN084",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 99.99,
                             "low": 24.0,
@@ -144,6 +122,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -151,13 +131,11 @@
     },
     {
         "name": "Armageddon Knight",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN021",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 17.85,
                             "low": 3.0,
@@ -174,6 +152,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -181,13 +161,11 @@
     },
     {
         "name": "Armored Cybern",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN009",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.93,
                             "low": 0.33,
@@ -204,6 +182,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -211,13 +191,11 @@
     },
     {
         "name": "Atlantean Pikeman",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN002",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.93,
                             "low": 0.92,
@@ -234,6 +212,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -241,13 +221,11 @@
     },
     {
         "name": "Aztekipede, the Worm Warrior",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN089",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.35,
                             "low": 0.56,
@@ -264,6 +242,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -271,13 +251,11 @@
     },
     {
         "name": "Belial - Marquis of Darkness",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN099",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.32,
                             "low": 4.64,
@@ -294,6 +272,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -301,13 +281,11 @@
     },
     {
         "name": "Black Veloci",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN033",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.14,
                             "low": 0.99,
@@ -324,6 +302,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -331,13 +311,11 @@
     },
     {
         "name": "Blue Thunder T-45",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN038",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.93,
                             "low": 0.99,
@@ -354,6 +332,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -361,13 +341,11 @@
     },
     {
         "name": "Call of the Earthbound",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN096",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.74,
                             "low": 1.26,
@@ -384,6 +362,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -391,13 +371,11 @@
     },
     {
         "name": "Cannon Soldier MK-2",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN035",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.99,
@@ -414,6 +392,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -421,13 +401,11 @@
     },
     {
         "name": "Castle Gate",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN091",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.01,
                             "low": 0.52,
@@ -444,6 +422,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -451,13 +431,11 @@
     },
     {
         "name": "Chain Material",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN067",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 23.39,
                             "low": 1.13,
@@ -474,6 +452,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -481,13 +461,11 @@
     },
     {
         "name": "Chain Summoning",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN057",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 17.52,
                             "low": 0.99,
@@ -504,6 +482,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -511,13 +491,11 @@
     },
     {
         "name": "Cry Havoc!",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN078",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 15.49,
                             "low": 0.55,
@@ -534,6 +512,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -541,13 +521,11 @@
     },
     {
         "name": "Cyber Ouroboros",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN011",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.47,
                             "low": 0.99,
@@ -564,6 +542,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -571,13 +551,11 @@
     },
     {
         "name": "Cyber Valley",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN010",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.51,
                             "low": 1.5,
@@ -594,6 +572,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -601,13 +581,11 @@
     },
     {
         "name": "Cybernetic Hidden Technology",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN069",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.93,
                             "low": 0.54,
@@ -624,6 +602,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -631,13 +611,11 @@
     },
     {
         "name": "Cybernetic Zone",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN052",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.8,
                             "low": 0.99,
@@ -654,6 +632,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -661,13 +641,11 @@
     },
     {
         "name": "Dark Armed Dragon",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN019",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 299.95,
                             "low": 14.85,
@@ -684,6 +662,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -691,13 +671,11 @@
     },
     {
         "name": "Dark Crusader",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN020",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.8,
                             "low": 0.54,
@@ -714,6 +692,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -721,13 +701,11 @@
     },
     {
         "name": "Dark Eruption",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN054",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.17,
                             "low": 0.77,
@@ -744,6 +722,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -751,13 +731,11 @@
     },
     {
         "name": "Dark Grepher",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN000",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 54.99,
                             "low": 24.63,
@@ -774,6 +752,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -781,13 +761,11 @@
     },
     {
         "name": "Dark Horus",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN016",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.91,
                             "low": 2.03,
@@ -804,6 +782,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -811,13 +791,11 @@
     },
     {
         "name": "Dark Horus",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN016",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 27.72,
                             "low": 4.25,
@@ -834,6 +812,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -841,13 +821,11 @@
     },
     {
         "name": "Dark Illusion",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN071",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.51,
                             "low": 1.34,
@@ -864,6 +842,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -871,13 +851,11 @@
     },
     {
         "name": "Dark Nephthys",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN018",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.23,
                             "low": 0.99,
@@ -894,6 +872,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -901,13 +881,11 @@
     },
     {
         "name": "Dark Nephthys",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN018",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.92,
                             "low": 3.99,
@@ -924,6 +902,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -931,13 +911,11 @@
     },
     {
         "name": "Dark Red Enchanter",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN097",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 22.41,
                             "low": 5.95,
@@ -954,6 +932,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -961,13 +941,11 @@
     },
     {
         "name": "Dark Spirit Art - Greed",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN070",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 15.33,
                             "low": 3.09,
@@ -984,6 +962,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -991,13 +971,11 @@
     },
     {
         "name": "Dark World Grimoire",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN062",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.47,
                             "low": 0.48,
@@ -1014,6 +992,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -1021,13 +1001,11 @@
     },
     {
         "name": "Dark-Eyes Illusionist",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN092",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.0,
                             "low": 0.79,
@@ -1044,6 +1022,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1051,13 +1031,11 @@
     },
     {
         "name": "Darklord Zerato",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN081",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 39.25,
                             "low": 6.39,
@@ -1074,6 +1052,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1081,13 +1061,11 @@
     },
     {
         "name": "Darknight Parshath",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN082",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 16.18,
                             "low": 0.61,
@@ -1104,6 +1082,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1111,13 +1091,11 @@
     },
     {
         "name": "Darknight Parshath",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN082",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 28.7,
                             "low": 1.76,
@@ -1134,6 +1112,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1141,13 +1121,11 @@
     },
     {
         "name": "Deepsea Macrotrema",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN083",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.35,
                             "low": 0.57,
@@ -1164,6 +1142,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1171,13 +1151,11 @@
     },
     {
         "name": "Destiny HERO - Departed",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN015",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.48,
                             "low": 0.43,
@@ -1194,6 +1172,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1201,13 +1181,11 @@
     },
     {
         "name": "Destiny HERO - Dunker",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN014",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.9,
                             "low": 0.57,
@@ -1224,6 +1202,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1231,13 +1211,11 @@
     },
     {
         "name": "Dimension Explosion",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN051",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.59,
                             "low": 0.53,
@@ -1254,6 +1232,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -1261,13 +1241,11 @@
     },
     {
         "name": "Doomsday Horror",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN022",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.07,
                             "low": 0.66,
@@ -1284,6 +1262,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1291,13 +1271,11 @@
     },
     {
         "name": "Double Tag Team",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN076",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.25,
                             "low": 0.99,
@@ -1314,6 +1292,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1321,13 +1301,11 @@
     },
     {
         "name": "Drastic Drop Off",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN074",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.43,
                             "low": 1.66,
@@ -1344,6 +1322,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -1351,13 +1331,11 @@
     },
     {
         "name": "Drastic Drop Off",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN074",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.17,
                             "low": 3.09,
@@ -1374,6 +1352,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -1381,13 +1361,11 @@
     },
     {
         "name": "Earth Effigy",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN040",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.97,
@@ -1404,6 +1382,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1411,13 +1391,11 @@
     },
     {
         "name": "Elemental HERO Storm Neos",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN043",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.26,
                             "low": 11.99,
@@ -1434,6 +1412,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1441,13 +1421,11 @@
     },
     {
         "name": "Escape from the Dark Dimension",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN072",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.17,
                             "low": 0.75,
@@ -1464,6 +1442,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -1471,13 +1451,11 @@
     },
     {
         "name": "Field-Commander Rahz",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN030",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.99,
                             "low": 0.49,
@@ -1494,6 +1472,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1501,13 +1481,11 @@
     },
     {
         "name": "Fine",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN080",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.59,
                             "low": 0.99,
@@ -1524,6 +1502,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1531,13 +1511,11 @@
     },
     {
         "name": "Fire Trooper",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN013",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.14,
                             "low": 0.55,
@@ -1554,6 +1532,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -1561,13 +1541,11 @@
     },
     {
         "name": "Fires of Doomsday",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN055",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.17,
                             "low": 0.99,
@@ -1584,6 +1562,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -1591,13 +1571,11 @@
     },
     {
         "name": "Future Samurai",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN027",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.56,
                             "low": 0.98,
@@ -1614,6 +1592,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1621,13 +1601,11 @@
     },
     {
         "name": "Gemini Lancer",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN025",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 15.22,
                             "low": 0.99,
@@ -1644,6 +1622,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1651,13 +1631,11 @@
     },
     {
         "name": "Gemini Trap Hole",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN073",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.93,
                             "low": 0.54,
@@ -1674,6 +1652,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1681,13 +1661,11 @@
     },
     {
         "name": "Gigaplant",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN026",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.66,
                             "low": 2.25,
@@ -1704,6 +1682,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1711,13 +1691,11 @@
     },
     {
         "name": "Gladiator Beast Andal",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN001",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.24,
                             "low": 0.99,
@@ -1734,6 +1712,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1741,13 +1721,11 @@
     },
     {
         "name": "Gladiator Beast Darius",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN031",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.8,
                             "low": 0.93,
@@ -1764,6 +1742,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1771,13 +1751,11 @@
     },
     {
         "name": "Gladiator Beast's Battle Archfiend Shield",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN060",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.8,
                             "low": 0.55,
@@ -1794,6 +1772,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -1801,13 +1781,11 @@
     },
     {
         "name": "Gladiator Proving Ground",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN061",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.79,
                             "low": 0.55,
@@ -1824,6 +1802,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1831,13 +1811,11 @@
     },
     {
         "name": "Goblin Zombie",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN098",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 31.55,
                             "low": 10.14,
@@ -1854,6 +1832,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1861,13 +1841,11 @@
     },
     {
         "name": "Golden Flying Fish",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN086",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.27,
                             "low": 0.62,
@@ -1884,6 +1862,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1891,13 +1871,11 @@
     },
     {
         "name": "Hate Buster",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN066",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.64,
@@ -1914,6 +1892,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1921,13 +1901,11 @@
     },
     {
         "name": "Imprisoned Queen Archfiend",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN032",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.23,
                             "low": 0.54,
@@ -1944,6 +1922,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1951,13 +1931,11 @@
     },
     {
         "name": "Instant Neo Space",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN048",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.25,
                             "low": 0.91,
@@ -1974,6 +1952,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -1981,13 +1961,11 @@
     },
     {
         "name": "Legendary Fiend",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN093",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.35,
                             "low": 0.99,
@@ -2004,6 +1982,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2011,13 +1991,11 @@
     },
     {
         "name": "Lonefire Blossom",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN088",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 22.67,
                             "low": 1.29,
@@ -2034,6 +2012,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2041,13 +2021,11 @@
     },
     {
         "name": "Magnetic Mosquito",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN039",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.14,
                             "low": 0.99,
@@ -2064,6 +2042,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2071,13 +2051,11 @@
     },
     {
         "name": "Metabo Globster",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN085",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.76,
                             "low": 0.99,
@@ -2094,6 +2072,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2101,13 +2081,11 @@
     },
     {
         "name": "Metal Reflect Slime",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN094",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 36.73,
                             "low": 4.54,
@@ -2124,6 +2102,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -2131,13 +2111,11 @@
     },
     {
         "name": "Metal Reflect Slime",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN094",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 24.11,
                             "low": 5.29,
@@ -2154,6 +2132,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -2161,13 +2141,11 @@
     },
     {
         "name": "Mirage Tube",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN049",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.54,
@@ -2184,6 +2162,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -2191,13 +2171,11 @@
     },
     {
         "name": "Neo-Spacian Twinkle Moss",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN042",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.24,
                             "low": 0.5,
@@ -2214,6 +2192,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2221,13 +2201,11 @@
     },
     {
         "name": "Obsidian Dragon",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN023",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.59,
                             "low": 0.54,
@@ -2244,6 +2222,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2251,13 +2231,11 @@
     },
     {
         "name": "Offering to the Snake Deity",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN077",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.69,
                             "low": 0.63,
@@ -2274,6 +2252,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2281,13 +2261,11 @@
     },
     {
         "name": "Prime Material Dragon",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN087",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.01,
                             "low": 1.93,
@@ -2304,6 +2282,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2311,13 +2291,11 @@
     },
     {
         "name": "Rainbow Dark Dragon",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN003",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 37.81,
                             "low": 11.32,
@@ -2334,6 +2312,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2341,13 +2321,11 @@
     },
     {
         "name": "Rainbow Life",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN064",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 16.82,
                             "low": 2.98,
@@ -2364,6 +2342,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2371,13 +2351,11 @@
     },
     {
         "name": "Rainbow Neos",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN044",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 44.14,
                             "low": 9.9,
@@ -2394,6 +2372,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2401,13 +2381,11 @@
     },
     {
         "name": "Rainbow Neos",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN044",
                 "rarity": "Ghost Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 174.99,
                             "low": 17.99,
@@ -2424,6 +2402,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2431,13 +2411,11 @@
     },
     {
         "name": "Rainbow Path",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN063",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.83,
                             "low": 0.56,
@@ -2454,6 +2432,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2461,13 +2441,11 @@
     },
     {
         "name": "Rainbow Veil",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN045",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.92,
                             "low": 0.99,
@@ -2484,6 +2462,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -2491,13 +2471,11 @@
     },
     {
         "name": "Regenerating Rose",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN005",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.8,
                             "low": 0.99,
@@ -2514,6 +2492,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2521,13 +2501,11 @@
     },
     {
         "name": "Samsara Lotus",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN004",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.79,
                             "low": 0.99,
@@ -2544,6 +2522,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2551,13 +2531,11 @@
     },
     {
         "name": "Sea Koala",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN037",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.93,
                             "low": 0.48,
@@ -2574,6 +2552,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2581,13 +2561,11 @@
     },
     {
         "name": "Shadowpriestess of Ohm",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN024",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.07,
                             "low": 0.83,
@@ -2604,6 +2582,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2611,13 +2591,11 @@
     },
     {
         "name": "Sinister Seeds",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN065",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.99,
@@ -2634,6 +2612,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2641,13 +2621,11 @@
     },
     {
         "name": "Six Samurai United",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN059",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.07,
                             "low": 1.9,
@@ -2664,6 +2642,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -2671,13 +2651,11 @@
     },
     {
         "name": "Spell Chronicle",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN050",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.75,
                             "low": 0.54,
@@ -2694,6 +2672,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -2701,13 +2681,11 @@
     },
     {
         "name": "Super Polymerization",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN046",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 22.9,
                             "low": 5.0,
@@ -2724,6 +2702,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -2731,13 +2711,11 @@
     },
     {
         "name": "Superancient Deepsea King Coelacanth",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN034",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.51,
                             "low": 2.49,
@@ -2754,6 +2732,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2761,13 +2741,11 @@
     },
     {
         "name": "Superancient Deepsea King Coelacanth",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN034",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 27.72,
                             "low": 4.98,
@@ -2784,6 +2762,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2791,13 +2771,11 @@
     },
     {
         "name": "The Beginning of the End",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN053",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 22.67,
                             "low": 1.85,
@@ -2814,6 +2792,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2821,13 +2801,11 @@
     },
     {
         "name": "The Beginning of the End",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN053",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 36.37,
                             "low": 3.09,
@@ -2844,6 +2822,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2851,13 +2831,11 @@
     },
     {
         "name": "The Calculator",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN036",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.14,
                             "low": 0.99,
@@ -2874,6 +2852,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2881,13 +2861,11 @@
     },
     {
         "name": "The Dark Creator",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN017",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 32.87,
                             "low": 5.85,
@@ -2904,6 +2882,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2911,13 +2891,11 @@
     },
     {
         "name": "The Immortal Bushi",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN029",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.8,
                             "low": 0.99,
@@ -2934,6 +2912,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2941,13 +2921,11 @@
     },
     {
         "name": "Transmigration Break",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN079",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.59,
                             "low": 0.54,
@@ -2964,6 +2942,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -2971,13 +2951,11 @@
     },
     {
         "name": "Unleash Your Power!",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN056",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.93,
                             "low": 0.54,
@@ -2994,6 +2972,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -3001,13 +2981,11 @@
     },
     {
         "name": "Vampire's Curse",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN090",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 27.72,
                             "low": 4.99,
@@ -3024,6 +3002,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -3031,13 +3011,11 @@
     },
     {
         "name": "Vampire's Curse",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN090",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 15.2,
                             "low": 4.74,
@@ -3054,6 +3032,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -3061,13 +3041,11 @@
     },
     {
         "name": "Vengeful Shinobi",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN028",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.49,
@@ -3084,6 +3062,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -3091,13 +3071,11 @@
     },
     {
         "name": "Vicious Claw",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN047",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 15.83,
                             "low": 0.99,
@@ -3114,6 +3092,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -3121,13 +3101,11 @@
     },
     {
         "name": "Volcanic Counter",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN012",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.07,
                             "low": 0.99,
@@ -3144,6 +3122,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -3151,13 +3131,11 @@
     },
     {
         "name": "Wind Effigy",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN041",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.88,
                             "low": 0.54,
@@ -3174,6 +3152,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -3181,13 +3161,11 @@
     },
     {
         "name": "Yubel",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN006",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.85,
                             "low": 5.44,
@@ -3204,6 +3182,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -3211,13 +3191,11 @@
     },
     {
         "name": "Yubel - Terror Incarnate",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN007",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 25.56,
                             "low": 4.99,
@@ -3234,6 +3212,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -3241,13 +3221,11 @@
     },
     {
         "name": "Yubel - Terror Incarnate",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN007",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 44.3,
                             "low": 3.66,
@@ -3264,6 +3242,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -3271,13 +3251,11 @@
     },
     {
         "name": "Yubel - The Ultimate Nightmare",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN008",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 39.99,
                             "low": 5.98,
@@ -3294,6 +3272,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -3301,13 +3281,11 @@
     },
     {
         "name": "Zoma the Spirit",
+        "numbers": [
+            {
                 "name": "Phantom Darkness",
                 "print_tag": "PTDN-EN095",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.23,
                             "low": 2.95,
@@ -3324,6 +3302,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,

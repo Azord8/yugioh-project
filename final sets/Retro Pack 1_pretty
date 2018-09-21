@@ -4,26 +4,6 @@
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN097",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
-                        "prices": {
-                            "high": 105.29,
-                            "low": 94.99,
-                            "average": 310.09,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 1.32985197986325,
-                            "shift_21": 2.0964649490713,
-                            "shift_30": 1.9422146313692,
-                            "shift_90": 0.409839047012822,
-                            "shift_180": 1.28588278658312,
-                            "shift_365": -0.4832,
-                            "updated_at": "2018-09-21 00:25:22 -0600"
-                        }
-                    }
-                }
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -31,13 +11,11 @@
     },
     {
         "name": "Ancient Lamp",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN100",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 179.99,
                             "low": 99.95,
@@ -54,6 +32,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -61,13 +41,11 @@
     },
     {
         "name": "Armed Ninja",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN013",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.99,
                             "low": 0.49,
@@ -84,6 +62,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -91,13 +71,11 @@
     },
     {
         "name": "Axe of Despair",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN051",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.99,
                             "low": 3.41,
@@ -114,6 +92,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -121,13 +101,11 @@
     },
     {
         "name": "B. Skull Dragon",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN028",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 39.54,
                             "low": 2.79,
@@ -144,6 +122,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -151,13 +131,11 @@
     },
     {
         "name": "Baby Dragon",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN034",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.97,
                             "low": 0.49,
@@ -174,6 +152,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -181,13 +161,11 @@
     },
     {
         "name": "Barrel Dragon",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN044",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.97,
                             "low": 3.49,
@@ -204,6 +182,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -211,13 +191,11 @@
     },
     {
         "name": "Black Illusion Ritual",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN060",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 23.61,
                             "low": 2.94,
@@ -234,6 +212,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Ritual",
         "family": null,
@@ -241,13 +221,11 @@
     },
     {
         "name": "Black Pendant",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN052",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.99,
                             "low": 0.35,
@@ -264,6 +242,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -271,13 +251,11 @@
     },
     {
         "name": "Blast Sphere",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN091",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 142.5,
                             "low": 69.99,
@@ -294,6 +272,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -301,13 +281,11 @@
     },
     {
         "name": "Blue-Eyes Toon Dragon",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN050",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.18,
                             "low": 3.29,
@@ -324,6 +302,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -331,13 +311,11 @@
     },
     {
         "name": "Blue-Eyes Ultimate Dragon",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN000",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 25.59,
                             "low": 18.49,
@@ -354,6 +332,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -361,13 +341,11 @@
     },
     {
         "name": "Blue-Eyes White Dragon",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN001",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 94.45,
                             "low": 35.99,
@@ -384,6 +362,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -391,13 +371,11 @@
     },
     {
         "name": "Cannon Soldier",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN041",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.99,
                             "low": 1.5,
@@ -414,6 +392,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -421,13 +401,11 @@
     },
     {
         "name": "Card Destruction",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN084",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 30.0,
                             "low": 29.99,
@@ -444,6 +422,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -451,13 +431,11 @@
     },
     {
         "name": "Catapult Turtle",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN038",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.77,
                             "low": 2.39,
@@ -474,6 +452,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -481,13 +461,11 @@
     },
     {
         "name": "Cloning",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN094",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 49.99,
                             "low": 22.49,
@@ -504,6 +482,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -511,13 +491,11 @@
     },
     {
         "name": "Copycat",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN092",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 163.53,
                             "low": 92.36,
@@ -534,6 +512,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -541,13 +521,11 @@
     },
     {
         "name": "Curse of Dragon",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN009",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.6,
                             "low": 0.35,
@@ -564,6 +542,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -571,28 +551,23 @@
     },
     {
         "name": "Cyber Harpie Lady",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN096",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
         "type": "Winged Beast / Effect"
     },
+    {
         "name": "Dark Magician",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN003",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 149.99,
                             "low": 25.45,
@@ -609,6 +584,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -616,13 +593,11 @@
     },
     {
         "name": "Elegant Egotist",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN029",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.38,
                             "low": 0.35,
@@ -639,6 +614,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -646,13 +623,11 @@
     },
     {
         "name": "Embodiment of Apophis",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN098",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 145.95,
                             "low": 145.95,
@@ -669,6 +644,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -676,13 +653,11 @@
     },
     {
         "name": "Exchange of the Spirit",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN099",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 64.72,
                             "low": 26.87,
@@ -699,6 +674,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -706,13 +683,11 @@
     },
     {
         "name": "Exodia the Forbidden One",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN021",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 81.8,
                             "low": 27.27,
@@ -729,6 +704,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -736,13 +713,11 @@
     },
     {
         "name": "Fissure",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN006",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.15,
                             "low": 0.39,
@@ -759,6 +734,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -766,13 +743,11 @@
     },
     {
         "name": "Flame Swordsman",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN002",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.84,
                             "low": 0.35,
@@ -789,6 +764,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -796,13 +773,11 @@
     },
     {
         "name": "Flying Kamakiri 1",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN074",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.99,
                             "low": 0.49,
@@ -819,6 +794,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -826,13 +803,11 @@
     },
     {
         "name": "Gaia Power",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN077",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.22,
                             "low": 0.99,
@@ -849,6 +824,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -856,13 +833,11 @@
     },
     {
         "name": "Gaia The Fierce Knight",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN004",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.73,
                             "low": 0.49,
@@ -879,6 +854,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -886,13 +863,11 @@
     },
     {
         "name": "Gaia the Dragon Champion",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN022",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 15.0,
                             "low": 6.49,
@@ -909,6 +884,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -916,13 +893,11 @@
     },
     {
         "name": "Gate Guardian",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN023",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 47.58,
                             "low": 37.99,
@@ -939,6 +914,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -946,13 +923,11 @@
     },
     {
         "name": "Gazelle the King of Mythical Beasts",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN043",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.52,
                             "low": 0.35,
@@ -969,6 +944,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -976,13 +953,11 @@
     },
     {
         "name": "Giant Germ",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN070",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.49,
                             "low": 0.79,
@@ -999,6 +974,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1006,13 +983,11 @@
     },
     {
         "name": "Giant Rat",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN067",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.99,
                             "low": 0.49,
@@ -1029,6 +1004,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1036,13 +1013,11 @@
     },
     {
         "name": "Giant Soldier of Stone",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN010",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.99,
                             "low": 0.3,
@@ -1059,6 +1034,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1066,13 +1043,11 @@
     },
     {
         "name": "Giant Trunade",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN058",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.7,
                             "low": 0.59,
@@ -1089,6 +1064,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1096,13 +1073,11 @@
     },
     {
         "name": "Graceful Charity",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN088",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.7,
                             "low": 3.99,
@@ -1119,6 +1094,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1126,13 +1103,11 @@
     },
     {
         "name": "Gravekeeper's Servant",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN055",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.99,
                             "low": 2.99,
@@ -1149,6 +1124,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -1156,13 +1133,11 @@
     },
     {
         "name": "Hane-Hane",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN015",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.51,
                             "low": 0.35,
@@ -1179,6 +1154,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1186,13 +1163,11 @@
     },
     {
         "name": "Harpie Lady",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN025",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.01,
                             "low": 0.4,
@@ -1209,6 +1184,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1216,13 +1193,11 @@
     },
     {
         "name": "Harpie Lady Sisters",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN026",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.86,
                             "low": 2.69,
@@ -1239,6 +1214,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1246,13 +1223,11 @@
     },
     {
         "name": "Heavy Storm",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN048",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.28,
                             "low": 3.99,
@@ -1269,6 +1244,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1276,13 +1253,11 @@
     },
     {
         "name": "Hyozanryu",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN065",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.93,
                             "low": 0.35,
@@ -1299,6 +1274,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1306,13 +1283,11 @@
     },
     {
         "name": "Jirai Gumo",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN039",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.86,
                             "low": 0.49,
@@ -1329,6 +1304,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1336,13 +1313,11 @@
     },
     {
         "name": "Kaibaman",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN095",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 130.04,
                             "low": 115.99,
@@ -1359,6 +1334,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1366,13 +1343,11 @@
     },
     {
         "name": "Kazejin",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN031",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.99,
                             "low": 1.89,
@@ -1389,6 +1364,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1396,13 +1373,11 @@
     },
     {
         "name": "Kuriboh",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN037",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 23.61,
                             "low": 1.89,
@@ -1419,6 +1394,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1426,13 +1403,11 @@
     },
     {
         "name": "La Jinn the Mystical Genie of the Lamp",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN085",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 44.0,
                             "low": 10.56,
@@ -1449,6 +1424,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1456,13 +1433,11 @@
     },
     {
         "name": "Left Arm of the Forbidden One",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN020",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 12.76,
                             "low": 4.99,
@@ -1479,6 +1454,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1486,13 +1463,11 @@
     },
     {
         "name": "Left Leg of the Forbidden One",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN018",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 10.81,
                             "low": 5.99,
@@ -1509,6 +1484,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1516,13 +1493,11 @@
     },
     {
         "name": "Lord of D.",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN086",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 0.89,
                             "low": 0.79,
@@ -1539,6 +1514,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1546,13 +1523,11 @@
     },
     {
         "name": "Luminous Spark",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN081",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.99,
                             "low": 0.35,
@@ -1569,6 +1544,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -1576,13 +1553,11 @@
     },
     {
         "name": "Magic Jammer",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN046",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.99,
                             "low": 0.69,
@@ -1599,6 +1574,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -1606,13 +1583,11 @@
     },
     {
         "name": "Magician of Faith",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN033",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.99,
                             "low": 2.79,
@@ -1629,6 +1604,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1636,13 +1613,11 @@
     },
     {
         "name": "Maha Vailo",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN053",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.92,
                             "low": 0.3,
@@ -1659,6 +1634,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1666,13 +1643,11 @@
     },
     {
         "name": "Man-Eater Bug",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN014",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.99,
                             "low": 0.99,
@@ -1689,6 +1664,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1696,13 +1673,11 @@
     },
     {
         "name": "Manga Ryu-Ran",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN062",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.99,
                             "low": 0.99,
@@ -1719,6 +1694,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -1726,13 +1703,11 @@
     },
     {
         "name": "Mask of Darkness",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN027",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.99,
                             "low": 0.99,
@@ -1749,6 +1724,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1756,13 +1733,11 @@
     },
     {
         "name": "Megamorph",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN061",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.96,
                             "low": 1.49,
@@ -1779,6 +1754,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -1786,13 +1763,11 @@
     },
     {
         "name": "Messenger of Peace",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN082",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.98,
                             "low": 4.73,
@@ -1809,6 +1784,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -1816,13 +1793,11 @@
     },
     {
         "name": "Molten Destruction",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN079",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.99,
                             "low": 0.49,
@@ -1839,6 +1814,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -1846,13 +1823,11 @@
     },
     {
         "name": "Monster Reborn",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN016",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 97.99,
                             "low": 15.9,
@@ -1869,6 +1844,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1876,13 +1853,11 @@
     },
     {
         "name": "Mother Grizzly",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN073",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.52,
                             "low": 0.35,
@@ -1899,6 +1874,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1906,13 +1883,11 @@
     },
     {
         "name": "Mystic Tomato",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN076",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.59,
                             "low": 0.49,
@@ -1929,6 +1904,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1936,13 +1913,11 @@
     },
     {
         "name": "Mystical Space Typhoon",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN057",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.99,
                             "low": 0.99,
@@ -1959,6 +1934,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -1966,13 +1943,11 @@
     },
     {
         "name": "Nimble Momonga",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN071",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.0,
                             "low": 2.99,
@@ -1989,6 +1964,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1996,13 +1973,11 @@
     },
     {
         "name": "Painful Choice",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN059",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 23.37,
                             "low": 6.79,
@@ -2019,6 +1994,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2026,13 +2003,11 @@
     },
     {
         "name": "Penguin Soldier",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN089",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 12.99,
                             "low": 5.0,
@@ -2049,6 +2024,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2056,13 +2033,11 @@
     },
     {
         "name": "Polymerization",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN008",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.99,
                             "low": 3.29,
@@ -2079,6 +2054,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2086,13 +2063,11 @@
     },
     {
         "name": "Raigeki",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN005",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 197.07,
                             "low": 85.79,
@@ -2109,6 +2084,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2116,13 +2093,11 @@
     },
     {
         "name": "Red-Eyes B. Dragon",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN011",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 180.02,
                             "low": 63.99,
@@ -2139,6 +2114,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2146,13 +2123,11 @@
     },
     {
         "name": "Relieve Monster",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN093",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 44.94,
                             "low": 24.99,
@@ -2169,6 +2144,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2176,13 +2153,11 @@
     },
     {
         "name": "Relinquished",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN054",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 79.99,
                             "low": 79.99,
@@ -2199,6 +2174,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2206,13 +2183,11 @@
     },
     {
         "name": "Right Arm of the Forbidden One",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN019",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.97,
                             "low": 3.09,
@@ -2229,6 +2204,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2236,13 +2213,11 @@
     },
     {
         "name": "Right Leg of the Forbidden One",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN017",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 12.43,
                             "low": 5.99,
@@ -2259,6 +2234,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2266,13 +2243,11 @@
     },
     {
         "name": "Rising Air Current",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN080",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.99,
                             "low": 0.35,
@@ -2289,6 +2264,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -2296,13 +2273,11 @@
     },
     {
         "name": "Sanga of the Thunder",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN030",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.99,
                             "low": 0.49,
@@ -2319,6 +2294,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2326,13 +2303,11 @@
     },
     {
         "name": "Sangan",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN036",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 42.07,
                             "low": 16.43,
@@ -2349,6 +2324,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2356,28 +2333,23 @@
     },
     {
         "name": "Scapegoat",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN090",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
         "type": null
     },
+    {
         "name": "Senju of the Thousand Hands",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN068",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.99,
                             "low": 1.41,
@@ -2394,6 +2366,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2401,13 +2375,11 @@
     },
     {
         "name": "Seven Tools of the Bandit",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN047",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.94,
                             "low": 0.49,
@@ -2424,6 +2396,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -2431,13 +2405,11 @@
     },
     {
         "name": "Shining Angel",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN072",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.59,
                             "low": 1.37,
@@ -2454,6 +2426,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2461,13 +2435,11 @@
     },
     {
         "name": "Solemn Judgment",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN045",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 59.99,
                             "low": 32.07,
@@ -2484,6 +2456,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -2491,13 +2465,11 @@
     },
     {
         "name": "Sonic Bird",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN075",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.02,
                             "low": 0.79,
@@ -2514,6 +2486,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -2521,13 +2495,11 @@
     },
     {
         "name": "Suijin",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN032",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.99,
                             "low": 2.29,
@@ -2544,6 +2516,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2551,13 +2525,11 @@
     },
     {
         "name": "Summoned Skull",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN024",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 13.23,
                             "low": 8.39,
@@ -2574,6 +2546,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2581,13 +2555,11 @@
     },
     {
         "name": "Swords of Revealing Light",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN012",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 12.88,
                             "low": 6.39,
@@ -2604,6 +2576,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2611,13 +2585,11 @@
     },
     {
         "name": "The Flute of Summoning Dragon",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN087",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.99,
                             "low": 0.49,
@@ -2634,6 +2606,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2641,13 +2615,11 @@
     },
     {
         "name": "Thousand Dragon",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN049",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.72,
                             "low": 0.39,
@@ -2664,6 +2636,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -2671,13 +2645,11 @@
     },
     {
         "name": "Thunder Dragon",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN040",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.46,
                             "low": 5.7,
@@ -2694,6 +2666,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2701,13 +2675,11 @@
     },
     {
         "name": "Time Wizard",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN035",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.99,
                             "low": 6.79,
@@ -2724,6 +2696,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2731,13 +2705,11 @@
     },
     {
         "name": "Toon Mermaid",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN063",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.78,
                             "low": 0.99,
@@ -2754,6 +2726,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2761,13 +2735,11 @@
     },
     {
         "name": "Toon Summoned Skull",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN064",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.99,
                             "low": 0.49,
@@ -2784,6 +2756,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2791,13 +2765,11 @@
     },
     {
         "name": "Toon World",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN066",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.99,
                             "low": 2.0,
@@ -2814,6 +2786,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -2821,13 +2795,11 @@
     },
     {
         "name": "Trap Hole",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN007",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.52,
                             "low": 0.93,
@@ -2844,6 +2816,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2851,13 +2825,11 @@
     },
     {
         "name": "Twin-Headed Thunder Dragon",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN042",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.99,
                             "low": 1.49,
@@ -2874,6 +2846,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2881,13 +2855,11 @@
     },
     {
         "name": "UFO Turtle",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN069",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.79,
                             "low": 0.35,
@@ -2904,6 +2876,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2911,13 +2885,11 @@
     },
     {
         "name": "Umiiruka",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN078",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.02,
                             "low": 0.69,
@@ -2934,6 +2906,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -2941,13 +2915,11 @@
     },
     {
         "name": "Upstart Goblin",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN056",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.16,
                             "low": 3.19,
@@ -2964,6 +2936,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2971,13 +2945,11 @@
     },
     {
         "name": "Wall of Illusion",
+        "numbers": [
+            {
                 "name": "Retro Pack",
                 "print_tag": "RP01-EN083",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.59,
                             "low": 1.59,
@@ -2994,6 +2966,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",

@@ -4,41 +4,6 @@
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN030",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
-        "card_type": "spell",
-        "property": "Quick-Play",
-        "family": null,
-        "type": null
-    },
-        "name": "A Deal with Dark Ruler",
-                "name": "Dark Crisis",
-                "print_tag": "DCR-030",
-                "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
-                        "prices": {
-                            "high": 1.38,
-                            "low": 0.54,
-                            "average": 0.94,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.010752688172043,
-                            "shift_90": -0.0105263157894737,
-                            "shift_180": -0.0208333333333333,
-                            "shift_365": -0.0105263157894737,
-                            "updated_at": "2018-09-18 17:36:50 -0600"
-                        }
-                    }
-                }
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -46,28 +11,23 @@
     },
     {
         "name": "Acrobat Monkey",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN003",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
         "type": "Machine"
     },
+    {
         "name": "Acrobat Monkey",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-003",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.39,
@@ -84,6 +44,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -91,13 +53,11 @@
     },
     {
         "name": "Agido",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN080",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 13.83,
                             "low": 13.83,
@@ -114,6 +74,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -121,13 +83,11 @@
     },
     {
         "name": "Agido",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-080",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.06,
                             "low": 0.54,
@@ -144,6 +104,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -151,13 +113,11 @@
     },
     {
         "name": "Altar for Tribute",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN095",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.29,
                             "low": 4.29,
@@ -174,6 +134,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -181,13 +143,11 @@
     },
     {
         "name": "Altar for Tribute",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-095",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.99,
                             "low": 0.54,
@@ -204,6 +164,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -211,28 +173,23 @@
     },
     {
         "name": "Archfiend Soldier",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN057",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
         "type": "Fiend"
     },
+    {
         "name": "Archfiend Soldier",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-057",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 10.0,
                             "low": 3.74,
@@ -249,6 +206,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -256,28 +215,23 @@
     },
     {
         "name": "Archfiend's Oath",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN092",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
         "type": null
     },
+    {
         "name": "Archfiend's Oath",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-092",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.99,
                             "low": 0.54,
@@ -294,6 +248,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -301,28 +257,23 @@
     },
     {
         "name": "Archfiend's Roar",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN099",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Archfiend's Roar",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-099",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.33,
                             "low": 0.54,
@@ -339,20 +290,6 @@
                         }
                     }
                 }
-        "card_type": "trap",
-        "property": "Normal",
-        "family": null,
-        "type": null
-    },
-    {
-        "name": "Arsenal Robber",
-                "name": "Dark Crisis",
-                "print_tag": "DCR-EN048",
-                "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
             }
         ],
         "card_type": "trap",
@@ -360,14 +297,25 @@
         "family": null,
         "type": null
     },
+    {
         "name": "Arsenal Robber",
+        "numbers": [
+            {
+                "name": "Dark Crisis",
+                "print_tag": "DCR-EN048",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Arsenal Robber",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-048",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.24,
                             "low": 0.54,
@@ -384,6 +332,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -391,28 +341,23 @@
     },
     {
         "name": "Arsenal Summoner",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN004",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
         "type": "Spellcaster / Effect"
     },
+    {
         "name": "Arsenal Summoner",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-004",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.73,
                             "low": 0.99,
@@ -429,6 +374,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -436,28 +383,23 @@
     },
     {
         "name": "Battle Footballer",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN001",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
         "type": "Machine"
     },
+    {
         "name": "Battle Footballer",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-001",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.87,
                             "low": 0.65,
@@ -474,6 +416,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -481,28 +425,23 @@
     },
     {
         "name": "Battle-Scarred",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN097",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
         "type": null
     },
+    {
         "name": "Battle-Scarred",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-097",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.22,
                             "low": 0.36,
@@ -519,6 +458,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -526,13 +467,11 @@
     },
     {
         "name": "Berserk Dragon",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN019",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 17.16,
                             "low": 17.16,
@@ -549,6 +488,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -556,13 +497,11 @@
     },
     {
         "name": "Berserk Dragon",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-019",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 25.56,
                             "low": 1.45,
@@ -579,6 +518,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -586,13 +527,11 @@
     },
     {
         "name": "Blast Held by a Tribute",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN104",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 11.67,
                             "low": 11.67,
@@ -609,6 +548,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -616,13 +557,11 @@
     },
     {
         "name": "Blast Held by a Tribute",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-104",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 26.89,
                             "low": 1.81,
@@ -639,6 +578,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -646,28 +587,23 @@
     },
     {
         "name": "Blindly Loyal Goblin",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN022",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
         "type": "Warrior / Effect"
     },
+    {
         "name": "Blindly Loyal Goblin",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-022",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.54,
@@ -684,6 +620,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -691,13 +629,11 @@
     },
     {
         "name": "Butterfly Dagger - Elma",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN032",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.93,
                             "low": 9.93,
@@ -714,6 +650,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -721,13 +659,11 @@
     },
     {
         "name": "Butterfly Dagger - Elma",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-032",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 22.67,
                             "low": 1.74,
@@ -744,20 +680,6 @@
                         }
                     }
                 }
-        "card_type": "spell",
-        "property": "Equip",
-        "family": null,
-        "type": null
-    },
-    {
-        "name": "Cestus of Dagla",
-                "name": "Dark Crisis",
-                "print_tag": "DCR-EN090",
-                "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
             }
         ],
         "card_type": "spell",
@@ -765,14 +687,25 @@
         "family": null,
         "type": null
     },
+    {
         "name": "Cestus of Dagla",
+        "numbers": [
+            {
+                "name": "Dark Crisis",
+                "print_tag": "DCR-EN090",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Cestus of Dagla",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-090",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.99,
                             "low": 0.99,
@@ -789,6 +722,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -796,28 +731,23 @@
     },
     {
         "name": "Checkmate",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN089",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Checkmate",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-089",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.07,
                             "low": 0.39,
@@ -834,6 +764,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -841,13 +773,11 @@
     },
     {
         "name": "Contract with Exodia",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN031",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 13.7,
                             "low": 13.7,
@@ -864,6 +794,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -871,13 +803,11 @@
     },
     {
         "name": "Contract with Exodia",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-031",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.67,
                             "low": 1.49,
@@ -894,6 +824,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -901,13 +833,11 @@
     },
     {
         "name": "Contract with the Abyss",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN086",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.98,
                             "low": 8.98,
@@ -924,6 +854,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Ritual",
         "family": null,
@@ -931,13 +863,11 @@
     },
     {
         "name": "Contract with the Abyss",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-086",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.67,
                             "low": 0.39,
@@ -954,20 +884,6 @@
                         }
                     }
                 }
-        "card_type": "spell",
-        "property": "Ritual",
-        "family": null,
-        "type": null
-    },
-    {
-        "name": "Contract with the Dark Master",
-                "name": "Dark Crisis",
-                "print_tag": "DCR-EN087",
-                "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
             }
         ],
         "card_type": "spell",
@@ -975,14 +891,25 @@
         "family": null,
         "type": null
     },
+    {
         "name": "Contract with the Dark Master",
+        "numbers": [
+            {
+                "name": "Dark Crisis",
+                "print_tag": "DCR-EN087",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Ritual",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Contract with the Dark Master",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-087",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.04,
                             "low": 0.54,
@@ -999,6 +926,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Ritual",
         "family": null,
@@ -1006,13 +935,11 @@
     },
     {
         "name": "Cost Down",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN053",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 12.86,
                             "low": 12.86,
@@ -1029,6 +956,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1036,13 +965,11 @@
     },
     {
         "name": "Cost Down",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-053",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 13.44,
                             "low": 1.99,
@@ -1059,6 +986,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1066,28 +995,23 @@
     },
     {
         "name": "Cyber Raider",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN011",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
         "type": "Machine / Effect"
     },
+    {
         "name": "Cyber Raider",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-011",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.46,
                             "low": 0.3,
@@ -1104,6 +1028,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1111,28 +1037,23 @@
     },
     {
         "name": "D.D. Trainer",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN055",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
         "type": "Fiend"
     },
+    {
         "name": "D.D. Trainer",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-055",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.06,
                             "low": 0.57,
@@ -1149,6 +1070,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1156,28 +1079,23 @@
     },
     {
         "name": "D.D. Warrior Lady",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN027",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
         "type": "Warrior / Effect"
     },
+    {
         "name": "D.D. Warrior Lady",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-027",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 31.52,
                             "low": 0.99,
@@ -1194,6 +1112,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1201,13 +1121,11 @@
     },
     {
         "name": "Dark Flare Knight",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN017",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.15,
                             "low": 8.15,
@@ -1224,6 +1142,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1231,13 +1151,11 @@
     },
     {
         "name": "Dark Flare Knight",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-017",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 33.48,
                             "low": 2.5,
@@ -1254,6 +1172,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1261,13 +1181,11 @@
     },
     {
         "name": "Dark Master - Zorc",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN082",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 15.17,
                             "low": 15.17,
@@ -1284,6 +1202,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1291,13 +1211,11 @@
     },
     {
         "name": "Dark Master - Zorc",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-082",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.23,
                             "low": 0.99,
@@ -1314,6 +1232,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1321,28 +1241,23 @@
     },
     {
         "name": "Dark Scorpion - Chick the Yellow",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN026",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
         "type": "Warrior / Effect"
     },
+    {
         "name": "Dark Scorpion - Chick the Yellow",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-026",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.22,
                             "low": 0.54,
@@ -1359,20 +1274,6 @@
                         }
                     }
                 }
-        "card_type": "monster",
-        "property": null,
-        "family": "dark",
-        "type": "Warrior / Effect"
-    },
-    {
-        "name": "Dark Scorpion - Gorg the Strong",
-                "name": "Dark Crisis",
-                "print_tag": "DCR-EN060",
-                "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
             }
         ],
         "card_type": "monster",
@@ -1380,14 +1281,25 @@
         "family": "dark",
         "type": "Warrior / Effect"
     },
+    {
         "name": "Dark Scorpion - Gorg the Strong",
+        "numbers": [
+            {
+                "name": "Dark Crisis",
+                "print_tag": "DCR-EN060",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Dark Scorpion - Gorg the Strong",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-060",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.22,
                             "low": 0.54,
@@ -1404,20 +1316,6 @@
                         }
                     }
                 }
-        "card_type": "monster",
-        "property": null,
-        "family": "dark",
-        "type": "Warrior / Effect"
-    },
-    {
-        "name": "Dark Scorpion - Meanae the Thorn",
-                "name": "Dark Crisis",
-                "print_tag": "DCR-EN061",
-                "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
             }
         ],
         "card_type": "monster",
@@ -1425,14 +1323,25 @@
         "family": "dark",
         "type": "Warrior / Effect"
     },
+    {
         "name": "Dark Scorpion - Meanae the Thorn",
+        "numbers": [
+            {
+                "name": "Dark Crisis",
+                "print_tag": "DCR-EN061",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Dark Scorpion - Meanae the Thorn",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-061",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.23,
                             "low": 0.54,
@@ -1449,6 +1358,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1456,28 +1367,23 @@
     },
     {
         "name": "Dark Scorpion Combination",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN098",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Dark Scorpion Combination",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-098",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 36.41,
                             "low": 0.99,
@@ -1494,6 +1400,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1501,28 +1409,23 @@
     },
     {
         "name": "Darkbishop Archfiend",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN069",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
         "type": "Fiend / Effect"
     },
+    {
         "name": "Darkbishop Archfiend",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-069",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.98,
                             "low": 0.53,
@@ -1539,6 +1442,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1546,28 +1451,23 @@
     },
     {
         "name": "Des Feral Imp",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN014",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
         "type": "Reptile / Flip"
     },
+    {
         "name": "Des Feral Imp",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-014",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 37.03,
                             "low": 0.61,
@@ -1584,6 +1484,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1591,28 +1493,23 @@
     },
     {
         "name": "Despair from the Dark",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN023",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
         "type": "Zombie / Effect"
     },
+    {
         "name": "Despair from the Dark",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-023",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.22,
                             "low": 0.3,
@@ -1629,6 +1526,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1636,28 +1535,23 @@
     },
     {
         "name": "Desrook Archfiend",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN070",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
         "type": "Fiend / Effect"
     },
+    {
         "name": "Desrook Archfiend",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-070",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.6,
                             "low": 0.54,
@@ -1674,6 +1568,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1681,28 +1577,23 @@
     },
     {
         "name": "Dice Re-Roll",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN100",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Dice Re-Roll",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-100",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.25,
                             "low": 0.3,
@@ -1719,6 +1610,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1726,28 +1619,23 @@
     },
     {
         "name": "Different Dimension Dragon",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN015",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
         "type": "Dragon / Effect"
     },
+    {
         "name": "Different Dimension Dragon",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-015",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.34,
                             "low": 0.67,
@@ -1764,6 +1652,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1771,28 +1661,23 @@
     },
     {
         "name": "Different Dimension Gate",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN044",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
         "type": null
     },
+    {
         "name": "Different Dimension Gate",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-044",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 13.83,
                             "low": 0.77,
@@ -1809,6 +1694,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -1816,13 +1703,11 @@
     },
     {
         "name": "Dragged Down into the Grave",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN084",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.76,
                             "low": 8.76,
@@ -1839,6 +1724,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1846,13 +1733,11 @@
     },
     {
         "name": "Dragged Down into the Grave",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-084",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.23,
                             "low": 1.7,
@@ -1869,6 +1754,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1876,13 +1763,11 @@
     },
     {
         "name": "Exodia Necross",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN020",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.11,
                             "low": 20.11,
@@ -1899,6 +1784,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1906,13 +1793,11 @@
     },
     {
         "name": "Exodia Necross",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-020",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 402.06,
                             "low": 9.44,
@@ -1929,6 +1814,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1936,28 +1823,23 @@
     },
     {
         "name": "Fairy of the Spring",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN040",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Fairy of the Spring",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-040",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.38,
                             "low": 0.56,
@@ -1974,6 +1856,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1981,13 +1865,11 @@
     },
     {
         "name": "Falling Down",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN088",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.72,
                             "low": 14.72,
@@ -2004,6 +1886,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -2011,13 +1895,11 @@
     },
     {
         "name": "Falling Down",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-088",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.33,
                             "low": 0.99,
@@ -2034,6 +1916,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -2041,28 +1925,23 @@
     },
     {
         "name": "Fear from the Dark",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN025",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
         "type": "Zombie / Effect"
     },
+    {
         "name": "Fear from the Dark",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-025",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.02,
                             "low": 0.56,
@@ -2079,6 +1958,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2086,28 +1967,23 @@
     },
     {
         "name": "Final Attack Orders",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN045",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
         "type": null
     },
+    {
         "name": "Final Attack Orders",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-045",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.54,
@@ -2124,6 +2000,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -2131,28 +2009,23 @@
     },
     {
         "name": "Final Countdown",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN091",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Final Countdown",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-091",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.99,
                             "low": 2.03,
@@ -2169,6 +2042,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2176,28 +2051,23 @@
     },
     {
         "name": "Frozen Soul",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN096",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Frozen Soul",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-096",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.22,
                             "low": 0.54,
@@ -2214,6 +2084,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2221,28 +2093,23 @@
     },
     {
         "name": "Gagagigo",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN054",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
         "type": "Reptile"
     },
+    {
         "name": "Gagagigo",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-054",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.54,
@@ -2259,6 +2126,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2266,28 +2135,23 @@
     },
     {
         "name": "Goblin of Greed",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN065",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
         "type": "Fiend / Effect"
     },
+    {
         "name": "Goblin of Greed",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-065",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.22,
                             "low": 0.54,
@@ -2304,6 +2168,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2311,28 +2177,23 @@
     },
     {
         "name": "Gravity Axe - Grarl",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN034",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
         "type": null
     },
+    {
         "name": "Gravity Axe - Grarl",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-034",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.99,
                             "low": 0.61,
@@ -2349,6 +2210,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -2356,28 +2219,23 @@
     },
     {
         "name": "Great Maju Garzett",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN063",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
         "type": "Fiend / Effect"
     },
+    {
         "name": "Great Maju Garzett",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-063",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 25.56,
                             "low": 2.69,
@@ -2394,20 +2252,6 @@
                         }
                     }
                 }
-        "card_type": "monster",
-        "property": null,
-        "family": "dark",
-        "type": "Fiend / Effect"
-    },
-    {
-        "name": "Guardian Baou",
-                "name": "Dark Crisis",
-                "print_tag": "DCR-EN008",
-                "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
             }
         ],
         "card_type": "monster",
@@ -2415,14 +2259,25 @@
         "family": "dark",
         "type": "Fiend / Effect"
     },
+    {
         "name": "Guardian Baou",
+        "numbers": [
+            {
+                "name": "Dark Crisis",
+                "print_tag": "DCR-EN008",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Guardian Baou",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-008",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 17.3,
                             "low": 0.59,
@@ -2439,6 +2294,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2446,28 +2303,23 @@
     },
     {
         "name": "Guardian Ceal",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN006",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
         "type": "Pyro / Effect"
     },
+    {
         "name": "Guardian Ceal",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-006",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.06,
                             "low": 1.25,
@@ -2484,6 +2336,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2491,28 +2345,23 @@
     },
     {
         "name": "Guardian Elma",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN005",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
         "type": "Fairy / Effect"
     },
+    {
         "name": "Guardian Elma",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-005",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.46,
@@ -2529,6 +2378,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -2536,13 +2387,11 @@
     },
     {
         "name": "Guardian Grarl",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN007",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 11.67,
                             "low": 11.67,
@@ -2559,6 +2408,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2566,13 +2417,11 @@
     },
     {
         "name": "Guardian Grarl",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-007",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.81,
                             "low": 4.46,
@@ -2589,6 +2438,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2596,28 +2447,23 @@
     },
     {
         "name": "Guardian Kay'est",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN009",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
         "type": "Sea Serpent / Effect"
     },
+    {
         "name": "Guardian Kay'est",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-009",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.73,
                             "low": 0.46,
@@ -2634,6 +2480,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2641,28 +2489,23 @@
     },
     {
         "name": "Guardian Tryce",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN010",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
         "type": "Thunder / Effect"
     },
+    {
         "name": "Guardian Tryce",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-010",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.5,
                             "low": 0.52,
@@ -2679,6 +2522,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2686,28 +2531,23 @@
     },
     {
         "name": "Gyaku-Gire Panda",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN021",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
         "type": "Beast / Effect"
     },
+    {
         "name": "Gyaku-Gire Panda",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-021",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.4,
                             "low": 0.3,
@@ -2724,6 +2564,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2731,28 +2573,23 @@
     },
     {
         "name": "Incandescent Ordeal",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN085",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Ritual",
         "family": null,
         "type": null
     },
+    {
         "name": "Incandescent Ordeal",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-085",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.54,
                             "low": 0.54,
@@ -2769,6 +2606,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Ritual",
         "family": null,
@@ -2776,13 +2615,11 @@
     },
     {
         "name": "Infernalqueen Archfiend",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN071",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 13.83,
                             "low": 13.83,
@@ -2799,6 +2636,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2806,13 +2645,11 @@
     },
     {
         "name": "Infernalqueen Archfiend",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-071",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 36.44,
                             "low": 0.62,
@@ -2829,6 +2666,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2836,13 +2675,11 @@
     },
     {
         "name": "Interdimensional Matter Transporter",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN052",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.0,
                             "low": 6.0,
@@ -2859,6 +2696,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2866,13 +2705,11 @@
     },
     {
         "name": "Interdimensional Matter Transporter",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-052",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 16.44,
                             "low": 0.99,
@@ -2889,6 +2726,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2896,28 +2735,23 @@
     },
     {
         "name": "Iron Blacksmith Kotetsu",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN064",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
         "type": "Beast-Warrior / Effect"
     },
+    {
         "name": "Iron Blacksmith Kotetsu",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-064",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.99,
                             "low": 0.54,
@@ -2934,6 +2768,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2941,13 +2777,11 @@
     },
     {
         "name": "Judgment of Anubis",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN105",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 12.86,
                             "low": 12.86,
@@ -2964,6 +2798,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -2971,13 +2807,11 @@
     },
     {
         "name": "Judgment of Anubis",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-105",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 36.26,
                             "low": 1.76,
@@ -2994,6 +2828,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -3001,28 +2837,23 @@
     },
     {
         "name": "Kaiser Glider",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN051",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
         "type": "Dragon / Effect"
     },
+    {
         "name": "Kaiser Glider",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-051",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 30.55,
                             "low": 1.55,
@@ -3039,6 +2870,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -3046,28 +2879,23 @@
     },
     {
         "name": "Kelbek",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN078",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
         "type": "Fairy / Effect"
     },
+    {
         "name": "Kelbek",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-078",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.54,
                             "low": 0.54,
@@ -3084,20 +2912,6 @@
                         }
                     }
                 }
-        "card_type": "monster",
-        "property": null,
-        "family": "earth",
-        "type": "Fairy / Effect"
-    },
-    {
-        "name": "Keldo",
-                "name": "Dark Crisis",
-                "print_tag": "DCR-EN077",
-                "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
             }
         ],
         "card_type": "monster",
@@ -3105,14 +2919,25 @@
         "family": "earth",
         "type": "Fairy / Effect"
     },
+    {
         "name": "Keldo",
+        "numbers": [
+            {
+                "name": "Dark Crisis",
+                "print_tag": "DCR-EN077",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Keldo",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-077",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.99,
                             "low": 0.54,
@@ -3129,6 +2954,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3136,28 +2963,23 @@
     },
     {
         "name": "Legendary Flame Lord",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN081",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
         "type": "Spellcaster / Ritual"
     },
+    {
         "name": "Legendary Flame Lord",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-081",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.95,
                             "low": 0.61,
@@ -3174,6 +2996,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -3181,28 +3005,23 @@
     },
     {
         "name": "Little-Winguard",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN013",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
         "type": "Warrior / Effect"
     },
+    {
         "name": "Little-Winguard",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-013",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.25,
                             "low": 0.3,
@@ -3219,6 +3038,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -3226,13 +3047,11 @@
     },
     {
         "name": "Maju Garzett",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN024",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 15.17,
                             "low": 15.17,
@@ -3249,6 +3068,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -3256,13 +3077,11 @@
     },
     {
         "name": "Maju Garzett",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-024",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.07,
                             "low": 0.3,
@@ -3279,20 +3098,6 @@
                         }
                     }
                 }
-        "card_type": "monster",
-        "property": null,
-        "family": "dark",
-        "type": "Fiend / Effect"
-    },
-    {
-        "name": "Mefist the Infernal General",
-                "name": "Dark Crisis",
-                "print_tag": "DCR-EN066",
-                "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
             }
         ],
         "card_type": "monster",
@@ -3300,14 +3105,25 @@
         "family": "dark",
         "type": "Fiend / Effect"
     },
+    {
         "name": "Mefist the Infernal General",
+        "numbers": [
+            {
+                "name": "Dark Crisis",
+                "print_tag": "DCR-EN066",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Mefist the Infernal General",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-066",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 36.44,
                             "low": 0.99,
@@ -3324,6 +3140,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -3331,28 +3149,23 @@
     },
     {
         "name": "Metallizing Parasite - Lunatite",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN074",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
         "type": "Aqua / Union"
     },
+    {
         "name": "Metallizing Parasite - Lunatite",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-074",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.7,
                             "low": 0.99,
@@ -3369,6 +3182,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -3376,13 +3191,11 @@
     },
     {
         "name": "Mirage Knight",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN018",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.24,
                             "low": 14.24,
@@ -3399,6 +3212,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -3406,13 +3221,11 @@
     },
     {
         "name": "Mirage Knight",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-018",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 12.02,
                             "low": 1.95,
@@ -3429,6 +3242,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -3436,28 +3251,23 @@
     },
     {
         "name": "Morale Boost",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN042",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
         "type": null
     },
+    {
         "name": "Morale Boost",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-042",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.31,
                             "low": 0.54,
@@ -3474,6 +3284,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -3481,13 +3293,11 @@
     },
     {
         "name": "Mudora",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN076",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.93,
                             "low": 5.0,
@@ -3504,6 +3314,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3511,13 +3323,11 @@
     },
     {
         "name": "Mudora",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-076",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 62.07,
                             "low": 0.56,
@@ -3534,6 +3344,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3541,28 +3353,23 @@
     },
     {
         "name": "Mustering of the Dark Scorpions",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN093",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Mustering of the Dark Scorpions",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-093",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.54,
@@ -3579,6 +3386,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -3586,28 +3395,23 @@
     },
     {
         "name": "Nin-Ken Dog",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN002",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
         "type": "Beast-Warrior"
     },
+    {
         "name": "Nin-Ken Dog",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-002",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.46,
                             "low": 0.54,
@@ -3624,6 +3428,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -3631,28 +3437,23 @@
     },
     {
         "name": "Non-Spellcasting Area",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN043",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
         "type": null
     },
+    {
         "name": "Non-Spellcasting Area",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-043",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.54,
@@ -3669,6 +3470,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -3676,28 +3479,23 @@
     },
     {
         "name": "Ojama Green",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN056",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
         "type": "Beast"
     },
+    {
         "name": "Ojama Green",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-056",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.84,
                             "low": 1.35,
@@ -3714,6 +3512,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -3721,28 +3521,23 @@
     },
     {
         "name": "Ojama Trio",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN047",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Ojama Trio",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-047",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.75,
                             "low": 1.05,
@@ -3759,6 +3554,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -3766,28 +3563,23 @@
     },
     {
         "name": "Outstanding Dog Marron",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN062",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
         "type": "Beast / Effect"
     },
+    {
         "name": "Outstanding Dog Marron",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-062",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.54,
@@ -3804,6 +3596,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -3811,28 +3605,23 @@
     },
     {
         "name": "Pandemonium",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN094",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
         "type": null
     },
+    {
         "name": "Pandemonium",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-094",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.24,
                             "low": 0.54,
@@ -3849,6 +3638,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -3856,28 +3647,23 @@
     },
     {
         "name": "Pandemonium Watchbear",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN058",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
         "type": "Beast / Effect"
     },
+    {
         "name": "Pandemonium Watchbear",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-058",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.22,
                             "low": 0.99,
@@ -3894,6 +3680,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -3901,13 +3689,11 @@
     },
     {
         "name": "Precious Cards from Beyond",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN038",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.35,
                             "low": 9.35,
@@ -3924,6 +3710,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -3931,13 +3719,11 @@
     },
     {
         "name": "Precious Cards from Beyond",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-038",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.57,
                             "low": 0.54,
@@ -3954,6 +3740,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -3961,28 +3749,23 @@
     },
     {
         "name": "Ray of Hope",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN103",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Ray of Hope",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-103",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.22,
                             "low": 0.54,
@@ -3999,20 +3782,6 @@
                         }
                     }
                 }
-        "card_type": "trap",
-        "property": "Normal",
-        "family": null,
-        "type": null
-    },
-    {
-        "name": "Really Eternal Rest",
-                "name": "Dark Crisis",
-                "print_tag": "DCR-EN050",
-                "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
             }
         ],
         "card_type": "trap",
@@ -4020,14 +3789,25 @@
         "family": null,
         "type": null
     },
+    {
         "name": "Really Eternal Rest",
+        "numbers": [
+            {
+                "name": "Dark Crisis",
+                "print_tag": "DCR-EN050",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Really Eternal Rest",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-050",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.54,
@@ -4044,6 +3824,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -4051,13 +3833,11 @@
     },
     {
         "name": "Reflect Bounder",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN012",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.03,
                             "low": 14.03,
@@ -4074,6 +3854,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -4081,13 +3863,11 @@
     },
     {
         "name": "Reflect Bounder",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-012",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 34.9,
                             "low": 4.68,
@@ -4104,6 +3884,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -4111,28 +3893,23 @@
     },
     {
         "name": "Rod of Silence - Kay'est",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN036",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
         "type": null
     },
+    {
         "name": "Rod of Silence - Kay'est",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-036",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.73,
                             "low": 0.54,
@@ -4149,20 +3926,6 @@
                         }
                     }
                 }
-        "card_type": "spell",
-        "property": "Equip",
-        "family": null,
-        "type": null
-    },
-    {
-        "name": "Rod of the Mind's Eye",
-                "name": "Dark Crisis",
-                "print_tag": "DCR-EN039",
-                "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
             }
         ],
         "card_type": "spell",
@@ -4170,14 +3933,25 @@
         "family": null,
         "type": null
     },
+    {
         "name": "Rod of the Mind's Eye",
+        "numbers": [
+            {
+                "name": "Dark Crisis",
+                "print_tag": "DCR-EN039",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Rod of the Mind's Eye",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-039",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.31,
                             "low": 0.54,
@@ -4194,6 +3968,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -4201,13 +3977,11 @@
     },
     {
         "name": "Sakuretsu Armor",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN102",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.35,
                             "low": 9.35,
@@ -4224,6 +3998,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -4231,13 +4007,11 @@
     },
     {
         "name": "Sakuretsu Armor",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-102",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.2,
                             "low": 0.54,
@@ -4254,6 +4028,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -4261,28 +4037,23 @@
     },
     {
         "name": "Sasuke Samurai 2",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN059",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
         "type": "Warrior / Effect"
     },
+    {
         "name": "Sasuke Samurai 2",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-059",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.99,
@@ -4299,6 +4070,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -4306,28 +4079,23 @@
     },
     {
         "name": "Shadowknight Archfiend",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN068",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
         "type": "Fiend / Effect"
     },
+    {
         "name": "Shadowknight Archfiend",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-068",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.73,
                             "low": 0.65,
@@ -4344,6 +4112,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -4351,28 +4121,23 @@
     },
     {
         "name": "Shinato's Ark",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN029",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Ritual",
         "family": null,
         "type": null
     },
+    {
         "name": "Shinato's Ark",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-029",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.5,
                             "low": 0.69,
@@ -4389,6 +4154,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Ritual",
         "family": null,
@@ -4396,28 +4163,23 @@
     },
     {
         "name": "Shinato, King of a Higher Plane",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN016",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
         "type": "Fairy / Ritual"
     },
+    {
         "name": "Shinato, King of a Higher Plane",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-016",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 68.49,
                             "low": 6.0,
@@ -4434,6 +4196,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -4441,28 +4205,23 @@
     },
     {
         "name": "Shooting Star Bow - Ceal",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN033",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
         "type": null
     },
+    {
         "name": "Shooting Star Bow - Ceal",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-033",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.03,
                             "low": 0.54,
@@ -4479,6 +4238,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -4486,13 +4247,11 @@
     },
     {
         "name": "Skill Drain",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN049",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 23.17,
                             "low": 23.17,
@@ -4509,6 +4268,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -4516,13 +4277,11 @@
     },
     {
         "name": "Skill Drain",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-049",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.03,
                             "low": 6.06,
@@ -4539,6 +4298,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -4546,28 +4307,23 @@
     },
     {
         "name": "Skull Archfiend of Lightning",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN073",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
         "type": "Fiend / Effect"
     },
+    {
         "name": "Skull Archfiend of Lightning",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-073",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 50.0,
                             "low": 3.99,
@@ -4584,6 +4340,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -4591,28 +4349,23 @@
     },
     {
         "name": "Spell Reproduction",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN083",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Spell Reproduction",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-083",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.23,
                             "low": 0.54,
@@ -4629,6 +4382,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -4636,28 +4391,23 @@
     },
     {
         "name": "Spell Vanishing",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN101",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
         "type": null
     },
+    {
         "name": "Spell Vanishing",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-101",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 10.42,
                             "low": 1.0,
@@ -4674,6 +4424,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -4681,28 +4433,23 @@
     },
     {
         "name": "Staunch Defender",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN046",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Staunch Defender",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-046",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.56,
                             "low": 0.99,
@@ -4719,6 +4466,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -4726,13 +4475,11 @@
     },
     {
         "name": "Terrorking Archfiend",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN072",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.35,
                             "low": 9.35,
@@ -4749,6 +4496,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -4756,13 +4505,11 @@
     },
     {
         "name": "Terrorking Archfiend",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-072",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 40.98,
                             "low": 2.23,
@@ -4779,6 +4526,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -4786,28 +4535,23 @@
     },
     {
         "name": "Thousand Needles",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN028",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
         "type": "Beast / Effect"
     },
+    {
         "name": "Thousand Needles",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-028",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.07,
                             "low": 0.54,
@@ -4824,6 +4568,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -4831,28 +4577,23 @@
     },
     {
         "name": "Token Thanksgiving",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN041",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
         "type": null
     },
+    {
         "name": "Token Thanksgiving",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-041",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 15.22,
                             "low": 0.54,
@@ -4869,6 +4610,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -4876,28 +4619,23 @@
     },
     {
         "name": "Tsukuyomi",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN075",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
         "type": "Spellcaster / Spirit"
     },
+    {
         "name": "Tsukuyomi",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-075",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 23.07,
                             "low": 1.69,
@@ -4914,6 +4652,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -4921,13 +4661,11 @@
     },
     {
         "name": "Twin Swords of Flashing Light - Tryce",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN037",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 15.17,
                             "low": 15.17,
@@ -4944,6 +4682,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -4951,13 +4691,11 @@
     },
     {
         "name": "Twin Swords of Flashing Light - Tryce",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-037",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.73,
                             "low": 0.54,
@@ -4974,6 +4712,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -4981,13 +4721,11 @@
     },
     {
         "name": "Vampire Lord",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN000",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 28.91,
                             "low": 28.27,
@@ -5004,6 +4742,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -5011,13 +4751,11 @@
     },
     {
         "name": "Vampire Lord",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-000",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 499.99,
                             "low": 7.07,
@@ -5034,6 +4772,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -5041,28 +4781,23 @@
     },
     {
         "name": "Vilepawn Archfiend",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN067",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
         "type": "Fiend / Effect"
     },
+    {
         "name": "Vilepawn Archfiend",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-067",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.16,
                             "low": 0.54,
@@ -5079,6 +4814,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -5086,28 +4823,23 @@
     },
     {
         "name": "Wicked-Breaking Flamberge - Baou",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN035",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
         "type": null
     },
+    {
         "name": "Wicked-Breaking Flamberge - Baou",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-035",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 36.44,
                             "low": 0.65,
@@ -5124,6 +4856,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -5131,28 +4865,23 @@
     },
     {
         "name": "Zolga",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-EN079",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "fail",
-                    "message": "Unable to find prices for this card."
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
         "type": "Fairy / Effect"
     },
+    {
         "name": "Zolga",
+        "numbers": [
+            {
                 "name": "Dark Crisis",
                 "print_tag": "DCR-079",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.44,
                             "low": 0.65,
@@ -5169,6 +4898,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",

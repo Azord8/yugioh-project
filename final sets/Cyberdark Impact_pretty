@@ -4,26 +4,6 @@
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN013",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
-                        "prices": {
-                            "high": 18.35,
-                            "low": 0.92,
-                            "average": 0.91,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": -0.141509433962264,
-                            "shift_180": -0.0319148936170213,
-                            "shift_365": 0.0,
-                            "updated_at": "2018-09-19 10:11:59 -0600"
-                        }
-                    }
-                }
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -31,13 +11,11 @@
     },
     {
         "name": "Accumulated Fortune",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN057",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.46,
@@ -54,6 +32,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -61,13 +41,11 @@
     },
     {
         "name": "Alien Infiltrator",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN033",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.97,
@@ -84,6 +62,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -91,13 +71,11 @@
     },
     {
         "name": "Alien Mars",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN034",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.06,
                             "low": 0.99,
@@ -114,6 +92,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -121,13 +101,11 @@
     },
     {
         "name": "Allure Queen LV3",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN006",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.59,
                             "low": 0.54,
@@ -144,6 +122,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -151,13 +131,11 @@
     },
     {
         "name": "Allure Queen LV5",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN007",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.5,
                             "low": 0.77,
@@ -174,6 +152,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -181,13 +161,11 @@
     },
     {
         "name": "Allure Queen LV5",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN007",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.52,
                             "low": 4.34,
@@ -204,6 +182,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -211,13 +191,11 @@
     },
     {
         "name": "Allure Queen LV7",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN008",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 22.67,
                             "low": 2.87,
@@ -234,6 +212,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -241,13 +221,11 @@
     },
     {
         "name": "Allure Queen LV7",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN008",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 27.82,
                             "low": 3.27,
@@ -264,6 +242,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -271,13 +251,11 @@
     },
     {
         "name": "Barrier Statue of the Abyss",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN018",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.51,
                             "low": 0.8,
@@ -294,6 +272,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -301,13 +281,11 @@
     },
     {
         "name": "Barrier Statue of the Drought",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN022",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.54,
@@ -324,6 +302,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -331,13 +311,11 @@
     },
     {
         "name": "Barrier Statue of the Heavens",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN023",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.81,
                             "low": 2.08,
@@ -354,6 +332,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -361,13 +341,11 @@
     },
     {
         "name": "Barrier Statue of the Inferno",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN020",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.54,
@@ -384,6 +362,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -391,13 +371,11 @@
     },
     {
         "name": "Barrier Statue of the Stormwinds",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN021",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.51,
                             "low": 0.57,
@@ -414,6 +392,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -421,13 +401,11 @@
     },
     {
         "name": "Barrier Statue of the Torrent",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN019",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.07,
                             "low": 0.54,
@@ -444,6 +422,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -451,13 +431,11 @@
     },
     {
         "name": "Black Horn of Heaven",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN060",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.35,
                             "low": 1.09,
@@ -474,6 +452,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -481,13 +461,11 @@
     },
     {
         "name": "Black Horn of Heaven",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN060",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.72,
                             "low": 5.8,
@@ -504,6 +482,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -511,13 +491,11 @@
     },
     {
         "name": "Blast Asmodian",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN016",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.99,
                             "low": 0.42,
@@ -534,6 +512,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -541,13 +521,11 @@
     },
     {
         "name": "Blasting Fuse",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN049",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.77,
@@ -564,6 +542,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -571,13 +551,11 @@
     },
     {
         "name": "Blasting Fuse",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN049",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.15,
                             "low": 3.25,
@@ -594,6 +572,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -601,13 +581,11 @@
     },
     {
         "name": "Byroad Sacrifice",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN055",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.99,
                             "low": 0.54,
@@ -624,6 +602,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -631,13 +611,11 @@
     },
     {
         "name": "Chain Detonation",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN054",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.33,
                             "low": 0.99,
@@ -654,6 +632,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -661,13 +641,11 @@
     },
     {
         "name": "Chain Healing",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN053",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.24,
                             "low": 0.54,
@@ -684,6 +662,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -691,13 +671,11 @@
     },
     {
         "name": "Chain Strike",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN043",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.74,
                             "low": 0.99,
@@ -714,6 +692,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -721,13 +701,11 @@
     },
     {
         "name": "Combo Fighter",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN028",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.59,
                             "low": 0.54,
@@ -744,6 +722,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -751,13 +731,11 @@
     },
     {
         "name": "Combo Master",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN029",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.54,
                             "low": 0.77,
@@ -774,6 +752,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -781,13 +761,11 @@
     },
     {
         "name": "Combo Master",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN029",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.07,
                             "low": 1.58,
@@ -804,6 +782,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -811,13 +791,11 @@
     },
     {
         "name": "Corruption Cell \"A\"",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN037",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.99,
                             "low": 0.54,
@@ -834,6 +812,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -841,13 +821,11 @@
     },
     {
         "name": "Counter Cleaner",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN041",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.24,
                             "low": 0.54,
@@ -864,6 +842,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -871,13 +851,11 @@
     },
     {
         "name": "Cyber Esper",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN005",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.74,
                             "low": 0.58,
@@ -894,6 +872,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -901,13 +881,11 @@
     },
     {
         "name": "Cyber Esper",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN005",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.64,
                             "low": 4.03,
@@ -924,6 +902,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -931,13 +911,11 @@
     },
     {
         "name": "Cyber Ogre",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN004",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.54,
@@ -954,6 +932,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -961,13 +941,11 @@
     },
     {
         "name": "Cyber Ogre 2",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN036",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 43.98,
                             "low": 3.95,
@@ -984,6 +962,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -991,13 +971,11 @@
     },
     {
         "name": "Cyber Ogre 2",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN036",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 51.51,
                             "low": 14.08,
@@ -1014,6 +992,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1021,13 +1001,11 @@
     },
     {
         "name": "Cyber Shadow Gardna",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN058",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.43,
                             "low": 1.49,
@@ -1044,6 +1022,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -1051,13 +1031,11 @@
     },
     {
         "name": "Cyber Shadow Gardna",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN058",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 49.99,
                             "low": 6.06,
@@ -1074,6 +1052,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -1081,13 +1061,11 @@
     },
     {
         "name": "Cyberdark Dragon",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN035",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 53.51,
                             "low": 8.0,
@@ -1104,6 +1082,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1111,13 +1091,11 @@
     },
     {
         "name": "Cyberdark Dragon",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN035",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 88.81,
                             "low": 6.97,
@@ -1134,6 +1112,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1141,13 +1121,11 @@
     },
     {
         "name": "Cyberdark Edge",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN002",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.52,
                             "low": 2.99,
@@ -1164,6 +1142,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1171,13 +1151,11 @@
     },
     {
         "name": "Cyberdark Edge",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN002",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 46.47,
                             "low": 1.83,
@@ -1194,6 +1172,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1201,13 +1181,11 @@
     },
     {
         "name": "Cyberdark Horn",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN001",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.51,
                             "low": 1.54,
@@ -1224,6 +1202,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1231,13 +1211,11 @@
     },
     {
         "name": "Cyberdark Horn",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN001",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 23.85,
                             "low": 11.22,
@@ -1254,6 +1232,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1261,13 +1241,11 @@
     },
     {
         "name": "Cyberdark Keel",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN003",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 30.0,
                             "low": 2.5,
@@ -1284,6 +1262,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1291,13 +1271,11 @@
     },
     {
         "name": "Cyberdark Keel",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN003",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 31.16,
                             "low": 9.69,
@@ -1314,6 +1292,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1321,13 +1301,11 @@
     },
     {
         "name": "Dark Lucius LV4",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN009",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.74,
                             "low": 0.43,
@@ -1344,6 +1322,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1351,13 +1331,11 @@
     },
     {
         "name": "Dark Lucius LV6",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN010",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.96,
                             "low": 0.77,
@@ -1374,6 +1352,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1381,13 +1361,11 @@
     },
     {
         "name": "Dark Lucius LV6",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN010",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 24.74,
                             "low": 1.32,
@@ -1404,6 +1382,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1411,13 +1391,11 @@
     },
     {
         "name": "Dark Lucius LV8",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN011",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.15,
                             "low": 3.31,
@@ -1434,6 +1412,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1441,13 +1421,11 @@
     },
     {
         "name": "Dark Lucius LV8",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN011",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.33,
                             "low": 1.75,
@@ -1464,6 +1442,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1471,13 +1451,11 @@
     },
     {
         "name": "Degenerate Circuit",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN047",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 17.71,
                             "low": 0.99,
@@ -1494,6 +1472,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -1501,13 +1481,11 @@
     },
     {
         "name": "Degenerate Circuit",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN047",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.95,
                             "low": 3.87,
@@ -1524,6 +1502,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -1531,13 +1511,11 @@
     },
     {
         "name": "Dimensional Inversion",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN052",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.73,
                             "low": 0.77,
@@ -1554,6 +1532,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1561,13 +1541,11 @@
     },
     {
         "name": "Dimensional Inversion",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN052",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 26.48,
                             "low": 1.2,
@@ -1584,6 +1562,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1591,13 +1571,11 @@
     },
     {
         "name": "Flame Ogre",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN014",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.74,
                             "low": 0.97,
@@ -1614,6 +1592,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -1621,13 +1601,11 @@
     },
     {
         "name": "Flash of the Forbidden Spell",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN038",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.22,
                             "low": 0.77,
@@ -1644,6 +1622,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1651,13 +1631,11 @@
     },
     {
         "name": "Flash of the Forbidden Spell",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN038",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.07,
                             "low": 2.99,
@@ -1674,6 +1652,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1681,13 +1661,11 @@
     },
     {
         "name": "Instant Fusion",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN040",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.79,
                             "low": 1.54,
@@ -1704,6 +1682,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1711,13 +1691,11 @@
     },
     {
         "name": "Iris, the Earth Mother",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN025",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.77,
@@ -1734,6 +1712,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1741,13 +1721,11 @@
     },
     {
         "name": "Iris, the Earth Mother",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN025",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.54,
                             "low": 2.8,
@@ -1764,6 +1742,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1771,13 +1751,11 @@
     },
     {
         "name": "Justi-Break",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN051",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.99,
                             "low": 0.55,
@@ -1794,6 +1772,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1801,13 +1781,11 @@
     },
     {
         "name": "Level Down!?",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN046",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.43,
@@ -1824,6 +1802,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -1831,13 +1811,11 @@
     },
     {
         "name": "Lightning Punisher",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN026",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.77,
                             "low": 0.77,
@@ -1854,6 +1832,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1861,13 +1841,11 @@
     },
     {
         "name": "Lightning Punisher",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN026",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.99,
                             "low": 3.42,
@@ -1884,6 +1862,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1891,13 +1871,11 @@
     },
     {
         "name": "Linear Accelerator Cannon",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN042",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.33,
                             "low": 0.54,
@@ -1914,6 +1892,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1921,13 +1901,11 @@
     },
     {
         "name": "Man Beast of Ares",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN030",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.42,
                             "low": 0.39,
@@ -1944,6 +1922,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1951,13 +1931,11 @@
     },
     {
         "name": "Miraculous Rebirth",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN044",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.98,
                             "low": 0.77,
@@ -1974,6 +1952,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -1981,13 +1961,11 @@
     },
     {
         "name": "Miraculous Rebirth",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN044",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.06,
                             "low": 1.7,
@@ -2004,6 +1982,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -2011,13 +1991,11 @@
     },
     {
         "name": "Mystical Wind Typhoon",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN045",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.33,
                             "low": 0.54,
@@ -2034,6 +2012,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -2041,13 +2021,11 @@
     },
     {
         "name": "Queen's Bodyguard",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN027",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.33,
                             "low": 0.42,
@@ -2064,6 +2042,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2071,13 +2051,11 @@
     },
     {
         "name": "Rampaging Rhynos",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN031",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.98,
                             "low": 0.99,
@@ -2094,6 +2072,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2101,13 +2081,11 @@
     },
     {
         "name": "Rampaging Rhynos",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN031",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.17,
                             "low": 1.4,
@@ -2124,6 +2102,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2131,13 +2111,11 @@
     },
     {
         "name": "Ritual Foregone",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN039",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.42,
                             "low": 0.66,
@@ -2154,6 +2132,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2161,13 +2141,11 @@
     },
     {
         "name": "Senet Switch",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN048",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.54,
@@ -2184,6 +2162,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -2191,13 +2171,11 @@
     },
     {
         "name": "Snipe Hunter",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN015",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.54,
@@ -2214,6 +2192,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2221,13 +2201,11 @@
     },
     {
         "name": "Storm Shooter",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN032",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.52,
@@ -2244,6 +2222,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -2251,13 +2231,11 @@
     },
     {
         "name": "Storm Shooter",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN032",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.77,
                             "low": 3.43,
@@ -2274,6 +2252,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -2281,13 +2261,11 @@
     },
     {
         "name": "Straight Flush",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN050",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.54,
@@ -2304,6 +2282,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2311,13 +2291,11 @@
     },
     {
         "name": "Stray Asmodian",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN012",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.42,
                             "low": 0.54,
@@ -2334,6 +2312,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2341,13 +2321,11 @@
     },
     {
         "name": "Trojan Blast",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN056",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.76,
                             "low": 0.53,
@@ -2364,6 +2342,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2371,13 +2351,11 @@
     },
     {
         "name": "Trojan Blast",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN056",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 22.59,
                             "low": 3.98,
@@ -2394,6 +2372,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2401,13 +2381,11 @@
     },
     {
         "name": "Vanity's Call",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN059",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.58,
                             "low": 0.99,
@@ -2424,6 +2402,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -2431,13 +2411,11 @@
     },
     {
         "name": "Vanity's Fiend",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN017",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 50.0,
                             "low": 2.0,
@@ -2454,6 +2432,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2461,13 +2441,11 @@
     },
     {
         "name": "Vanity's Fiend",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN017",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 44.98,
                             "low": 16.0,
@@ -2484,6 +2462,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2491,13 +2471,11 @@
     },
     {
         "name": "Vanity's Ruler",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN024",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 17.84,
                             "low": 1.7,
@@ -2514,6 +2492,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2521,13 +2501,11 @@
     },
     {
         "name": "Vanity's Ruler",
+        "numbers": [
+            {
                 "name": "Cyberdark Impact",
                 "print_tag": "CDIP-EN024",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.16,
                             "low": 4.98,
@@ -2544,6 +2522,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",

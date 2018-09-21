@@ -4,26 +4,6 @@
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN007",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
-                        "prices": {
-                            "high": 14.49,
-                            "low": 0.99,
-                            "average": 1.11,
-                            "shift": -0.0512820512820513,
-                            "shift_3": -0.159090909090909,
-                            "shift_7": -0.0512820512820513,
-                            "shift_21": -0.165413533834586,
-                            "shift_30": 0.0,
-                            "shift_90": -0.0263157894736842,
-                            "shift_180": -0.0672268907563025,
-                            "shift_365": -0.171641791044776,
-                            "updated_at": "2018-09-19 09:16:24 -0600"
-                        }
-                    }
-                }
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -31,13 +11,11 @@
     },
     {
         "name": "Ancient Gear Beast",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN007",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.16,
                             "low": 2.09,
@@ -54,6 +32,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -61,13 +41,11 @@
     },
     {
         "name": "Ancient Gear Golem",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN006",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 25.77,
                             "low": 16.0,
@@ -84,6 +62,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -91,13 +71,11 @@
     },
     {
         "name": "Ancient Gear Golem",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN006",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 603.7,
                             "low": 65.73,
@@ -114,6 +92,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -121,13 +101,11 @@
     },
     {
         "name": "Ancient Gear Soldier",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN008",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.75,
@@ -144,6 +122,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -151,13 +131,11 @@
     },
     {
         "name": "Aussa the Earth Charmer",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN026",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.79,
                             "low": 0.58,
@@ -174,6 +152,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -181,13 +161,11 @@
     },
     {
         "name": "Battery Charger",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN041",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.23,
                             "low": 0.98,
@@ -204,6 +182,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -211,13 +191,11 @@
     },
     {
         "name": "Batteryman AA",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN030",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.99,
                             "low": 0.5,
@@ -234,6 +212,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -241,13 +221,11 @@
     },
     {
         "name": "Brain Control",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN038",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 22.67,
                             "low": 0.97,
@@ -264,6 +242,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -271,13 +251,11 @@
     },
     {
         "name": "Brain Control",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN038",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 47.0,
                             "low": 13.99,
@@ -294,6 +272,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -301,13 +281,11 @@
     },
     {
         "name": "Card of Sanctity",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN037",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.07,
                             "low": 0.77,
@@ -324,6 +302,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -331,13 +311,11 @@
     },
     {
         "name": "Card of Sanctity",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN037",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 73.49,
                             "low": 11.33,
@@ -354,6 +332,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -361,13 +341,11 @@
     },
     {
         "name": "Criosphinx",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN013",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.22,
                             "low": 0.77,
@@ -384,6 +362,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -391,13 +371,11 @@
     },
     {
         "name": "Criosphinx",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN013",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.43,
                             "low": 2.0,
@@ -414,6 +392,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -421,13 +401,11 @@
     },
     {
         "name": "D.D. Survivor",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN023",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.87,
                             "low": 0.52,
@@ -444,6 +422,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -451,13 +431,11 @@
     },
     {
         "name": "D.D. Survivor",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN023",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.16,
                             "low": 1.0,
@@ -474,6 +452,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -481,13 +461,11 @@
     },
     {
         "name": "Des Wombat",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN031",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.99,
                             "low": 0.99,
@@ -504,6 +482,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -511,13 +491,11 @@
     },
     {
         "name": "Doriado's Blessing",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN043",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.46,
                             "low": 0.5,
@@ -534,6 +512,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Ritual",
         "family": null,
@@ -541,13 +521,11 @@
     },
     {
         "name": "Double Attack",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN040",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.43,
                             "low": 0.33,
@@ -564,6 +542,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -571,13 +551,11 @@
     },
     {
         "name": "Dummy Golem",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN016",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.99,
                             "low": 0.99,
@@ -594,6 +572,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -601,13 +581,11 @@
     },
     {
         "name": "Elemental HERO Avian",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN001",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.88,
                             "low": 0.99,
@@ -624,6 +602,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -631,13 +611,11 @@
     },
     {
         "name": "Elemental HERO Burstinatrix",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN002",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.0,
                             "low": 0.39,
@@ -654,6 +632,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -661,13 +641,11 @@
     },
     {
         "name": "Elemental HERO Clayman",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN003",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.79,
                             "low": 1.0,
@@ -684,6 +662,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -691,13 +671,11 @@
     },
     {
         "name": "Elemental HERO Flame Wingman",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN035",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 203.98,
                             "low": 7.94,
@@ -714,6 +692,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -721,13 +701,11 @@
     },
     {
         "name": "Elemental HERO Flame Wingman",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN035",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 399.7,
                             "low": 14.82,
@@ -744,6 +722,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -751,13 +731,11 @@
     },
     {
         "name": "Elemental HERO Sparkman",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN004",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.07,
                             "low": 0.93,
@@ -774,6 +752,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -781,13 +761,11 @@
     },
     {
         "name": "Elemental HERO Thunder Giant",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN036",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 82.07,
                             "low": 4.0,
@@ -804,6 +782,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -811,13 +791,11 @@
     },
     {
         "name": "Elemental HERO Thunder Giant",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN036",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 303.98,
                             "low": 24.99,
@@ -834,6 +812,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -841,13 +821,11 @@
     },
     {
         "name": "Elemental Mistress Doriado",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN034",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.61,
@@ -864,6 +842,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -871,13 +851,11 @@
     },
     {
         "name": "Elemental Mistress Doriado",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN034",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 32.5,
                             "low": 3.0,
@@ -894,6 +872,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -901,13 +881,11 @@
     },
     {
         "name": "Eria the Water Charmer",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN027",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.49,
                             "low": 0.99,
@@ -924,6 +902,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -931,13 +911,11 @@
     },
     {
         "name": "Final Ritual of the Ancients",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN044",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 15.11,
                             "low": 0.75,
@@ -954,6 +932,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Ritual",
         "family": null,
@@ -961,13 +941,11 @@
     },
     {
         "name": "Gift of the Martyr",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN039",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.82,
                             "low": 0.65,
@@ -984,6 +962,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -991,13 +971,11 @@
     },
     {
         "name": "Grave Lure",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN056",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.43,
                             "low": 0.65,
@@ -1014,6 +992,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1021,13 +1001,11 @@
     },
     {
         "name": "Grave Ohja",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN017",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.99,
@@ -1044,6 +1022,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1051,13 +1031,11 @@
     },
     {
         "name": "Grave Ohja",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN017",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 22.59,
                             "low": 1.4,
@@ -1074,6 +1052,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1081,13 +1061,11 @@
     },
     {
         "name": "Guardian Statue",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN021",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.0,
                             "low": 0.57,
@@ -1104,6 +1082,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1111,13 +1091,11 @@
     },
     {
         "name": "Hero Signal",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN049",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.37,
                             "low": 0.57,
@@ -1134,6 +1112,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1141,13 +1121,11 @@
     },
     {
         "name": "Hero Signal",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN049",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 27.72,
                             "low": 2.65,
@@ -1164,6 +1142,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1171,13 +1151,11 @@
     },
     {
         "name": "Hieracosphinx",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN012",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 15.11,
                             "low": 0.63,
@@ -1194,6 +1172,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1201,13 +1181,11 @@
     },
     {
         "name": "Hieracosphinx",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN012",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 17.17,
                             "low": 3.0,
@@ -1224,6 +1202,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1231,13 +1211,11 @@
     },
     {
         "name": "Hiita the Fire Charmer",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN028",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.99,
@@ -1254,6 +1232,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -1261,13 +1241,11 @@
     },
     {
         "name": "Impenetrable Formation",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN048",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.39,
@@ -1284,6 +1262,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -1291,13 +1271,11 @@
     },
     {
         "name": "Kaminote Blow",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN042",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.23,
                             "low": 0.67,
@@ -1314,6 +1292,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1321,13 +1301,11 @@
     },
     {
         "name": "King of the Skull Servants",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN032",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.07,
                             "low": 1.0,
@@ -1344,6 +1322,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1351,13 +1331,11 @@
     },
     {
         "name": "Kozaky's Self-Destruct Button",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN052",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.69,
                             "low": 0.77,
@@ -1374,6 +1352,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1381,13 +1361,11 @@
     },
     {
         "name": "Kozaky's Self-Destruct Button",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN052",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.43,
                             "low": 1.62,
@@ -1404,6 +1382,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1411,13 +1391,11 @@
     },
     {
         "name": "Legendary Black Belt",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN045",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.39,
@@ -1434,6 +1412,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -1441,13 +1421,11 @@
     },
     {
         "name": "Legendary Black Belt",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN045",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 32.5,
                             "low": 1.17,
@@ -1464,6 +1442,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -1471,13 +1451,11 @@
     },
     {
         "name": "Level Conversion Lab",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN054",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.43,
                             "low": 0.67,
@@ -1494,6 +1472,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1501,13 +1481,11 @@
     },
     {
         "name": "Lone Wolf",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN060",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.99,
                             "low": 0.39,
@@ -1524,6 +1502,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -1531,13 +1511,11 @@
     },
     {
         "name": "Lost Guardian",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN011",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.23,
                             "low": 0.53,
@@ -1554,6 +1532,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1561,13 +1541,11 @@
     },
     {
         "name": "Master Monk",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN020",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.52,
                             "low": 0.55,
@@ -1584,6 +1562,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1591,13 +1571,11 @@
     },
     {
         "name": "Master Monk",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN020",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 11.98,
                             "low": 1.14,
@@ -1614,6 +1592,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1621,13 +1601,11 @@
     },
     {
         "name": "Medusa Worm",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN022",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.56,
                             "low": 0.99,
@@ -1644,6 +1622,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1651,13 +1631,11 @@
     },
     {
         "name": "Megarock Dragon",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN015",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 16.9,
                             "low": 0.77,
@@ -1674,6 +1652,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1681,13 +1661,11 @@
     },
     {
         "name": "Megarock Dragon",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN015",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 27.49,
                             "low": 7.63,
@@ -1704,6 +1682,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1711,13 +1691,11 @@
     },
     {
         "name": "Mid Shield Gardna",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN024",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.07,
                             "low": 0.99,
@@ -1734,6 +1712,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1741,13 +1721,11 @@
     },
     {
         "name": "Mid Shield Gardna",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN024",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.51,
                             "low": 1.17,
@@ -1764,6 +1742,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1771,13 +1751,11 @@
     },
     {
         "name": "Millennium Scorpion",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN009",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.99,
@@ -1794,6 +1772,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1801,13 +1781,11 @@
     },
     {
         "name": "Millennium Scorpion",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN009",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 24.83,
                             "low": 2.53,
@@ -1824,6 +1802,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1831,13 +1811,11 @@
     },
     {
         "name": "Mine Golem",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN018",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 13.83,
                             "low": 0.99,
@@ -1854,6 +1832,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1861,13 +1841,11 @@
     },
     {
         "name": "Minefield Eruption",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN051",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.43,
                             "low": 0.67,
@@ -1884,6 +1862,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1891,13 +1871,11 @@
     },
     {
         "name": "Mispolymerization",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN053",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.23,
                             "low": 0.53,
@@ -1914,6 +1892,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1921,13 +1901,11 @@
     },
     {
         "name": "Moai Interceptor Cannons",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN014",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.43,
                             "low": 0.9,
@@ -1944,6 +1922,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1951,13 +1931,11 @@
     },
     {
         "name": "Monk Fighter",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN019",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.23,
                             "low": 0.65,
@@ -1974,6 +1952,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1981,13 +1961,11 @@
     },
     {
         "name": "Nitro Unit",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN046",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.99,
@@ -2004,6 +1982,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -2011,13 +1991,11 @@
     },
     {
         "name": "Nitro Unit",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN046",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.07,
                             "low": 1.17,
@@ -2034,6 +2012,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -2041,13 +2021,11 @@
     },
     {
         "name": "Pikeru's Second Sight",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN050",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.99,
                             "low": 0.9,
@@ -2064,6 +2042,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2071,13 +2051,11 @@
     },
     {
         "name": "Reshef the Dark Being",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN033",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.88,
                             "low": 4.67,
@@ -2094,6 +2072,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2101,13 +2081,11 @@
     },
     {
         "name": "Reshef the Dark Being",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN033",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 59.99,
                             "low": 16.84,
@@ -2124,6 +2102,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2131,13 +2111,11 @@
     },
     {
         "name": "Rock Bombardment",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN055",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.99,
                             "low": 0.56,
@@ -2154,6 +2132,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2161,13 +2141,11 @@
     },
     {
         "name": "Royal Surrender",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN059",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.66,
                             "low": 0.77,
@@ -2184,6 +2162,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -2191,13 +2171,11 @@
     },
     {
         "name": "Royal Surrender",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN059",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.39,
                             "low": 1.17,
@@ -2214,6 +2192,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -2221,13 +2201,11 @@
     },
     {
         "name": "Shifting Shadows",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN047",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.43,
                             "low": 0.54,
@@ -2244,6 +2222,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -2251,13 +2231,11 @@
     },
     {
         "name": "Spell-Stopping Statute",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN058",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.99,
@@ -2274,6 +2252,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -2281,13 +2261,11 @@
     },
     {
         "name": "Spell-Stopping Statute",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN058",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.43,
                             "low": 1.3,
@@ -2304,6 +2282,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -2311,13 +2291,11 @@
     },
     {
         "name": "Token Feastevil",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN057",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.82,
                             "low": 0.53,
@@ -2334,6 +2312,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2341,13 +2321,11 @@
     },
     {
         "name": "Token Feastevil",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN057",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 24.11,
                             "low": 2.0,
@@ -2364,6 +2342,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2371,13 +2351,11 @@
     },
     {
         "name": "Ultimate Insect LV7",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN010",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.0,
                             "low": 1.0,
@@ -2394,6 +2372,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -2401,13 +2381,11 @@
     },
     {
         "name": "Ultimate Insect LV7",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN010",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.17,
                             "low": 10.13,
@@ -2424,6 +2402,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -2431,13 +2411,11 @@
     },
     {
         "name": "White Ninja",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN025",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.47,
                             "low": 0.65,
@@ -2454,6 +2432,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2461,13 +2441,11 @@
     },
     {
         "name": "Winged Kuriboh",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN005",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 33.55,
                             "low": 2.95,
@@ -2484,6 +2462,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2491,13 +2471,11 @@
     },
     {
         "name": "Winged Kuriboh",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN005",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 220.0,
                             "low": 18.4,
@@ -2514,6 +2492,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2521,13 +2501,11 @@
     },
     {
         "name": "Wynn the Wind Charmer",
+        "numbers": [
+            {
                 "name": "The Lost Millennium",
                 "print_tag": "TLM-EN029",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.59,
                             "low": 0.99,
@@ -2544,6 +2522,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",

@@ -4,26 +4,6 @@
                 "name": "Exclusive Pack",
                 "print_tag": "EP1-EN002",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
-                        "prices": {
-                            "high": 82.07,
-                            "low": 0.33,
-                            "average": 1.24,
-                            "shift": -0.0746268656716418,
-                            "shift_3": -0.0882352941176471,
-                            "shift_7": 0.00813008130081301,
-                            "shift_21": 0.00813008130081301,
-                            "shift_30": 0.0333333333333333,
-                            "shift_90": 0.0973451327433628,
-                            "shift_180": 0.148148148148148,
-                            "shift_365": -0.489711934156379,
-                            "updated_at": "2018-09-21 05:31:11 -0600"
-                        }
-                    }
-                }
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -31,13 +11,11 @@
     },
     {
         "name": "Familiar Knight",
+        "numbers": [
+            {
                 "name": "Exclusive Pack",
                 "print_tag": "EP1-EN006",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.02,
                             "low": 0.65,
@@ -54,6 +32,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -61,13 +41,11 @@
     },
     {
         "name": "Inferno Tempest",
+        "numbers": [
+            {
                 "name": "Exclusive Pack",
                 "print_tag": "EP1-EN007",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 15.17,
                             "low": 1.31,
@@ -84,6 +62,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -91,13 +71,11 @@
     },
     {
         "name": "Peten the Dark Clown",
+        "numbers": [
+            {
                 "name": "Exclusive Pack",
                 "print_tag": "EP1-EN005",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.1,
                             "low": 0.5,
@@ -114,6 +92,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -121,13 +101,11 @@
     },
     {
         "name": "Rare Metal Dragon",
+        "numbers": [
+            {
                 "name": "Exclusive Pack",
                 "print_tag": "EP1-EN004",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 0.35,
                             "low": 0.3,
@@ -144,6 +122,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -151,13 +131,11 @@
     },
     {
         "name": "Return from the Different Dimension",
+        "numbers": [
+            {
                 "name": "Exclusive Pack",
                 "print_tag": "EP1-EN008",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.5,
@@ -174,6 +152,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -181,13 +161,11 @@
     },
     {
         "name": "Sphinx Teleia",
+        "numbers": [
+            {
                 "name": "Exclusive Pack",
                 "print_tag": "EP1-EN003",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.7,
                             "low": 0.63,
@@ -204,6 +182,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -211,13 +191,11 @@
     },
     {
         "name": "Theinen the Great Sphinx",
+        "numbers": [
+            {
                 "name": "Exclusive Pack",
                 "print_tag": "EP1-EN001",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 39.72,
                             "low": 0.6,
@@ -234,6 +212,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",

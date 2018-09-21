@@ -4,26 +4,6 @@
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN033",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
-                        "prices": {
-                            "high": 15.27,
-                            "low": 0.54,
-                            "average": 0.89,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": -0.0111111111111111,
-                            "shift_30": -0.021978021978022,
-                            "shift_90": -0.0326086956521739,
-                            "shift_180": -0.0111111111111111,
-                            "shift_365": -0.021978021978022,
-                            "updated_at": "2018-09-19 04:18:14 -0600"
-                        }
-                    }
-                }
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -31,13 +11,11 @@
     },
     {
         "name": "A-Team: Trap Disposal Unit",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN033",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 27.0,
                             "low": 1.73,
@@ -54,6 +32,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -61,13 +41,11 @@
     },
     {
         "name": "Astral Barrier",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN059",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 13.83,
                             "low": 0.36,
@@ -84,6 +62,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -91,13 +71,11 @@
     },
     {
         "name": "Back to Square One",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN044",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.44,
                             "low": 0.65,
@@ -114,6 +92,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -121,13 +101,11 @@
     },
     {
         "name": "Ballista of Rampart Smashing",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN046",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.46,
@@ -144,6 +122,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -151,13 +131,11 @@
     },
     {
         "name": "Big Core",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN030",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.98,
                             "low": 0.51,
@@ -174,6 +152,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -181,13 +161,11 @@
     },
     {
         "name": "Big Core",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN030",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 25.67,
                             "low": 2.87,
@@ -204,6 +182,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -211,13 +191,11 @@
     },
     {
         "name": "Bokoichi the Freightening Car",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN003",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.47,
@@ -234,6 +212,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -241,13 +221,11 @@
     },
     {
         "name": "Chain Burst",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN056",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.15,
                             "low": 0.99,
@@ -264,6 +242,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -271,13 +251,11 @@
     },
     {
         "name": "Chain Burst",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN056",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 15.78,
                             "low": 1.58,
@@ -294,6 +272,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -301,13 +281,11 @@
     },
     {
         "name": "Covering Fire",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN060",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.43,
                             "low": 0.6,
@@ -324,6 +302,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -331,13 +311,11 @@
     },
     {
         "name": "Covering Fire",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN060",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.39,
                             "low": 0.99,
@@ -354,6 +332,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -361,13 +341,11 @@
     },
     {
         "name": "Creeping Doom Manta",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN025",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 15.35,
                             "low": 0.47,
@@ -384,6 +362,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -391,13 +371,11 @@
     },
     {
         "name": "Dark Blade the Dragon Knight",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN035",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 15.85,
                             "low": 0.99,
@@ -414,6 +392,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -421,13 +401,11 @@
     },
     {
         "name": "Dark Blade the Dragon Knight",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN035",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 26.99,
                             "low": 4.95,
@@ -444,6 +422,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -451,13 +431,11 @@
     },
     {
         "name": "Dekoichi the Battlechanted Locomotive",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN032",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.51,
                             "low": 0.74,
@@ -474,6 +452,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -481,13 +461,11 @@
     },
     {
         "name": "Dekoichi the Battlechanted Locomotive",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN032",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 40.65,
                             "low": 5.95,
@@ -504,6 +482,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -511,13 +491,11 @@
     },
     {
         "name": "Divine Wrath",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN050",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.39,
                             "low": 0.99,
@@ -534,6 +512,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -541,13 +521,11 @@
     },
     {
         "name": "Divine Wrath",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN050",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 29.98,
                             "low": 6.99,
@@ -564,6 +542,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -571,13 +551,11 @@
     },
     {
         "name": "Eagle Eye",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN022",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.07,
                             "low": 0.5,
@@ -594,6 +572,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -601,13 +581,11 @@
     },
     {
         "name": "Element Magician",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN013",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.45,
@@ -624,6 +602,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -631,13 +611,11 @@
     },
     {
         "name": "Element Saurus",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN014",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.53,
                             "low": 0.47,
@@ -654,6 +632,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -661,13 +641,11 @@
     },
     {
         "name": "Flint",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN042",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.3,
                             "low": 0.99,
@@ -684,6 +662,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -691,13 +671,11 @@
     },
     {
         "name": "Flint",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN042",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 16.97,
                             "low": 1.65,
@@ -714,6 +692,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -721,13 +701,11 @@
     },
     {
         "name": "Fox Fire",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN029",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.23,
                             "low": 0.45,
@@ -744,6 +722,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -751,13 +731,11 @@
     },
     {
         "name": "Fruits of Kozaky's Studies",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN053",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.0,
                             "low": 0.56,
@@ -774,6 +752,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -781,13 +761,11 @@
     },
     {
         "name": "Fuh-Rin-Ka-Zan",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN055",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.68,
                             "low": 0.55,
@@ -804,6 +782,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -811,13 +791,11 @@
     },
     {
         "name": "Fusilier Dragon, the Dual-Mode Beast",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN031",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.71,
                             "low": 0.62,
@@ -834,6 +812,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -841,13 +821,11 @@
     },
     {
         "name": "Fusilier Dragon, the Dual-Mode Beast",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN031",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 21.23,
                             "low": 2.05,
@@ -864,6 +842,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -871,13 +851,11 @@
     },
     {
         "name": "Gaia Soul the Combustible Collective",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN028",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.45,
                             "low": 0.47,
@@ -894,6 +872,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -901,13 +881,11 @@
     },
     {
         "name": "Gaia Soul the Combustible Collective",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN028",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.51,
                             "low": 0.99,
@@ -924,6 +902,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -931,13 +911,11 @@
     },
     {
         "name": "Harpie Girl",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN004",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.24,
                             "low": 0.65,
@@ -954,6 +932,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -961,13 +941,11 @@
     },
     {
         "name": "Harpie Lady 1",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN017",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.07,
                             "low": 0.58,
@@ -984,6 +962,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -991,13 +971,11 @@
     },
     {
         "name": "Harpie Lady 2",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN018",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.23,
                             "low": 0.52,
@@ -1014,6 +992,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1021,13 +1001,11 @@
     },
     {
         "name": "Harpie Lady 3",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN019",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.55,
@@ -1044,6 +1022,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1051,13 +1031,11 @@
     },
     {
         "name": "Harpies' Hunting Ground",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN038",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.75,
                             "low": 0.53,
@@ -1074,6 +1052,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -1081,13 +1061,11 @@
     },
     {
         "name": "Heavy Mech Support Platform",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN011",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.87,
                             "low": 0.65,
@@ -1104,6 +1082,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1111,13 +1091,11 @@
     },
     {
         "name": "Homunculus the Alchemic Being",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN034",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.0,
                             "low": 0.53,
@@ -1134,6 +1112,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1141,13 +1121,11 @@
     },
     {
         "name": "Invasion of Flames",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN024",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.87,
                             "low": 0.55,
@@ -1164,6 +1142,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -1171,13 +1151,11 @@
     },
     {
         "name": "Lighten the Load",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN047",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.55,
                             "low": 0.48,
@@ -1194,6 +1172,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -1201,13 +1181,11 @@
     },
     {
         "name": "Machine Duplication",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN041",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 27.75,
                             "low": 3.24,
@@ -1224,6 +1202,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1231,13 +1211,11 @@
     },
     {
         "name": "Machine Duplication",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN041",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 55.24,
                             "low": 17.99,
@@ -1254,6 +1232,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1261,13 +1241,11 @@
     },
     {
         "name": "Malice Dispersion",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN048",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.23,
                             "low": 0.54,
@@ -1284,6 +1262,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -1291,13 +1271,11 @@
     },
     {
         "name": "Mighty Guard",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN002",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.43,
                             "low": 0.46,
@@ -1314,6 +1292,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1321,13 +1301,11 @@
     },
     {
         "name": "Mind Haxorz",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN054",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.35,
                             "low": 0.65,
@@ -1344,6 +1322,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1351,13 +1331,11 @@
     },
     {
         "name": "Mirage Dragon",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN027",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 25.18,
                             "low": 0.99,
@@ -1374,6 +1352,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1381,13 +1361,11 @@
     },
     {
         "name": "Mokey Mokey King",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN036",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.66,
                             "low": 0.54,
@@ -1404,6 +1382,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1411,13 +1391,11 @@
     },
     {
         "name": "Mokey Mokey Smackdown",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN043",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.65,
@@ -1434,6 +1412,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -1441,13 +1421,11 @@
     },
     {
         "name": "Monster Reincarnation",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN045",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 11.53,
                             "low": 1.88,
@@ -1464,6 +1442,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1471,13 +1451,11 @@
     },
     {
         "name": "Monster Reincarnation",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN045",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.84,
                             "low": 9.9,
@@ -1494,6 +1472,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1501,13 +1481,11 @@
     },
     {
         "name": "Mystic Swordsman LV6",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN008",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.07,
                             "low": 2.26,
@@ -1524,6 +1502,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1531,13 +1511,11 @@
     },
     {
         "name": "Mystic Swordsman LV6",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN008",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 22.89,
                             "low": 5.46,
@@ -1554,6 +1532,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1561,13 +1541,11 @@
     },
     {
         "name": "Necklace of Command",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN040",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.28,
                             "low": 0.39,
@@ -1584,6 +1562,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -1591,13 +1571,11 @@
     },
     {
         "name": "Necklace of Command",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN040",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.23,
                             "low": 0.99,
@@ -1614,6 +1592,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -1621,13 +1601,11 @@
     },
     {
         "name": "Nightmare Penguin",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN010",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.47,
                             "low": 0.65,
@@ -1644,6 +1622,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1651,13 +1631,11 @@
     },
     {
         "name": "Perfect Machine King",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN012",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 57.88,
                             "low": 4.94,
@@ -1674,6 +1652,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1681,13 +1661,11 @@
     },
     {
         "name": "Perfect Machine King",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN012",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 69.99,
                             "low": 17.43,
@@ -1704,6 +1682,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1711,13 +1691,11 @@
     },
     {
         "name": "Pikeru's Circle of Enchantment",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN057",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 13.62,
                             "low": 0.53,
@@ -1734,6 +1712,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1741,13 +1721,11 @@
     },
     {
         "name": "Pikeru's Circle of Enchantment",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN057",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 12.47,
                             "low": 1.13,
@@ -1764,6 +1742,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1771,13 +1751,11 @@
     },
     {
         "name": "Pitch-Black Warwolf",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN026",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.44,
                             "low": 0.65,
@@ -1794,6 +1772,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1801,13 +1781,11 @@
     },
     {
         "name": "Raging Flame Sprite",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN020",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.23,
                             "low": 0.56,
@@ -1824,6 +1802,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -1831,13 +1811,11 @@
     },
     {
         "name": "Rare Metalmorph",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN052",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.52,
                             "low": 0.65,
@@ -1854,6 +1832,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -1861,13 +1841,11 @@
     },
     {
         "name": "Rare Metalmorph",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN052",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 22.67,
                             "low": 0.66,
@@ -1884,6 +1862,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -1891,13 +1871,11 @@
     },
     {
         "name": "Roc from the Valley of Haze",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN015",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.99,
                             "low": 0.46,
@@ -1914,6 +1892,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1921,13 +1901,11 @@
     },
     {
         "name": "Sasuke Samurai 4",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN016",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.49,
                             "low": 0.99,
@@ -1944,6 +1922,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1951,13 +1931,11 @@
     },
     {
         "name": "Sasuke Samurai 4",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN016",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 16.64,
                             "low": 1.73,
@@ -1974,6 +1952,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1981,13 +1961,11 @@
     },
     {
         "name": "Serial Spell",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN037",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 27.16,
                             "low": 2.15,
@@ -2004,6 +1982,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -2011,13 +1991,11 @@
     },
     {
         "name": "Serial Spell",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN037",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 27.16,
                             "low": 4.1,
@@ -2034,6 +2012,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -2041,13 +2021,11 @@
     },
     {
         "name": "Silent Swordsman LV3",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN009",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.51,
                             "low": 2.24,
@@ -2064,6 +2042,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2071,13 +2051,11 @@
     },
     {
         "name": "Silent Swordsman LV3",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN009",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 12.45,
                             "low": 6.5,
@@ -2094,6 +2072,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2101,13 +2081,11 @@
     },
     {
         "name": "Spell Purification",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN058",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.13,
                             "low": 0.47,
@@ -2124,6 +2102,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2131,13 +2111,11 @@
     },
     {
         "name": "Tactical Espionage Expert",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN023",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.35,
                             "low": 0.65,
@@ -2154,6 +2132,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2161,13 +2141,11 @@
     },
     {
         "name": "The Creator",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN005",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 26.25,
                             "low": 1.35,
@@ -2184,6 +2162,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2191,13 +2171,11 @@
     },
     {
         "name": "The Creator",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN005",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 24.59,
                             "low": 9.95,
@@ -2214,6 +2192,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2221,13 +2201,11 @@
     },
     {
         "name": "The Creator Incarnate",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN006",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.53,
                             "low": 0.52,
@@ -2244,6 +2222,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2251,13 +2231,11 @@
     },
     {
         "name": "Thestalos the Firestorm Monarch",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN021",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 26.31,
                             "low": 0.65,
@@ -2274,6 +2252,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2281,13 +2261,11 @@
     },
     {
         "name": "Thestalos the Firestorm Monarch",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN021",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 17.04,
                             "low": 5.49,
@@ -2304,6 +2282,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2311,13 +2291,11 @@
     },
     {
         "name": "Tragedy",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN049",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.55,
                             "low": 0.52,
@@ -2334,6 +2312,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2341,13 +2321,11 @@
     },
     {
         "name": "Tragedy",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN049",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 15.12,
                             "low": 1.7,
@@ -2364,6 +2342,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2371,13 +2351,11 @@
     },
     {
         "name": "Triangle Ecstasy Spark",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN039",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.1,
                             "low": 0.61,
@@ -2394,6 +2372,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2401,13 +2381,11 @@
     },
     {
         "name": "Triangle Ecstasy Spark",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN039",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 9.19,
                             "low": 5.0,
@@ -2424,6 +2402,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2431,13 +2411,11 @@
     },
     {
         "name": "Ultimate Insect LV3",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN007",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.38,
                             "low": 0.71,
@@ -2454,6 +2432,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -2461,13 +2441,11 @@
     },
     {
         "name": "Ultimate Insect LV3",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN007",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 25.46,
                             "low": 1.92,
@@ -2484,6 +2462,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -2491,13 +2471,11 @@
     },
     {
         "name": "Woodborg Inpachi",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN001",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.43,
                             "low": 0.9,
@@ -2514,6 +2492,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2521,13 +2501,11 @@
     },
     {
         "name": "Xing Zhen Hu",
+        "numbers": [
+            {
                 "name": "Rise of Destiny",
                 "print_tag": "RDS-EN051",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.43,
                             "low": 0.65,
@@ -2544,6 +2522,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,

@@ -4,26 +4,6 @@
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN080",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
-                        "prices": {
-                            "high": 4.09,
-                            "low": 0.99,
-                            "average": 0.87,
-                            "shift": -0.0113636363636364,
-                            "shift_3": -0.0113636363636364,
-                            "shift_7": -0.0113636363636364,
-                            "shift_21": 0.0116279069767442,
-                            "shift_30": 0.0,
-                            "shift_90": 0.0,
-                            "shift_180": -0.0113636363636364,
-                            "shift_365": 0.0,
-                            "updated_at": "2018-09-21 00:10:36 -0600"
-                        }
-                    }
-                }
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -31,13 +11,11 @@
     },
     {
         "name": "Advance Draw",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN047",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.24,
                             "low": 0.99,
@@ -54,6 +32,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -61,13 +41,11 @@
     },
     {
         "name": "Aegis of the Ocean Dragon Lord",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN076",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.49,
                             "low": 0.54,
@@ -84,6 +62,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -91,13 +71,11 @@
     },
     {
         "name": "Ancient Crimson Ape",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN038",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.42,
@@ -114,6 +92,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -121,13 +101,11 @@
     },
     {
         "name": "Ancient Fairy Dragon",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN040",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 30.16,
                             "low": 2.09,
@@ -144,6 +122,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -151,13 +131,11 @@
     },
     {
         "name": "Ancient Fairy Dragon",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN040",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 54.41,
                             "low": 8.49,
@@ -174,6 +152,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -181,13 +161,11 @@
     },
     {
         "name": "Ancient Fairy Dragon",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN040",
                 "rarity": "Ghost Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 119.21,
                             "low": 21.65,
@@ -204,6 +182,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -211,13 +191,11 @@
     },
     {
         "name": "Ancient Forest",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN048",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.52,
                             "low": 1.65,
@@ -234,6 +212,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -241,13 +221,11 @@
     },
     {
         "name": "Ancient Leaf",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN061",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.48,
                             "low": 0.54,
@@ -264,6 +242,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -271,13 +251,11 @@
     },
     {
         "name": "Ancient Sacred Wyvern",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN043",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 17.85,
                             "low": 2.49,
@@ -294,6 +272,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -301,13 +281,11 @@
     },
     {
         "name": "Ancient Sacred Wyvern",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN043",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.95,
                             "low": 4.74,
@@ -324,6 +302,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -331,13 +311,11 @@
     },
     {
         "name": "Arcana Knight Joker",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN090",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.94,
                             "low": 0.77,
@@ -354,6 +332,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -361,13 +341,11 @@
     },
     {
         "name": "Archfiend Zombie-Skull",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN042",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 16.0,
                             "low": 0.49,
@@ -384,6 +362,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -391,13 +371,11 @@
     },
     {
         "name": "Armed Sea Hunter",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN025",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.11,
                             "low": 0.54,
@@ -414,6 +392,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -421,13 +401,11 @@
     },
     {
         "name": "Armityle the Chaos Phantom",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN091",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 153.98,
                             "low": 7.75,
@@ -444,6 +422,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -451,13 +431,11 @@
     },
     {
         "name": "Armored Axon Kicker",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN029",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.03,
                             "low": 0.54,
@@ -474,6 +452,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -481,13 +461,11 @@
     },
     {
         "name": "At One With the Sword",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN079",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.03,
                             "low": 0.42,
@@ -504,6 +482,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -511,13 +491,11 @@
     },
     {
         "name": "Battle Teleportation",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN072",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.48,
                             "low": 0.42,
@@ -534,6 +512,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -541,13 +521,11 @@
     },
     {
         "name": "Battle of the Elements",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN075",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.97,
                             "low": 1.34,
@@ -564,6 +542,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -571,13 +551,11 @@
     },
     {
         "name": "Beast Machine King Barbaros \u00dcr",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN097",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.98,
                             "low": 0.64,
@@ -594,6 +572,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -601,13 +581,11 @@
     },
     {
         "name": "Blackwing - Fane the Steel Chain",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN006",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.05,
                             "low": 0.42,
@@ -624,6 +602,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -631,13 +611,11 @@
     },
     {
         "name": "Blackwing - Mistral the Silver Shield",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN004",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.03,
                             "low": 0.54,
@@ -654,6 +632,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -661,13 +641,11 @@
     },
     {
         "name": "Blackwing - Vayu the Emblem of Honor",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN005",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.79,
                             "low": 3.5,
@@ -684,6 +662,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -691,13 +671,11 @@
     },
     {
         "name": "Blackwing - Vayu the Emblem of Honor",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN005",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 26.99,
                             "low": 7.49,
@@ -714,6 +692,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -721,13 +701,11 @@
     },
     {
         "name": "Brain Research Lab",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN057",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.85,
                             "low": 0.77,
@@ -744,6 +722,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -751,13 +731,11 @@
     },
     {
         "name": "Card Blocker",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN093",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 31.66,
                             "low": 0.77,
@@ -774,6 +752,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -781,13 +761,11 @@
     },
     {
         "name": "Card Guard",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN085",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 32.34,
                             "low": 2.87,
@@ -804,6 +782,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -811,13 +791,11 @@
     },
     {
         "name": "Core Blaster",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN053",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.48,
                             "low": 0.42,
@@ -834,6 +812,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -841,13 +821,11 @@
     },
     {
         "name": "Core Compression",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN052",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 15.52,
                             "low": 0.61,
@@ -864,6 +842,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -871,13 +851,11 @@
     },
     {
         "name": "Core Reinforcement",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN073",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.88,
                             "low": 0.43,
@@ -894,6 +872,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -901,13 +881,11 @@
     },
     {
         "name": "Cyborg Doctor",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN032",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.05,
                             "low": 0.42,
@@ -924,6 +902,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -931,13 +911,11 @@
     },
     {
         "name": "Damage Translation",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN071",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.03,
                             "low": 0.42,
@@ -954,6 +932,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -961,13 +941,11 @@
     },
     {
         "name": "Darksea Float",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN014",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.48,
                             "low": 0.42,
@@ -984,6 +962,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -991,13 +971,11 @@
     },
     {
         "name": "Darksea Rescue",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN013",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.98,
                             "low": 0.99,
@@ -1014,6 +992,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1021,13 +1001,11 @@
     },
     {
         "name": "Depth Amulet",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN070",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.92,
                             "low": 0.54,
@@ -1044,6 +1022,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -1051,13 +1031,11 @@
     },
     {
         "name": "Discord",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN068",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.99,
                             "low": 0.57,
@@ -1074,6 +1052,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -1081,13 +1061,11 @@
     },
     {
         "name": "Divine Dragon Aquabizarre",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN026",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.5,
                             "low": 0.54,
@@ -1104,6 +1082,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1111,13 +1091,11 @@
     },
     {
         "name": "Earthbound Immortal Chacu Challhua",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN017",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 11.39,
                             "low": 2.38,
@@ -1134,6 +1112,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1141,13 +1121,11 @@
     },
     {
         "name": "Earthbound Immortal Chacu Challhua",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN017",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 34.28,
                             "low": 4.99,
@@ -1164,6 +1142,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1171,13 +1151,11 @@
     },
     {
         "name": "Earthbound Immortal Cusillu",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN016",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 17.49,
                             "low": 2.18,
@@ -1194,6 +1172,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1201,13 +1181,11 @@
     },
     {
         "name": "Earthbound Immortal Cusillu",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN016",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 13.79,
                             "low": 2.66,
@@ -1224,6 +1202,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1231,13 +1211,11 @@
     },
     {
         "name": "Elemental HERO Gaia",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN099",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 24.99,
                             "low": 6.72,
@@ -1254,6 +1232,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1261,13 +1241,11 @@
     },
     {
         "name": "Emergency Assistance",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN049",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.48,
                             "low": 0.42,
@@ -1284,6 +1262,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1291,13 +1271,11 @@
     },
     {
         "name": "Fairy Wind",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN066",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.09,
                             "low": 0.54,
@@ -1314,6 +1292,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1321,13 +1301,11 @@
     },
     {
         "name": "Falchion\u03b2",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN039",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.98,
                             "low": 0.77,
@@ -1344,6 +1322,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1351,13 +1331,11 @@
     },
     {
         "name": "Fishborg Blaster",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN027",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.43,
                             "low": 0.54,
@@ -1374,6 +1352,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1381,13 +1361,11 @@
     },
     {
         "name": "Flamvell Commando",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN086",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.56,
                             "low": 0.52,
@@ -1404,6 +1382,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -1411,13 +1391,11 @@
     },
     {
         "name": "Flamvell Commando",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN086",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 11.82,
                             "low": 0.91,
@@ -1434,6 +1412,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -1441,13 +1421,11 @@
     },
     {
         "name": "Flamvell Counter",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN078",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.03,
                             "low": 0.54,
@@ -1464,6 +1442,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -1471,13 +1451,11 @@
     },
     {
         "name": "Flamvell Firedog",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN037",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 13.96,
                             "low": 0.52,
@@ -1494,6 +1472,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -1501,13 +1481,11 @@
     },
     {
         "name": "Fortune Lady Fire",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN011",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.31,
                             "low": 0.57,
@@ -1524,6 +1502,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -1531,13 +1511,11 @@
     },
     {
         "name": "Fortune Lady Light",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN010",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.33,
                             "low": 0.77,
@@ -1554,6 +1532,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1561,13 +1541,11 @@
     },
     {
         "name": "Fossil Dig",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN062",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 2.98,
                             "low": 1.32,
@@ -1584,6 +1562,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1591,13 +1571,11 @@
     },
     {
         "name": "Future Visions",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN051",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 31.12,
                             "low": 3.99,
@@ -1614,6 +1592,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -1621,13 +1601,11 @@
     },
     {
         "name": "Gaap the Divine Soldier",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN096",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.98,
                             "low": 0.77,
@@ -1644,6 +1622,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1651,13 +1631,11 @@
     },
     {
         "name": "Gaia Plate the Earth Giant",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN094",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 10.68,
                             "low": 1.95,
@@ -1674,6 +1652,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1681,13 +1661,11 @@
     },
     {
         "name": "Gaia Plate the Earth Giant",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN094",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 11.33,
                             "low": 2.24,
@@ -1704,6 +1682,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1711,13 +1691,11 @@
     },
     {
         "name": "Genetic Woman",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN030",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.03,
                             "low": 0.42,
@@ -1734,6 +1712,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1741,13 +1721,11 @@
     },
     {
         "name": "Greed Grado",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN088",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.7,
                             "low": 2.5,
@@ -1764,6 +1742,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -1771,13 +1751,11 @@
     },
     {
         "name": "Hydro Pressure Cannon",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN055",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.92,
                             "low": 0.42,
@@ -1794,6 +1772,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -1801,13 +1781,11 @@
     },
     {
         "name": "Imperial Custom",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN067",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.02,
                             "low": 0.54,
@@ -1824,6 +1802,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -1831,13 +1811,11 @@
     },
     {
         "name": "Infernity Beast",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN012",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.79,
                             "low": 0.43,
@@ -1854,6 +1832,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1861,13 +1841,11 @@
     },
     {
         "name": "Iron Core Luster",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN074",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.03,
                             "low": 0.54,
@@ -1884,6 +1862,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -1891,13 +1871,11 @@
     },
     {
         "name": "Jester Confit",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN009",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 22.48,
                             "low": 2.23,
@@ -1914,6 +1892,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1921,13 +1901,11 @@
     },
     {
         "name": "Jester Lord",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN008",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.37,
                             "low": 0.99,
@@ -1944,6 +1922,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1951,13 +1931,11 @@
     },
     {
         "name": "Kasha",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN098",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 25.79,
                             "low": 3.99,
@@ -1974,6 +1952,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1981,13 +1961,11 @@
     },
     {
         "name": "Koa'ki Meiru Boulder",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN018",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.48,
                             "low": 0.54,
@@ -2004,6 +1982,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2011,13 +1991,11 @@
     },
     {
         "name": "Koa'ki Meiru Crusader",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN019",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.89,
                             "low": 0.99,
@@ -2034,6 +2012,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2041,13 +2021,11 @@
     },
     {
         "name": "Koa'ki Meiru Ghoulungulate",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN082",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 15.39,
                             "low": 0.52,
@@ -2064,6 +2042,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2071,13 +2051,11 @@
     },
     {
         "name": "Koa'ki Meiru Ghoulungulate",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN082",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.66,
                             "low": 0.99,
@@ -2094,6 +2072,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2101,13 +2081,11 @@
     },
     {
         "name": "Koa'ki Meiru Gravirose",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN083",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.24,
                             "low": 0.63,
@@ -2124,6 +2102,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2131,13 +2111,11 @@
     },
     {
         "name": "Koa'ki Meiru Gravirose",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN083",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.66,
                             "low": 1.08,
@@ -2154,6 +2132,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2161,13 +2141,11 @@
     },
     {
         "name": "Koa'ki Meiru Hydro Barrier",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN022",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.48,
                             "low": 0.42,
@@ -2184,6 +2162,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2191,13 +2171,11 @@
     },
     {
         "name": "Koa'ki Meiru Speeder",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN020",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.98,
                             "low": 0.77,
@@ -2214,6 +2192,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -2221,13 +2201,11 @@
     },
     {
         "name": "Koa'ki Meiru Tornado",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN021",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.35,
                             "low": 0.77,
@@ -2244,6 +2222,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -2251,13 +2231,11 @@
     },
     {
         "name": "Kuribon",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN001",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 8.98,
                             "low": 1.09,
@@ -2274,6 +2252,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2281,13 +2261,11 @@
     },
     {
         "name": "Magicat",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN031",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 12.66,
                             "low": 0.77,
@@ -2304,6 +2282,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2311,13 +2291,11 @@
     },
     {
         "name": "Minefieldriller",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN034",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.23,
                             "low": 0.54,
@@ -2334,6 +2312,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2341,13 +2321,11 @@
     },
     {
         "name": "Morphtronic Magnen Bar",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN007",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.92,
                             "low": 0.42,
@@ -2364,6 +2342,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2371,13 +2351,11 @@
     },
     {
         "name": "Pixie Ring",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN065",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.48,
                             "low": 0.42,
@@ -2394,6 +2372,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -2401,13 +2381,11 @@
     },
     {
         "name": "Pseudo Space",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN087",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 7.73,
                             "low": 2.61,
@@ -2424,6 +2402,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -2431,13 +2411,11 @@
     },
     {
         "name": "Psychic Emperor",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN084",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.39,
                             "low": 0.99,
@@ -2454,6 +2432,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2461,13 +2441,11 @@
     },
     {
         "name": "Psychic Soul",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN077",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.03,
                             "low": 0.42,
@@ -2484,6 +2462,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2491,13 +2471,11 @@
     },
     {
         "name": "Reinforce Truth",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN064",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.25,
                             "low": 0.5,
@@ -2514,6 +2492,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2521,13 +2501,11 @@
     },
     {
         "name": "Rekindling",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN060",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 11.68,
                             "low": 0.54,
@@ -2544,6 +2522,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2551,13 +2531,11 @@
     },
     {
         "name": "Release Restraint Wave",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN045",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.48,
                             "low": 0.5,
@@ -2574,6 +2552,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2581,13 +2561,11 @@
     },
     {
         "name": "Revival of the Immortals",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN089",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.21,
                             "low": 0.52,
@@ -2604,6 +2582,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2611,13 +2591,11 @@
     },
     {
         "name": "Saber Slash",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN058",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.02,
                             "low": 0.81,
@@ -2634,6 +2612,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2641,13 +2621,11 @@
     },
     {
         "name": "Sauropod Brachion",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN095",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.4,
                             "low": 0.47,
@@ -2664,6 +2642,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2671,13 +2651,11 @@
     },
     {
         "name": "Scary Moth",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN023",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.97,
                             "low": 0.42,
@@ -2694,6 +2672,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -2701,13 +2681,11 @@
     },
     {
         "name": "Shark Cruiser",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN028",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.05,
                             "low": 0.66,
@@ -2724,6 +2702,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2731,13 +2711,11 @@
     },
     {
         "name": "Shiny Black \"C\"",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN024",
                 "rarity": "Short Print",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 1.64,
                             "low": 0.54,
@@ -2754,6 +2732,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2761,13 +2741,11 @@
     },
     {
         "name": "Silver Wing",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN046",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.03,
                             "low": 0.42,
@@ -2784,6 +2762,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -2791,13 +2771,11 @@
     },
     {
         "name": "Skill Successor",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN063",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.59,
                             "low": 0.6,
@@ -2814,6 +2792,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2821,13 +2801,11 @@
     },
     {
         "name": "Slip of Fortune",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN069",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.81,
                             "low": 0.54,
@@ -2844,6 +2822,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2851,13 +2831,11 @@
     },
     {
         "name": "Solidarity",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN054",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 25.46,
                             "low": 2.45,
@@ -2874,6 +2852,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -2881,13 +2861,11 @@
     },
     {
         "name": "Spirit Burner",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN050",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.81,
                             "low": 0.54,
@@ -2904,6 +2882,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -2911,13 +2891,11 @@
     },
     {
         "name": "Sunlight Unicorn",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN003",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.52,
                             "low": 0.42,
@@ -2934,6 +2912,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2941,13 +2921,11 @@
     },
     {
         "name": "Sunny Pixie",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN002",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 18.52,
                             "low": 0.52,
@@ -2964,6 +2942,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2971,13 +2951,11 @@
     },
     {
         "name": "Sword of Sparkles",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN059",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 4.81,
                             "low": 0.42,
@@ -2994,6 +2972,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -3001,13 +2981,11 @@
     },
     {
         "name": "Turbo Cannon",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN041",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 19.98,
                             "low": 0.51,
@@ -3024,6 +3002,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -3031,13 +3011,11 @@
     },
     {
         "name": "Turbo Rocket",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN015",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 14.03,
                             "low": 0.77,
@@ -3054,6 +3032,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -3061,13 +3041,11 @@
     },
     {
         "name": "Water Hazard",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN056",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.05,
                             "low": 0.54,
@@ -3084,6 +3062,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -3091,13 +3071,11 @@
     },
     {
         "name": "White Night Dragon",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN092",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 24.0,
                             "low": 6.19,
@@ -3114,6 +3092,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -3121,13 +3101,11 @@
     },
     {
         "name": "White Potan",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN033",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 3.05,
                             "low": 0.42,
@@ -3144,6 +3122,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -3151,13 +3131,11 @@
     },
     {
         "name": "XX-Saber Faultroll",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN035",
                 "rarity": "Super Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 22.84,
                             "low": 3.2,
@@ -3174,6 +3152,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3181,13 +3161,11 @@
     },
     {
         "name": "XX-Saber Fulhelmknight",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN081",
                 "rarity": "Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 5.6,
                             "low": 0.44,
@@ -3204,6 +3182,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3211,13 +3191,11 @@
     },
     {
         "name": "XX-Saber Gardestrike",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN000",
                 "rarity": "Secret Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 20.66,
                             "low": 1.71,
@@ -3234,6 +3212,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3241,13 +3221,11 @@
     },
     {
         "name": "XX-Saber Gottoms",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN044",
                 "rarity": "Ultra Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 12.66,
                             "low": 2.12,
@@ -3264,6 +3242,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3271,13 +3251,11 @@
     },
     {
         "name": "XX-Saber Gottoms",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN044",
                 "rarity": "Ultimate Rare",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 22.59,
                             "low": 3.4,
@@ -3294,6 +3272,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3301,13 +3281,11 @@
     },
     {
         "name": "XX-Saber Ragigura",
+        "numbers": [
+            {
                 "name": "Ancient Prophecy",
                 "print_tag": "ANPR-EN036",
                 "rarity": "Common",
-                "price_data": {
-                    "status": "success",
-                    "data": {
-                        "listings": [],
                         "prices": {
                             "high": 6.92,
                             "low": 0.65,
@@ -3324,6 +3302,8 @@
                         }
                     }
                 }
+            }
+        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",

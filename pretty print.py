@@ -2,7 +2,7 @@ import json
 import os
 from collections import OrderedDict
 
-
+#   flatten "number" section
 for root, dirs, files in os.walk("pretty sets/"):
     for file in files:
         oldfile = open("pretty sets/" + file)
@@ -10,6 +10,8 @@ for root, dirs, files in os.walk("pretty sets/"):
         numbers = False
         count = 0
         first = False
+        prices = False
+        priceData = False
         for line in oldfile:
             if not numbers:
                 if '"numbers": [' not in line:
@@ -20,17 +22,14 @@ for root, dirs, files in os.walk("pretty sets/"):
                 if not first:
                     first = True
 
+                elif '"price_data": {' in line or prices:
+                    prices = True
+                    if '],' in line and priceData:
+                        prices = False
+                    elif '"prices": {' in line:
+                        priceData = True
                 else:
-                    if "}" in line:
-                        if count != 3:
-                            count += 1
-                            newfile.write(line)
-                    elif count == 3:
-                        count = 0
-                        numbers = False
-                        first = False
-                    else:
-                        newfile.write(line)
+                    newfile.write(line)
 
 
 # for root, dirs, files in os.walk("sets/"):
