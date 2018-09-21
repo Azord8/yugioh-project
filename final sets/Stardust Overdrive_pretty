@@ -1,7 +1,7 @@
 [
     {
         "name": "Appointer of the Red Lotus",
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN080",
                 "rarity": "Common",
         "card_type": "trap",
@@ -11,29 +11,9 @@
     },
     {
         "name": "Archlord Kristya",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN096",
                 "rarity": "Secret Rare",
-                        "prices": {
-                            "high": 104.57,
-                            "low": 14.99,
-                            "average": 35.27,
-                            "shift": 0.0184810857637886,
-                            "shift_3": 0.00255827174530984,
-                            "shift_7": -0.0281069165059245,
-                            "shift_21": -0.0592157908775673,
-                            "shift_30": 0.344131097560976,
-                            "shift_90": 0.260092890317971,
-                            "shift_180": -0.0521365224402042,
-                            "shift_365": 0.177236315086782,
-                            "updated_at": "2018-09-19 08:01:48 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -41,29 +21,9 @@
     },
     {
         "name": "Attack Pheromones",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN048",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.65,
-                            "average": 0.87,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0116279069767442,
-                            "shift_30": 0.0,
-                            "shift_90": 0.0,
-                            "shift_180": 0.0235294117647059,
-                            "shift_365": -0.179245283018868,
-                            "updated_at": "2018-09-18 20:17:18 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -71,29 +31,9 @@
     },
     {
         "name": "Bending Destiny",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN066",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.54,
-                            "average": 0.87,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0116279069767442,
-                            "shift_21": 0.0116279069767442,
-                            "shift_30": -0.043956043956044,
-                            "shift_90": 0.0,
-                            "shift_180": -0.201834862385321,
-                            "shift_365": 0.0116279069767442,
-                            "updated_at": "2018-09-19 04:36:52 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -101,29 +41,9 @@
     },
     {
         "name": "Black Brutdrago",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN043",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 8.98,
-                            "low": 2.09,
-                            "average": 3.25,
-                            "shift": 0.371308016877637,
-                            "shift_3": 0.382978723404255,
-                            "shift_7": 0.382978723404255,
-                            "shift_21": 0.382978723404255,
-                            "shift_30": 0.388888888888889,
-                            "shift_90": 0.212686567164179,
-                            "shift_180": -0.0714285714285714,
-                            "shift_365": -0.189526184538653,
-                            "updated_at": "2018-09-19 06:32:48 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -131,29 +51,9 @@
     },
     {
         "name": "Blackwing - Silverwind the Ascendant",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN041",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 32.04,
-                            "low": 1.81,
-                            "average": 1.9,
-                            "shift": -0.0155440414507772,
-                            "shift_3": 0.0614525139664804,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": -0.2578125,
-                            "shift_90": -0.296296296296296,
-                            "shift_180": -0.269230769230769,
-                            "shift_365": 0.266666666666667,
-                            "updated_at": "2018-09-19 11:42:49 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -161,29 +61,9 @@
     },
     {
         "name": "Blackwing - Silverwind the Ascendant",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN041",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 17.11,
-                            "low": 1.76,
-                            "average": 3.46,
-                            "shift": -0.00288184438040346,
-                            "shift_3": -0.00859598853868195,
-                            "shift_7": -0.0170454545454545,
-                            "shift_21": 0.17687074829932,
-                            "shift_30": 0.168918918918919,
-                            "shift_90": 0.039039039039039,
-                            "shift_180": 0.222614840989399,
-                            "shift_365": 1.0969696969697,
-                            "updated_at": "2018-09-19 11:42:50 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -191,29 +71,9 @@
     },
     {
         "name": "Catoblepas and the Witch of Fate",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN014",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 8.98,
-                            "low": 0.57,
-                            "average": 0.97,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": -0.0102040816326531,
-                            "shift_30": -0.03,
-                            "shift_90": -0.0490196078431373,
-                            "shift_180": 0.0543478260869565,
-                            "shift_365": -0.455056179775281,
-                            "updated_at": "2018-09-18 22:46:54 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -221,29 +81,9 @@
     },
     {
         "name": "Clear Vice Dragon",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN098",
                 "rarity": "Secret Rare",
-                        "prices": {
-                            "high": 26.89,
-                            "low": 5.23,
-                            "average": 3.61,
-                            "shift": -0.044973544973545,
-                            "shift_3": -0.142517814726841,
-                            "shift_7": 0.019774011299435,
-                            "shift_21": 0.0617647058823529,
-                            "shift_30": 0.114197530864198,
-                            "shift_90": -0.199556541019956,
-                            "shift_180": -0.213507625272331,
-                            "shift_365": 0.110769230769231,
-                            "updated_at": "2018-09-18 22:49:24 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -251,29 +91,9 @@
     },
     {
         "name": "Clear World",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN099",
                 "rarity": "Secret Rare",
-                        "prices": {
-                            "high": 17.16,
-                            "low": 2.49,
-                            "average": 5.64,
-                            "shift": 0.0273224043715847,
-                            "shift_3": 0.0291970802919708,
-                            "shift_7": 0.0641509433962264,
-                            "shift_21": 0.110236220472441,
-                            "shift_30": 0.121272365805169,
-                            "shift_90": 0.2,
-                            "shift_180": 0.44987146529563,
-                            "shift_365": 1.1123595505618,
-                            "updated_at": "2018-09-19 00:27:27 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -281,29 +101,9 @@
     },
     {
         "name": "Crusader of Endymion",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN030",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 10.88,
-                            "low": 2.79,
-                            "average": 4.34,
-                            "shift": 0.0023094688221709,
-                            "shift_3": 0.00930232558139535,
-                            "shift_7": 0.00930232558139535,
-                            "shift_21": 0.0023094688221709,
-                            "shift_30": 0.0508474576271186,
-                            "shift_90": -0.0269058295964126,
-                            "shift_180": -0.230496453900709,
-                            "shift_365": -0.493582263710618,
-                            "updated_at": "2018-09-19 11:10:53 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -311,29 +111,9 @@
     },
     {
         "name": "Crusader of Endymion",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN030",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 27.62,
-                            "low": 5.06,
-                            "average": 6.04,
-                            "shift": -0.0792682926829268,
-                            "shift_3": 0.170542635658915,
-                            "shift_7": 0.21285140562249,
-                            "shift_21": 0.339246119733925,
-                            "shift_30": 0.298924731182796,
-                            "shift_90": 0.628032345013477,
-                            "shift_180": -0.0806697108066971,
-                            "shift_365": -0.396,
-                            "updated_at": "2018-09-19 11:40:22 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -341,29 +121,9 @@
     },
     {
         "name": "Dark Rabbit",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN090",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 22.67,
-                            "low": 0.77,
-                            "average": 2.29,
-                            "shift": 0.0177777777777778,
-                            "shift_3": 0.0177777777777778,
-                            "shift_7": 0.0409090909090909,
-                            "shift_21": -0.0691056910569106,
-                            "shift_30": 0.0177777777777778,
-                            "shift_90": -0.0337552742616034,
-                            "shift_180": 0.156565656565657,
-                            "shift_365": -0.154981549815498,
-                            "updated_at": "2018-09-19 09:29:18 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -371,29 +131,9 @@
     },
     {
         "name": "Dark Simorgh",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN092",
                 "rarity": "Secret Rare",
-                        "prices": {
-                            "high": 29.78,
-                            "low": 11.12,
-                            "average": 22.37,
-                            "shift": 0.0,
-                            "shift_3": -0.0299219427580226,
-                            "shift_7": -0.051314673452078,
-                            "shift_21": 0.0223948811700183,
-                            "shift_30": 0.580918727915194,
-                            "shift_90": 1.06175115207373,
-                            "shift_180": 2.44153846153846,
-                            "shift_365": 1.20394088669951,
-                            "updated_at": "2018-09-19 04:14:58 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -401,29 +141,9 @@
     },
     {
         "name": "Dark Spider",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN015",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.98,
-                            "low": 0.92,
-                            "average": 0.89,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0229885057471264,
-                            "shift_90": 0.0,
-                            "shift_180": -0.0111111111111111,
-                            "shift_365": -0.543589743589744,
-                            "updated_at": "2018-09-18 22:04:10 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -431,29 +151,9 @@
     },
     {
         "name": "Divine Grace - Northwemko",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN039",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 27.72,
-                            "low": 2.99,
-                            "average": 4.87,
-                            "shift": 0.0,
-                            "shift_3": 0.0167014613778706,
-                            "shift_7": 0.0167014613778706,
-                            "shift_21": 0.0082815734989648,
-                            "shift_30": -0.131907308377897,
-                            "shift_90": -0.0616570327552987,
-                            "shift_180": 0.0518358531317495,
-                            "shift_365": -0.311173974540311,
-                            "updated_at": "2018-09-19 11:28:51 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -461,29 +161,9 @@
     },
     {
         "name": "Divine Grace - Northwemko",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN039",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 41.5,
-                            "low": 4.12,
-                            "average": 15.55,
-                            "shift": 0.0,
-                            "shift_3": 0.294754371357202,
-                            "shift_7": 0.235107227958697,
-                            "shift_21": 2.47098214285714,
-                            "shift_30": 0.131732168850073,
-                            "shift_90": -0.0389369592088999,
-                            "shift_180": 0.159582401193139,
-                            "shift_365": 1.82727272727273,
-                            "updated_at": "2018-09-19 11:28:52 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -491,29 +171,9 @@
     },
     {
         "name": "Djinn Presider of Rituals",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN038",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 8.98,
-                            "low": 0.57,
-                            "average": 1.08,
-                            "shift": 0.0,
-                            "shift_3": -0.00917431192660551,
-                            "shift_7": -0.36094674556213,
-                            "shift_21": 0.186813186813187,
-                            "shift_30": 0.161290322580645,
-                            "shift_90": 0.2,
-                            "shift_180": 0.186813186813187,
-                            "shift_365": -0.470588235294118,
-                            "updated_at": "2018-09-18 19:21:21 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -521,29 +181,9 @@
     },
     {
         "name": "Djinn Releaser of Rituals",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN037",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 2.39,
-                            "low": 0.77,
-                            "average": 1.0,
-                            "shift": 0.0416666666666667,
-                            "shift_3": 0.0416666666666667,
-                            "shift_7": 0.0416666666666667,
-                            "shift_21": 0.0204081632653061,
-                            "shift_30": 0.0204081632653061,
-                            "shift_90": 0.0101010101010101,
-                            "shift_180": -0.145299145299145,
-                            "shift_365": 0.0526315789473684,
-                            "updated_at": "2018-09-19 11:53:50 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -551,29 +191,9 @@
     },
     {
         "name": "Earthbound Immortal Ccarayhua",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN024",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 19.88,
-                            "low": 4.85,
-                            "average": 4.06,
-                            "shift": 0.0253164556962025,
-                            "shift_3": 0.0331632653061225,
-                            "shift_7": 0.0175879396984925,
-                            "shift_21": -0.0816326530612245,
-                            "shift_30": -0.044811320754717,
-                            "shift_90": -0.10989010989011,
-                            "shift_180": -0.163223140495868,
-                            "shift_365": -0.0939597315436242,
-                            "updated_at": "2018-09-19 10:55:50 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -581,29 +201,9 @@
     },
     {
         "name": "Earthbound Immortal Ccarayhua",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN024",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 17.38,
-                            "low": 5.35,
-                            "average": 4.65,
-                            "shift": -0.0106382978723404,
-                            "shift_3": -0.0210526315789474,
-                            "shift_7": -0.0606060606060606,
-                            "shift_21": -0.357734806629834,
-                            "shift_30": -0.346910112359551,
-                            "shift_90": -0.483906770255272,
-                            "shift_180": -0.31314623338257,
-                            "shift_365": -0.36734693877551,
-                            "updated_at": "2018-09-09 17:05:05 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -611,29 +211,9 @@
     },
     {
         "name": "Earthbound Immortal Uru",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN025",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 36.03,
-                            "low": 7.49,
-                            "average": 6.45,
-                            "shift": 0.0,
-                            "shift_3": 0.0643564356435644,
-                            "shift_7": 0.0336538461538462,
-                            "shift_21": 0.0141509433962264,
-                            "shift_30": 0.0254372019077901,
-                            "shift_90": -0.185606060606061,
-                            "shift_180": 0.267190569744597,
-                            "shift_365": 0.543062200956938,
-                            "updated_at": "2018-09-19 11:07:45 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -641,29 +221,9 @@
     },
     {
         "name": "Earthbound Immortal Uru",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN025",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 17.93,
-                            "low": 4.99,
-                            "average": 5.97,
-                            "shift": 0.0,
-                            "shift_3": 0.145873320537428,
-                            "shift_7": 0.0914076782449726,
-                            "shift_21": 0.0418848167539267,
-                            "shift_30": 0.105555555555556,
-                            "shift_90": 0.051056338028169,
-                            "shift_180": 0.223360655737705,
-                            "shift_365": 0.312087912087912,
-                            "updated_at": "2018-09-19 11:07:46 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -671,29 +231,9 @@
     },
     {
         "name": "Earthbound Immortal Wiraqocha Rasca",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN026",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 11.76,
-                            "low": 0.77,
-                            "average": 1.71,
-                            "shift": 0.0,
-                            "shift_3": 0.163265306122449,
-                            "shift_7": 0.171232876712329,
-                            "shift_21": 0.0178571428571429,
-                            "shift_30": 0.204225352112676,
-                            "shift_90": 0.125,
-                            "shift_180": 0.11038961038961,
-                            "shift_365": 0.305343511450382,
-                            "updated_at": "2018-09-19 11:08:12 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -701,29 +241,9 @@
     },
     {
         "name": "Earthbound Immortal Wiraqocha Rasca",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN026",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 26.76,
-                            "low": 4.94,
-                            "average": 3.63,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.251724137931034,
-                            "shift_21": 0.599118942731278,
-                            "shift_30": -0.127403846153846,
-                            "shift_90": 0.493827160493827,
-                            "shift_180": 0.0552325581395349,
-                            "shift_365": -0.175,
-                            "updated_at": "2018-09-10 22:29:48 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -731,29 +251,9 @@
     },
     {
         "name": "Earthbound Revival",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN087",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 7.01,
-                            "low": 0.71,
-                            "average": 1.04,
-                            "shift": -0.0956521739130435,
-                            "shift_3": 0.0,
-                            "shift_7": -0.490196078431373,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": 0.0505050505050505,
-                            "shift_180": 0.106382978723404,
-                            "shift_365": 0.106382978723404,
-                            "updated_at": "2018-09-18 20:34:05 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -761,29 +261,9 @@
     },
     {
         "name": "Earthbound Wave",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN070",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.54,
-                            "average": 0.91,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0108695652173913,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": 0.0224719101123595,
-                            "shift_180": 0.0224719101123595,
-                            "shift_365": -0.0319148936170213,
-                            "updated_at": "2018-09-18 21:25:57 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -791,29 +271,9 @@
     },
     {
         "name": "Earthbound Whirlwind",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN046",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 7.88,
-                            "low": 0.99,
-                            "average": 1.85,
-                            "shift": -0.00537634408602151,
-                            "shift_3": -0.0211640211640212,
-                            "shift_7": -0.0159574468085106,
-                            "shift_21": -0.0463917525773196,
-                            "shift_30": -0.0211640211640212,
-                            "shift_90": -0.350877192982456,
-                            "shift_180": 0.468253968253968,
-                            "shift_365": 0.608695652173913,
-                            "updated_at": "2018-09-19 01:38:35 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -821,29 +281,9 @@
     },
     {
         "name": "Energy Bravery",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN033",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.8,
-                            "low": 0.65,
-                            "average": 0.88,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0114942528735632,
-                            "shift_90": 0.0,
-                            "shift_180": -0.169811320754717,
-                            "shift_365": -0.0112359550561798,
-                            "updated_at": "2018-09-19 12:17:33 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -851,29 +291,9 @@
     },
     {
         "name": "Enlightenment",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN065",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.54,
-                            "average": 0.86,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": -0.0114942528735632,
-                            "shift_90": 0.0238095238095238,
-                            "shift_180": -0.0227272727272727,
-                            "shift_365": 0.0,
-                            "updated_at": "2018-09-18 21:26:45 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -881,29 +301,9 @@
     },
     {
         "name": "Explosive Magician",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN044",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 32.04,
-                            "low": 3.99,
-                            "average": 6.52,
-                            "shift": 0.578692493946731,
-                            "shift_3": 0.594132029339853,
-                            "shift_7": 0.0415335463258786,
-                            "shift_21": -0.0165912518853695,
-                            "shift_30": 0.488584474885845,
-                            "shift_90": -0.0383480825958702,
-                            "shift_180": 0.258687258687259,
-                            "shift_365": 0.0939597315436242,
-                            "updated_at": "2018-09-19 12:20:25 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -911,29 +311,9 @@
     },
     {
         "name": "Explosive Magician",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN044",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 35.65,
-                            "low": 4.99,
-                            "average": 6.53,
-                            "shift": 0.00153374233128834,
-                            "shift_3": 0.0398089171974522,
-                            "shift_7": 0.0332278481012658,
-                            "shift_21": -0.0297176820208024,
-                            "shift_30": -0.013595166163142,
-                            "shift_90": 0.161921708185053,
-                            "shift_180": 0.00307219662058372,
-                            "shift_365": -0.0841514726507714,
-                            "updated_at": "2018-09-19 12:20:48 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -941,29 +321,9 @@
     },
     {
         "name": "Faustian Bargain",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN062",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 20.51,
-                            "low": 2.22,
-                            "average": 2.35,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.00423728813559322,
-                            "shift_21": -0.00843881856540084,
-                            "shift_30": 0.0,
-                            "shift_90": -0.206081081081081,
-                            "shift_180": -0.00843881856540084,
-                            "shift_365": -0.103053435114504,
-                            "updated_at": "2018-09-19 06:53:12 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -971,29 +331,9 @@
     },
     {
         "name": "Fortune Lady Dark",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN011",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 24.83,
-                            "low": 1.99,
-                            "average": 2.74,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.011070110701107,
-                            "shift_21": -0.0584192439862543,
-                            "shift_30": 0.0185873605947955,
-                            "shift_90": -0.0486111111111111,
-                            "shift_180": 0.292452830188679,
-                            "shift_365": -0.101639344262295,
-                            "updated_at": "2018-09-19 08:58:19 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1001,29 +341,9 @@
     },
     {
         "name": "Fortune Lady Earth",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN012",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 6.0,
-                            "low": 1.1,
-                            "average": 1.2,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0169491525423729,
-                            "shift_30": 0.0909090909090909,
-                            "shift_90": -0.00826446280991736,
-                            "shift_180": -0.0625,
-                            "shift_365": -0.210526315789474,
-                            "updated_at": "2018-09-19 11:11:08 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1031,29 +351,9 @@
     },
     {
         "name": "Fortune Lady Water",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN010",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 19.64,
-                            "low": 0.77,
-                            "average": 1.38,
-                            "shift": -0.0142857142857143,
-                            "shift_3": 0.0072992700729927,
-                            "shift_7": 0.0072992700729927,
-                            "shift_21": 0.0147058823529412,
-                            "shift_30": 0.179487179487179,
-                            "shift_90": 0.169491525423729,
-                            "shift_180": 0.289719626168224,
-                            "shift_365": -0.456692913385827,
-                            "updated_at": "2018-09-19 08:58:12 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1061,29 +361,9 @@
     },
     {
         "name": "Fortune Lady Wind",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN009",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 6.0,
-                            "low": 1.13,
-                            "average": 1.51,
-                            "shift": -0.0258064516129032,
-                            "shift_3": -0.00657894736842105,
-                            "shift_7": -0.0194805194805195,
-                            "shift_21": -0.032051282051282,
-                            "shift_30": 0.0134228187919463,
-                            "shift_90": 0.0559440559440559,
-                            "shift_180": 0.152671755725191,
-                            "shift_365": -0.386178861788618,
-                            "updated_at": "2018-09-19 11:11:22 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1091,29 +371,9 @@
     },
     {
         "name": "Fortune's Future",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN051",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 29.16,
-                            "low": 2.95,
-                            "average": 3.62,
-                            "shift": -0.016304347826087,
-                            "shift_3": 0.0523255813953488,
-                            "shift_7": 0.13125,
-                            "shift_21": 0.186885245901639,
-                            "shift_30": 0.190789473684211,
-                            "shift_90": 0.0936555891238671,
-                            "shift_180": 0.096969696969697,
-                            "shift_365": 0.138364779874214,
-                            "updated_at": "2018-09-19 08:58:05 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1121,29 +381,9 @@
     },
     {
         "name": "Gateway of the Six",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN089",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 47.33,
-                            "low": 1.85,
-                            "average": 5.87,
-                            "shift": 0.00341880341880342,
-                            "shift_3": 0.0120689655172414,
-                            "shift_7": 0.0389380530973451,
-                            "shift_21": 0.626038781163435,
-                            "shift_30": 0.456575682382134,
-                            "shift_90": 0.565333333333333,
-                            "shift_180": 0.65819209039548,
-                            "shift_365": -0.660693641618497,
-                            "updated_at": "2018-09-19 12:36:01 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -1151,29 +391,9 @@
     },
     {
         "name": "Gemini Booster",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN076",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.65,
-                            "average": 0.9,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.010989010989011,
-                            "shift_21": -0.010989010989011,
-                            "shift_30": -0.174311926605505,
-                            "shift_90": 0.153846153846154,
-                            "shift_180": 0.0714285714285714,
-                            "shift_365": -0.0625,
-                            "updated_at": "2018-09-18 21:28:34 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1181,29 +401,9 @@
     },
     {
         "name": "Gemini Counter",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN075",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.65,
-                            "average": 0.87,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0235294117647059,
-                            "shift_30": 0.0481927710843374,
-                            "shift_90": 0.0357142857142857,
-                            "shift_180": -0.0113636363636364,
-                            "shift_365": -0.0113636363636364,
-                            "updated_at": "2018-09-19 10:08:44 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -1211,29 +411,9 @@
     },
     {
         "name": "Gemini Scorpion",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN085",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 8.98,
-                            "low": 0.65,
-                            "average": 0.86,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": -0.0444444444444444,
-                            "shift_180": -0.0444444444444444,
-                            "shift_365": -0.232142857142857,
-                            "updated_at": "2018-09-18 21:47:50 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1241,29 +421,9 @@
     },
     {
         "name": "Gemini Spark",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN055",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.57,
-                            "low": 0.46,
-                            "average": 0.9,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0112359550561798,
-                            "shift_21": 0.0344827586206897,
-                            "shift_30": 0.0465116279069767,
-                            "shift_90": 0.139240506329114,
-                            "shift_180": 0.0843373493975904,
-                            "shift_365": 0.0,
-                            "updated_at": "2018-09-18 19:57:47 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -1271,29 +431,9 @@
     },
     {
         "name": "Ground Spider",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN016",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.65,
-                            "average": 0.87,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": -0.0113636363636364,
-                            "shift_90": 0.0,
-                            "shift_180": -0.0224719101123595,
-                            "shift_365": -0.179245283018868,
-                            "updated_at": "2018-09-18 21:32:48 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1301,29 +441,9 @@
     },
     {
         "name": "Guardian Eatos",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN097",
                 "rarity": "Secret Rare",
-                        "prices": {
-                            "high": 53.22,
-                            "low": 8.0,
-                            "average": 24.28,
-                            "shift": -0.0233306516492357,
-                            "shift_3": 0.0142021720969089,
-                            "shift_7": 0.032312925170068,
-                            "shift_21": 0.032312925170068,
-                            "shift_30": 0.0266384778012685,
-                            "shift_90": -0.129124820659971,
-                            "shift_180": 0.156190476190476,
-                            "shift_365": 0.0218855218855219,
-                            "updated_at": "2018-09-19 10:25:18 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1331,29 +451,9 @@
     },
     {
         "name": "Herculean Power",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN054",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.43,
-                            "average": 0.89,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": 0.0229885057471264,
-                            "shift_180": -0.021978021978022,
-                            "shift_365": -0.0111111111111111,
-                            "updated_at": "2018-09-19 01:48:21 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -1361,29 +461,9 @@
     },
     {
         "name": "Ice Queen",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN094",
                 "rarity": "Secret Rare",
-                        "prices": {
-                            "high": 52.95,
-                            "low": 5.48,
-                            "average": 7.9,
-                            "shift": 0.0,
-                            "shift_3": 0.00126742712294043,
-                            "shift_7": 0.0589812332439678,
-                            "shift_21": 0.0646900269541779,
-                            "shift_30": 0.219135802469136,
-                            "shift_90": 0.950617283950617,
-                            "shift_180": -0.122222222222222,
-                            "shift_365": 0.438979963570128,
-                            "updated_at": "2018-09-19 11:02:25 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1391,29 +471,9 @@
     },
     {
         "name": "Infernity Force",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN073",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.65,
-                            "average": 0.84,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0117647058823529,
-                            "shift_21": -0.0117647058823529,
-                            "shift_30": -0.0117647058823529,
-                            "shift_90": -0.0117647058823529,
-                            "shift_180": -0.0454545454545455,
-                            "shift_365": -0.0769230769230769,
-                            "updated_at": "2018-09-19 12:06:49 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1421,29 +481,9 @@
     },
     {
         "name": "Infernity Necromancer",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN008",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 24.52,
-                            "low": 0.65,
-                            "average": 1.1,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.00900900900900901,
-                            "shift_21": -0.00900900900900901,
-                            "shift_30": -0.00900900900900901,
-                            "shift_90": 0.235955056179775,
-                            "shift_180": 0.375,
-                            "shift_365": 0.195652173913043,
-                            "updated_at": "2018-09-19 11:00:30 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1451,29 +491,9 @@
     },
     {
         "name": "Inherited Fortune",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN067",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 6.0,
-                            "low": 0.75,
-                            "average": 0.96,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0103092783505155,
-                            "shift_21": -0.0103092783505155,
-                            "shift_30": -0.0103092783505155,
-                            "shift_90": -0.04,
-                            "shift_180": -0.111111111111111,
-                            "shift_365": -0.179487179487179,
-                            "updated_at": "2018-09-18 21:16:30 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1481,29 +501,9 @@
     },
     {
         "name": "Insect Neglect",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN061",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.54,
-                            "average": 0.87,
-                            "shift": 0.0116279069767442,
-                            "shift_3": 0.0235294117647059,
-                            "shift_7": 0.0116279069767442,
-                            "shift_21": -0.0333333333333333,
-                            "shift_30": 0.0,
-                            "shift_90": 0.0357142857142857,
-                            "shift_180": 0.0235294117647059,
-                            "shift_365": -0.216216216216216,
-                            "updated_at": "2018-09-19 00:46:43 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -1511,29 +511,9 @@
     },
     {
         "name": "Iron Core Armor",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN053",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.54,
-                            "average": 0.89,
-                            "shift": -0.0111111111111111,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0113636363636364,
-                            "shift_90": 0.0113636363636364,
-                            "shift_180": -0.160377358490566,
-                            "shift_365": 0.0,
-                            "updated_at": "2018-09-18 20:37:09 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -1541,29 +521,9 @@
     },
     {
         "name": "Knight of the Red Lotus",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN032",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 24.83,
-                            "low": 1.85,
-                            "average": 2.36,
-                            "shift": -0.0288065843621399,
-                            "shift_3": -0.0288065843621399,
-                            "shift_7": 0.0,
-                            "shift_21": 0.00854700854700855,
-                            "shift_30": -0.0634920634920635,
-                            "shift_90": -0.273846153846154,
-                            "shift_180": -0.202702702702703,
-                            "shift_365": -0.0708661417322835,
-                            "updated_at": "2018-09-19 11:50:32 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -1571,29 +531,9 @@
     },
     {
         "name": "Koa'ki Meiru Beetle",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN000",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 17.41,
-                            "low": 0.77,
-                            "average": 1.09,
-                            "shift": 0.0,
-                            "shift_3": 0.00925925925925926,
-                            "shift_7": 0.00925925925925926,
-                            "shift_21": 0.0380952380952381,
-                            "shift_30": 0.058252427184466,
-                            "shift_90": -0.00909090909090909,
-                            "shift_180": -0.043859649122807,
-                            "shift_365": -0.435233160621762,
-                            "updated_at": "2018-09-19 11:50:45 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1601,29 +541,9 @@
     },
     {
         "name": "Koa'ki Meiru Maximus",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN081",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 19.07,
-                            "low": 0.99,
-                            "average": 1.28,
-                            "shift": 0.0158730158730159,
-                            "shift_3": 0.0158730158730159,
-                            "shift_7": 0.024,
-                            "shift_21": 0.0491803278688525,
-                            "shift_30": 0.032258064516129,
-                            "shift_90": -0.179487179487179,
-                            "shift_180": -0.140939597315436,
-                            "shift_365": -0.123287671232877,
-                            "updated_at": "2018-09-19 11:50:56 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1631,29 +551,9 @@
     },
     {
         "name": "Koa'ki Meiru Maximus",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN081",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 23.39,
-                            "low": 1.69,
-                            "average": 1.34,
-                            "shift": -0.0218978102189781,
-                            "shift_3": -0.0218978102189781,
-                            "shift_7": -0.0147058823529412,
-                            "shift_21": -0.0289855072463768,
-                            "shift_30": -0.0359712230215827,
-                            "shift_90": 0.0075187969924812,
-                            "shift_180": -0.157232704402516,
-                            "shift_365": -0.157232704402516,
-                            "updated_at": "2018-09-19 11:51:03 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1661,29 +561,9 @@
     },
     {
         "name": "Koa'ki Meiru Rooklord",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN028",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 4.98,
-                            "low": 0.52,
-                            "average": 1.0,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0099009900990099,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0101010101010101,
-                            "shift_90": -0.0476190476190476,
-                            "shift_180": -0.0740740740740741,
-                            "shift_365": -0.0654205607476635,
-                            "updated_at": "2018-09-19 11:51:09 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1691,29 +571,9 @@
     },
     {
         "name": "Koa'ki Meiru Sea Panther",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN027",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.65,
-                            "average": 0.9,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": 0.0,
-                            "shift_180": -0.142857142857143,
-                            "shift_365": 0.0227272727272727,
-                            "updated_at": "2018-09-19 11:51:13 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1721,29 +581,9 @@
     },
     {
         "name": "Level Eater",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN005",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.27,
-                            "low": 0.54,
-                            "average": 1.06,
-                            "shift": 0.0,
-                            "shift_3": -0.0535714285714286,
-                            "shift_7": -0.0535714285714286,
-                            "shift_21": 0.139784946236559,
-                            "shift_30": 0.164835164835165,
-                            "shift_90": -0.0535714285714286,
-                            "shift_180": -0.045045045045045,
-                            "shift_365": 0.139784946236559,
-                            "updated_at": "2018-09-19 11:23:58 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1751,29 +591,9 @@
     },
     {
         "name": "Limit Impulse",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN072",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.54,
-                            "average": 0.9,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0112359550561798,
-                            "shift_30": 0.0112359550561798,
-                            "shift_90": 0.0227272727272727,
-                            "shift_180": -0.166666666666667,
-                            "shift_365": 0.0112359550561798,
-                            "updated_at": "2018-09-18 21:23:08 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1781,29 +601,9 @@
     },
     {
         "name": "Lord British Space Fighter",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN035",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 8.98,
-                            "low": 0.99,
-                            "average": 1.07,
-                            "shift": 0.103092783505155,
-                            "shift_3": 0.0,
-                            "shift_7": 0.16304347826087,
-                            "shift_21": 0.16304347826087,
-                            "shift_30": 0.16304347826087,
-                            "shift_90": -0.00925925925925926,
-                            "shift_180": 0.103092783505155,
-                            "shift_365": -0.465,
-                            "updated_at": "2018-09-19 12:25:19 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1811,29 +611,9 @@
     },
     {
         "name": "Majestic Dragon",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN001",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 32.04,
-                            "low": 2.5,
-                            "average": 3.51,
-                            "shift": 0.0263157894736842,
-                            "shift_3": -0.0564516129032258,
-                            "shift_7": -0.0664893617021277,
-                            "shift_21": 0.0293255131964809,
-                            "shift_30": -0.0277008310249307,
-                            "shift_90": -0.120300751879699,
-                            "shift_180": -0.131188118811881,
-                            "shift_365": -0.179906542056075,
-                            "updated_at": "2018-09-19 09:32:50 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1841,29 +621,9 @@
     },
     {
         "name": "Majestic Star Dragon",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN040",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 6.2,
-                            "low": 2.0,
-                            "average": 2.84,
-                            "shift": 0.0,
-                            "shift_3": 0.0215827338129496,
-                            "shift_7": 0.0215827338129496,
-                            "shift_21": -0.0307167235494881,
-                            "shift_30": -0.0405405405405405,
-                            "shift_90": -0.00350877192982456,
-                            "shift_180": 0.352380952380952,
-                            "shift_365": 0.569060773480663,
-                            "updated_at": "2018-09-19 09:33:05 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1871,29 +631,9 @@
     },
     {
         "name": "Majestic Star Dragon",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN040",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 68.09,
-                            "low": 3.31,
-                            "average": 8.71,
-                            "shift": 0.0,
-                            "shift_3": -0.0169300225733634,
-                            "shift_7": -0.0169300225733634,
-                            "shift_21": 0.0596107055961071,
-                            "shift_30": 1.81877022653722,
-                            "shift_90": -0.188257222739981,
-                            "shift_180": 1.51734104046243,
-                            "shift_365": 1.78274760383387,
-                            "updated_at": "2018-09-19 09:33:06 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1901,29 +641,9 @@
     },
     {
         "name": "Majestic Star Dragon",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN040",
                 "rarity": "Ghost Rare",
-                        "prices": {
-                            "high": 95.0,
-                            "low": 15.77,
-                            "average": 12.32,
-                            "shift": 0.0,
-                            "shift_3": 0.00407497962510187,
-                            "shift_7": 0.0467289719626168,
-                            "shift_21": -0.00323624595469256,
-                            "shift_30": 0.111913357400722,
-                            "shift_90": 0.26100307062436,
-                            "shift_180": 0.31063829787234,
-                            "shift_365": 0.134438305709024,
-                            "updated_at": "2018-09-19 09:33:07 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1931,29 +651,9 @@
     },
     {
         "name": "Max Warrior",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN003",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 19.07,
-                            "low": 0.77,
-                            "average": 1.06,
-                            "shift": 0.0,
-                            "shift_3": 0.00952380952380952,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": -0.045045045045045,
-                            "shift_90": -0.0363636363636364,
-                            "shift_180": -0.045045045045045,
-                            "shift_365": -0.329113924050633,
-                            "updated_at": "2018-09-19 11:06:09 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1961,29 +661,9 @@
     },
     {
         "name": "Metabo-Shark",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN086",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 1.49,
-                            "low": 0.49,
-                            "average": 1.25,
-                            "shift": -0.00793650793650794,
-                            "shift_3": -0.0601503759398496,
-                            "shift_7": -0.113475177304965,
-                            "shift_21": -0.113475177304965,
-                            "shift_30": -0.119718309859155,
-                            "shift_90": -0.100719424460432,
-                            "shift_180": -0.0384615384615385,
-                            "shift_365": -0.688279301745636,
-                            "updated_at": "2018-09-19 11:21:32 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1991,29 +671,9 @@
     },
     {
         "name": "Molting Escape",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN049",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 6.25,
-                            "low": 0.54,
-                            "average": 0.88,
-                            "shift": -0.0222222222222222,
-                            "shift_3": 0.0114942528735632,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0114942528735632,
-                            "shift_30": 0.0114942528735632,
-                            "shift_90": 0.0476190476190476,
-                            "shift_180": -0.0112359550561798,
-                            "shift_365": 0.0476190476190476,
-                            "updated_at": "2018-09-18 20:25:39 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -2021,29 +681,9 @@
     },
     {
         "name": "Moray of Greed",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN058",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 20.43,
-                            "low": 2.14,
-                            "average": 3.05,
-                            "shift": 0.0627177700348432,
-                            "shift_3": -0.0527950310559006,
-                            "shift_7": -0.0527950310559006,
-                            "shift_21": -0.0129449838187702,
-                            "shift_30": 0.00993377483443709,
-                            "shift_90": 0.0374149659863946,
-                            "shift_180": -0.135977337110482,
-                            "shift_365": -0.0408805031446541,
-                            "updated_at": "2018-09-18 20:25:58 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2051,29 +691,9 @@
     },
     {
         "name": "Mother Spider",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN019",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 8.98,
-                            "low": 0.55,
-                            "average": 1.11,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.00892857142857143,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": -0.075,
-                            "shift_180": 0.15625,
-                            "shift_365": 0.233333333333333,
-                            "updated_at": "2018-09-19 11:26:14 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2081,29 +701,9 @@
     },
     {
         "name": "Nega-Ton Corepanel",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN074",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 14.69,
-                            "low": 0.77,
-                            "average": 0.98,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": -0.0101010101010101,
-                            "shift_30": -0.0101010101010101,
-                            "shift_90": -0.0392156862745098,
-                            "shift_180": -0.0925925925925926,
-                            "shift_365": -0.0754716981132075,
-                            "updated_at": "2018-09-18 21:15:12 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -2111,29 +711,9 @@
     },
     {
         "name": "Oshaleon",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN036",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.54,
-                            "average": 1.09,
-                            "shift": -0.018018018018018,
-                            "shift_3": -0.00909090909090909,
-                            "shift_7": -0.00909090909090909,
-                            "shift_21": -0.00909090909090909,
-                            "shift_30": -0.00909090909090909,
-                            "shift_90": 0.224719101123595,
-                            "shift_180": 0.252873563218391,
-                            "shift_365": 0.252873563218391,
-                            "updated_at": "2018-09-19 11:54:38 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2141,29 +721,9 @@
     },
     {
         "name": "Preparation of Rites",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN057",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 16.5,
-                            "low": 1.55,
-                            "average": 2.89,
-                            "shift": 0.0,
-                            "shift_3": -0.0203389830508475,
-                            "shift_7": -0.0586319218241042,
-                            "shift_21": 0.0509090909090909,
-                            "shift_30": 0.039568345323741,
-                            "shift_90": -0.121580547112462,
-                            "shift_180": -0.29683698296837,
-                            "shift_365": -0.83457355466514,
-                            "updated_at": "2018-09-19 10:25:09 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2171,29 +731,9 @@
     },
     {
         "name": "Quickdraw Synchron",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN004",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.27,
-                            "low": 0.68,
-                            "average": 1.23,
-                            "shift": 0.00819672131147541,
-                            "shift_3": 0.0,
-                            "shift_7": 0.149532710280374,
-                            "shift_21": 0.160377358490566,
-                            "shift_30": 0.194174757281553,
-                            "shift_90": 0.182692307692308,
-                            "shift_180": 0.242424242424242,
-                            "shift_365": 0.149532710280374,
-                            "updated_at": "2018-09-19 08:07:06 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -2201,29 +741,9 @@
     },
     {
         "name": "Raging Mad Plants",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN060",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 19.0,
-                            "low": 0.52,
-                            "average": 0.84,
-                            "shift": -0.0117647058823529,
-                            "shift_3": -0.0117647058823529,
-                            "shift_7": -0.0117647058823529,
-                            "shift_21": -0.0454545454545455,
-                            "shift_30": -0.0561797752808989,
-                            "shift_90": -0.0869565217391304,
-                            "shift_180": -0.134020618556701,
-                            "shift_365": -0.0666666666666667,
-                            "updated_at": "2018-09-18 19:39:16 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -2231,29 +751,9 @@
     },
     {
         "name": "Regulus",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN007",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.44,
-                            "average": 0.88,
-                            "shift": -0.0112359550561798,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0114942528735632,
-                            "shift_90": 0.0114942528735632,
-                            "shift_180": -0.0638297872340425,
-                            "shift_365": 0.0,
-                            "updated_at": "2018-09-19 11:44:15 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2261,29 +761,9 @@
     },
     {
         "name": "Relinquished Spider",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN017",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 18.35,
-                            "low": 0.65,
-                            "average": 0.89,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": 0.0229885057471264,
-                            "shift_180": 0.0229885057471264,
-                            "shift_365": -0.160377358490566,
-                            "updated_at": "2018-09-19 11:44:23 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2291,29 +771,9 @@
     },
     {
         "name": "Reptilianne Gorgon",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN020",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.41,
-                            "average": 0.87,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": -0.0113636363636364,
-                            "shift_90": 0.0116279069767442,
-                            "shift_180": -0.043956043956044,
-                            "shift_365": 0.0357142857142857,
-                            "updated_at": "2018-09-19 11:44:37 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2321,29 +781,9 @@
     },
     {
         "name": "Reptilianne Hydra",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN042",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 20.48,
-                            "low": 0.99,
-                            "average": 0.92,
-                            "shift": 0.010989010989011,
-                            "shift_3": -0.010752688172043,
-                            "shift_7": -0.553398058252427,
-                            "shift_21": -0.0612244897959184,
-                            "shift_30": -0.0707070707070707,
-                            "shift_90": -0.634920634920635,
-                            "shift_180": -0.0515463917525773,
-                            "shift_365": -0.233333333333333,
-                            "updated_at": "2018-09-19 11:44:41 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2351,29 +791,9 @@
     },
     {
         "name": "Reptilianne Medusa",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN021",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 6.9,
-                            "low": 0.51,
-                            "average": 0.94,
-                            "shift": -0.0105263157894737,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.010752688172043,
-                            "shift_30": 0.010752688172043,
-                            "shift_90": 0.132530120481928,
-                            "shift_180": 0.105882352941176,
-                            "shift_365": -0.494623655913978,
-                            "updated_at": "2018-09-19 11:44:45 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2381,29 +801,9 @@
     },
     {
         "name": "Reptilianne Poison",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN088",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 5.13,
-                            "low": 0.52,
-                            "average": 0.91,
-                            "shift": -0.0108695652173913,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0111111111111111,
-                            "shift_30": 0.0,
-                            "shift_90": -0.0108695652173913,
-                            "shift_180": 0.0,
-                            "shift_365": -0.0108695652173913,
-                            "updated_at": "2018-09-18 19:41:21 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2411,29 +811,9 @@
     },
     {
         "name": "Reptilianne Scylla",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN022",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 6.74,
-                            "low": 0.59,
-                            "average": 0.9,
-                            "shift": -0.010989010989011,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0112359550561798,
-                            "shift_21": 0.0112359550561798,
-                            "shift_30": 0.0,
-                            "shift_90": 0.0,
-                            "shift_180": 0.0465116279069767,
-                            "shift_365": -0.543147208121827,
-                            "updated_at": "2018-09-19 11:44:51 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2441,29 +821,9 @@
     },
     {
         "name": "Reptilianne Spawn",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN050",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.65,
-                            "average": 1.09,
-                            "shift": -0.00909090909090909,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.00925925925925926,
-                            "shift_30": 0.184782608695652,
-                            "shift_90": 0.184782608695652,
-                            "shift_180": 0.224719101123595,
-                            "shift_365": 0.313253012048193,
-                            "updated_at": "2018-09-18 19:41:33 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2471,29 +831,9 @@
     },
     {
         "name": "Reptilianne Viper",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN023",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.54,
-                            "average": 0.99,
-                            "shift": -0.01,
-                            "shift_3": 0.0,
-                            "shift_7": 0.1,
-                            "shift_21": 0.1,
-                            "shift_30": 0.137931034482759,
-                            "shift_90": 0.164705882352941,
-                            "shift_180": 0.112359550561798,
-                            "shift_365": -0.1,
-                            "updated_at": "2018-09-19 11:45:06 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2501,29 +841,9 @@
     },
     {
         "name": "Rinyan, Lightsworn Rogue",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN083",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 26.89,
-                            "low": 0.77,
-                            "average": 1.22,
-                            "shift": -0.0161290322580645,
-                            "shift_3": 0.0,
-                            "shift_7": -0.00813008130081301,
-                            "shift_21": 0.0166666666666667,
-                            "shift_30": 0.0,
-                            "shift_90": -0.0161290322580645,
-                            "shift_180": 0.0427350427350427,
-                            "shift_365": -0.212903225806452,
-                            "updated_at": "2018-09-19 11:45:49 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2531,29 +851,9 @@
     },
     {
         "name": "Ritual Buster",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN077",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 19.07,
-                            "low": 0.84,
-                            "average": 1.27,
-                            "shift": 0.0,
-                            "shift_3": -0.0078125,
-                            "shift_7": -0.0155038759689922,
-                            "shift_21": 0.0241935483870968,
-                            "shift_30": 0.032520325203252,
-                            "shift_90": -0.0078125,
-                            "shift_180": -0.0592592592592593,
-                            "shift_365": -0.158940397350993,
-                            "updated_at": "2018-09-19 10:08:31 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2561,29 +861,9 @@
     },
     {
         "name": "Ritual of Grace",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN056",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 8.88,
-                            "low": 0.99,
-                            "average": 1.06,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": 0.164835164835165,
-                            "shift_180": 0.0,
-                            "shift_365": 0.204545454545455,
-                            "updated_at": "2018-09-18 19:42:32 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Ritual",
         "family": null,
@@ -2591,29 +871,9 @@
     },
     {
         "name": "Roar of the Earthbound",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN071",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.43,
-                            "average": 0.83,
-                            "shift": -0.0119047619047619,
-                            "shift_3": -0.0235294117647059,
-                            "shift_7": -0.0119047619047619,
-                            "shift_21": -0.0459770114942529,
-                            "shift_30": -0.0568181818181818,
-                            "shift_90": 0.0,
-                            "shift_180": -0.0235294117647059,
-                            "shift_365": -0.0674157303370786,
-                            "updated_at": "2018-09-18 20:55:42 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -2621,29 +881,9 @@
     },
     {
         "name": "Savage Colosseum",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN047",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.27,
-                            "low": 0.35,
-                            "average": 1.02,
-                            "shift": -0.0285714285714286,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0625,
-                            "shift_30": 0.0515463917525773,
-                            "shift_90": 0.0851063829787234,
-                            "shift_180": 0.0736842105263158,
-                            "shift_365": -0.529953917050691,
-                            "updated_at": "2018-09-19 08:45:03 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -2651,29 +891,9 @@
     },
     {
         "name": "Seal of Wickedness",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN079",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 6.25,
-                            "low": 0.52,
-                            "average": 0.89,
-                            "shift": -0.0111111111111111,
-                            "shift_3": -0.0111111111111111,
-                            "shift_7": 0.0113636363636364,
-                            "shift_21": 0.0113636363636364,
-                            "shift_30": 0.0,
-                            "shift_90": -0.0111111111111111,
-                            "shift_180": -0.043010752688172,
-                            "shift_365": -0.0111111111111111,
-                            "updated_at": "2018-09-18 20:44:17 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -2681,29 +901,9 @@
     },
     {
         "name": "Shine Palace",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN091",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 19.0,
-                            "low": 0.78,
-                            "average": 1.21,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": -0.016260162601626,
-                            "shift_30": -0.0241935483870968,
-                            "shift_90": 0.0168067226890756,
-                            "shift_180": -0.0546875,
-                            "shift_365": -0.123188405797101,
-                            "updated_at": "2018-09-18 19:50:07 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -2711,29 +911,9 @@
     },
     {
         "name": "Shire, Lightsworn Spirit",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN082",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 6.35,
-                            "low": 1.85,
-                            "average": 1.97,
-                            "shift": 0.0,
-                            "shift_3": -0.0247524752475248,
-                            "shift_7": -0.0343137254901961,
-                            "shift_21": -0.0100502512562814,
-                            "shift_30": 0.0648648648648649,
-                            "shift_90": -0.0436893203883495,
-                            "shift_180": 0.0824175824175824,
-                            "shift_365": -0.303886925795053,
-                            "updated_at": "2018-09-19 12:35:32 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2741,29 +921,9 @@
     },
     {
         "name": "Shutendoji",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN095",
                 "rarity": "Secret Rare",
-                        "prices": {
-                            "high": 14.45,
-                            "low": 2.99,
-                            "average": 5.02,
-                            "shift": 0.00400801603206413,
-                            "shift_3": -0.0118343195266272,
-                            "shift_7": -0.0923913043478261,
-                            "shift_21": -0.124125874125874,
-                            "shift_30": -0.00595238095238095,
-                            "shift_90": -0.0511363636363636,
-                            "shift_180": 0.04375,
-                            "shift_365": -0.379950495049505,
-                            "updated_at": "2018-09-19 10:42:24 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2771,29 +931,9 @@
     },
     {
         "name": "Slip Summon",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN063",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.43,
-                            "average": 0.82,
-                            "shift": -0.0120481927710843,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0120481927710843,
-                            "shift_21": -0.0120481927710843,
-                            "shift_30": 0.0,
-                            "shift_90": 0.025,
-                            "shift_180": -0.0238095238095238,
-                            "shift_365": -0.0574712643678161,
-                            "updated_at": "2018-09-18 20:45:37 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2801,29 +941,9 @@
     },
     {
         "name": "Solitaire Magician",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN013",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.65,
-                            "average": 1.71,
-                            "shift": 0.0,
-                            "shift_3": 0.00588235294117647,
-                            "shift_7": 0.00588235294117647,
-                            "shift_21": 0.0178571428571429,
-                            "shift_30": 0.0178571428571429,
-                            "shift_90": 0.554545454545455,
-                            "shift_180": 0.879120879120879,
-                            "shift_365": 0.96551724137931,
-                            "updated_at": "2018-09-18 22:23:27 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2831,29 +951,9 @@
     },
     {
         "name": "Spider Egg",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN068",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.99,
-                            "average": 1.7,
-                            "shift": -0.0285714285714286,
-                            "shift_3": -0.0395480225988701,
-                            "shift_7": -0.0449438202247191,
-                            "shift_21": -0.0395480225988701,
-                            "shift_30": 0.0179640718562874,
-                            "shift_90": 0.559633027522936,
-                            "shift_180": 0.545454545454545,
-                            "shift_365": 1.0,
-                            "updated_at": "2018-09-19 11:31:18 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2861,29 +961,9 @@
     },
     {
         "name": "Spider Web",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN045",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.54,
-                            "average": 0.82,
-                            "shift": -0.0238095238095238,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0120481927710843,
-                            "shift_21": -0.0120481927710843,
-                            "shift_30": -0.0120481927710843,
-                            "shift_90": 0.025,
-                            "shift_180": -0.0120481927710843,
-                            "shift_365": -0.233644859813084,
-                            "updated_at": "2018-09-19 00:28:05 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -2891,29 +971,9 @@
     },
     {
         "name": "Spiritual Forest",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN059",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 19.07,
-                            "low": 0.54,
-                            "average": 0.87,
-                            "shift": 0.0116279069767442,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0116279069767442,
-                            "shift_21": 0.0235294117647059,
-                            "shift_30": 0.0235294117647059,
-                            "shift_90": 0.0740740740740741,
-                            "shift_180": 0.0235294117647059,
-                            "shift_365": 0.0116279069767442,
-                            "updated_at": "2018-09-19 06:07:08 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -2921,29 +981,9 @@
     },
     {
         "name": "Spyder Spider",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN018",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.54,
-                            "average": 0.86,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0117647058823529,
-                            "shift_90": 0.0487804878048781,
-                            "shift_180": 0.0117647058823529,
-                            "shift_365": -0.0337078651685393,
-                            "updated_at": "2018-09-19 08:49:21 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2951,29 +991,9 @@
     },
     {
         "name": "Stardust Xiaolong",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN002",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 6.35,
-                            "low": 0.74,
-                            "average": 0.9,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.010989010989011,
-                            "shift_21": -0.010989010989011,
-                            "shift_30": -0.010989010989011,
-                            "shift_90": 0.0,
-                            "shift_180": 0.0,
-                            "shift_365": -0.571428571428571,
-                            "updated_at": "2018-09-18 22:26:44 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2981,29 +1001,9 @@
     },
     {
         "name": "Stygian Dirge",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN078",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 18.28,
-                            "low": 0.54,
-                            "average": 1.49,
-                            "shift": 0.0,
-                            "shift_3": -0.00666666666666667,
-                            "shift_7": -0.0387096774193548,
-                            "shift_21": -0.00666666666666667,
-                            "shift_30": -0.0132450331125828,
-                            "shift_90": 0.0,
-                            "shift_180": -0.0448717948717949,
-                            "shift_365": -0.32579185520362,
-                            "updated_at": "2018-09-18 20:48:46 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -3011,29 +1011,9 @@
     },
     {
         "name": "Swap Frog",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN034",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 27.72,
-                            "low": 3.3,
-                            "average": 5.03,
-                            "shift": 0.0,
-                            "shift_3": 0.0307377049180328,
-                            "shift_7": 0.229828850855746,
-                            "shift_21": 0.267002518891688,
-                            "shift_30": 0.229828850855746,
-                            "shift_90": 0.203349282296651,
-                            "shift_180": 0.303108808290155,
-                            "shift_365": 0.189125295508274,
-                            "updated_at": "2018-09-19 09:20:13 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -3041,29 +1021,9 @@
     },
     {
         "name": "Synchro Barrier",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN064",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.39,
-                            "average": 0.82,
-                            "shift": 0.0123456790123457,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": 0.025,
-                            "shift_180": -0.233644859813084,
-                            "shift_365": -0.154639175257732,
-                            "updated_at": "2018-09-19 08:07:58 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -3071,29 +1031,9 @@
     },
     {
         "name": "Time Passage",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN052",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.54,
-                            "average": 1.05,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0186915887850467,
-                            "shift_21": 0.0,
-                            "shift_30": 0.166666666666667,
-                            "shift_90": 0.235294117647059,
-                            "shift_180": 0.22093023255814,
-                            "shift_365": 0.206896551724138,
-                            "updated_at": "2018-09-18 20:12:30 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -3101,29 +1041,9 @@
     },
     {
         "name": "Tuned Magician",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN029",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 9.19,
-                            "low": 0.65,
-                            "average": 0.89,
-                            "shift": 0.0,
-                            "shift_3": -0.168224299065421,
-                            "shift_7": -0.190909090909091,
-                            "shift_21": -0.190909090909091,
-                            "shift_30": -0.190909090909091,
-                            "shift_90": -0.190909090909091,
-                            "shift_180": 0.0348837209302326,
-                            "shift_365": -0.212389380530973,
-                            "updated_at": "2018-09-19 11:39:16 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -3131,29 +1051,9 @@
     },
     {
         "name": "Victoria",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN093",
                 "rarity": "Secret Rare",
-                        "prices": {
-                            "high": 39.64,
-                            "low": 3.49,
-                            "average": 8.29,
-                            "shift": 0.00120918984280532,
-                            "shift_3": -0.00719424460431655,
-                            "shift_7": 0.00242130750605327,
-                            "shift_21": -0.0654627539503386,
-                            "shift_30": -0.0881057268722467,
-                            "shift_90": 0.00363636363636364,
-                            "shift_180": -0.0601589103291714,
-                            "shift_365": -0.181008902077151,
-                            "updated_at": "2018-09-19 09:39:18 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -3161,29 +1061,9 @@
     },
     {
         "name": "Wolf in Sheep's Clothing",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN069",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 10.05,
-                            "low": 0.54,
-                            "average": 1.07,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": 0.229885057471264,
-                            "shift_180": 0.244186046511628,
-                            "shift_365": -0.456852791878173,
-                            "updated_at": "2018-09-18 21:11:06 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -3191,29 +1071,9 @@
     },
     {
         "name": "Woodland Archer",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN031",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.8,
-                            "low": 0.54,
-                            "average": 0.88,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": 0.0114942528735632,
-                            "shift_180": -0.0638297872340425,
-                            "shift_365": -0.102040816326531,
-                            "updated_at": "2018-09-18 22:58:20 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3221,29 +1081,9 @@
     },
     {
         "name": "Yellow Baboon, Archer of the Forest",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN084",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 24.83,
-                            "low": 0.99,
-                            "average": 1.36,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0381679389312977,
-                            "shift_30": 0.0381679389312977,
-                            "shift_90": -0.0072992700729927,
-                            "shift_180": 0.0625,
-                            "shift_365": -0.048951048951049,
-                            "updated_at": "2018-09-19 12:16:13 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3251,29 +1091,9 @@
     },
     {
         "name": "Yellow Baboon, Archer of the Forest",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN084",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 31.32,
-                            "low": 1.43,
-                            "average": 1.59,
-                            "shift": 0.0,
-                            "shift_3": -0.0245398773006135,
-                            "shift_7": -0.0421686746987952,
-                            "shift_21": -0.0185185185185185,
-                            "shift_30": -0.0185185185185185,
-                            "shift_90": -0.0185185185185185,
-                            "shift_180": 0.06,
-                            "shift_365": -0.0245398773006135,
-                            "updated_at": "2018-09-19 12:16:14 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3281,29 +1101,9 @@
     },
     {
         "name": "Zero Gardna",
-        "numbers": [
-            {
-                "name": "Stardust Overdrive",
+                "pack": "Stardust Overdrive",
                 "print_tag": "SOVR-EN006",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 4.98,
-                            "low": 0.77,
-                            "average": 0.95,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.11214953271028,
-                            "shift_21": 0.0,
-                            "shift_30": -0.0404040404040404,
-                            "shift_90": -0.0104166666666667,
-                            "shift_180": -0.0952380952380952,
-                            "shift_365": -0.0952380952380952,
-                            "updated_at": "2018-09-19 12:27:15 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",

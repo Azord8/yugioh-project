@@ -1,7 +1,7 @@
 [
     {
         "name": "3-Hump Lacooda",
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-070",
                 "rarity": "Common",
         "card_type": "monster",
@@ -11,29 +11,9 @@
     },
     {
         "name": "7",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-091",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 20.51,
-                            "low": 2.46,
-                            "average": 1.85,
-                            "shift": -0.0159574468085106,
-                            "shift_3": -0.0106951871657754,
-                            "shift_7": 0.608695652173913,
-                            "shift_21": 0.0882352941176471,
-                            "shift_30": 0.114457831325301,
-                            "shift_90": -0.0211640211640212,
-                            "shift_180": 0.330935251798561,
-                            "shift_365": -0.771322620519159,
-                            "updated_at": "2018-09-19 10:10:07 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -41,29 +21,9 @@
     },
     {
         "name": "Absorbing Kid from the Sky",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-072",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 6.73,
-                            "low": 0.54,
-                            "average": 0.9,
-                            "shift": -0.010989010989011,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": -0.0217391304347826,
-                            "shift_90": -0.0217391304347826,
-                            "shift_180": 0.0112359550561798,
-                            "shift_365": -0.0217391304347826,
-                            "updated_at": "2018-09-18 21:36:08 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -71,29 +31,9 @@
     },
     {
         "name": "Amplifier",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-040",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 31.32,
-                            "low": 3.0,
-                            "average": 4.92,
-                            "shift": 0.0,
-                            "shift_3": -0.0140280561122244,
-                            "shift_7": 0.020746887966805,
-                            "shift_21": -0.0120481927710843,
-                            "shift_30": -0.0333988212180747,
-                            "shift_90": 0.00819672131147541,
-                            "shift_180": 0.144186046511628,
-                            "shift_365": 0.115646258503401,
-                            "updated_at": "2018-09-19 10:32:53 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -101,29 +41,9 @@
     },
     {
         "name": "Arcane Archer of the Forest",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-029",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 6.73,
-                            "low": 0.5,
-                            "average": 0.88,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": -0.0222222222222222,
-                            "shift_30": -0.032967032967033,
-                            "shift_90": -0.0434782608695652,
-                            "shift_180": -0.0736842105263158,
-                            "shift_365": -0.0434782608695652,
-                            "updated_at": "2018-09-18 21:41:15 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -131,29 +51,9 @@
     },
     {
         "name": "Archlord Zerato",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-034",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 29.17,
-                            "low": 3.18,
-                            "average": 5.09,
-                            "shift": 0.0,
-                            "shift_3": -0.024904214559387,
-                            "shift_7": -0.0230326295585413,
-                            "shift_21": 0.00196850393700787,
-                            "shift_30": -0.0173745173745174,
-                            "shift_90": 0.0626304801670146,
-                            "shift_180": 0.0648535564853557,
-                            "shift_365": 0.318652849740933,
-                            "updated_at": "2018-09-18 21:42:23 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -161,29 +61,9 @@
     },
     {
         "name": "Armor Break",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-055",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 3.57,
-                            "low": 0.99,
-                            "average": 0.94,
-                            "shift": -0.0105263157894737,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": 0.0,
-                            "shift_180": -0.196581196581197,
-                            "shift_365": -0.0208333333333333,
-                            "updated_at": "2018-09-18 21:25:22 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -191,29 +71,9 @@
     },
     {
         "name": "Aswan Apparition",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-064",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 2.5,
-                            "low": 0.54,
-                            "average": 0.87,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0224719101123595,
-                            "shift_21": -0.0113636363636364,
-                            "shift_30": -0.0113636363636364,
-                            "shift_90": -0.0543478260869565,
-                            "shift_180": -0.0645161290322581,
-                            "shift_365": -0.13,
-                            "updated_at": "2018-09-18 21:44:28 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -221,29 +81,9 @@
     },
     {
         "name": "Atomic Firefly",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-024",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 3.98,
-                            "low": 0.64,
-                            "average": 0.96,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0204081632653061,
-                            "shift_21": -0.0303030303030303,
-                            "shift_30": -0.04,
-                            "shift_90": -0.04,
-                            "shift_180": -0.0857142857142857,
-                            "shift_365": -0.294117647058824,
-                            "updated_at": "2018-09-18 21:43:45 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -251,29 +91,9 @@
     },
     {
         "name": "Avatar of The Pot",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-016",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 18.35,
-                            "low": 0.77,
-                            "average": 1.04,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0188679245283019,
-                            "shift_21": 0.0,
-                            "shift_30": -0.00952380952380952,
-                            "shift_90": 0.0,
-                            "shift_180": 0.00970873786407767,
-                            "shift_365": -0.037037037037037,
-                            "updated_at": "2018-09-19 09:11:31 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -281,29 +101,9 @@
     },
     {
         "name": "Backfire",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-046",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 2.22,
-                            "low": 0.54,
-                            "average": 0.89,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": -0.0631578947368421,
-                            "shift_180": -0.0729166666666667,
-                            "shift_365": -0.144230769230769,
-                            "updated_at": "2018-09-18 21:11:49 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -311,29 +111,9 @@
     },
     {
         "name": "Beckoning Light",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-053",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 1.44,
-                            "low": 0.53,
-                            "average": 0.87,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0224719101123595,
-                            "shift_21": -0.074468085106383,
-                            "shift_30": -0.0224719101123595,
-                            "shift_90": -0.0224719101123595,
-                            "shift_180": -0.112244897959184,
-                            "shift_365": -0.0113636363636364,
-                            "updated_at": "2018-09-18 19:13:41 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -341,29 +121,9 @@
     },
     {
         "name": "Blessings of the Nile",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-090",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 2.22,
-                            "low": 0.54,
-                            "average": 0.97,
-                            "shift": -0.0102040816326531,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0104166666666667,
-                            "shift_21": 0.0104166666666667,
-                            "shift_30": 0.0104166666666667,
-                            "shift_90": -0.0202020202020202,
-                            "shift_180": -0.156521739130435,
-                            "shift_365": -0.0202020202020202,
-                            "updated_at": "2018-09-18 20:07:00 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -371,29 +131,9 @@
     },
     {
         "name": "Blowback Dragon",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-022",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 22.32,
-                            "low": 2.72,
-                            "average": 5.73,
-                            "shift": -0.0205128205128205,
-                            "shift_3": -0.0497512437810945,
-                            "shift_7": -0.0188356164383562,
-                            "shift_21": -0.0221843003412969,
-                            "shift_30": -0.0120689655172414,
-                            "shift_90": 0.511873350923483,
-                            "shift_180": 1.70283018867925,
-                            "shift_365": 1.865,
-                            "updated_at": "2018-09-18 22:42:38 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -401,29 +141,9 @@
     },
     {
         "name": "Burst Stream of Destruction",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-038",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 39.99,
-                            "low": 2.62,
-                            "average": 5.12,
-                            "shift": -0.017274472168906,
-                            "shift_3": -0.0465549348230912,
-                            "shift_7": -0.0058252427184466,
-                            "shift_21": -0.00967117988394584,
-                            "shift_30": 0.0138613861386139,
-                            "shift_90": -0.0553505535055351,
-                            "shift_180": -0.223065250379363,
-                            "shift_365": -0.218320610687023,
-                            "updated_at": "2018-09-19 02:52:41 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -431,29 +151,9 @@
     },
     {
         "name": "Curse of Anubis",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-105",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 11.07,
-                            "low": 3.33,
-                            "average": 5.59,
-                            "shift": 0.0200729927007299,
-                            "shift_3": -0.00533807829181495,
-                            "shift_7": 0.0238095238095238,
-                            "shift_21": -0.0227272727272727,
-                            "shift_30": 0.0587121212121212,
-                            "shift_90": 0.422391857506361,
-                            "shift_180": 1.02536231884058,
-                            "shift_365": 0.437017994858612,
-                            "updated_at": "2018-09-19 09:16:51 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -461,29 +161,9 @@
     },
     {
         "name": "Dark Magic Attack",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-095",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 59.99,
-                            "low": 9.99,
-                            "average": 15.11,
-                            "shift": 0.0,
-                            "shift_3": -0.0484886649874055,
-                            "shift_7": -0.0585669781931464,
-                            "shift_21": -0.109080188679245,
-                            "shift_30": -0.0332693538067818,
-                            "shift_90": -0.0490874764002517,
-                            "shift_180": -0.200105876124934,
-                            "shift_365": -0.014993481095176,
-                            "updated_at": "2018-09-19 07:28:31 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -491,29 +171,9 @@
     },
     {
         "name": "Delta Attacker",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-096",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.23,
-                            "low": 0.67,
-                            "average": 0.9,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": -0.0217391304347826,
-                            "shift_180": -0.210526315789474,
-                            "shift_365": -0.291338582677165,
-                            "updated_at": "2018-09-18 20:31:08 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -521,29 +181,9 @@
     },
     {
         "name": "Des Counterblow",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-107",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 18.28,
-                            "low": 0.99,
-                            "average": 1.62,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0062111801242236,
-                            "shift_21": 0.0188679245283019,
-                            "shift_30": -0.0121951219512195,
-                            "shift_90": -0.0121951219512195,
-                            "shift_180": -0.0635838150289017,
-                            "shift_365": 0.218045112781955,
-                            "updated_at": "2018-09-18 21:02:56 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -551,29 +191,9 @@
     },
     {
         "name": "Desert Sunlight",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-106",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 1.61,
-                            "low": 0.53,
-                            "average": 0.94,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0408163265306122,
-                            "shift_21": -0.0208333333333333,
-                            "shift_30": 0.0217391304347826,
-                            "shift_90": -0.06,
-                            "shift_180": -0.0309278350515464,
-                            "shift_365": -0.113207547169811,
-                            "updated_at": "2018-09-19 10:57:15 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -581,29 +201,9 @@
     },
     {
         "name": "Desertapir",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-068",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 1.52,
-                            "low": 0.3,
-                            "average": 0.93,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0108695652173913,
-                            "shift_90": -0.0412371134020619,
-                            "shift_180": -0.07,
-                            "shift_365": -0.0510204081632653,
-                            "updated_at": "2018-09-18 21:34:03 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -611,29 +211,9 @@
     },
     {
         "name": "Disc Fighter",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-028",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 18.28,
-                            "low": 0.39,
-                            "average": 0.84,
-                            "shift": 0.0,
-                            "shift_3": 0.024390243902439,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": -0.0344827586206897,
-                            "shift_180": -0.25,
-                            "shift_365": -0.0561797752808989,
-                            "updated_at": "2018-09-18 22:09:34 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -641,29 +221,9 @@
     },
     {
         "name": "Dora of Fate",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-102",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 2.22,
-                            "low": 0.54,
-                            "average": 0.93,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0108695652173913,
-                            "shift_90": -0.0106382978723404,
-                            "shift_180": -0.0210526315789474,
-                            "shift_365": 0.0449438202247191,
-                            "updated_at": "2018-09-19 10:57:31 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -671,29 +231,9 @@
     },
     {
         "name": "Double Coston",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-078",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 7.67,
-                            "low": 0.99,
-                            "average": 1.38,
-                            "shift": -0.0482758620689655,
-                            "shift_3": -0.0482758620689655,
-                            "shift_7": -0.0482758620689655,
-                            "shift_21": -0.0482758620689655,
-                            "shift_30": -0.0482758620689655,
-                            "shift_90": -0.0416666666666667,
-                            "shift_180": 0.0,
-                            "shift_365": -0.481203007518797,
-                            "updated_at": "2018-09-19 08:19:51 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -701,29 +241,9 @@
     },
     {
         "name": "Draining Shield",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-054",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 17.84,
-                            "low": 1.8,
-                            "average": 2.13,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.00471698113207547,
-                            "shift_21": 0.0979381443298969,
-                            "shift_30": 0.065,
-                            "shift_90": 0.121052631578947,
-                            "shift_180": 0.103626943005181,
-                            "shift_365": 0.13903743315508,
-                            "updated_at": "2018-09-19 04:28:46 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -731,29 +251,9 @@
     },
     {
         "name": "Dust Barrier",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-087",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.23,
-                            "low": 0.54,
-                            "average": 0.92,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": -0.0416666666666667,
-                            "shift_180": -0.0212765957446809,
-                            "shift_365": -0.155963302752294,
-                            "updated_at": "2018-09-19 01:22:59 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -761,29 +261,9 @@
     },
     {
         "name": "Earthquake",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-043",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 2.22,
-                            "low": 0.54,
-                            "average": 0.94,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": -0.0309278350515464,
-                            "shift_180": -0.104761904761905,
-                            "shift_365": -0.113207547169811,
-                            "updated_at": "2018-09-18 20:12:43 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -791,29 +271,9 @@
     },
     {
         "name": "Elephant Statue of Blessing",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-073",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 3.0,
-                            "low": 0.54,
-                            "average": 0.85,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": -0.0229885057471264,
-                            "shift_90": -0.0659340659340659,
-                            "shift_180": -0.114583333333333,
-                            "shift_365": -0.220183486238532,
-                            "updated_at": "2018-09-19 02:24:49 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -821,29 +281,9 @@
     },
     {
         "name": "Elephant Statue of Disaster",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-074",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 3.51,
-                            "low": 0.54,
-                            "average": 0.89,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": -0.021978021978022,
-                            "shift_180": -0.043010752688172,
-                            "shift_365": 0.0853658536585366,
-                            "updated_at": "2018-09-19 01:57:11 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -851,29 +291,9 @@
     },
     {
         "name": "Emissary of the Afterlife",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-076",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 20.43,
-                            "low": 2.23,
-                            "average": 2.34,
-                            "shift": 0.0,
-                            "shift_3": -0.00425531914893617,
-                            "shift_7": -0.385826771653543,
-                            "shift_21": -0.395348837209302,
-                            "shift_30": -0.00847457627118644,
-                            "shift_90": -0.35,
-                            "shift_180": 0.231578947368421,
-                            "shift_365": -0.00847457627118644,
-                            "updated_at": "2018-09-18 23:32:55 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -881,29 +301,9 @@
     },
     {
         "name": "Emissary of the Oasis",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-083",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.23,
-                            "low": 0.54,
-                            "average": 0.94,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": 0.0,
-                            "shift_180": -0.0208333333333333,
-                            "shift_365": 0.0217391304347826,
-                            "updated_at": "2018-09-18 19:13:08 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -911,29 +311,9 @@
     },
     {
         "name": "Enchanting Fitting Room",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-093",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 6.23,
-                            "low": 1.32,
-                            "average": 1.62,
-                            "shift": 0.0,
-                            "shift_3": -0.00613496932515337,
-                            "shift_7": -0.0121951219512195,
-                            "shift_21": -0.0181818181818182,
-                            "shift_30": -0.029940119760479,
-                            "shift_90": 0.0728476821192053,
-                            "shift_180": 0.102040816326531,
-                            "shift_365": -0.381679389312977,
-                            "updated_at": "2018-09-18 20:35:28 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -941,29 +321,9 @@
     },
     {
         "name": "Enemy Controller",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-037",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 26.36,
-                            "low": 4.99,
-                            "average": 7.66,
-                            "shift": 0.0,
-                            "shift_3": -0.0217113665389527,
-                            "shift_7": -0.054320987654321,
-                            "shift_21": 0.0594744121715076,
-                            "shift_30": 0.0240641711229947,
-                            "shift_90": -0.235528942115768,
-                            "shift_180": -0.434268833087149,
-                            "shift_365": -0.411674347158218,
-                            "updated_at": "2018-09-19 09:47:17 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -971,29 +331,9 @@
     },
     {
         "name": "Fiend Scorpion",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-059",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 18.35,
-                            "low": 0.39,
-                            "average": 0.88,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0112359550561798,
-                            "shift_21": -0.0112359550561798,
-                            "shift_30": -0.0112359550561798,
-                            "shift_90": -0.032967032967033,
-                            "shift_180": -0.0434782608695652,
-                            "shift_365": -0.0222222222222222,
-                            "updated_at": "2018-09-19 11:07:53 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1001,29 +341,9 @@
     },
     {
         "name": "Gear Golem the Moving Fortress",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-018",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 7.24,
-                            "low": 2.99,
-                            "average": 2.49,
-                            "shift": 0.0,
-                            "shift_3": -0.207006369426752,
-                            "shift_7": -0.374371859296482,
-                            "shift_21": -0.439189189189189,
-                            "shift_30": -0.379052369077307,
-                            "shift_90": -0.3515625,
-                            "shift_180": -0.150170648464164,
-                            "shift_365": -0.164429530201342,
-                            "updated_at": "2018-09-18 21:42:10 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1031,29 +351,9 @@
     },
     {
         "name": "Ghost Knight of Jackal",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-071",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 24.11,
-                            "low": 2.67,
-                            "average": 3.76,
-                            "shift": 0.0134770889487871,
-                            "shift_3": -0.0208333333333333,
-                            "shift_7": -0.0233766233766234,
-                            "shift_21": -0.223140495867769,
-                            "shift_30": -0.539779681762546,
-                            "shift_90": 0.408239700374532,
-                            "shift_180": -0.0233766233766234,
-                            "shift_365": -0.0481012658227848,
-                            "updated_at": "2018-09-19 08:47:21 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1061,29 +361,9 @@
     },
     {
         "name": "Gigobyte",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-056",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 15.17,
-                            "low": 1.02,
-                            "average": 1.46,
-                            "shift": 0.0354609929078014,
-                            "shift_3": -0.0135135135135135,
-                            "shift_7": -0.00680272108843537,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0977443609022556,
-                            "shift_90": 0.168,
-                            "shift_180": 0.0977443609022556,
-                            "shift_365": -0.120481927710843,
-                            "updated_at": "2018-09-18 19:25:08 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1091,29 +371,9 @@
     },
     {
         "name": "Goblin King",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-031",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 6.73,
-                            "low": 0.54,
-                            "average": 0.98,
-                            "shift": 0.0,
-                            "shift_3": 0.0103092783505155,
-                            "shift_7": 0.0103092783505155,
-                            "shift_21": 0.0315789473684211,
-                            "shift_30": 0.0208333333333333,
-                            "shift_90": 0.0315789473684211,
-                            "shift_180": -0.0101010101010101,
-                            "shift_365": -0.125,
-                            "updated_at": "2018-09-19 07:03:03 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1121,29 +381,9 @@
     },
     {
         "name": "Goblin Thief",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-045",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 14.06,
-                            "low": 0.54,
-                            "average": 0.91,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0319148936170213,
-                            "shift_21": -0.0319148936170213,
-                            "shift_30": 0.0459770114942529,
-                            "shift_90": 0.0340909090909091,
-                            "shift_180": -0.021505376344086,
-                            "shift_365": -0.165137614678899,
-                            "updated_at": "2018-09-18 19:59:03 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1151,29 +391,9 @@
     },
     {
         "name": "Gogiga Gagagigo",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-001",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 1.58,
-                            "low": 0.62,
-                            "average": 0.99,
-                            "shift": -0.0198019801980198,
-                            "shift_3": -0.0198019801980198,
-                            "shift_7": -0.0660377358490566,
-                            "shift_21": -0.0571428571428571,
-                            "shift_30": -0.0198019801980198,
-                            "shift_90": -0.0480769230769231,
-                            "shift_180": -0.326530612244898,
-                            "shift_365": -0.261194029850746,
-                            "updated_at": "2018-09-19 03:12:17 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1181,29 +401,9 @@
     },
     {
         "name": "Grave Protector",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-077",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 19.0,
-                            "low": 0.77,
-                            "average": 1.02,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": -0.163934426229508,
-                            "shift_180": -0.105263157894737,
-                            "shift_365": -0.0727272727272727,
-                            "updated_at": "2018-09-18 21:56:14 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1211,29 +411,9 @@
     },
     {
         "name": "Human-Wave Tactics",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-104",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 2.22,
-                            "low": 0.5,
-                            "average": 0.88,
-                            "shift": 0.0,
-                            "shift_3": -0.0222222222222222,
-                            "shift_7": -0.0222222222222222,
-                            "shift_21": -0.0736842105263158,
-                            "shift_30": -0.0638297872340425,
-                            "shift_90": -0.0434782608695652,
-                            "shift_180": -0.0736842105263158,
-                            "shift_365": -0.0927835051546392,
-                            "updated_at": "2018-09-18 21:20:25 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -1241,29 +421,9 @@
     },
     {
         "name": "Judgment of the Desert",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-103",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 1.43,
-                            "low": 0.39,
-                            "average": 0.9,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": -0.010989010989011,
-                            "shift_180": -0.0526315789473684,
-                            "shift_365": 0.0,
-                            "updated_at": "2018-09-18 21:31:36 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -1271,29 +431,9 @@
     },
     {
         "name": "KA-2 Des Scissors",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-019",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 6.73,
-                            "low": 0.53,
-                            "average": 0.97,
-                            "shift": 0.0,
-                            "shift_3": 0.0104166666666667,
-                            "shift_7": -0.03,
-                            "shift_21": 0.0104166666666667,
-                            "shift_30": 0.0543478260869565,
-                            "shift_90": 0.0,
-                            "shift_180": 0.0104166666666667,
-                            "shift_365": -0.0673076923076923,
-                            "updated_at": "2018-09-18 18:45:02 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1301,29 +441,9 @@
     },
     {
         "name": "King of the Swamp",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-082",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 12.49,
-                            "low": 1.19,
-                            "average": 2.24,
-                            "shift": -0.00444444444444444,
-                            "shift_3": 0.00900900900900901,
-                            "shift_7": 0.00900900900900901,
-                            "shift_21": -0.0468085106382979,
-                            "shift_30": -0.0303030303030303,
-                            "shift_90": -0.0218340611353712,
-                            "shift_180": -0.0743801652892562,
-                            "shift_365": -0.314984709480122,
-                            "updated_at": "2018-09-19 07:30:26 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1331,29 +451,9 @@
     },
     {
         "name": "Kozaky",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-058",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 3.51,
-                            "low": 0.54,
-                            "average": 0.85,
-                            "shift": 0.0,
-                            "shift_3": -0.0229885057471264,
-                            "shift_7": -0.0555555555555556,
-                            "shift_21": -0.0449438202247191,
-                            "shift_30": -0.0116279069767442,
-                            "shift_90": -0.0449438202247191,
-                            "shift_180": -0.105263157894737,
-                            "shift_365": -0.212962962962963,
-                            "updated_at": "2018-09-19 01:37:06 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1361,29 +461,9 @@
     },
     {
         "name": "Labyrinth of Nightmare (Card)",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-108",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 1.43,
-                            "low": 0.92,
-                            "average": 0.96,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0212765957446809,
-                            "shift_21": 0.0909090909090909,
-                            "shift_30": 0.0909090909090909,
-                            "shift_90": 0.0549450549450549,
-                            "shift_180": 0.0786516853932584,
-                            "shift_365": 0.142857142857143,
-                            "updated_at": "2018-09-19 06:15:19 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -1391,29 +471,9 @@
     },
     {
         "name": "Lady Ninja Yae",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-030",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 4.6,
-                            "low": 0.99,
-                            "average": 1.78,
-                            "shift": 0.0,
-                            "shift_3": 0.00564971751412429,
-                            "shift_7": 0.0289017341040462,
-                            "shift_21": 0.0348837209302326,
-                            "shift_30": 0.0348837209302326,
-                            "shift_90": 0.0289017341040462,
-                            "shift_180": 0.194630872483221,
-                            "shift_365": 0.0348837209302326,
-                            "updated_at": "2018-09-19 05:27:26 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -1421,29 +481,9 @@
     },
     {
         "name": "Legacy Hunter",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-067",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 19.0,
-                            "low": 0.53,
-                            "average": 0.9,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0465116279069767,
-                            "shift_30": 0.0714285714285714,
-                            "shift_90": 0.0588235294117647,
-                            "shift_180": 0.0112359550561798,
-                            "shift_365": -0.158878504672897,
-                            "updated_at": "2018-09-18 19:18:51 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1451,29 +491,9 @@
     },
     {
         "name": "Legendary Jujitsu Master",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-017",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 2.09,
-                            "low": 0.58,
-                            "average": 0.96,
-                            "shift": -0.0103092783505155,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": -0.0103092783505155,
-                            "shift_30": 0.032258064516129,
-                            "shift_90": 0.0212765957446809,
-                            "shift_180": 0.0,
-                            "shift_365": 0.142857142857143,
-                            "updated_at": "2018-09-18 19:19:08 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1481,29 +501,9 @@
     },
     {
         "name": "Level Limit - Area B",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-092",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 4.29,
-                            "low": 0.99,
-                            "average": 2.21,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.00454545454545455,
-                            "shift_21": 0.0091324200913242,
-                            "shift_30": 0.0091324200913242,
-                            "shift_90": 0.0,
-                            "shift_180": -0.101626016260163,
-                            "shift_365": -0.240549828178694,
-                            "updated_at": "2018-09-18 20:40:16 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -1511,29 +511,9 @@
     },
     {
         "name": "Light of Judgment",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-048",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 3.0,
-                            "low": 0.74,
-                            "average": 0.98,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0101010101010101,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0208333333333333,
-                            "shift_90": -0.0841121495327103,
-                            "shift_180": -0.263157894736842,
-                            "shift_365": -0.284671532846715,
-                            "updated_at": "2018-09-18 21:23:34 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1541,29 +521,9 @@
     },
     {
         "name": "Man-Thro' Tro'",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-081",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 1.57,
-                            "low": 0.56,
-                            "average": 0.96,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0204081632653061,
-                            "shift_21": -0.0204081632653061,
-                            "shift_30": 0.0,
-                            "shift_90": 0.0,
-                            "shift_180": -0.0588235294117647,
-                            "shift_365": -0.0303030303030303,
-                            "updated_at": "2018-09-18 18:15:23 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1571,29 +531,9 @@
     },
     {
         "name": "Mazera DeVille",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-111",
                 "rarity": "Secret Rare",
-                        "prices": {
-                            "high": 79.95,
-                            "low": 1.6,
-                            "average": 2.78,
-                            "shift": -0.003584229390681,
-                            "shift_3": -0.0211267605633803,
-                            "shift_7": -0.0176678445229682,
-                            "shift_21": 0.0036101083032491,
-                            "shift_30": 1.05925925925926,
-                            "shift_90": 0.0,
-                            "shift_180": -0.318627450980392,
-                            "shift_365": 0.0109090909090909,
-                            "updated_at": "2018-09-18 23:28:37 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1601,29 +541,9 @@
     },
     {
         "name": "Mermaid Knight",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-025",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 13.83,
-                            "low": 0.99,
-                            "average": 0.92,
-                            "shift": 0.0,
-                            "shift_3": -0.010752688172043,
-                            "shift_7": -0.010752688172043,
-                            "shift_21": -0.0612244897959184,
-                            "shift_30": -0.178571428571429,
-                            "shift_90": -0.0212765957446809,
-                            "shift_180": -0.0212765957446809,
-                            "shift_365": -0.178571428571429,
-                            "updated_at": "2018-09-19 10:04:44 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1631,29 +551,9 @@
     },
     {
         "name": "Metal Armored Bug",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-005",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 6.73,
-                            "low": 0.53,
-                            "average": 0.96,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": 0.0105263157894737,
-                            "shift_180": 0.032258064516129,
-                            "shift_365": -0.0204081632653061,
-                            "updated_at": "2018-09-18 21:59:36 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1661,29 +561,9 @@
     },
     {
         "name": "Micro Ray",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-047",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.23,
-                            "low": 0.92,
-                            "average": 0.93,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0108695652173913,
-                            "shift_21": 0.0108695652173913,
-                            "shift_30": 0.0108695652173913,
-                            "shift_90": 0.0,
-                            "shift_180": -0.0106382978723404,
-                            "shift_365": 0.0568181818181818,
-                            "updated_at": "2018-09-19 10:06:32 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1691,29 +571,9 @@
     },
     {
         "name": "Mokey Mokey",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-057",
                 "rarity": "Super Short Print",
-                        "prices": {
-                            "high": 10.39,
-                            "low": 1.66,
-                            "average": 3.61,
-                            "shift": -0.00550964187327824,
-                            "shift_3": -0.175799086757991,
-                            "shift_7": -0.195991091314031,
-                            "shift_21": -0.138424821002387,
-                            "shift_30": -0.244769874476987,
-                            "shift_90": -0.2117903930131,
-                            "shift_180": -0.353046594982079,
-                            "shift_365": 0.473469387755102,
-                            "updated_at": "2018-09-18 18:22:48 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1721,29 +581,9 @@
     },
     {
         "name": "Monster Gate",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-039",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 15.84,
-                            "low": 0.54,
-                            "average": 0.94,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.010752688172043,
-                            "shift_21": -0.0208333333333333,
-                            "shift_30": 0.0,
-                            "shift_90": 0.0,
-                            "shift_180": -0.06,
-                            "shift_365": 0.010752688172043,
-                            "updated_at": "2018-09-19 10:10:18 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1751,29 +591,9 @@
     },
     {
         "name": "Mystical Shine Ball",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-004",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.49,
-                            "low": 0.99,
-                            "average": 1.77,
-                            "shift": 0.0,
-                            "shift_3": 0.0473372781065089,
-                            "shift_7": 0.0411764705882353,
-                            "shift_21": 0.0993788819875776,
-                            "shift_30": -0.0969387755102041,
-                            "shift_90": 0.113207547169811,
-                            "shift_180": 0.0411764705882353,
-                            "shift_365": -0.393835616438356,
-                            "updated_at": "2018-09-19 06:51:18 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1781,29 +601,9 @@
     },
     {
         "name": "Mystik Wok",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-036",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.49,
-                            "low": 0.54,
-                            "average": 1.04,
-                            "shift": -0.00952380952380952,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0458715596330275,
-                            "shift_21": -0.0188679245283019,
-                            "shift_30": 0.0,
-                            "shift_90": 0.00970873786407767,
-                            "shift_180": -0.133333333333333,
-                            "shift_365": -0.1875,
-                            "updated_at": "2018-09-19 02:37:02 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -1811,29 +611,9 @@
     },
     {
         "name": "Needle Burrower",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-020",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 18.28,
-                            "low": 0.53,
-                            "average": 0.97,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0102040816326531,
-                            "shift_21": 0.0543478260869565,
-                            "shift_30": 0.0543478260869565,
-                            "shift_90": -0.03,
-                            "shift_180": -0.058252427184466,
-                            "shift_365": 0.0104166666666667,
-                            "updated_at": "2018-09-18 18:53:31 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1841,29 +621,9 @@
     },
     {
         "name": "Night Assailant",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-080",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 19.79,
-                            "low": 0.83,
-                            "average": 4.58,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 2.44360902255639,
-                            "shift_21": 2.41791044776119,
-                            "shift_30": 2.34306569343066,
-                            "shift_90": 2.81666666666667,
-                            "shift_180": 0.0385487528344671,
-                            "shift_365": -0.145522388059701,
-                            "updated_at": "2018-09-19 10:55:50 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1871,29 +631,9 @@
     },
     {
         "name": "Ninjitsu Art of Transformation",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-052",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 19.04,
-                            "low": 0.54,
-                            "average": 0.99,
-                            "shift": -0.01,
-                            "shift_3": -0.01,
-                            "shift_7": -0.01,
-                            "shift_21": -0.01,
-                            "shift_30": -0.0198019801980198,
-                            "shift_90": -0.0833333333333333,
-                            "shift_180": -0.01,
-                            "shift_365": -0.0660377358490566,
-                            "updated_at": "2018-09-19 08:41:52 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -1901,29 +641,9 @@
     },
     {
         "name": "Nubian Guard",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-066",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 2.22,
-                            "low": 0.54,
-                            "average": 0.92,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.010752688172043,
-                            "shift_21": 0.0,
-                            "shift_30": -0.0315789473684211,
-                            "shift_90": -0.0212765957446809,
-                            "shift_180": -0.0212765957446809,
-                            "shift_365": 0.010989010989011,
-                            "updated_at": "2018-09-19 01:41:44 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -1931,29 +651,9 @@
     },
     {
         "name": "Opti-Camouflage Armor",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-035",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 5.47,
-                            "low": 2.53,
-                            "average": 3.2,
-                            "shift": 0.0738255033557047,
-                            "shift_3": 0.0158730158730159,
-                            "shift_7": -0.0062111801242236,
-                            "shift_21": 0.0996563573883162,
-                            "shift_30": 0.0666666666666667,
-                            "shift_90": -0.0153846153846154,
-                            "shift_180": -0.0332326283987915,
-                            "shift_365": -0.164490861618799,
-                            "updated_at": "2018-09-19 10:02:58 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -1961,29 +661,9 @@
     },
     {
         "name": "Order to Charge",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-085",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 18.28,
-                            "low": 0.77,
-                            "average": 1.01,
-                            "shift": 0.0,
-                            "shift_3": -0.0648148148148148,
-                            "shift_7": -0.0194174757281553,
-                            "shift_21": -0.0194174757281553,
-                            "shift_30": 0.074468085106383,
-                            "shift_90": 0.074468085106383,
-                            "shift_180": -0.322147651006711,
-                            "shift_365": -0.438888888888889,
-                            "updated_at": "2018-09-18 20:28:23 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -1991,29 +671,9 @@
     },
     {
         "name": "Order to Smash",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-110",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.06,
-                            "low": 0.54,
-                            "average": 0.89,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0113636363636364,
-                            "shift_90": -0.0111111111111111,
-                            "shift_180": -0.043010752688172,
-                            "shift_365": 0.0,
-                            "updated_at": "2018-09-18 21:06:25 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2021,29 +681,9 @@
     },
     {
         "name": "Pharaoh's Servant (card)",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-060",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 19.07,
-                            "low": 0.65,
-                            "average": 1.0,
-                            "shift": 0.0,
-                            "shift_3": -0.0099009900990099,
-                            "shift_7": -0.0654205607476635,
-                            "shift_21": -0.0384615384615385,
-                            "shift_30": 0.0416666666666667,
-                            "shift_90": 0.0752688172043011,
-                            "shift_180": -0.21875,
-                            "shift_365": -0.295774647887324,
-                            "updated_at": "2018-09-19 02:45:53 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2051,29 +691,9 @@
     },
     {
         "name": "Pharaonic Protector",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-061",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 4.34,
-                            "low": 0.54,
-                            "average": 0.98,
-                            "shift": 0.0,
-                            "shift_3": -0.0485436893203883,
-                            "shift_7": -0.0576923076923077,
-                            "shift_21": -0.0576923076923077,
-                            "shift_30": -0.0297029702970297,
-                            "shift_90": -0.0925925925925926,
-                            "shift_180": -0.251908396946565,
-                            "shift_365": -0.0297029702970297,
-                            "updated_at": "2018-09-18 19:04:16 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2081,29 +701,9 @@
     },
     {
         "name": "Piranha Army",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-026",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 6.73,
-                            "low": 0.54,
-                            "average": 0.94,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": -0.0309278350515464,
-                            "shift_180": -0.0693069306930693,
-                            "shift_365": -0.0408163265306122,
-                            "updated_at": "2018-09-18 19:04:59 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2111,29 +711,9 @@
     },
     {
         "name": "Protector of the Sanctuary",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-065",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 6.73,
-                            "low": 0.79,
-                            "average": 1.0,
-                            "shift": 0.0101010101010101,
-                            "shift_3": 0.0309278350515464,
-                            "shift_7": 0.0416666666666667,
-                            "shift_21": -0.029126213592233,
-                            "shift_30": 0.0309278350515464,
-                            "shift_90": 0.0204081632653061,
-                            "shift_180": -0.115044247787611,
-                            "shift_365": -0.618320610687023,
-                            "updated_at": "2018-09-19 10:11:54 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2141,29 +721,9 @@
     },
     {
         "name": "Regenerating Mummy",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-079",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 2.22,
-                            "low": 0.92,
-                            "average": 0.95,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": -0.0104166666666667,
-                            "shift_30": -0.0104166666666667,
-                            "shift_90": 0.0106382978723404,
-                            "shift_180": 0.0106382978723404,
-                            "shift_365": 0.0,
-                            "updated_at": "2018-09-19 03:31:33 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2171,29 +731,9 @@
     },
     {
         "name": "Rocket Jumper",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-015",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 3.99,
-                            "low": 0.52,
-                            "average": 0.87,
-                            "shift": -0.0113636363636364,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0113636363636364,
-                            "shift_21": 0.0,
-                            "shift_30": -0.0113636363636364,
-                            "shift_90": -0.0333333333333333,
-                            "shift_180": -0.074468085106383,
-                            "shift_365": -0.043956043956044,
-                            "updated_at": "2018-09-18 16:55:54 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2201,29 +741,9 @@
     },
     {
         "name": "Sand Gambler",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-069",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 2.22,
-                            "low": 0.99,
-                            "average": 0.95,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": 0.021505376344086,
-                            "shift_180": 0.0326086956521739,
-                            "shift_365": 0.0106382978723404,
-                            "updated_at": "2018-09-18 22:15:33 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2231,29 +751,9 @@
     },
     {
         "name": "Sealmaster Meisei",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-003",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 18.28,
-                            "low": 0.92,
-                            "average": 0.96,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0105263157894737,
-                            "shift_21": 0.0105263157894737,
-                            "shift_30": 0.0212765957446809,
-                            "shift_90": 0.0212765957446809,
-                            "shift_180": 0.0,
-                            "shift_365": -0.0943396226415094,
-                            "updated_at": "2018-09-18 21:56:36 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2261,29 +761,9 @@
     },
     {
         "name": "Solar Flare Dragon",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-032",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 6.73,
-                            "low": 0.54,
-                            "average": 0.85,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0625,
-                            "shift_30": -0.0449438202247191,
-                            "shift_90": -0.0116279069767442,
-                            "shift_180": -0.0760869565217391,
-                            "shift_365": -0.0555555555555556,
-                            "updated_at": "2018-09-18 22:23:46 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2291,29 +771,9 @@
     },
     {
         "name": "Solar Ray",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-051",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 6.69,
-                            "low": 0.54,
-                            "average": 0.96,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0105263157894737,
-                            "shift_30": 0.0105263157894737,
-                            "shift_90": -0.0204081632653061,
-                            "shift_180": 0.0105263157894737,
-                            "shift_365": -0.0204081632653061,
-                            "updated_at": "2018-09-19 06:53:31 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2321,29 +781,9 @@
     },
     {
         "name": "Sonic Jammer",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-021",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.49,
-                            "low": 0.54,
-                            "average": 0.93,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": -0.03125,
-                            "shift_90": -0.0210526315789474,
-                            "shift_180": -0.03125,
-                            "shift_365": 0.0449438202247191,
-                            "updated_at": "2018-09-18 22:23:43 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -2351,29 +791,9 @@
     },
     {
         "name": "Soul Resurrection",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-109",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 7.93,
-                            "low": 0.59,
-                            "average": 0.87,
-                            "shift": -0.0113636363636364,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0333333333333333,
-                            "shift_21": -0.0333333333333333,
-                            "shift_30": 0.0,
-                            "shift_90": -0.043956043956044,
-                            "shift_180": -0.043956043956044,
-                            "shift_365": -0.286885245901639,
-                            "updated_at": "2018-09-19 11:09:15 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -2381,29 +801,9 @@
     },
     {
         "name": "Soul Reversal",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-088",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 1.51,
-                            "low": 0.58,
-                            "average": 0.94,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0408163265306122,
-                            "shift_21": 0.0,
-                            "shift_30": 0.032967032967033,
-                            "shift_90": 0.0,
-                            "shift_180": 0.0444444444444444,
-                            "shift_365": -0.0961538461538462,
-                            "updated_at": "2018-09-18 19:52:39 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -2411,29 +811,9 @@
     },
     {
         "name": "Soul-Absorbing Bone Tower",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-011",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 20.72,
-                            "low": 0.76,
-                            "average": 1.34,
-                            "shift": 0.0,
-                            "shift_3": -0.0359712230215827,
-                            "shift_7": -0.0428571428571429,
-                            "shift_21": -0.106666666666667,
-                            "shift_30": -0.0945945945945946,
-                            "shift_90": 0.0387596899224806,
-                            "shift_180": 0.135593220338983,
-                            "shift_365": 0.126050420168067,
-                            "updated_at": "2018-09-19 10:56:29 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2441,29 +821,9 @@
     },
     {
         "name": "Special Hurricane",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-084",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 4.98,
-                            "low": 0.49,
-                            "average": 2.19,
-                            "shift": 0.0,
-                            "shift_3": 0.134715025906736,
-                            "shift_7": -0.0875,
-                            "shift_21": 1.02777777777778,
-                            "shift_30": 1.14705882352941,
-                            "shift_90": 0.840336134453782,
-                            "shift_180": 1.10576923076923,
-                            "shift_365": 0.780487804878049,
-                            "updated_at": "2018-09-19 04:29:23 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2471,29 +831,9 @@
     },
     {
         "name": "Spell Economics",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-089",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 8.26,
-                            "low": 0.68,
-                            "average": 0.98,
-                            "shift": -0.0101010101010101,
-                            "shift_3": 0.0103092783505155,
-                            "shift_7": -0.0485436893203883,
-                            "shift_21": -0.309859154929577,
-                            "shift_30": 0.0208333333333333,
-                            "shift_90": -0.0297029702970297,
-                            "shift_180": -0.203252032520325,
-                            "shift_365": -0.279411764705882,
-                            "updated_at": "2018-09-18 19:53:17 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -2501,29 +841,9 @@
     },
     {
         "name": "Spirit Caller",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-075",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 1.99,
-                            "low": 0.39,
-                            "average": 0.8,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0123456790123457,
-                            "shift_21": -0.0123456790123457,
-                            "shift_30": -0.024390243902439,
-                            "shift_90": -0.036144578313253,
-                            "shift_180": -0.111111111111111,
-                            "shift_365": -0.0909090909090909,
-                            "updated_at": "2018-09-18 21:06:38 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2531,29 +851,9 @@
     },
     {
         "name": "Spirit of the Pharaoh",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-062",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 59.96,
-                            "low": 3.59,
-                            "average": 5.77,
-                            "shift": 0.0,
-                            "shift_3": 0.0928030303030303,
-                            "shift_7": 0.107485604606526,
-                            "shift_21": 0.0,
-                            "shift_30": -0.0768,
-                            "shift_90": -0.0102915951972556,
-                            "shift_180": 0.147117296222664,
-                            "shift_365": 0.225053078556263,
-                            "updated_at": "2018-09-18 22:26:08 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2561,29 +861,9 @@
     },
     {
         "name": "Stone Statue of the Aztecs",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-014",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 14.99,
-                            "low": 1.65,
-                            "average": 2.23,
-                            "shift": -0.00446428571428571,
-                            "shift_3": 0.0045045045045045,
-                            "shift_7": 0.0182648401826484,
-                            "shift_21": -0.00888888888888889,
-                            "shift_30": -0.047008547008547,
-                            "shift_90": 0.0825242718446602,
-                            "shift_180": 0.218579234972678,
-                            "shift_365": 0.0518867924528302,
-                            "updated_at": "2018-09-18 22:28:19 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2591,29 +871,9 @@
     },
     {
         "name": "Sword of the Soul-Eater",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-086",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.23,
-                            "low": 0.39,
-                            "average": 0.89,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": 0.0113636363636364,
-                            "shift_180": -0.0531914893617021,
-                            "shift_365": 0.0,
-                            "updated_at": "2018-09-18 19:56:44 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -2621,29 +881,9 @@
     },
     {
         "name": "Talisman of Spell Sealing",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-049",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 7.93,
-                            "low": 0.54,
-                            "average": 0.87,
-                            "shift": -0.0113636363636364,
-                            "shift_3": -0.0113636363636364,
-                            "shift_7": -0.0333333333333333,
-                            "shift_21": -0.216216216216216,
-                            "shift_30": -0.209090909090909,
-                            "shift_90": -0.074468085106383,
-                            "shift_180": -0.0543478260869565,
-                            "shift_365": -0.565,
-                            "updated_at": "2018-09-18 21:05:57 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -2651,29 +891,9 @@
     },
     {
         "name": "Talisman of Trap Sealing",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-044",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 7.24,
-                            "low": 0.41,
-                            "average": 0.86,
-                            "shift": -0.0114942528735632,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0652173913043478,
-                            "shift_21": -0.0652173913043478,
-                            "shift_30": -0.0851063829787234,
-                            "shift_90": -0.11340206185567,
-                            "shift_180": -0.156862745098039,
-                            "shift_365": -0.0947368421052632,
-                            "updated_at": "2018-09-18 20:09:34 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -2681,29 +901,9 @@
     },
     {
         "name": "The Agent of Creation - Venus",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-008",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 20.22,
-                            "low": 1.1,
-                            "average": 2.8,
-                            "shift": 0.102362204724409,
-                            "shift_3": 0.129032258064516,
-                            "shift_7": 0.0108303249097473,
-                            "shift_21": 0.161825726141079,
-                            "shift_30": 0.201716738197425,
-                            "shift_90": 0.222707423580786,
-                            "shift_180": -0.00355871886120996,
-                            "shift_365": -0.193083573487032,
-                            "updated_at": "2018-09-19 06:45:59 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2711,29 +911,9 @@
     },
     {
         "name": "The Agent of Force - Mars",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-009",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 8.98,
-                            "low": 1.73,
-                            "average": 2.94,
-                            "shift": 0.0,
-                            "shift_3": -0.02,
-                            "shift_7": -0.0725552050473186,
-                            "shift_21": -0.0636942675159236,
-                            "shift_30": 0.0315789473684211,
-                            "shift_90": 1.31496062992126,
-                            "shift_180": 2.03092783505155,
-                            "shift_365": -0.164772727272727,
-                            "updated_at": "2018-09-18 18:27:46 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2741,29 +921,9 @@
     },
     {
         "name": "The Agent of Judgment - Saturn",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-006",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 24.74,
-                            "low": 1.98,
-                            "average": 1.97,
-                            "shift": 0.0,
-                            "shift_3": -0.108597285067873,
-                            "shift_7": -0.168776371308017,
-                            "shift_21": -0.112612612612613,
-                            "shift_30": -0.124444444444444,
-                            "shift_90": -0.104545454545455,
-                            "shift_180": 0.0368421052631579,
-                            "shift_365": -0.0837209302325581,
-                            "updated_at": "2018-09-18 18:27:51 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2771,29 +931,9 @@
     },
     {
         "name": "The Agent of Wisdom - Mercury",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-007",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 19.0,
-                            "low": 0.92,
-                            "average": 0.95,
-                            "shift": 0.0,
-                            "shift_3": 0.0106382978723404,
-                            "shift_7": -0.11214953271028,
-                            "shift_21": -0.151785714285714,
-                            "shift_30": -0.12037037037037,
-                            "shift_90": -0.201680672268908,
-                            "shift_180": -0.221311475409836,
-                            "shift_365": -0.166666666666667,
-                            "updated_at": "2018-09-18 17:15:42 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2801,29 +941,9 @@
     },
     {
         "name": "The End of Anubis",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-000",
                 "rarity": "Secret Rare",
-                        "prices": {
-                            "high": 79.95,
-                            "low": 5.99,
-                            "average": 7.17,
-                            "shift": -0.012396694214876,
-                            "shift_3": -0.0712435233160622,
-                            "shift_7": -0.0639686684073107,
-                            "shift_21": -0.0901015228426396,
-                            "shift_30": -0.0700389105058366,
-                            "shift_90": -0.110421836228288,
-                            "shift_180": 0.0606508875739645,
-                            "shift_365": 0.365714285714286,
-                            "updated_at": "2018-09-19 07:12:19 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2831,29 +951,9 @@
     },
     {
         "name": "The First Sarcophagus",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-101",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 19.66,
-                            "low": 0.58,
-                            "average": 0.96,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.186440677966102,
-                            "shift_21": -0.127272727272727,
-                            "shift_30": -0.0495049504950495,
-                            "shift_90": -0.0495049504950495,
-                            "shift_180": -0.49738219895288,
-                            "shift_365": -0.403726708074534,
-                            "updated_at": "2018-09-18 21:06:39 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -2861,29 +961,9 @@
     },
     {
         "name": "The Kick Man",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-012",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.98,
-                            "low": 0.54,
-                            "average": 0.98,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": -0.140350877192982,
-                            "shift_180": -0.125,
-                            "shift_365": 0.0537634408602151,
-                            "updated_at": "2018-09-18 18:28:50 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2891,29 +971,9 @@
     },
     {
         "name": "The Law of the Normal",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-094",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 18.28,
-                            "low": 0.54,
-                            "average": 0.9,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": -0.010989010989011,
-                            "shift_180": -0.196428571428571,
-                            "shift_365": -0.0526315789473684,
-                            "updated_at": "2018-09-18 20:11:28 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2921,29 +981,9 @@
     },
     {
         "name": "The Sanctuary in the Sky",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-042",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 14.85,
-                            "low": 5.25,
-                            "average": 5.76,
-                            "shift": -0.00518134715025907,
-                            "shift_3": -0.00173310225303293,
-                            "shift_7": -0.0253807106598985,
-                            "shift_21": 0.0194690265486726,
-                            "shift_30": 0.0140845070422535,
-                            "shift_90": 0.0909090909090909,
-                            "shift_180": -0.00346020761245675,
-                            "shift_365": -0.230974632843792,
-                            "updated_at": "2018-09-19 08:33:34 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -2951,29 +991,9 @@
     },
     {
         "name": "The Second Sarcophagus",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-100",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 2.8,
-                            "low": 0.53,
-                            "average": 0.85,
-                            "shift": -0.0229885057471264,
-                            "shift_3": -0.0116279069767442,
-                            "shift_7": -0.0860215053763441,
-                            "shift_21": -0.0860215053763441,
-                            "shift_30": -0.0116279069767442,
-                            "shift_90": -0.0340909090909091,
-                            "shift_180": -0.0659340659340659,
-                            "shift_365": -0.141414141414141,
-                            "updated_at": "2018-09-18 20:11:58 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -2981,29 +1001,9 @@
     },
     {
         "name": "The Third Sarcophagus",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-099",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 9.98,
-                            "low": 0.99,
-                            "average": 0.9,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0112359550561798,
-                            "shift_90": -0.0625,
-                            "shift_180": -0.117647058823529,
-                            "shift_365": -0.268292682926829,
-                            "updated_at": "2018-09-18 20:12:13 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -3011,29 +1011,9 @@
     },
     {
         "name": "The Unhappy Girl",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-010",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 6.73,
-                            "low": 0.64,
-                            "average": 0.82,
-                            "shift": -0.18,
-                            "shift_3": -0.18,
-                            "shift_7": -0.219047619047619,
-                            "shift_21": -0.211538461538462,
-                            "shift_30": -0.145833333333333,
-                            "shift_90": -0.247706422018349,
-                            "shift_180": -0.226415094339623,
-                            "shift_365": -0.233644859813084,
-                            "updated_at": "2018-09-19 00:53:50 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -3041,29 +1021,9 @@
     },
     {
         "name": "Theban Nightmare",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-063",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 17.8,
-                            "low": 0.54,
-                            "average": 1.06,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0535714285714286,
-                            "shift_21": -0.0275229357798165,
-                            "shift_30": -0.0535714285714286,
-                            "shift_90": 0.177777777777778,
-                            "shift_180": 0.00952380952380952,
-                            "shift_365": 0.204545454545455,
-                            "updated_at": "2018-09-19 09:10:18 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -3071,29 +1031,9 @@
     },
     {
         "name": "Thousand Energy",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-097",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 18.28,
-                            "low": 0.41,
-                            "average": 0.92,
-                            "shift": -0.010752688172043,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0222222222222222,
-                            "shift_21": 0.0222222222222222,
-                            "shift_30": 0.0222222222222222,
-                            "shift_90": -0.0212765957446809,
-                            "shift_180": -0.0212765957446809,
-                            "shift_365": 0.0222222222222222,
-                            "updated_at": "2018-09-18 20:12:40 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -3101,29 +1041,9 @@
     },
     {
         "name": "Triangle Power",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-098",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 18.28,
-                            "low": 0.55,
-                            "average": 1.03,
-                            "shift": 0.0618556701030928,
-                            "shift_3": 0.0618556701030928,
-                            "shift_7": -0.0803571428571429,
-                            "shift_21": -0.0462962962962963,
-                            "shift_30": -0.0462962962962963,
-                            "shift_90": 0.211764705882353,
-                            "shift_180": -0.0283018867924528,
-                            "shift_365": -0.055045871559633,
-                            "updated_at": "2018-09-19 00:39:02 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -3131,29 +1051,9 @@
     },
     {
         "name": "Two Thousand Needles",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-027",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.98,
-                            "low": 0.39,
-                            "average": 0.9,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.032258064516129,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": -0.032258064516129,
-                            "shift_180": -0.0526315789473684,
-                            "shift_365": -0.032258064516129,
-                            "updated_at": "2018-09-19 07:05:26 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3161,29 +1061,9 @@
     },
     {
         "name": "Vampire Lady",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-013",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 6.24,
-                            "low": 0.53,
-                            "average": 0.96,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0495049504950495,
-                            "shift_21": -0.0204081632653061,
-                            "shift_30": 0.0105263157894737,
-                            "shift_90": -0.0204081632653061,
-                            "shift_180": -0.0303030303030303,
-                            "shift_365": -0.127272727272727,
-                            "updated_at": "2018-09-19 05:14:02 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -3191,29 +1071,9 @@
     },
     {
         "name": "Wall of Revealing Light",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-050",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.99,
-                            "low": 0.8,
-                            "average": 1.12,
-                            "shift": 0.0,
-                            "shift_3": 0.00900900900900901,
-                            "shift_7": 0.00900900900900901,
-                            "shift_21": 0.00900900900900901,
-                            "shift_30": 0.0181818181818182,
-                            "shift_90": -0.00884955752212389,
-                            "shift_180": -0.243243243243243,
-                            "shift_365": -0.410526315789474,
-                            "updated_at": "2018-09-18 21:10:36 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -3221,29 +1081,9 @@
     },
     {
         "name": "Warrior of Zera",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-002",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 2.49,
-                            "low": 0.79,
-                            "average": 1.38,
-                            "shift": 0.0,
-                            "shift_3": 0.0697674418604651,
-                            "shift_7": -0.0212765957446809,
-                            "shift_21": 0.0298507462686567,
-                            "shift_30": 0.0147058823529412,
-                            "shift_90": 0.0952380952380952,
-                            "shift_180": -0.00719424460431655,
-                            "shift_365": -0.0612244897959184,
-                            "updated_at": "2018-09-18 22:55:34 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3251,29 +1091,9 @@
     },
     {
         "name": "Weapon Change",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-041",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.23,
-                            "low": 0.39,
-                            "average": 0.94,
-                            "shift": -0.0105263157894737,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": 0.0,
-                            "shift_180": -0.0105263157894737,
-                            "shift_365": 0.032967032967033,
-                            "updated_at": "2018-09-19 01:42:29 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -3281,29 +1101,9 @@
     },
     {
         "name": "White Magician Pikeru",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-033",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 4.01,
-                            "low": 0.39,
-                            "average": 2.75,
-                            "shift": 0.0,
-                            "shift_3": 0.07421875,
-                            "shift_7": 0.0912698412698413,
-                            "shift_21": 0.233183856502242,
-                            "shift_30": 0.222222222222222,
-                            "shift_90": 0.388888888888889,
-                            "shift_180": 0.0658914728682171,
-                            "shift_365": -0.0549828178694158,
-                            "updated_at": "2018-09-19 05:49:45 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -3311,29 +1111,9 @@
     },
     {
         "name": "Zaborg the Thunder Monarch",
-        "numbers": [
-            {
-                "name": "Ancient Sanctuary",
+                "pack": "Ancient Sanctuary",
                 "print_tag": "AST-023",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 29.16,
-                            "low": 1.03,
-                            "average": 3.06,
-                            "shift": 0.0,
-                            "shift_3": -0.0347003154574132,
-                            "shift_7": -0.0892857142857143,
-                            "shift_21": -0.186170212765957,
-                            "shift_30": -0.147632311977716,
-                            "shift_90": 0.307692307692308,
-                            "shift_180": -0.28169014084507,
-                            "shift_365": -0.0496894409937888,
-                            "updated_at": "2018-09-19 09:34:42 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",

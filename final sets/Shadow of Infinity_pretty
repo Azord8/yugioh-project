@@ -1,7 +1,7 @@
 [
     {
         "name": "Adhesive Explosive",
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN011",
                 "rarity": "Rare",
         "card_type": "monster",
@@ -11,29 +11,9 @@
     },
     {
         "name": "Adhesive Explosive",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN011",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 21.15,
-                            "low": 3.97,
-                            "average": 3.01,
-                            "shift": 0.0,
-                            "shift_3": -0.0258899676375405,
-                            "shift_7": 0.0451388888888889,
-                            "shift_21": 0.662983425414365,
-                            "shift_30": 0.72,
-                            "shift_90": 1.50833333333333,
-                            "shift_180": -0.485470085470085,
-                            "shift_365": 1.09027777777778,
-                            "updated_at": "2018-09-18 20:54:55 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -41,29 +21,9 @@
     },
     {
         "name": "Ancient Gear (card)",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN008",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.23,
-                            "low": 0.3,
-                            "average": 1.87,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.00537634408602151,
-                            "shift_21": 0.191082802547771,
-                            "shift_30": 0.198717948717949,
-                            "shift_90": 1.30864197530864,
-                            "shift_180": 1.30864197530864,
-                            "shift_365": -0.248995983935743,
-                            "updated_at": "2018-09-18 20:18:43 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -71,29 +31,9 @@
     },
     {
         "name": "Ancient Gear Cannon",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN009",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.27,
-                            "low": 0.99,
-                            "average": 0.99,
-                            "shift": 0.0,
-                            "shift_3": -0.01,
-                            "shift_7": -0.01,
-                            "shift_21": 0.0206185567010309,
-                            "shift_30": 0.0206185567010309,
-                            "shift_90": 0.0,
-                            "shift_180": -0.0917431192660551,
-                            "shift_365": 0.0,
-                            "updated_at": "2018-09-18 21:39:43 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -101,29 +41,9 @@
     },
     {
         "name": "Ancient Gear Castle",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN047",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 8.47,
-                            "low": 0.99,
-                            "average": 1.21,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.032,
-                            "shift_21": -0.0546875,
-                            "shift_30": -0.0833333333333333,
-                            "shift_90": -0.047244094488189,
-                            "shift_180": 0.130841121495327,
-                            "shift_365": 0.0707964601769911,
-                            "updated_at": "2018-09-18 20:15:38 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -131,29 +51,9 @@
     },
     {
         "name": "Ancient Gear Castle",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN047",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 35.51,
-                            "low": 4.94,
-                            "average": 3.4,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0429447852760736,
-                            "shift_21": 1.76422764227642,
-                            "shift_30": 0.111111111111111,
-                            "shift_90": 0.312741312741313,
-                            "shift_180": 1.63565891472868,
-                            "shift_365": -0.0760869565217391,
-                            "updated_at": "2018-09-18 20:16:25 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -161,29 +61,9 @@
     },
     {
         "name": "Ancient Gear Drill",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN040",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.25,
-                            "low": 0.54,
-                            "average": 1.07,
-                            "shift": -0.00925925925925926,
-                            "shift_3": 0.0,
-                            "shift_7": 0.150537634408602,
-                            "shift_21": 0.16304347826087,
-                            "shift_30": 0.16304347826087,
-                            "shift_90": 0.138297872340426,
-                            "shift_180": 0.215909090909091,
-                            "shift_365": 0.114583333333333,
-                            "updated_at": "2018-09-18 20:15:38 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -191,29 +71,9 @@
     },
     {
         "name": "Ancient Gear Factory",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN039",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 19.0,
-                            "low": 0.54,
-                            "average": 0.94,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": 0.0,
-                            "shift_180": 0.010752688172043,
-                            "shift_365": 0.0217391304347826,
-                            "updated_at": "2018-09-18 20:15:46 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -221,29 +81,9 @@
     },
     {
         "name": "Anteatereatingant",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN022",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 18.35,
-                            "low": 0.57,
-                            "average": 1.0,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0309278350515464,
-                            "shift_30": 0.0309278350515464,
-                            "shift_90": 0.0204081632653061,
-                            "shift_180": 0.0309278350515464,
-                            "shift_365": -0.484536082474227,
-                            "updated_at": "2018-09-07 12:06:38 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -251,29 +91,9 @@
     },
     {
         "name": "Attack Reflector Unit",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN051",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.25,
-                            "low": 0.66,
-                            "average": 1.01,
-                            "shift": 0.0,
-                            "shift_3": 0.0202020202020202,
-                            "shift_7": 0.0202020202020202,
-                            "shift_21": 0.01,
-                            "shift_30": -0.00980392156862745,
-                            "shift_90": 0.0520833333333333,
-                            "shift_180": 0.0202020202020202,
-                            "shift_365": -0.0900900900900901,
-                            "updated_at": "2018-09-18 21:25:29 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -281,29 +101,9 @@
     },
     {
         "name": "B.E.S. Covered Core",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN013",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 22.14,
-                            "low": 0.99,
-                            "average": 1.29,
-                            "shift": 0.0,
-                            "shift_3": 0.015748031496063,
-                            "shift_7": 0.015748031496063,
-                            "shift_21": -0.0227272727272727,
-                            "shift_30": -0.0979020979020979,
-                            "shift_90": -0.0300751879699248,
-                            "shift_180": -0.0373134328358209,
-                            "shift_365": -0.271186440677966,
-                            "updated_at": "2018-09-19 12:05:52 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -311,29 +111,9 @@
     },
     {
         "name": "B.E.S. Covered Core",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN013",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 13.99,
-                            "low": 4.74,
-                            "average": 5.5,
-                            "shift": 0.0,
-                            "shift_3": -0.144634525660964,
-                            "shift_7": -0.144634525660964,
-                            "shift_21": -0.195906432748538,
-                            "shift_30": -0.17910447761194,
-                            "shift_90": -0.238227146814404,
-                            "shift_180": -0.313358302122347,
-                            "shift_365": -0.241379310344828,
-                            "updated_at": "2018-09-19 07:06:08 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -341,29 +121,9 @@
     },
     {
         "name": "Beelze Frog",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN026",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.6,
-                            "low": 0.45,
-                            "average": 0.92,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.010752688172043,
-                            "shift_21": -0.0212765957446809,
-                            "shift_30": -0.0212765957446809,
-                            "shift_90": 0.010989010989011,
-                            "shift_180": 0.0574712643678161,
-                            "shift_365": -0.480225988700565,
-                            "updated_at": "2018-09-18 22:36:24 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -371,29 +131,9 @@
     },
     {
         "name": "Chain Thrasher",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN015",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.23,
-                            "low": 0.33,
-                            "average": 0.87,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0116279069767442,
-                            "shift_30": -0.043956043956044,
-                            "shift_90": -0.0543478260869565,
-                            "shift_180": -0.186915887850467,
-                            "shift_365": -0.186915887850467,
-                            "updated_at": "2018-09-19 10:37:28 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -401,29 +141,9 @@
     },
     {
         "name": "Chainsaw Insect",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN021",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 19.0,
-                            "low": 2.95,
-                            "average": 2.75,
-                            "shift": 0.0,
-                            "shift_3": 0.00364963503649635,
-                            "shift_7": 0.15546218487395,
-                            "shift_21": -0.024822695035461,
-                            "shift_30": 0.07421875,
-                            "shift_90": 0.211453744493392,
-                            "shift_180": 1.5,
-                            "shift_365": 1.45535714285714,
-                            "updated_at": "2018-09-18 22:47:21 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -431,29 +151,9 @@
     },
     {
         "name": "Chainsaw Insect",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN021",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 25.46,
-                            "low": 3.21,
-                            "average": 2.77,
-                            "shift": 0.0,
-                            "shift_3": -0.147692307692308,
-                            "shift_7": -0.147692307692308,
-                            "shift_21": -0.469348659003831,
-                            "shift_30": -0.472380952380952,
-                            "shift_90": 0.0413533834586466,
-                            "shift_180": 0.0694980694980695,
-                            "shift_365": 0.357843137254902,
-                            "updated_at": "2018-09-18 22:47:47 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -461,29 +161,9 @@
     },
     {
         "name": "Cyber Barrier Dragon",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN006",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 34.48,
-                            "low": 2.1,
-                            "average": 2.38,
-                            "shift": 0.0303030303030303,
-                            "shift_3": -0.012448132780083,
-                            "shift_7": -0.0285714285714286,
-                            "shift_21": -0.0285714285714286,
-                            "shift_30": -0.0285714285714286,
-                            "shift_90": -0.251572327044025,
-                            "shift_180": 0.0967741935483871,
-                            "shift_365": -0.115241635687732,
-                            "updated_at": "2018-09-18 22:53:11 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -491,29 +171,9 @@
     },
     {
         "name": "Cyber Barrier Dragon",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN006",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 47.28,
-                            "low": 10.99,
-                            "average": 12.24,
-                            "shift": 0.0,
-                            "shift_3": -0.04375,
-                            "shift_7": -0.0727272727272727,
-                            "shift_21": -0.15411195577056,
-                            "shift_30": -0.15644383184011,
-                            "shift_90": 0.6,
-                            "shift_180": 0.0506437768240343,
-                            "shift_365": 0.148217636022514,
-                            "updated_at": "2018-09-18 22:53:26 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -521,29 +181,9 @@
     },
     {
         "name": "Cyber Laser Dragon",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN007",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 54.5,
-                            "low": 3.0,
-                            "average": 6.16,
-                            "shift": 0.0,
-                            "shift_3": -0.0344827586206897,
-                            "shift_7": 0.126142595978062,
-                            "shift_21": -0.0206677265500795,
-                            "shift_30": 0.0620689655172414,
-                            "shift_90": -0.661538461538462,
-                            "shift_180": 0.0864197530864197,
-                            "shift_365": 0.381165919282511,
-                            "updated_at": "2018-09-19 11:09:53 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -551,29 +191,9 @@
     },
     {
         "name": "Cyber Laser Dragon",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN007",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 7.99,
-                            "low": 4.0,
-                            "average": 6.12,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0569948186528497,
-                            "shift_21": -0.718232044198895,
-                            "shift_30": -0.750204081632653,
-                            "shift_90": -0.769056603773585,
-                            "shift_180": -0.559712230215827,
-                            "shift_365": 0.779069767441861,
-                            "updated_at": "2018-09-19 11:09:53 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -581,29 +201,9 @@
     },
     {
         "name": "Cyclone Boomerang",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN042",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 18.28,
-                            "low": 0.46,
-                            "average": 0.92,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0222222222222222,
-                            "shift_90": 0.0,
-                            "shift_180": 0.010989010989011,
-                            "shift_365": -0.0416666666666667,
-                            "updated_at": "2018-09-18 20:04:23 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -611,29 +211,9 @@
     },
     {
         "name": "Cyclone Boomerang",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN042",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 25.83,
-                            "low": 2.38,
-                            "average": 1.17,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": -0.335227272727273,
-                            "shift_30": -0.315789473684211,
-                            "shift_90": -0.025,
-                            "shift_180": 0.0173913043478261,
-                            "shift_365": -0.025,
-                            "updated_at": "2018-09-18 20:04:31 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -641,29 +221,9 @@
     },
     {
         "name": "D.3.S. Frog",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN036",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 7.2,
-                            "low": 0.99,
-                            "average": 0.96,
-                            "shift": 0.0,
-                            "shift_3": 0.0549450549450549,
-                            "shift_7": 0.0549450549450549,
-                            "shift_21": -0.0204081632653061,
-                            "shift_30": -0.0204081632653061,
-                            "shift_90": 0.032258064516129,
-                            "shift_180": 0.0212765957446809,
-                            "shift_365": 0.0434782608695652,
-                            "updated_at": "2018-09-18 21:59:11 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -671,29 +231,9 @@
     },
     {
         "name": "D.D. Guide",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN014",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.23,
-                            "low": 0.92,
-                            "average": 0.99,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0102040816326531,
-                            "shift_21": 0.0102040816326531,
-                            "shift_30": 0.0102040816326531,
-                            "shift_90": 0.0531914893617021,
-                            "shift_180": 0.0531914893617021,
-                            "shift_365": 0.0421052631578947,
-                            "updated_at": "2018-09-18 21:33:40 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -701,29 +241,9 @@
     },
     {
         "name": "Damage Condenser",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN052",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 5.58,
-                            "low": 0.51,
-                            "average": 0.86,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0117647058823529,
-                            "shift_21": -0.0114942528735632,
-                            "shift_30": -0.0549450549450549,
-                            "shift_90": 0.036144578313253,
-                            "shift_180": 0.0487804878048781,
-                            "shift_365": -0.0337078651685393,
-                            "updated_at": "2018-09-18 21:01:11 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -731,29 +251,9 @@
     },
     {
         "name": "Damage Condenser",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN052",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 22.59,
-                            "low": 2.2,
-                            "average": 1.53,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0254777070063694,
-                            "shift_21": 0.296610169491525,
-                            "shift_30": -0.120689655172414,
-                            "shift_90": -0.154696132596685,
-                            "shift_180": 0.02,
-                            "shift_365": -0.211340206185567,
-                            "updated_at": "2018-09-18 21:01:33 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -761,29 +261,9 @@
     },
     {
         "name": "Demise, King of Armageddon",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN035",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 49.94,
-                            "low": 7.5,
-                            "average": 13.06,
-                            "shift": 0.0227094753328113,
-                            "shift_3": -0.0128495842781557,
-                            "shift_7": -0.0418195157740279,
-                            "shift_21": -0.233118027011157,
-                            "shift_30": -0.295956873315364,
-                            "shift_90": 0.600490196078431,
-                            "shift_180": 0.186194368755677,
-                            "shift_365": 1.94144144144144,
-                            "updated_at": "2018-09-19 09:43:39 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -791,29 +271,9 @@
     },
     {
         "name": "Demise, King of Armageddon",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN035",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 49.95,
-                            "low": 8.77,
-                            "average": 23.91,
-                            "shift": 0.0,
-                            "shift_3": -0.121601763409258,
-                            "shift_7": -0.134636264929425,
-                            "shift_21": -0.170943134535368,
-                            "shift_30": -0.182004789599726,
-                            "shift_90": 0.179575727676369,
-                            "shift_180": -0.204855337545727,
-                            "shift_365": 1.35334645669291,
-                            "updated_at": "2018-09-19 10:47:18 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -821,29 +281,9 @@
     },
     {
         "name": "Disciple of the Forbidden Spell",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN016",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.23,
-                            "low": 0.33,
-                            "average": 0.99,
-                            "shift": 0.0,
-                            "shift_3": 0.0102040816326531,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0102040816326531,
-                            "shift_90": -0.0917431192660551,
-                            "shift_180": -0.108108108108108,
-                            "shift_365": 0.0206185567010309,
-                            "updated_at": "2018-09-18 22:09:28 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -851,29 +291,9 @@
     },
     {
         "name": "Divine Dragon - Excelion",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN033",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 19.07,
-                            "low": 0.53,
-                            "average": 1.11,
-                            "shift": 0.0,
-                            "shift_3": 0.168421052631579,
-                            "shift_7": 0.180851063829787,
-                            "shift_21": 0.180851063829787,
-                            "shift_30": 0.00909090909090909,
-                            "shift_90": 0.206521739130435,
-                            "shift_180": 0.15625,
-                            "shift_365": 0.193548387096774,
-                            "updated_at": "2018-09-19 12:06:54 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -881,29 +301,9 @@
     },
     {
         "name": "Divine Dragon - Excelion",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN033",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 14.99,
-                            "low": 4.85,
-                            "average": 4.22,
-                            "shift": -0.0186046511627907,
-                            "shift_3": -0.0186046511627907,
-                            "shift_7": -0.0580357142857143,
-                            "shift_21": -0.0365296803652968,
-                            "shift_30": -0.034324942791762,
-                            "shift_90": 0.406666666666667,
-                            "shift_180": -0.0163170163170163,
-                            "shift_365": -0.111578947368421,
-                            "updated_at": "2018-09-19 12:06:54 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -911,29 +311,9 @@
     },
     {
         "name": "Doom Dozer",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN024",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 32.88,
-                            "low": 1.2,
-                            "average": 3.21,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.146428571428571,
-                            "shift_21": 0.0664451827242525,
-                            "shift_30": 0.150537634408602,
-                            "shift_90": 0.0844594594594595,
-                            "shift_180": 1.11184210526316,
-                            "shift_365": 1.72033898305085,
-                            "updated_at": "2018-09-19 11:20:10 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -941,29 +321,9 @@
     },
     {
         "name": "Doom Dozer",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN024",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 16.25,
-                            "low": 5.06,
-                            "average": 5.61,
-                            "shift": 0.0,
-                            "shift_3": -0.182215743440233,
-                            "shift_7": -0.162686567164179,
-                            "shift_21": 0.0747126436781609,
-                            "shift_30": 0.0525328330206379,
-                            "shift_90": 0.144897959183673,
-                            "shift_180": 0.0665399239543726,
-                            "shift_365": 0.326241134751773,
-                            "updated_at": "2018-09-19 11:20:12 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -971,29 +331,9 @@
     },
     {
         "name": "Elemental HERO Neo Bubbleman",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN004",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.27,
-                            "low": 0.52,
-                            "average": 0.92,
-                            "shift": -0.0212765957446809,
-                            "shift_3": -0.0212765957446809,
-                            "shift_7": -0.0315789473684211,
-                            "shift_21": -0.0315789473684211,
-                            "shift_30": -0.0212765957446809,
-                            "shift_90": -0.0212765957446809,
-                            "shift_180": -0.0612244897959184,
-                            "shift_365": -0.532994923857868,
-                            "updated_at": "2018-09-19 10:48:24 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1001,29 +341,9 @@
     },
     {
         "name": "End of the World",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN046",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 9.99,
-                            "low": 2.0,
-                            "average": 2.99,
-                            "shift": 0.0,
-                            "shift_3": -0.0416666666666667,
-                            "shift_7": -0.0416666666666667,
-                            "shift_21": -0.329596412556054,
-                            "shift_30": -0.46797153024911,
-                            "shift_90": 0.679775280898876,
-                            "shift_180": 0.625,
-                            "shift_365": 1.2824427480916,
-                            "updated_at": "2018-09-19 11:20:16 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Ritual",
         "family": null,
@@ -1031,29 +351,9 @@
     },
     {
         "name": "Full Salvo",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN056",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.27,
-                            "low": 0.9,
-                            "average": 0.9,
-                            "shift": 0.0227272727272727,
-                            "shift_3": 0.0227272727272727,
-                            "shift_7": 0.0227272727272727,
-                            "shift_21": 0.0227272727272727,
-                            "shift_30": 0.0227272727272727,
-                            "shift_90": 0.0112359550561798,
-                            "shift_180": -0.032258064516129,
-                            "shift_365": -0.0217391304347826,
-                            "updated_at": "2018-09-18 21:22:20 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1061,29 +361,9 @@
     },
     {
         "name": "Generation Shift",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN055",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.23,
-                            "low": 0.54,
-                            "average": 1.12,
-                            "shift": 0.0,
-                            "shift_3": 0.00900900900900901,
-                            "shift_7": 0.142857142857143,
-                            "shift_21": 0.12,
-                            "shift_30": 0.12,
-                            "shift_90": 0.0275229357798165,
-                            "shift_180": 0.00900900900900901,
-                            "shift_365": 0.0566037735849057,
-                            "updated_at": "2018-09-18 21:28:39 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1091,29 +371,9 @@
     },
     {
         "name": "Goblin Out of the Frying Pan",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN059",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 4.98,
-                            "low": 0.41,
-                            "average": 0.98,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0103092783505155,
-                            "shift_21": 0.0103092783505155,
-                            "shift_30": 0.0208333333333333,
-                            "shift_90": 0.0425531914893617,
-                            "shift_180": 0.0315789473684211,
-                            "shift_365": 0.113636363636364,
-                            "updated_at": "2018-09-19 11:22:13 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -1121,29 +381,9 @@
     },
     {
         "name": "Goblin Out of the Frying Pan",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN059",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 20.51,
-                            "low": 0.88,
-                            "average": 1.24,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.008,
-                            "shift_21": -0.0158730158730159,
-                            "shift_30": 0.00813008130081301,
-                            "shift_90": -0.03125,
-                            "shift_180": -0.101449275362319,
-                            "shift_365": 0.0333333333333333,
-                            "updated_at": "2018-09-19 11:22:15 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -1151,29 +391,9 @@
     },
     {
         "name": "Gokipon",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN019",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.6,
-                            "low": 0.99,
-                            "average": 0.99,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.03125,
-                            "shift_30": 0.03125,
-                            "shift_90": 0.0,
-                            "shift_180": 0.0102040816326531,
-                            "shift_365": 0.0531914893617021,
-                            "updated_at": "2018-09-18 20:53:04 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1181,29 +401,9 @@
     },
     {
         "name": "Grass Phantom",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN031",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 18.28,
-                            "low": 0.9,
-                            "average": 0.89,
-                            "shift": 0.0,
-                            "shift_3": -0.0111111111111111,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": -0.021978021978022,
-                            "shift_180": -0.021978021978022,
-                            "shift_365": -0.538860103626943,
-                            "updated_at": "2018-09-18 21:55:33 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1211,29 +411,9 @@
     },
     {
         "name": "Hamon, Lord of Striking Thunder",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN002",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 40.94,
-                            "low": 4.85,
-                            "average": 7.49,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0421994884910486,
-                            "shift_21": -0.0590452261306533,
-                            "shift_30": -0.472163495419309,
-                            "shift_90": -0.485929993136582,
-                            "shift_180": -0.0221932114882507,
-                            "shift_365": 0.0624113475177305,
-                            "updated_at": "2018-09-19 11:08:25 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1241,29 +421,9 @@
     },
     {
         "name": "Hamon, Lord of Striking Thunder",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN002",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 600.0,
-                            "low": 60.93,
-                            "average": 45.61,
-                            "shift": 0.0,
-                            "shift_3": 0.000658183413777973,
-                            "shift_7": 3.04343971631206,
-                            "shift_21": 3.0291519434629,
-                            "shift_30": 2.28129496402878,
-                            "shift_90": -0.51140867702196,
-                            "shift_180": -0.543580506354448,
-                            "shift_365": 10.3740648379052,
-                            "updated_at": "2018-09-19 11:08:26 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1271,29 +431,9 @@
     },
     {
         "name": "Hero Heart",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN037",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.21,
-                            "low": 0.54,
-                            "average": 0.96,
-                            "shift": -0.0103092783505155,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": -0.0204081632653061,
-                            "shift_30": -0.0204081632653061,
-                            "shift_90": -0.135135135135135,
-                            "shift_180": 0.032258064516129,
-                            "shift_365": -0.0103092783505155,
-                            "updated_at": "2018-09-18 19:44:03 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1301,29 +441,9 @@
     },
     {
         "name": "Hero Kid",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN005",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.23,
-                            "low": 1.3,
-                            "average": 2.33,
-                            "shift": 0.0,
-                            "shift_3": 0.131067961165049,
-                            "shift_7": 0.165,
-                            "shift_21": 0.532894736842105,
-                            "shift_30": 0.834645669291339,
-                            "shift_90": 1.06194690265487,
-                            "shift_180": 1.30693069306931,
-                            "shift_365": 1.42708333333333,
-                            "updated_at": "2018-09-19 10:25:52 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1331,29 +451,9 @@
     },
     {
         "name": "Karma Cut",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN053",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 7.95,
-                            "low": 0.77,
-                            "average": 1.22,
-                            "shift": -0.00813008130081301,
-                            "shift_3": 0.0252100840336134,
-                            "shift_7": 0.0252100840336134,
-                            "shift_21": 0.0166666666666667,
-                            "shift_30": 0.0338983050847458,
-                            "shift_90": 0.0701754385964912,
-                            "shift_180": -0.102941176470588,
-                            "shift_365": -0.181208053691275,
-                            "updated_at": "2018-09-19 12:35:06 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1361,29 +461,9 @@
     },
     {
         "name": "Karma Cut",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN053",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 26.64,
-                            "low": 4.55,
-                            "average": 7.12,
-                            "shift": 0.0,
-                            "shift_3": 0.0987654320987654,
-                            "shift_7": 0.128367670364501,
-                            "shift_21": 0.1392,
-                            "shift_30": 0.210884353741497,
-                            "shift_90": 0.182724252491694,
-                            "shift_180": 0.227586206896552,
-                            "shift_365": 0.0920245398773006,
-                            "updated_at": "2018-09-19 12:35:07 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1391,29 +471,9 @@
     },
     {
         "name": "Machine King Prototype",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN012",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 7.59,
-                            "low": 0.43,
-                            "average": 0.83,
-                            "shift": -0.0348837209302326,
-                            "shift_3": -0.0348837209302326,
-                            "shift_7": -0.0235294117647059,
-                            "shift_21": -0.0568181818181818,
-                            "shift_30": -0.0674157303370786,
-                            "shift_90": -0.0674157303370786,
-                            "shift_180": -0.0459770114942529,
-                            "shift_365": -0.0674157303370786,
-                            "updated_at": "2018-09-19 11:13:15 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1421,29 +481,9 @@
     },
     {
         "name": "Magnet Circle LV2",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN038",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 7.59,
-                            "low": 0.55,
-                            "average": 0.89,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0229885057471264,
-                            "shift_30": 0.0,
-                            "shift_90": -0.021978021978022,
-                            "shift_180": 0.0229885057471264,
-                            "shift_365": -0.0326086956521739,
-                            "updated_at": "2018-09-19 11:52:56 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1451,29 +491,9 @@
     },
     {
         "name": "Malfunction",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN060",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 4.93,
-                            "low": 0.77,
-                            "average": 0.91,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": -0.0108695652173913,
-                            "shift_180": -0.0319148936170213,
-                            "shift_365": 0.0,
-                            "updated_at": "2018-09-19 11:07:19 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -1481,29 +501,9 @@
     },
     {
         "name": "Malfunction",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN060",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 21.83,
-                            "low": 0.99,
-                            "average": 1.27,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.016,
-                            "shift_30": 0.076271186440678,
-                            "shift_90": 0.165137614678899,
-                            "shift_180": 0.0495867768595041,
-                            "shift_365": 0.032520325203252,
-                            "updated_at": "2018-09-19 11:07:20 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -1511,29 +511,9 @@
     },
     {
         "name": "Malice Ascendant",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN030",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.61,
-                            "low": 0.99,
-                            "average": 0.98,
-                            "shift": -0.446327683615819,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": -0.436781609195402,
-                            "shift_30": 0.0208333333333333,
-                            "shift_90": 0.0103092783505155,
-                            "shift_180": 0.0103092783505155,
-                            "shift_365": 0.0888888888888889,
-                            "updated_at": "2018-09-19 11:16:21 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1541,29 +521,9 @@
     },
     {
         "name": "Memory Crusher",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN029",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 4.98,
-                            "low": 0.77,
-                            "average": 0.94,
-                            "shift": 0.032967032967033,
-                            "shift_3": 0.032967032967033,
-                            "shift_7": -0.0105263157894737,
-                            "shift_21": -0.0208333333333333,
-                            "shift_30": -0.0208333333333333,
-                            "shift_90": -0.0208333333333333,
-                            "shift_180": 0.0444444444444444,
-                            "shift_365": 0.0804597701149425,
-                            "updated_at": "2018-09-19 11:20:40 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1571,29 +531,9 @@
     },
     {
         "name": "Memory Crusher",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN029",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 21.23,
-                            "low": 1.17,
-                            "average": 1.23,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.00819672131147541,
-                            "shift_21": 0.025,
-                            "shift_30": 0.0165289256198347,
-                            "shift_90": 0.160377358490566,
-                            "shift_180": -0.0610687022900763,
-                            "shift_365": -0.0538461538461538,
-                            "updated_at": "2018-09-19 11:20:54 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1601,29 +541,9 @@
     },
     {
         "name": "Miracle Kids",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN050",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.06,
-                            "low": 0.54,
-                            "average": 0.96,
-                            "shift": -0.0103092783505155,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0105263157894737,
-                            "shift_21": 0.0105263157894737,
-                            "shift_30": 0.0,
-                            "shift_90": 0.032258064516129,
-                            "shift_180": -0.102803738317757,
-                            "shift_365": 0.0105263157894737,
-                            "updated_at": "2018-09-19 01:27:00 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1631,29 +551,9 @@
     },
     {
         "name": "Next to be Lost",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN054",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.23,
-                            "low": 0.62,
-                            "average": 0.88,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0232558139534884,
-                            "shift_30": -0.0112359550561798,
-                            "shift_90": -0.0112359550561798,
-                            "shift_180": 0.0,
-                            "shift_365": -0.0222222222222222,
-                            "updated_at": "2018-09-18 21:15:07 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1661,29 +561,9 @@
     },
     {
         "name": "Option Hunter",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN058",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 6.35,
-                            "low": 0.99,
-                            "average": 1.02,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.392857142857143,
-                            "shift_21": 0.02,
-                            "shift_30": 0.0303030303030303,
-                            "shift_90": 0.0736842105263158,
-                            "shift_180": -0.0642201834862385,
-                            "shift_365": 0.0515463917525773,
-                            "updated_at": "2018-09-18 21:27:34 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1691,29 +571,9 @@
     },
     {
         "name": "Option Hunter",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN058",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 20.43,
-                            "low": 1.99,
-                            "average": 1.06,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0192307692307692,
-                            "shift_21": 0.0707070707070707,
-                            "shift_30": 0.0495049504950495,
-                            "shift_90": -0.045045045045045,
-                            "shift_180": 0.00952380952380952,
-                            "shift_365": -0.0363636363636364,
-                            "updated_at": "2018-09-18 21:27:41 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1721,29 +581,9 @@
     },
     {
         "name": "Parasitic Ticky",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN018",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 3.93,
-                            "low": 0.92,
-                            "average": 0.92,
-                            "shift": -0.010752688172043,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": -0.0416666666666667,
-                            "shift_30": -0.0515463917525773,
-                            "shift_90": -0.0212765957446809,
-                            "shift_180": -0.148148148148148,
-                            "shift_365": 0.0574712643678161,
-                            "updated_at": "2018-09-19 12:03:44 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -1751,29 +591,9 @@
     },
     {
         "name": "Phantasmal Martyrs",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN041",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 12.67,
-                            "low": 0.99,
-                            "average": 1.0,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": -0.029126213592233,
-                            "shift_180": -0.029126213592233,
-                            "shift_365": 0.0309278350515464,
-                            "updated_at": "2018-09-18 19:45:44 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1781,29 +601,9 @@
     },
     {
         "name": "Phantasmal Martyrs",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN041",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 49.99,
-                            "low": 2.24,
-                            "average": 2.44,
-                            "shift": -0.0996309963099631,
-                            "shift_3": -0.102941176470588,
-                            "shift_7": 0.0,
-                            "shift_21": -0.161512027491409,
-                            "shift_30": -0.178451178451178,
-                            "shift_90": -0.149825783972125,
-                            "shift_180": -0.202614379084967,
-                            "shift_365": 0.0427350427350427,
-                            "updated_at": "2018-09-18 19:45:57 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1811,29 +611,9 @@
     },
     {
         "name": "Photon Generator Unit",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN045",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.79,
-                            "low": 0.71,
-                            "average": 0.89,
-                            "shift": 0.0229885057471264,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0113636363636364,
-                            "shift_21": 0.0229885057471264,
-                            "shift_30": -0.0531914893617021,
-                            "shift_90": -0.0111111111111111,
-                            "shift_180": -0.0631578947368421,
-                            "shift_365": -0.160377358490566,
-                            "updated_at": "2018-09-19 10:12:17 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Quick-Play",
         "family": null,
@@ -1841,29 +621,9 @@
     },
     {
         "name": "Princess Curran",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN028",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 7.67,
-                            "low": 0.61,
-                            "average": 0.9,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": 0.914893617021277,
-                            "shift_180": -0.0909090909090909,
-                            "shift_365": 0.0344827586206897,
-                            "updated_at": "2018-09-19 12:10:20 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1871,29 +631,9 @@
     },
     {
         "name": "Princess Curran",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN028",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 49.95,
-                            "low": 3.68,
-                            "average": 7.67,
-                            "shift": 0.0,
-                            "shift_3": -0.0115979381443299,
-                            "shift_7": 0.200312989045383,
-                            "shift_21": 0.0449591280653951,
-                            "shift_30": 0.202194357366771,
-                            "shift_90": 0.280467445742905,
-                            "shift_180": 1.18518518518519,
-                            "shift_365": 0.693156732891832,
-                            "updated_at": "2018-09-19 12:10:36 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1901,29 +641,9 @@
     },
     {
         "name": "Princess Pikeru",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN027",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 14.49,
-                            "low": 0.62,
-                            "average": 0.93,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.021978021978022,
-                            "shift_30": 0.021978021978022,
-                            "shift_90": -0.03125,
-                            "shift_180": -0.114285714285714,
-                            "shift_365": -0.0210526315789474,
-                            "updated_at": "2018-09-19 12:10:18 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1931,29 +651,9 @@
     },
     {
         "name": "Princess Pikeru",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN027",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 36.04,
-                            "low": 1.85,
-                            "average": 7.73,
-                            "shift": 0.0,
-                            "shift_3": 0.353765323992995,
-                            "shift_7": 0.196594427244582,
-                            "shift_21": 0.0403768506056528,
-                            "shift_30": 0.0197889182058048,
-                            "shift_90": -0.028894472361809,
-                            "shift_180": 2.00778210116732,
-                            "shift_365": 2.98453608247423,
-                            "updated_at": "2018-09-19 12:10:35 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1961,29 +661,9 @@
     },
     {
         "name": "Proto-Cyber Dragon",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN010",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 28.65,
-                            "low": 0.56,
-                            "average": 2.54,
-                            "shift": 0.0,
-                            "shift_3": 0.00793650793650794,
-                            "shift_7": 0.032520325203252,
-                            "shift_21": 0.016,
-                            "shift_30": 1.91954022988506,
-                            "shift_90": 0.154545454545455,
-                            "shift_180": 1.88636363636364,
-                            "shift_365": 0.435028248587571,
-                            "updated_at": "2018-09-19 12:10:58 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1991,29 +671,9 @@
     },
     {
         "name": "Proto-Cyber Dragon",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN010",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 47.18,
-                            "low": 3.99,
-                            "average": 5.08,
-                            "shift": 0.0,
-                            "shift_3": -0.0078125,
-                            "shift_7": -0.165845648604269,
-                            "shift_21": -0.173983739837398,
-                            "shift_30": -0.664021164021164,
-                            "shift_90": 0.215311004784689,
-                            "shift_180": 0.494117647058824,
-                            "shift_365": 0.553516819571865,
-                            "updated_at": "2018-09-19 12:11:10 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2021,29 +681,9 @@
     },
     {
         "name": "Raviel, Lord of Phantasms",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN003",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 253.98,
-                            "low": 2.99,
-                            "average": 6.39,
-                            "shift": 0.0,
-                            "shift_3": 0.0207667731629393,
-                            "shift_7": -0.0169230769230769,
-                            "shift_21": -0.0184331797235023,
-                            "shift_30": -0.0184331797235023,
-                            "shift_90": 0.0830508474576271,
-                            "shift_180": 0.245614035087719,
-                            "shift_365": 0.435955056179775,
-                            "updated_at": "2018-09-19 11:42:53 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2051,29 +691,9 @@
     },
     {
         "name": "Raviel, Lord of Phantasms",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN003",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 999.95,
-                            "low": 68.48,
-                            "average": 41.69,
-                            "shift": 0.0,
-                            "shift_3": 0.016581321628871,
-                            "shift_7": 0.821319353429445,
-                            "shift_21": -0.0329389932730225,
-                            "shift_30": 0.687854251012146,
-                            "shift_90": -0.203325052551118,
-                            "shift_180": -0.718348871774085,
-                            "shift_365": 0.263716277659897,
-                            "updated_at": "2018-09-19 08:23:55 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2081,29 +701,9 @@
     },
     {
         "name": "Ruin, Queen of Oblivion",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN034",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 52.07,
-                            "low": 4.95,
-                            "average": 7.22,
-                            "shift": 0.0,
-                            "shift_3": -0.0190217391304348,
-                            "shift_7": -0.032171581769437,
-                            "shift_21": -0.128019323671498,
-                            "shift_30": -0.0918238993710692,
-                            "shift_90": 0.153354632587859,
-                            "shift_180": -0.30174081237911,
-                            "shift_365": 1.56939501779359,
-                            "updated_at": "2018-09-19 11:27:24 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2111,29 +711,9 @@
     },
     {
         "name": "Ruin, Queen of Oblivion",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN034",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 74.99,
-                            "low": 9.74,
-                            "average": 15.99,
-                            "shift": 0.0,
-                            "shift_3": -0.0202205882352941,
-                            "shift_7": 0.0107458912768647,
-                            "shift_21": -0.0888888888888889,
-                            "shift_30": -0.105704697986577,
-                            "shift_90": -0.144919786096257,
-                            "shift_180": -0.319284802043423,
-                            "shift_365": 0.29788961038961,
-                            "updated_at": "2018-09-19 11:27:25 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2141,29 +721,9 @@
     },
     {
         "name": "Saber Beetle",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN023",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 18.28,
-                            "low": 0.92,
-                            "average": 1.0,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": -0.029126213592233,
-                            "shift_30": -0.029126213592233,
-                            "shift_90": 0.0,
-                            "shift_180": -0.0740740740740741,
-                            "shift_365": 0.0309278350515464,
-                            "updated_at": "2018-09-18 22:14:23 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2171,29 +731,9 @@
     },
     {
         "name": "Samsara",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN048",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.47,
-                            "low": 0.99,
-                            "average": 1.09,
-                            "shift": -0.043859649122807,
-                            "shift_3": 0.0,
-                            "shift_7": -0.00909090909090909,
-                            "shift_21": 0.09,
-                            "shift_30": 0.135416666666667,
-                            "shift_90": 0.135416666666667,
-                            "shift_180": 0.172043010752688,
-                            "shift_365": 0.172043010752688,
-                            "updated_at": "2018-09-19 06:01:48 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -2201,29 +741,9 @@
     },
     {
         "name": "Sand Moth",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN032",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.23,
-                            "low": 0.92,
-                            "average": 0.93,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": -0.0210526315789474,
-                            "shift_180": 0.0108695652173913,
-                            "shift_365": -0.0606060606060606,
-                            "updated_at": "2018-09-19 01:17:39 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2231,29 +751,9 @@
     },
     {
         "name": "Silent Insect",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN020",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.22,
-                            "low": 0.53,
-                            "average": 0.94,
-                            "shift": 0.0,
-                            "shift_3": 0.010752688172043,
-                            "shift_7": 0.032967032967033,
-                            "shift_21": -0.0105263157894737,
-                            "shift_30": -0.0105263157894737,
-                            "shift_90": 0.0,
-                            "shift_180": 0.0,
-                            "shift_365": 0.0217391304347826,
-                            "updated_at": "2018-09-18 22:20:19 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2261,29 +761,9 @@
     },
     {
         "name": "Success Probability 0%",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN057",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.23,
-                            "low": 0.99,
-                            "average": 0.95,
-                            "shift": -0.0104166666666667,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0106382978723404,
-                            "shift_30": 0.0106382978723404,
-                            "shift_90": 0.0106382978723404,
-                            "shift_180": 0.043956043956044,
-                            "shift_365": -0.538834951456311,
-                            "updated_at": "2018-09-18 20:48:34 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2291,29 +771,9 @@
     },
     {
         "name": "Super Junior Confrontation",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN049",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.27,
-                            "low": 0.35,
-                            "average": 1.67,
-                            "shift": -0.0118343195266272,
-                            "shift_3": 0.0,
-                            "shift_7": 0.00602409638554217,
-                            "shift_21": 0.0121212121212121,
-                            "shift_30": 0.0182926829268293,
-                            "shift_90": 0.0,
-                            "shift_180": 0.876404494382023,
-                            "shift_365": 0.532110091743119,
-                            "updated_at": "2018-09-18 20:48:34 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2321,29 +781,9 @@
     },
     {
         "name": "Symbol of Heritage",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN043",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 18.28,
-                            "low": 0.99,
-                            "average": 0.9,
-                            "shift": -0.010989010989011,
-                            "shift_3": -0.010989010989011,
-                            "shift_7": -0.010989010989011,
-                            "shift_21": 0.0227272727272727,
-                            "shift_30": 0.0112359550561798,
-                            "shift_90": 0.0,
-                            "shift_180": 0.0227272727272727,
-                            "shift_365": -0.150943396226415,
-                            "updated_at": "2018-09-18 19:56:46 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -2351,29 +791,9 @@
     },
     {
         "name": "Tenkabito Shien",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN017",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.47,
-                            "low": 0.99,
-                            "average": 0.94,
-                            "shift": 0.010752688172043,
-                            "shift_3": 0.0217391304347826,
-                            "shift_7": 0.0444444444444444,
-                            "shift_21": 0.0444444444444444,
-                            "shift_30": 0.032967032967033,
-                            "shift_90": -0.0208333333333333,
-                            "shift_180": 0.0,
-                            "shift_365": -0.510416666666667,
-                            "updated_at": "2018-09-19 11:21:10 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2381,29 +801,9 @@
     },
     {
         "name": "Treeborn Frog",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN025",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 19.07,
-                            "low": 0.64,
-                            "average": 0.97,
-                            "shift": 0.0,
-                            "shift_3": 0.0210526315789474,
-                            "shift_7": -0.03,
-                            "shift_21": 0.0104166666666667,
-                            "shift_30": 0.0319148936170213,
-                            "shift_90": 0.0319148936170213,
-                            "shift_180": -0.03,
-                            "shift_365": 0.0,
-                            "updated_at": "2018-09-19 11:38:05 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2411,29 +811,9 @@
     },
     {
         "name": "Treeborn Frog",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN025",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 22.22,
-                            "low": 4.0,
-                            "average": 6.03,
-                            "shift": 0.0360824742268041,
-                            "shift_3": 0.0396551724137931,
-                            "shift_7": 0.0343053173241852,
-                            "shift_21": -0.041335453100159,
-                            "shift_30": -0.161335187760779,
-                            "shift_90": -0.0918674698795181,
-                            "shift_180": -0.15546218487395,
-                            "shift_365": -0.261029411764706,
-                            "updated_at": "2018-09-19 11:38:19 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2441,29 +821,9 @@
     },
     {
         "name": "Trial of the Princesses",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN044",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.23,
-                            "low": 0.9,
-                            "average": 0.95,
-                            "shift": -0.0104166666666667,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0106382978723404,
-                            "shift_30": 0.0106382978723404,
-                            "shift_90": 0.0106382978723404,
-                            "shift_180": 0.0106382978723404,
-                            "shift_365": 0.0326086956521739,
-                            "updated_at": "2018-09-18 20:13:16 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -2471,29 +831,9 @@
     },
     {
         "name": "Uria, Lord of Searing Flames",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN001",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 69.99,
-                            "low": 3.27,
-                            "average": 9.32,
-                            "shift": 0.738805970149254,
-                            "shift_3": 0.742056074766355,
-                            "shift_7": 0.761814744801512,
-                            "shift_21": 0.74859287054409,
-                            "shift_30": 0.74859287054409,
-                            "shift_90": 0.852882703777336,
-                            "shift_180": 0.481717011128776,
-                            "shift_365": 0.576988155668359,
-                            "updated_at": "2018-09-19 09:40:01 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2501,29 +841,9 @@
     },
     {
         "name": "Uria, Lord of Searing Flames",
-        "numbers": [
-            {
-                "name": "Shadow of Infinity",
+                "pack": "Shadow of Infinity",
                 "print_tag": "SOI-EN001",
                 "rarity": "Ultimate Rare",
-                        "prices": {
-                            "high": 176.72,
-                            "low": 3.86,
-                            "average": 46.8,
-                            "shift": 0.0,
-                            "shift_3": 0.109793692198245,
-                            "shift_7": 7.8135593220339,
-                            "shift_21": 7.78048780487805,
-                            "shift_30": 7.65064695009242,
-                            "shift_90": 9.88372093023256,
-                            "shift_180": -0.644862649870997,
-                            "shift_365": 11.093023255814,
-                            "updated_at": "2018-09-19 09:40:02 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",

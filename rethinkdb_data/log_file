@@ -21,3 +21,23 @@
 2018-09-20T14:43:45.218259380 83882.530562s info: Table cf4ff133-fb24-4944-91bd-03b1d539b7af: Starting a new Raft election for term 1.
 2018-09-20T14:43:45.218521814 83882.530824s info: Table cf4ff133-fb24-4944-91bd-03b1d539b7af: Added replica on this server.
 2018-09-20T14:43:45.224565877 83882.536868s info: Table cf4ff133-fb24-4944-91bd-03b1d539b7af: This server is Raft leader for term 1. Latest log index is 0.
+2018-09-21T12:53:09.364186014 163646.676489s notice: Removing file /home/azord/PycharmProjects/ygo project/rethinkdb_data/cf4ff133-fb24-4944-91bd-03b1d539b7af
+2018-09-21T12:53:09.364213371 163646.676516s info: Table cf4ff133-fb24-4944-91bd-03b1d539b7af: Deleted the table.
+2018-09-21T12:55:42.646708164 163799.959012s info: Table 64187147-f854-49bf-9733-24835f0bd813: Starting a new Raft election for term 1.
+2018-09-21T12:55:42.647125784 163799.959429s info: Table 64187147-f854-49bf-9733-24835f0bd813: Added replica on this server.
+2018-09-21T12:55:42.656255241 163799.968558s info: Table 64187147-f854-49bf-9733-24835f0bd813: This server is Raft leader for term 1. Latest log index is 0.
+2018-09-21T13:29:54.439543688 165851.751847s info: Table 1e4f8105-2d2d-463a-9cc0-b056c82dab66: Starting a new Raft election for term 1.
+2018-09-21T13:29:54.440078976 165851.752382s info: Table 1e4f8105-2d2d-463a-9cc0-b056c82dab66: Added replica on this server.
+2018-09-21T13:29:54.446467862 165851.758771s info: Table 1e4f8105-2d2d-463a-9cc0-b056c82dab66: This server is Raft leader for term 1. Latest log index is 0.
+2018-09-21T13:31:30.651025747 165947.963329s notice: Removing file /home/azord/PycharmProjects/ygo project/rethinkdb_data/64187147-f854-49bf-9733-24835f0bd813
+2018-09-21T13:31:30.651041558 165947.963344s info: Table 64187147-f854-49bf-9733-24835f0bd813: Deleted the table.
+2018-09-21T13:31:41.820116563 165959.132420s info: Table 1dcb6d89-e1e2-4cef-9c17-e9cf84d3590e: Added replica on this server.
+2018-09-21T13:31:41.820246067 165959.132549s info: Table 1dcb6d89-e1e2-4cef-9c17-e9cf84d3590e: Starting a new Raft election for term 1.
+2018-09-21T13:31:41.828617430 165959.140921s info: Table 1dcb6d89-e1e2-4cef-9c17-e9cf84d3590e: This server is Raft leader for term 1. Latest log index is 0.
+2018-09-21T13:37:15.316670703 166292.628973s notice: Removing file /home/azord/PycharmProjects/ygo project/rethinkdb_data/1e4f8105-2d2d-463a-9cc0-b056c82dab66
+2018-09-21T13:37:15.316678213 166292.628980s info: Table 1e4f8105-2d2d-463a-9cc0-b056c82dab66: Deleted the table.
+2018-09-21T13:41:59.051246847 166576.363549s notice: Removing file /home/azord/PycharmProjects/ygo project/rethinkdb_data/1dcb6d89-e1e2-4cef-9c17-e9cf84d3590e
+2018-09-21T13:41:59.051256916 166576.363559s info: Table 1dcb6d89-e1e2-4cef-9c17-e9cf84d3590e: Deleted the table.
+2018-09-21T13:42:21.646571953 166598.958875s info: Table 15c9922a-d10b-4c36-b6cc-bac981956a14: Starting a new Raft election for term 1.
+2018-09-21T13:42:21.647392934 166598.959696s info: Table 15c9922a-d10b-4c36-b6cc-bac981956a14: Added replica on this server.
+2018-09-21T13:42:21.655393172 166598.967697s info: Table 15c9922a-d10b-4c36-b6cc-bac981956a14: This server is Raft leader for term 1. Latest log index is 0.

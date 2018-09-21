@@ -1,1 +1,2502 @@
-[]
+[
+    {
+        "name": "A Legendary Ocean",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN187",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "A Wingbeat of Giant Dragon",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN159",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "After the Struggle",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN195",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Airknight Parshath",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN173",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Aqua Spirit",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN006",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Array of Revealing Light",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN148",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Arsenal Bug",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN210",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Asura Priest",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN183",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Spirit"
+    },
+    {
+        "name": "Axe Raider",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN092",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior"
+    },
+    {
+        "name": "Baby Dragon",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN035",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon"
+    },
+    {
+        "name": "Bad Reaction to Simochi",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN202",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Bark of Dark Ruler",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN132",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Barrel Dragon",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN072",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Battle Steer",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN037",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior"
+    },
+    {
+        "name": "Bazoo the Soul-Eater",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN003",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Birdface",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN208",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Black Illusion Ritual",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN250",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Ritual",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Blackland Fire Dragon",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN036",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon"
+    },
+    {
+        "name": "Blade Knight",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN034",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Bladefly",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN068",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Blast with Chain",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN197",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Blind Destruction",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN019",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Block Attack",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN078",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Book of Life",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN230",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Book of Moon",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN232",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Book of Taiyou",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN231",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Bottomless Shifting Sand",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN240",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Bottomless Trap Hole",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN201",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Bubble Crash",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN199",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Burst Breath",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN164",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Call of the Mummy",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN235",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Cannon Soldier",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN061",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Catapult Turtle",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN047",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Cave Dragon",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN155",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Command Knight",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN114",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Convulsion of Nature",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN193",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Crass Clown",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN050",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Creature Swap",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN190",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Curse of Royal",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN241",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Cyber-Stein",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN100",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Cyclon Laser",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN028",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dark Balter the Terrible",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN125",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Fusion"
+    },
+    {
+        "name": "Dark Coffin",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN244",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dark Dust Spirit",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN217",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Zombie / Spirit"
+    },
+    {
+        "name": "Dark Necrofear",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN004",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Dark Ruler Ha Des",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN124",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Dark Scorpion Burglars",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN227",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Dark Spirit of the Silent",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN013",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dark-Piercing Light",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN087",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "De-Fusion",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN029",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Destiny Board",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN021",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Destruction Punch",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN018",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dice Jar",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN226",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Disappear",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN198",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Don Zaloog",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN228",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Double Snare",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN136",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dragon Manipulator",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN145",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Dragon Piper",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN040",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Pyro / Effect"
+    },
+    {
+        "name": "Dragon Seeker",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN101",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Dragon's Gunfire",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN160",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dragon's Rage",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN163",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dream Clown",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN051",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Drop Off",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN205",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ekibyo Drakmord",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN031",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Emergency Provisions",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN150",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Exiled Force",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN143",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Fatal Abacus",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN133",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Fiber Jar",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN166",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Fiend Skull Dragon",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN154",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Fusion"
+    },
+    {
+        "name": "Freed the Matchless General",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN137",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Frontier Wiseman",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN142",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Fushi No Tori",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN184",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Winged Beast / Spirit"
+    },
+    {
+        "name": "Fushioh Richie",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN229",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Fusion Gate",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN030",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Fusion Sage",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN109",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Fusion Sword Murasame Blade",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN188",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gazelle the King of Mythical Beasts",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN071",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast"
+    },
+    {
+        "name": "Gemini Elf",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN094",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster"
+    },
+    {
+        "name": "Giant Axe Mummy",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN223",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Gilasaurus",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN008",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Goddess with the Third Eye",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN097",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Gora Turtle",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN215",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Graceful Charity",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN095",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gradius' Option",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN170",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Graverobber's Retribution",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN017",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gray Wing",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN156",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Great Dezard",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN220",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Great Long Nose",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN180",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Beast-Warrior / Spirit"
+    },
+    {
+        "name": "Great Moth",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN043",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Greenkappa",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN103",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Guardian Sphinx",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN224",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Heart of Clear Water",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN186",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Heavy Storm",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN084",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Hino-Kagu-Tsuchi",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN182",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Pyro / Spirit"
+    },
+    {
+        "name": "Horn of Heaven",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN076",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Hoshiningen",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN060",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Illusionist Faceless Mage",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN041",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster"
+    },
+    {
+        "name": "Inaba White Rabbit",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN176",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Spirit"
+    },
+    {
+        "name": "Injection Fairy Lily",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN171",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Insect Queen",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN123",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Jirai Gumo",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN054",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Jowgen the Spiritualist",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN001",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Jowls of Dark Demise",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN212",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Kaiser Sea Horse",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN115",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Sea Serpent / Effect"
+    },
+    {
+        "name": "King Tiger Wanghu",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN207",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "King of Yamimakai",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN046",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend"
+    },
+    {
+        "name": "Kryuel",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN209",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Kuriboh",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN044",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Kycoo the Ghost Destroyer",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN002",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Last Turn",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN206",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Launcher Spider",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN057",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Machine"
+    },
+    {
+        "name": "Lesser Fiend",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN126",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Little Chimera",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN067",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Lord of the Lamp",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN098",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend"
+    },
+    {
+        "name": "Luminous Soldier",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN113",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Luster Dragon 2",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN165",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon"
+    },
+    {
+        "name": "Machine King",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN099",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Magic Jammer",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN074",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Magic Reflector",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN196",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Magical Thorn",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN107",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Maharaghi",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN175",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Spirit"
+    },
+    {
+        "name": "Maiden of the Aqua",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN211",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Marauding Captain",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN138",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Maryokutai",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN011",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Mechanicalchaser",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN093",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine"
+    },
+    {
+        "name": "Milus Radiant",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN065",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Miracle Dig",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN032",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mirage of Nightmare",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN233",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mirror Force",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN081",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Moisture Creature",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN214",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Morphing Jar",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN104",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Mucus Yolk",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN213",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Muka Muka",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN062",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Mysterious Guard",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN141",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Mystic Horseman",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN048",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast"
+    },
+    {
+        "name": "Needle Ceiling",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN242",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Needle Wall",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN245",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Needle Worm",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN102",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Obnoxious Celtic Guard",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN112",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Ominous Fortunetelling",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN203",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Opticlops",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN131",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend"
+    },
+    {
+        "name": "Ordeal of a Traveler",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN239",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Otohime",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN181",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Spirit"
+    },
+    {
+        "name": "Patrician of Darkness",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN168",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Penguin Soldier",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN105",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Perfectly Ultimate Great Moth",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN249",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Pharaoh's Treasure",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN248",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Possessed Dark Soul",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN127",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Princess of Tsurugi",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN052",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Pyramid Energy",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN237",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Pyramid Turtle",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN225",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Rabid Horseman",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN049",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior / Fusion"
+    },
+    {
+        "name": "Reckless Greed",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN247",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Reinforcement of the Army",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN147",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Restructer Revolution",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN108",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ring of Magnetism",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN082",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Riryoku Field",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN015",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Robbin' Goblin",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN080",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Royal Command",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN014",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Royal Decree",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN106",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Royal Keeper",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN218",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Royal Oppression",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN200",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ryu Senshi",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN139",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "Ryu-Kishin Powered",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN056",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend"
+    },
+    {
+        "name": "Saggi the Dark Clown",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN039",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster"
+    },
+    {
+        "name": "Sangan",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN042",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Sasuke Samurai",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN216",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Second Coin Toss",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN192",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Secret Pass to the Treasures",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN234",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Serpentine Princess",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN167",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "Seven Tools of the Bandit",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN075",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Shadow Ghoul",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN055",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Shadow Tamer",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN144",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Share the Pain",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN083",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Shield & Sword",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN077",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Shining Friendship",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN089",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy"
+    },
+    {
+        "name": "Skull Knight 2",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN129",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Skull Lair",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN016",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Smoke Grenade of the Thief",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN189",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Solemn Judgment",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN073",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Soul Demolition",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN135",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Soul of Purity and Light",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN005",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Soul of the Pure",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN086",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Spear Dragon",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN152",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Spirit Message \"A\"",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN024",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Spirit Message \"I\"",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN022",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Spirit Message \"L\"",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN025",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Spirit Message \"N\"",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN023",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Spirit Ryu",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN153",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Spirit's Invitation",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN204",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Spiritual Energy Settle Machine",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN191",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Spiritualism",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN027",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Spring of Rebirth",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN185",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Stamping Destruction",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN161",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Star Boy",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN064",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Statue of the Wicked",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN243",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Super Rejuvenation",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN162",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Susa Soldier",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN178",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Thunder / Spirit"
+    },
+    {
+        "name": "Swarm of Locusts",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN222",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Swarm of Scarabs",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN221",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Swift Gaia the Fierce Knight",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN111",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "The A. Forces",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN146",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Bistro Butcher",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN063",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "The Dark Door",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN026",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Dragon's Bead",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN158",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Emperor's Holiday",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN020",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Immortal of Thunder",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN059",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Thunder / Effect"
+    },
+    {
+        "name": "The Last Warrior from Another Planet",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN012",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "The Puppet Magic of Dark Ruler",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN134",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Rock Spirit",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN007",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "The Secret of the Bandit",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN194",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Statue of Easter Island",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN088",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock"
+    },
+    {
+        "name": "The Unhappy Maiden",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN079",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "The Warrior Returning Alive",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN149",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Wicked Worm Beast",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN090",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Thousand Dragon",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN045",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Fusion"
+    },
+    {
+        "name": "Thunder Dragon",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN058",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Thunder / Effect"
+    },
+    {
+        "name": "Thunder Nyan Nyan",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN169",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Thunder / Effect"
+    },
+    {
+        "name": "Tiger Axe",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN091",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior"
+    },
+    {
+        "name": "Time Wizard",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN038",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Timidity",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN236",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Toon Cannon Soldier",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN118",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Toon"
+    },
+    {
+        "name": "Toon Defense",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN122",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Toon Gemini Elf",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN119",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster / Toon"
+    },
+    {
+        "name": "Toon Goblin Attack Force",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN117",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Toon"
+    },
+    {
+        "name": "Toon Masked Sorcerer",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN120",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Toon"
+    },
+    {
+        "name": "Toon Table of Contents",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN121",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Tornado Bird",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN009",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Total Defense Shogun",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN110",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Trap Dustshoot",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN246",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Tremendous Fire",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN053",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Troop Dragon",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN157",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Tutan Mask",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN238",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Twin-Headed Behemoth",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN174",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Twin-Headed Thunder Dragon",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN069",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Thunder / Fusion"
+    },
+    {
+        "name": "Twin-Headed Wolf",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN130",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Two-Headed King Rex",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN096",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Dinosaur"
+    },
+    {
+        "name": "Tyrant Dragon",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN151",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Vampire Lord",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN116",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Vengeful Bog Spirit",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN033",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Wandering Mummy",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN219",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Warrior Dai Grepher",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN140",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior"
+    },
+    {
+        "name": "Wattkid",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN085",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Thunder"
+    },
+    {
+        "name": "Winged Minion",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN128",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Witch of the Black Forest",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN066",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Witch's Apprentice",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN070",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Woodland Sprite",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN172",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Yamata Dragon",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN179",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dragon / Spirit"
+    },
+    {
+        "name": "Yata-Garasu",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN177",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Fiend / Spirit"
+    },
+    {
+        "name": "Zombyra the Dark",
+                "pack": "Dark Beginning 2",
+                "print_tag": "DB2-EN010",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    }
+]

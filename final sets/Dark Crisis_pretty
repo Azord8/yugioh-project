@@ -1,7 +1,7 @@
 [
     {
         "name": "A Deal with Dark Ruler",
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN030",
                 "rarity": "Common",
         "card_type": "spell",
@@ -10,10 +10,18 @@
         "type": null
     },
     {
+        "name": "A Deal with Dark Ruler",
+                "pack": "Dark Crisis",
+                "print_tag": "DCR-030",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
         "name": "Acrobat Monkey",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN003",
                 "rarity": "Common",
         "card_type": "monster",
@@ -23,29 +31,9 @@
     },
     {
         "name": "Acrobat Monkey",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-003",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 18.28,
-                            "low": 0.39,
-                            "average": 0.84,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0120481927710843,
-                            "shift_30": 0.0120481927710843,
-                            "shift_90": -0.0344827586206897,
-                            "shift_180": -0.0344827586206897,
-                            "shift_365": -0.0232558139534884,
-                            "updated_at": "2018-09-18 21:35:56 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -53,29 +41,9 @@
     },
     {
         "name": "Agido",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN080",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 13.83,
-                            "low": 13.83,
-                            "average": 13.83,
-                            "shift": 0.0,
-                            "shift_3": 0.00581818181818182,
-                            "shift_7": 0.0109649122807018,
-                            "shift_21": 0.0199115044247788,
-                            "shift_30": 0.032089552238806,
-                            "shift_90": 0.0,
-                            "shift_180": 0.0,
-                            "shift_365": 0.0,
-                            "updated_at": "2018-09-18 21:35:42 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -83,29 +51,9 @@
     },
     {
         "name": "Agido",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-080",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 3.06,
-                            "low": 0.54,
-                            "average": 0.98,
-                            "shift": 0.0,
-                            "shift_3": 0.0425531914893617,
-                            "shift_7": 0.0425531914893617,
-                            "shift_21": 0.0315789473684211,
-                            "shift_30": 0.0208333333333333,
-                            "shift_90": 0.0103092783505155,
-                            "shift_180": 0.0,
-                            "shift_365": 0.0208333333333333,
-                            "updated_at": "2018-09-18 21:35:55 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -113,29 +61,9 @@
     },
     {
         "name": "Altar for Tribute",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN095",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.29,
-                            "low": 4.29,
-                            "average": 4.29,
-                            "shift": 0.0,
-                            "shift_3": -0.0359550561797753,
-                            "shift_7": -0.0316027088036117,
-                            "shift_21": -0.0205479452054795,
-                            "shift_30": 0.0190023752969121,
-                            "shift_90": -0.465087281795511,
-                            "shift_180": 3.20588235294118,
-                            "shift_365": 3.20588235294118,
-                            "updated_at": "2018-09-19 09:18:46 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -143,29 +71,9 @@
     },
     {
         "name": "Altar for Tribute",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-095",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 2.99,
-                            "low": 0.54,
-                            "average": 0.9,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": -0.032258064516129,
-                            "shift_180": 0.0112359550561798,
-                            "shift_365": -0.010989010989011,
-                            "updated_at": "2018-09-19 09:18:47 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -173,9 +81,7 @@
     },
     {
         "name": "Archfiend Soldier",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN057",
                 "rarity": "Rare",
         "card_type": "monster",
@@ -185,29 +91,9 @@
     },
     {
         "name": "Archfiend Soldier",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-057",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 10.0,
-                            "low": 3.74,
-                            "average": 3.03,
-                            "shift": 0.0,
-                            "shift_3": 0.0033112582781457,
-                            "shift_7": 0.0669014084507042,
-                            "shift_21": 0.0033112582781457,
-                            "shift_30": 0.0899280575539568,
-                            "shift_90": 0.429245283018868,
-                            "shift_180": 0.122222222222222,
-                            "shift_365": 0.655737704918033,
-                            "updated_at": "2018-09-18 21:42:35 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -215,9 +101,7 @@
     },
     {
         "name": "Archfiend's Oath",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN092",
                 "rarity": "Common",
         "card_type": "spell",
@@ -227,29 +111,9 @@
     },
     {
         "name": "Archfiend's Oath",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-092",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.99,
-                            "low": 0.54,
-                            "average": 0.95,
-                            "shift": 0.0,
-                            "shift_3": 0.0326086956521739,
-                            "shift_7": 0.021505376344086,
-                            "shift_21": 0.021505376344086,
-                            "shift_30": 0.021505376344086,
-                            "shift_90": 0.0,
-                            "shift_180": 0.0,
-                            "shift_365": 0.0555555555555556,
-                            "updated_at": "2018-09-19 07:58:26 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -257,9 +121,7 @@
     },
     {
         "name": "Archfiend's Roar",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN099",
                 "rarity": "Common",
         "card_type": "trap",
@@ -269,29 +131,9 @@
     },
     {
         "name": "Archfiend's Roar",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-099",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 1.33,
-                            "low": 0.54,
-                            "average": 0.99,
-                            "shift": 0.0,
-                            "shift_3": -0.168067226890756,
-                            "shift_7": -0.175,
-                            "shift_21": -0.175,
-                            "shift_30": -0.175,
-                            "shift_90": -0.0198019801980198,
-                            "shift_180": -0.2265625,
-                            "shift_365": -0.123893805309735,
-                            "updated_at": "2018-09-19 10:22:51 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -299,9 +141,7 @@
     },
     {
         "name": "Arsenal Robber",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN048",
                 "rarity": "Common",
         "card_type": "trap",
@@ -311,29 +151,9 @@
     },
     {
         "name": "Arsenal Robber",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-048",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.24,
-                            "low": 0.54,
-                            "average": 0.86,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": -0.0444444444444444,
-                            "shift_180": 0.0,
-                            "shift_365": 0.036144578313253,
-                            "updated_at": "2018-09-18 21:25:26 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -341,9 +161,7 @@
     },
     {
         "name": "Arsenal Summoner",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN004",
                 "rarity": "Common",
         "card_type": "monster",
@@ -353,29 +171,9 @@
     },
     {
         "name": "Arsenal Summoner",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-004",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 6.73,
-                            "low": 0.99,
-                            "average": 0.99,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0102040816326531,
-                            "shift_21": -0.0198019801980198,
-                            "shift_30": -0.0198019801980198,
-                            "shift_90": 0.03125,
-                            "shift_180": 0.0531914893617021,
-                            "shift_365": 0.03125,
-                            "updated_at": "2018-09-18 21:43:00 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -383,9 +181,7 @@
     },
     {
         "name": "Battle Footballer",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN001",
                 "rarity": "Common",
         "card_type": "monster",
@@ -395,29 +191,9 @@
     },
     {
         "name": "Battle Footballer",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-001",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 7.87,
-                            "low": 0.65,
-                            "average": 0.95,
-                            "shift": -0.0104166666666667,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0106382978723404,
-                            "shift_90": 0.0106382978723404,
-                            "shift_180": 0.021505376344086,
-                            "shift_365": 0.0555555555555556,
-                            "updated_at": "2018-09-19 08:25:40 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -425,9 +201,7 @@
     },
     {
         "name": "Battle-Scarred",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN097",
                 "rarity": "Common",
         "card_type": "trap",
@@ -437,29 +211,9 @@
     },
     {
         "name": "Battle-Scarred",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-097",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.22,
-                            "low": 0.36,
-                            "average": 0.79,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": -0.0365853658536585,
-                            "shift_30": -0.0246913580246914,
-                            "shift_90": -0.0481927710843374,
-                            "shift_180": -0.0595238095238095,
-                            "shift_365": -0.0595238095238095,
-                            "updated_at": "2018-09-19 00:35:57 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -467,29 +221,9 @@
     },
     {
         "name": "Berserk Dragon",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN019",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 17.16,
-                            "low": 17.16,
-                            "average": 17.16,
-                            "shift": 0.0,
-                            "shift_3": 0.00645161290322581,
-                            "shift_7": 0.0111962286387743,
-                            "shift_21": 0.0214285714285714,
-                            "shift_30": 0.031870114251353,
-                            "shift_90": -0.00232558139534884,
-                            "shift_180": 0.859154929577465,
-                            "shift_365": 0.0,
-                            "updated_at": "2018-09-19 09:48:42 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -497,29 +231,9 @@
     },
     {
         "name": "Berserk Dragon",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-019",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 25.56,
-                            "low": 1.45,
-                            "average": 2.13,
-                            "shift": -0.00467289719626168,
-                            "shift_3": -0.137651821862348,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.00471698113207547,
-                            "shift_90": 0.065,
-                            "shift_180": 0.086734693877551,
-                            "shift_365": 0.0441176470588235,
-                            "updated_at": "2018-09-19 09:48:44 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -527,29 +241,9 @@
     },
     {
         "name": "Blast Held by a Tribute",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN104",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 11.67,
-                            "low": 11.67,
-                            "average": 11.67,
-                            "shift": 0.0,
-                            "shift_3": 0.00171673819742489,
-                            "shift_7": 0.00864304235090752,
-                            "shift_21": 0.000857632933104631,
-                            "shift_30": 0.0236842105263158,
-                            "shift_90": 4.835,
-                            "shift_180": 4.835,
-                            "shift_365": 2.17983651226158,
-                            "updated_at": "2018-09-18 21:12:44 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -557,29 +251,9 @@
     },
     {
         "name": "Blast Held by a Tribute",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-104",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 26.89,
-                            "low": 1.81,
-                            "average": 2.13,
-                            "shift": 0.0,
-                            "shift_3": 0.0191387559808612,
-                            "shift_7": 0.0,
-                            "shift_21": -0.0184331797235023,
-                            "shift_30": -0.148,
-                            "shift_90": -0.0698689956331878,
-                            "shift_180": -0.222627737226277,
-                            "shift_365": -0.0936170212765957,
-                            "updated_at": "2018-09-18 21:13:38 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -587,9 +261,7 @@
     },
     {
         "name": "Blindly Loyal Goblin",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN022",
                 "rarity": "Common",
         "card_type": "monster",
@@ -599,29 +271,9 @@
     },
     {
         "name": "Blindly Loyal Goblin",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-022",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 18.35,
-                            "low": 0.54,
-                            "average": 0.88,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0112359550561798,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": -0.0434782608695652,
-                            "shift_180": -0.0434782608695652,
-                            "shift_365": 0.0232558139534884,
-                            "updated_at": "2018-09-19 11:19:10 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -629,29 +281,9 @@
     },
     {
         "name": "Butterfly Dagger - Elma",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN032",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 9.93,
-                            "low": 9.93,
-                            "average": 9.93,
-                            "shift": 0.0,
-                            "shift_3": 0.00303030303030303,
-                            "shift_7": 0.00709939148073022,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0226570545829042,
-                            "shift_90": 0.0996677740863787,
-                            "shift_180": 0.153310104529617,
-                            "shift_365": 3.12033195020747,
-                            "updated_at": "2018-09-19 10:16:54 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -659,29 +291,9 @@
     },
     {
         "name": "Butterfly Dagger - Elma",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-032",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 22.67,
-                            "low": 1.74,
-                            "average": 2.88,
-                            "shift": -0.00346020761245675,
-                            "shift_3": -0.00689655172413793,
-                            "shift_7": -0.0136986301369863,
-                            "shift_21": -0.00346020761245675,
-                            "shift_30": -0.00346020761245675,
-                            "shift_90": 0.195020746887967,
-                            "shift_180": 0.333333333333333,
-                            "shift_365": 0.205020920502092,
-                            "updated_at": "2018-09-19 10:16:57 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -689,9 +301,7 @@
     },
     {
         "name": "Cestus of Dagla",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN090",
                 "rarity": "Common",
         "card_type": "spell",
@@ -701,29 +311,9 @@
     },
     {
         "name": "Cestus of Dagla",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-090",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 1.99,
-                            "low": 0.99,
-                            "average": 0.96,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0103092783505155,
-                            "shift_21": 0.0,
-                            "shift_30": -0.0103092783505155,
-                            "shift_90": 0.0666666666666667,
-                            "shift_180": -0.157894736842105,
-                            "shift_365": -0.0204081632653061,
-                            "updated_at": "2018-09-19 01:47:20 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -731,9 +321,7 @@
     },
     {
         "name": "Checkmate",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN089",
                 "rarity": "Common",
         "card_type": "spell",
@@ -743,29 +331,9 @@
     },
     {
         "name": "Checkmate",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-089",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 3.07,
-                            "low": 0.39,
-                            "average": 0.83,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": -0.0119047619047619,
-                            "shift_30": -0.0235294117647059,
-                            "shift_90": -0.0348837209302326,
-                            "shift_180": -0.0879120879120879,
-                            "shift_365": -0.0674157303370786,
-                            "updated_at": "2018-09-18 20:01:33 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -773,29 +341,9 @@
     },
     {
         "name": "Contract with Exodia",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN031",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 13.7,
-                            "low": 13.7,
-                            "average": 13.7,
-                            "shift": 0.00146198830409357,
-                            "shift_3": 0.00587371512481645,
-                            "shift_7": 0.00513573000733676,
-                            "shift_21": -0.355294117647059,
-                            "shift_30": -0.344183820009574,
-                            "shift_90": -0.385925593904079,
-                            "shift_180": -0.369244935543278,
-                            "shift_365": 0.0,
-                            "updated_at": "2018-09-13 01:29:08 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -803,29 +351,9 @@
     },
     {
         "name": "Contract with Exodia",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-031",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.67,
-                            "low": 1.49,
-                            "average": 2.08,
-                            "shift": 0.0,
-                            "shift_3": 0.118279569892473,
-                            "shift_7": 0.106382978723404,
-                            "shift_21": 0.149171270718232,
-                            "shift_30": 0.149171270718232,
-                            "shift_90": 0.0452261306532663,
-                            "shift_180": 0.253012048192771,
-                            "shift_365": -0.111111111111111,
-                            "updated_at": "2018-09-19 08:08:56 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -833,29 +361,9 @@
     },
     {
         "name": "Contract with the Abyss",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN086",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 8.98,
-                            "low": 8.98,
-                            "average": 8.98,
-                            "shift": 0.939524838012959,
-                            "shift_3": 0.939524838012959,
-                            "shift_7": 0.939524838012959,
-                            "shift_21": 0.931182795698925,
-                            "shift_30": 0.906581740976645,
-                            "shift_90": 0.939524838012959,
-                            "shift_180": 0.886554621848739,
-                            "shift_365": 0.441412520064205,
-                            "updated_at": "2018-09-19 02:08:05 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Ritual",
         "family": null,
@@ -863,29 +371,9 @@
     },
     {
         "name": "Contract with the Abyss",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-086",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 14.67,
-                            "low": 0.39,
-                            "average": 1.05,
-                            "shift": -0.0186915887850467,
-                            "shift_3": 0.00961538461538462,
-                            "shift_7": 0.0,
-                            "shift_21": -0.0625,
-                            "shift_30": -0.0707964601769911,
-                            "shift_90": 0.0294117647058824,
-                            "shift_180": 0.0,
-                            "shift_365": -0.186046511627907,
-                            "updated_at": "2018-09-19 02:08:08 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Ritual",
         "family": null,
@@ -893,9 +381,7 @@
     },
     {
         "name": "Contract with the Dark Master",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN087",
                 "rarity": "Common",
         "card_type": "spell",
@@ -905,29 +391,9 @@
     },
     {
         "name": "Contract with the Dark Master",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-087",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 14.04,
-                            "low": 0.54,
-                            "average": 0.86,
-                            "shift": -0.0114942528735632,
-                            "shift_3": -0.0114942528735632,
-                            "shift_7": -0.0114942528735632,
-                            "shift_21": 0.036144578313253,
-                            "shift_30": 0.0117647058823529,
-                            "shift_90": 0.0487804878048781,
-                            "shift_180": -0.0114942528735632,
-                            "shift_365": -0.104166666666667,
-                            "updated_at": "2018-09-18 20:03:53 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Ritual",
         "family": null,
@@ -935,29 +401,9 @@
     },
     {
         "name": "Cost Down",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN053",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 12.86,
-                            "low": 12.86,
-                            "average": 12.86,
-                            "shift": 0.0,
-                            "shift_3": 0.0031201248049922,
-                            "shift_7": 0.00625978090766823,
-                            "shift_21": 0.000778210116731518,
-                            "shift_30": 0.0238853503184713,
-                            "shift_90": 0.00862745098039216,
-                            "shift_180": 0.0734557595993322,
-                            "shift_365": -0.97428,
-                            "updated_at": "2018-09-19 08:16:45 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -965,29 +411,9 @@
     },
     {
         "name": "Cost Down",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-053",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 13.44,
-                            "low": 1.99,
-                            "average": 4.39,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0266666666666667,
-                            "shift_21": -0.093167701863354,
-                            "shift_30": -0.0201342281879195,
-                            "shift_90": 0.0709046454767726,
-                            "shift_180": -0.0836820083682008,
-                            "shift_365": -0.359649122807018,
-                            "updated_at": "2018-09-19 08:16:48 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -995,9 +421,7 @@
     },
     {
         "name": "Cyber Raider",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN011",
                 "rarity": "Short Print",
         "card_type": "monster",
@@ -1007,29 +431,9 @@
     },
     {
         "name": "Cyber Raider",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-011",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 1.46,
-                            "low": 0.3,
-                            "average": 0.89,
-                            "shift": 0.0229885057471264,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": -0.0531914893617021,
-                            "shift_180": -0.0631578947368421,
-                            "shift_365": -0.0531914893617021,
-                            "updated_at": "2018-09-18 19:03:07 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1037,9 +441,7 @@
     },
     {
         "name": "D.D. Trainer",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN055",
                 "rarity": "Common",
         "card_type": "monster",
@@ -1049,29 +451,9 @@
     },
     {
         "name": "D.D. Trainer",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-055",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 3.06,
-                            "low": 0.57,
-                            "average": 0.9,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": -0.0217391304347826,
-                            "shift_30": -0.032258064516129,
-                            "shift_90": -0.0217391304347826,
-                            "shift_180": -0.0425531914893617,
-                            "shift_365": 0.0227272727272727,
-                            "updated_at": "2018-09-18 21:34:01 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1079,9 +461,7 @@
     },
     {
         "name": "D.D. Warrior Lady",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN027",
                 "rarity": "Super Rare",
         "card_type": "monster",
@@ -1091,29 +471,9 @@
     },
     {
         "name": "D.D. Warrior Lady",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-027",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 31.52,
-                            "low": 0.99,
-                            "average": 2.14,
-                            "shift": 0.0,
-                            "shift_3": 0.019047619047619,
-                            "shift_7": 0.215909090909091,
-                            "shift_21": -0.00465116279069767,
-                            "shift_30": -0.036036036036036,
-                            "shift_90": -0.00925925925925926,
-                            "shift_180": -0.122950819672131,
-                            "shift_365": -0.254355400696864,
-                            "updated_at": "2018-09-19 09:27:29 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1121,29 +481,9 @@
     },
     {
         "name": "Dark Flare Knight",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN017",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 8.15,
-                            "low": 8.15,
-                            "average": 8.15,
-                            "shift": 0.0,
-                            "shift_3": 0.00493218249075216,
-                            "shift_7": 0.002460024600246,
-                            "shift_21": -0.302822925577417,
-                            "shift_30": -0.286339754816112,
-                            "shift_90": -0.0556199304750869,
-                            "shift_180": -0.17342799188641,
-                            "shift_365": -0.681889149102264,
-                            "updated_at": "2018-09-19 07:24:09 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1151,29 +491,9 @@
     },
     {
         "name": "Dark Flare Knight",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-017",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 33.48,
-                            "low": 2.5,
-                            "average": 6.19,
-                            "shift": 0.0,
-                            "shift_3": 0.0248344370860927,
-                            "shift_7": 0.0351170568561873,
-                            "shift_21": -0.0190174326465927,
-                            "shift_30": -0.0297805642633229,
-                            "shift_90": 0.322649572649573,
-                            "shift_180": 0.532178217821782,
-                            "shift_365": 0.820588235294118,
-                            "updated_at": "2018-09-19 07:24:10 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1181,29 +501,9 @@
     },
     {
         "name": "Dark Master - Zorc",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN082",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 15.17,
-                            "low": 15.17,
-                            "average": 15.17,
-                            "shift": 0.0,
-                            "shift_3": 0.006635700066357,
-                            "shift_7": 0.0106595602931379,
-                            "shift_21": 0.0120080053368913,
-                            "shift_30": 0.0312712440516655,
-                            "shift_90": 29.34,
-                            "shift_180": 1.40793650793651,
-                            "shift_365": 0.0,
-                            "updated_at": "2018-09-19 11:37:41 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1211,29 +511,9 @@
     },
     {
         "name": "Dark Master - Zorc",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-082",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 21.23,
-                            "low": 0.99,
-                            "average": 1.73,
-                            "shift": 0.0116959064327485,
-                            "shift_3": 0.0176470588235294,
-                            "shift_7": -0.0388888888888889,
-                            "shift_21": -0.0597826086956522,
-                            "shift_30": 0.0,
-                            "shift_90": 0.0745341614906832,
-                            "shift_180": -0.368613138686131,
-                            "shift_365": 0.253623188405797,
-                            "updated_at": "2018-09-19 11:37:44 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1241,9 +521,7 @@
     },
     {
         "name": "Dark Scorpion - Chick the Yellow",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN026",
                 "rarity": "Common",
         "card_type": "monster",
@@ -1253,29 +531,9 @@
     },
     {
         "name": "Dark Scorpion - Chick the Yellow",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-026",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 2.22,
-                            "low": 0.54,
-                            "average": 0.87,
-                            "shift": 0.0,
-                            "shift_3": -0.0113636363636364,
-                            "shift_7": -0.0113636363636364,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": -0.0333333333333333,
-                            "shift_180": -0.074468085106383,
-                            "shift_365": -0.043956043956044,
-                            "updated_at": "2018-09-18 22:04:14 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1283,9 +541,7 @@
     },
     {
         "name": "Dark Scorpion - Gorg the Strong",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN060",
                 "rarity": "Common",
         "card_type": "monster",
@@ -1295,29 +551,9 @@
     },
     {
         "name": "Dark Scorpion - Gorg the Strong",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-060",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 2.22,
-                            "low": 0.54,
-                            "average": 0.86,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": -0.0337078651685393,
-                            "shift_90": -0.0227272727272727,
-                            "shift_180": -0.0652173913043478,
-                            "shift_365": -0.0549450549450549,
-                            "updated_at": "2018-09-18 22:04:19 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1325,9 +561,7 @@
     },
     {
         "name": "Dark Scorpion - Meanae the Thorn",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN061",
                 "rarity": "Common",
         "card_type": "monster",
@@ -1337,29 +571,9 @@
     },
     {
         "name": "Dark Scorpion - Meanae the Thorn",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-061",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.23,
-                            "low": 0.54,
-                            "average": 0.89,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0326086956521739,
-                            "shift_21": -0.0111111111111111,
-                            "shift_30": -0.021978021978022,
-                            "shift_90": -0.0631578947368421,
-                            "shift_180": -0.043010752688172,
-                            "shift_365": 0.0113636363636364,
-                            "updated_at": "2018-09-18 22:04:26 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1367,9 +581,7 @@
     },
     {
         "name": "Dark Scorpion Combination",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN098",
                 "rarity": "Rare",
         "card_type": "trap",
@@ -1379,29 +591,9 @@
     },
     {
         "name": "Dark Scorpion Combination",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-098",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 36.41,
-                            "low": 0.99,
-                            "average": 0.91,
-                            "shift": -0.0108695652173913,
-                            "shift_3": -0.0108695652173913,
-                            "shift_7": -0.0108695652173913,
-                            "shift_21": -0.0319148936170213,
-                            "shift_30": -0.0319148936170213,
-                            "shift_90": -0.021505376344086,
-                            "shift_180": -0.172727272727273,
-                            "shift_365": -0.165137614678899,
-                            "updated_at": "2018-09-18 21:02:03 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1409,9 +601,7 @@
     },
     {
         "name": "Darkbishop Archfiend",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN069",
                 "rarity": "Rare",
         "card_type": "monster",
@@ -1421,29 +611,9 @@
     },
     {
         "name": "Darkbishop Archfiend",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-069",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 8.98,
-                            "low": 0.53,
-                            "average": 0.81,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0125,
-                            "shift_21": 0.0125,
-                            "shift_30": -0.0240963855421687,
-                            "shift_90": -0.0240963855421687,
-                            "shift_180": -0.0689655172413793,
-                            "shift_365": -0.173469387755102,
-                            "updated_at": "2018-09-18 22:04:55 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -1451,9 +621,7 @@
     },
     {
         "name": "Des Feral Imp",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN014",
                 "rarity": "Rare",
         "card_type": "monster",
@@ -1463,29 +631,9 @@
     },
     {
         "name": "Des Feral Imp",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-014",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 37.03,
-                            "low": 0.61,
-                            "average": 0.9,
-                            "shift": -0.010989010989011,
-                            "shift_3": -0.010989010989011,
-                            "shift_7": 0.0112359550561798,
-                            "shift_21": -0.488636363636364,
-                            "shift_30": 0.0588235294117647,
-                            "shift_90": 0.0843373493975904,
-                            "shift_180": 0.0714285714285714,
-                            "shift_365": -0.0721649484536082,
-                            "updated_at": "2018-09-19 07:14:31 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1493,9 +641,7 @@
     },
     {
         "name": "Despair from the Dark",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN023",
                 "rarity": "Short Print",
         "card_type": "monster",
@@ -1505,29 +651,9 @@
     },
     {
         "name": "Despair from the Dark",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-023",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 1.22,
-                            "low": 0.3,
-                            "average": 0.84,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.024390243902439,
-                            "shift_30": 0.0769230769230769,
-                            "shift_90": 0.024390243902439,
-                            "shift_180": -0.115789473684211,
-                            "shift_365": -0.125,
-                            "updated_at": "2018-09-19 10:16:19 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1535,9 +661,7 @@
     },
     {
         "name": "Desrook Archfiend",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN070",
                 "rarity": "Common",
         "card_type": "monster",
@@ -1547,29 +671,9 @@
     },
     {
         "name": "Desrook Archfiend",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-070",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 3.6,
-                            "low": 0.54,
-                            "average": 0.8,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": -0.024390243902439,
-                            "shift_30": 0.0,
-                            "shift_90": -0.0476190476190476,
-                            "shift_180": -0.0804597701149425,
-                            "shift_365": -0.120879120879121,
-                            "updated_at": "2018-09-18 23:27:38 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1577,9 +681,7 @@
     },
     {
         "name": "Dice Re-Roll",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN100",
                 "rarity": "Short Print",
         "card_type": "trap",
@@ -1589,29 +691,9 @@
     },
     {
         "name": "Dice Re-Roll",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-100",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 1.25,
-                            "low": 0.3,
-                            "average": 0.87,
-                            "shift": 0.0,
-                            "shift_3": -0.0113636363636364,
-                            "shift_7": -0.0113636363636364,
-                            "shift_21": -0.0113636363636364,
-                            "shift_30": -0.0113636363636364,
-                            "shift_90": 0.0481927710843374,
-                            "shift_180": -0.09375,
-                            "shift_365": -0.0543478260869565,
-                            "updated_at": "2018-09-18 21:03:36 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -1619,9 +701,7 @@
     },
     {
         "name": "Different Dimension Dragon",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN015",
                 "rarity": "Super Rare",
         "card_type": "monster",
@@ -1631,29 +711,9 @@
     },
     {
         "name": "Different Dimension Dragon",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-015",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 9.34,
-                            "low": 0.67,
-                            "average": 1.15,
-                            "shift": -0.00869565217391304,
-                            "shift_3": 0.00884955752212389,
-                            "shift_7": 0.117647058823529,
-                            "shift_21": -0.0420168067226891,
-                            "shift_30": -0.0952380952380952,
-                            "shift_90": 0.00884955752212389,
-                            "shift_180": -0.580882352941177,
-                            "shift_365": -0.687671232876712,
-                            "updated_at": "2018-09-18 22:09:13 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -1661,9 +721,7 @@
     },
     {
         "name": "Different Dimension Gate",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN044",
                 "rarity": "Rare",
         "card_type": "spell",
@@ -1673,29 +731,9 @@
     },
     {
         "name": "Different Dimension Gate",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-044",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 13.83,
-                            "low": 0.77,
-                            "average": 0.84,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": -0.0454545454545455,
-                            "shift_180": -0.0769230769230769,
-                            "shift_365": -0.229357798165138,
-                            "updated_at": "2018-09-19 06:27:32 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -1703,29 +741,9 @@
     },
     {
         "name": "Dragged Down into the Grave",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN084",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 8.76,
-                            "low": 8.76,
-                            "average": 8.76,
-                            "shift": 0.00114285714285714,
-                            "shift_3": 0.0022883295194508,
-                            "shift_7": 0.00574052812858783,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0233644859813084,
-                            "shift_90": 0.00805523590333717,
-                            "shift_180": 1.8258064516129,
-                            "shift_365": 1.336,
-                            "updated_at": "2018-09-19 10:56:41 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1733,29 +751,9 @@
     },
     {
         "name": "Dragged Down into the Grave",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-084",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 21.23,
-                            "low": 1.7,
-                            "average": 1.96,
-                            "shift": 0.0,
-                            "shift_3": -0.062200956937799,
-                            "shift_7": -0.02,
-                            "shift_21": -0.062200956937799,
-                            "shift_30": -0.179916317991632,
-                            "shift_90": 0.59349593495935,
-                            "shift_180": 0.507692307692308,
-                            "shift_365": 0.53125,
-                            "updated_at": "2018-09-19 10:56:43 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1763,29 +761,9 @@
     },
     {
         "name": "Exodia Necross",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN020",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 20.11,
-                            "low": 20.11,
-                            "average": 20.11,
-                            "shift": 0.0,
-                            "shift_3": 0.00650650650650651,
-                            "shift_7": 0.0100452034153692,
-                            "shift_21": -0.199761241543971,
-                            "shift_30": -0.182852498984153,
-                            "shift_90": -0.248224299065421,
-                            "shift_180": -0.109388839681134,
-                            "shift_365": -0.162432319866722,
-                            "updated_at": "2018-09-19 10:06:08 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1793,29 +771,9 @@
     },
     {
         "name": "Exodia Necross",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-020",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 402.06,
-                            "low": 9.44,
-                            "average": 12.82,
-                            "shift": 0.0,
-                            "shift_3": 0.0094488188976378,
-                            "shift_7": 0.0534100246507806,
-                            "shift_21": 0.00312989045383412,
-                            "shift_30": 0.0560131795716639,
-                            "shift_90": 0.00470219435736677,
-                            "shift_180": -0.147606382978723,
-                            "shift_365": -0.245882352941176,
-                            "updated_at": "2018-09-19 11:29:19 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1823,9 +781,7 @@
     },
     {
         "name": "Fairy of the Spring",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN040",
                 "rarity": "Common",
         "card_type": "spell",
@@ -1835,29 +791,9 @@
     },
     {
         "name": "Fairy of the Spring",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-040",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 18.38,
-                            "low": 0.56,
-                            "average": 0.89,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0113636363636364,
-                            "shift_30": 0.0113636363636364,
-                            "shift_90": 0.0229885057471264,
-                            "shift_180": 0.0470588235294118,
-                            "shift_365": -0.021978021978022,
-                            "updated_at": "2018-09-19 11:06:44 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -1865,29 +801,9 @@
     },
     {
         "name": "Falling Down",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN088",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 14.72,
-                            "low": 14.72,
-                            "average": 14.72,
-                            "shift": 0.0,
-                            "shift_3": 0.00615174299384826,
-                            "shift_7": 0.0116838487972509,
-                            "shift_21": 0.0208044382801664,
-                            "shift_30": 0.0329824561403509,
-                            "shift_90": -0.000678886625933469,
-                            "shift_180": -0.0671736375158428,
-                            "shift_365": -0.0429128738621586,
-                            "updated_at": "2018-09-18 20:18:13 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -1895,29 +811,9 @@
     },
     {
         "name": "Falling Down",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-088",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 20.33,
-                            "low": 0.99,
-                            "average": 4.26,
-                            "shift": 0.0,
-                            "shift_3": -0.0273972602739726,
-                            "shift_7": -0.0251716247139588,
-                            "shift_21": -0.148,
-                            "shift_30": -0.105042016806723,
-                            "shift_90": -0.137651821862348,
-                            "shift_180": -0.0955414012738854,
-                            "shift_365": 2.52066115702479,
-                            "updated_at": "2018-09-18 20:18:35 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -1925,9 +821,7 @@
     },
     {
         "name": "Fear from the Dark",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN025",
                 "rarity": "Rare",
         "card_type": "monster",
@@ -1937,29 +831,9 @@
     },
     {
         "name": "Fear from the Dark",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-025",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 18.02,
-                            "low": 0.56,
-                            "average": 0.9,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0112359550561798,
-                            "shift_30": 0.0,
-                            "shift_90": -0.010989010989011,
-                            "shift_180": -0.010989010989011,
-                            "shift_365": 0.0465116279069767,
-                            "updated_at": "2018-09-19 11:08:24 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -1967,9 +841,7 @@
     },
     {
         "name": "Final Attack Orders",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN045",
                 "rarity": "Common",
         "card_type": "trap",
@@ -1979,29 +851,9 @@
     },
     {
         "name": "Final Attack Orders",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-045",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 18.35,
-                            "low": 0.54,
-                            "average": 0.92,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.010752688172043,
-                            "shift_21": -0.010752688172043,
-                            "shift_30": -0.010752688172043,
-                            "shift_90": 0.0,
-                            "shift_180": -0.0416666666666667,
-                            "shift_365": -0.513227513227513,
-                            "updated_at": "2018-09-19 10:58:25 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -2009,9 +861,7 @@
     },
     {
         "name": "Final Countdown",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN091",
                 "rarity": "Common",
         "card_type": "spell",
@@ -2021,29 +871,9 @@
     },
     {
         "name": "Final Countdown",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-091",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 9.99,
-                            "low": 2.03,
-                            "average": 2.75,
-                            "shift": 0.0338345864661654,
-                            "shift_3": 0.11336032388664,
-                            "shift_7": 0.0377358490566038,
-                            "shift_21": -0.0178571428571429,
-                            "shift_30": -0.0072202166064982,
-                            "shift_90": 0.255707762557078,
-                            "shift_180": -0.024822695035461,
-                            "shift_365": -0.0036231884057971,
-                            "updated_at": "2018-09-19 07:31:16 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -2051,9 +881,7 @@
     },
     {
         "name": "Frozen Soul",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN096",
                 "rarity": "Common",
         "card_type": "trap",
@@ -2063,29 +891,9 @@
     },
     {
         "name": "Frozen Soul",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-096",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 2.22,
-                            "low": 0.54,
-                            "average": 0.91,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0111111111111111,
-                            "shift_90": 0.0,
-                            "shift_180": -0.0808080808080808,
-                            "shift_365": -0.530927835051546,
-                            "updated_at": "2018-09-18 21:22:28 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2093,9 +901,7 @@
     },
     {
         "name": "Gagagigo",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN054",
                 "rarity": "Common",
         "card_type": "monster",
@@ -2105,29 +911,9 @@
     },
     {
         "name": "Gagagigo",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-054",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 18.28,
-                            "low": 0.54,
-                            "average": 0.83,
-                            "shift": -0.0235294117647059,
-                            "shift_3": -0.0235294117647059,
-                            "shift_7": -0.0348837209302326,
-                            "shift_21": -0.0568181818181818,
-                            "shift_30": 0.0,
-                            "shift_90": -0.0348837209302326,
-                            "shift_180": -0.0568181818181818,
-                            "shift_365": -0.216981132075472,
-                            "updated_at": "2018-09-18 21:02:24 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2135,9 +921,7 @@
     },
     {
         "name": "Goblin of Greed",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN065",
                 "rarity": "Common",
         "card_type": "monster",
@@ -2147,29 +931,9 @@
     },
     {
         "name": "Goblin of Greed",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-065",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 2.22,
-                            "low": 0.54,
-                            "average": 0.9,
-                            "shift": 0.0,
-                            "shift_3": 0.0112359550561798,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0112359550561798,
-                            "shift_30": 0.0227272727272727,
-                            "shift_90": 0.0227272727272727,
-                            "shift_180": 0.0,
-                            "shift_365": -0.0526315789473684,
-                            "updated_at": "2018-09-19 07:04:18 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2177,9 +941,7 @@
     },
     {
         "name": "Gravity Axe - Grarl",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN034",
                 "rarity": "Common",
         "card_type": "spell",
@@ -2189,29 +951,9 @@
     },
     {
         "name": "Gravity Axe - Grarl",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-034",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.99,
-                            "low": 0.61,
-                            "average": 0.96,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0105263157894737,
-                            "shift_21": 0.0105263157894737,
-                            "shift_30": 0.0105263157894737,
-                            "shift_90": -0.04,
-                            "shift_180": -0.0769230769230769,
-                            "shift_365": 0.0549450549450549,
-                            "updated_at": "2018-09-19 08:00:23 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -2219,9 +961,7 @@
     },
     {
         "name": "Great Maju Garzett",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN063",
                 "rarity": "Rare",
         "card_type": "monster",
@@ -2231,29 +971,9 @@
     },
     {
         "name": "Great Maju Garzett",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-063",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 25.56,
-                            "low": 2.69,
-                            "average": 2.78,
-                            "shift": 0.053030303030303,
-                            "shift_3": 0.053030303030303,
-                            "shift_7": 0.0610687022900763,
-                            "shift_21": 0.163179916317992,
-                            "shift_30": 0.158333333333333,
-                            "shift_90": -0.0944625407166124,
-                            "shift_180": -0.027972027972028,
-                            "shift_365": -0.0855263157894737,
-                            "updated_at": "2018-09-19 02:50:43 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2261,9 +981,7 @@
     },
     {
         "name": "Guardian Baou",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN008",
                 "rarity": "Rare",
         "card_type": "monster",
@@ -2273,29 +991,9 @@
     },
     {
         "name": "Guardian Baou",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-008",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 17.3,
-                            "low": 0.59,
-                            "average": 0.85,
-                            "shift": 0.0,
-                            "shift_3": -0.0116279069767442,
-                            "shift_7": -0.0116279069767442,
-                            "shift_21": 0.0119047619047619,
-                            "shift_30": 0.0,
-                            "shift_90": -0.0116279069767442,
-                            "shift_180": -0.0449438202247191,
-                            "shift_365": -0.0659340659340659,
-                            "updated_at": "2018-09-19 11:18:32 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -2303,9 +1001,7 @@
     },
     {
         "name": "Guardian Ceal",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN006",
                 "rarity": "Ultra Rare",
         "card_type": "monster",
@@ -2315,29 +1011,9 @@
     },
     {
         "name": "Guardian Ceal",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-006",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 18.06,
-                            "low": 1.25,
-                            "average": 3.08,
-                            "shift": 0.0,
-                            "shift_3": 0.1,
-                            "shift_7": 0.12,
-                            "shift_21": 0.132352941176471,
-                            "shift_30": 0.901234567901235,
-                            "shift_90": 0.949367088607595,
-                            "shift_180": 0.333333333333333,
-                            "shift_365": 0.29957805907173,
-                            "updated_at": "2018-09-19 10:16:21 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2345,9 +1021,7 @@
     },
     {
         "name": "Guardian Elma",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN005",
                 "rarity": "Common",
         "card_type": "monster",
@@ -2357,29 +1031,9 @@
     },
     {
         "name": "Guardian Elma",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-005",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.98,
-                            "low": 0.46,
-                            "average": 0.9,
-                            "shift": 0.0,
-                            "shift_3": 0.0112359550561798,
-                            "shift_7": 0.0112359550561798,
-                            "shift_21": -0.010989010989011,
-                            "shift_30": 0.0,
-                            "shift_90": -0.0526315789473684,
-                            "shift_180": -0.0909090909090909,
-                            "shift_365": 0.0227272727272727,
-                            "updated_at": "2018-09-19 01:40:26 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -2387,29 +1041,9 @@
     },
     {
         "name": "Guardian Grarl",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN007",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 11.67,
-                            "low": 11.67,
-                            "average": 11.67,
-                            "shift": 0.0,
-                            "shift_3": 0.00171673819742489,
-                            "shift_7": 0.00864304235090752,
-                            "shift_21": -0.00256410256410256,
-                            "shift_30": 0.0236842105263158,
-                            "shift_90": -0.479017857142857,
-                            "shift_180": 3.668,
-                            "shift_365": 0.0,
-                            "updated_at": "2018-09-18 21:33:30 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2417,29 +1051,9 @@
     },
     {
         "name": "Guardian Grarl",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-007",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 18.81,
-                            "low": 4.46,
-                            "average": 5.82,
-                            "shift": -0.0892018779342723,
-                            "shift_3": -0.082018927444795,
-                            "shift_7": -0.107361963190184,
-                            "shift_21": 0.0174825174825175,
-                            "shift_30": 0.0264550264550265,
-                            "shift_90": 0.409200968523002,
-                            "shift_180": 0.72700296735905,
-                            "shift_365": 0.356643356643357,
-                            "updated_at": "2018-09-18 21:33:48 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2447,9 +1061,7 @@
     },
     {
         "name": "Guardian Kay'est",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN009",
                 "rarity": "Common",
         "card_type": "monster",
@@ -2459,29 +1071,9 @@
     },
     {
         "name": "Guardian Kay'est",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-009",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 6.73,
-                            "low": 0.46,
-                            "average": 0.83,
-                            "shift": -0.0235294117647059,
-                            "shift_3": -0.0235294117647059,
-                            "shift_7": -0.0119047619047619,
-                            "shift_21": -0.0235294117647059,
-                            "shift_30": 0.0,
-                            "shift_90": -0.0119047619047619,
-                            "shift_180": -0.10752688172043,
-                            "shift_365": -0.0978260869565217,
-                            "updated_at": "2018-09-18 21:33:50 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -2489,9 +1081,7 @@
     },
     {
         "name": "Guardian Tryce",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN010",
                 "rarity": "Rare",
         "card_type": "monster",
@@ -2501,29 +1091,9 @@
     },
     {
         "name": "Guardian Tryce",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-010",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 3.5,
-                            "low": 0.52,
-                            "average": 0.82,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": 0.0123456790123457,
-                            "shift_180": 0.0649350649350649,
-                            "shift_365": -0.0681818181818182,
-                            "updated_at": "2018-09-18 20:22:41 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2531,9 +1101,7 @@
     },
     {
         "name": "Gyaku-Gire Panda",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN021",
                 "rarity": "Common",
         "card_type": "monster",
@@ -2543,29 +1111,9 @@
     },
     {
         "name": "Gyaku-Gire Panda",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-021",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 1.4,
-                            "low": 0.3,
-                            "average": 1.02,
-                            "shift": 0.0,
-                            "shift_3": -0.0467289719626168,
-                            "shift_7": -0.0285714285714286,
-                            "shift_21": -0.0285714285714286,
-                            "shift_30": -0.0192307692307692,
-                            "shift_90": -0.0642201834862385,
-                            "shift_180": 0.0408163265306122,
-                            "shift_365": -0.215384615384615,
-                            "updated_at": "2018-09-18 21:59:07 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2573,9 +1121,7 @@
     },
     {
         "name": "Incandescent Ordeal",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN085",
                 "rarity": "Common",
         "card_type": "spell",
@@ -2585,29 +1131,9 @@
     },
     {
         "name": "Incandescent Ordeal",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-085",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 1.54,
-                            "low": 0.54,
-                            "average": 1.02,
-                            "shift": -0.0192307692307692,
-                            "shift_3": -0.00970873786407767,
-                            "shift_7": -0.00970873786407767,
-                            "shift_21": 0.0,
-                            "shift_30": -0.00970873786407767,
-                            "shift_90": -0.0192307692307692,
-                            "shift_180": 0.0851063829787234,
-                            "shift_365": -0.0467289719626168,
-                            "updated_at": "2018-09-18 18:30:23 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Ritual",
         "family": null,
@@ -2615,29 +1141,9 @@
     },
     {
         "name": "Infernalqueen Archfiend",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN071",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 13.83,
-                            "low": 13.83,
-                            "average": 13.83,
-                            "shift": 0.0,
-                            "shift_3": 0.00581818181818182,
-                            "shift_7": 0.00948905109489051,
-                            "shift_21": 0.0117044623262619,
-                            "shift_30": 0.0305514157973174,
-                            "shift_90": 0.0,
-                            "shift_180": 0.0,
-                            "shift_365": 0.0,
-                            "updated_at": "2018-09-19 11:03:26 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2645,29 +1151,9 @@
     },
     {
         "name": "Infernalqueen Archfiend",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-071",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 36.44,
-                            "low": 0.62,
-                            "average": 0.92,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": -0.0707070707070707,
-                            "shift_90": -0.123809523809524,
-                            "shift_180": -0.08,
-                            "shift_365": -0.2,
-                            "updated_at": "2018-09-19 11:03:39 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2675,29 +1161,9 @@
     },
     {
         "name": "Interdimensional Matter Transporter",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN052",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 6.0,
-                            "low": 6.0,
-                            "average": 6.0,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": 0.503759398496241,
-                            "shift_180": 0.202404809619238,
-                            "shift_365": 0.202404809619238,
-                            "updated_at": "2018-09-19 09:21:03 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2705,29 +1171,9 @@
     },
     {
         "name": "Interdimensional Matter Transporter",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-052",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 16.44,
-                            "low": 0.99,
-                            "average": 1.72,
-                            "shift": 0.0,
-                            "shift_3": 0.00584795321637427,
-                            "shift_7": 0.036144578313253,
-                            "shift_21": -0.355805243445693,
-                            "shift_30": 0.131578947368421,
-                            "shift_90": -0.0549450549450549,
-                            "shift_180": -0.536388140161725,
-                            "shift_365": -0.122448979591837,
-                            "updated_at": "2018-09-19 09:21:09 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -2735,9 +1181,7 @@
     },
     {
         "name": "Iron Blacksmith Kotetsu",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN064",
                 "rarity": "Common",
         "card_type": "monster",
@@ -2747,29 +1191,9 @@
     },
     {
         "name": "Iron Blacksmith Kotetsu",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-064",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 4.99,
-                            "low": 0.54,
-                            "average": 0.86,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": -0.0444444444444444,
-                            "shift_30": -0.0549450549450549,
-                            "shift_90": -0.0652173913043478,
-                            "shift_180": -0.156862745098039,
-                            "shift_365": -0.0652173913043478,
-                            "updated_at": "2018-09-19 11:05:55 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -2777,29 +1201,9 @@
     },
     {
         "name": "Judgment of Anubis",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN105",
                 "rarity": "Secret Rare",
-                        "prices": {
-                            "high": 12.86,
-                            "low": 12.86,
-                            "average": 12.86,
-                            "shift": 0.0,
-                            "shift_3": 0.0031201248049922,
-                            "shift_7": 0.00625978090766823,
-                            "shift_21": -0.0015527950310559,
-                            "shift_30": 0.0238853503184713,
-                            "shift_90": 0.619647355163728,
-                            "shift_180": 1.59274193548387,
-                            "shift_365": 0.0,
-                            "updated_at": "2018-09-19 11:29:40 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -2807,29 +1211,9 @@
     },
     {
         "name": "Judgment of Anubis",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-105",
                 "rarity": "Secret Rare",
-                        "prices": {
-                            "high": 36.26,
-                            "low": 1.76,
-                            "average": 4.27,
-                            "shift": 0.0,
-                            "shift_3": 0.00235294117647059,
-                            "shift_7": 0.0757575757575758,
-                            "shift_21": 0.0191387559808612,
-                            "shift_30": -0.0858369098712446,
-                            "shift_90": 0.249266862170088,
-                            "shift_180": 0.844155844155844,
-                            "shift_365": 0.677165354330709,
-                            "updated_at": "2018-09-19 11:29:42 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -2837,9 +1221,7 @@
     },
     {
         "name": "Kaiser Glider",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN051",
                 "rarity": "Ultra Rare",
         "card_type": "monster",
@@ -2849,29 +1231,9 @@
     },
     {
         "name": "Kaiser Glider",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-051",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 30.55,
-                            "low": 1.55,
-                            "average": 2.0,
-                            "shift": 0.0152284263959391,
-                            "shift_3": 0.0256410256410256,
-                            "shift_7": 0.0101010101010101,
-                            "shift_21": 0.0,
-                            "shift_30": -0.0099009900990099,
-                            "shift_90": -0.436619718309859,
-                            "shift_180": 0.136363636363636,
-                            "shift_365": -0.196787148594378,
-                            "updated_at": "2018-09-19 09:04:38 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -2879,9 +1241,7 @@
     },
     {
         "name": "Kelbek",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN078",
                 "rarity": "Common",
         "card_type": "monster",
@@ -2891,29 +1251,9 @@
     },
     {
         "name": "Kelbek",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-078",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 1.54,
-                            "low": 0.54,
-                            "average": 0.88,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0112359550561798,
-                            "shift_21": -0.0112359550561798,
-                            "shift_30": -0.0222222222222222,
-                            "shift_90": -0.032967032967033,
-                            "shift_180": -0.0736842105263158,
-                            "shift_365": -0.0222222222222222,
-                            "updated_at": "2018-09-19 11:50:07 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2921,9 +1261,7 @@
     },
     {
         "name": "Keldo",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN077",
                 "rarity": "Common",
         "card_type": "monster",
@@ -2933,29 +1271,9 @@
     },
     {
         "name": "Keldo",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-077",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 3.99,
-                            "low": 0.54,
-                            "average": 0.87,
-                            "shift": 0.0,
-                            "shift_3": 0.0116279069767442,
-                            "shift_7": 0.0116279069767442,
-                            "shift_21": -0.0113636363636364,
-                            "shift_30": 0.0,
-                            "shift_90": -0.0333333333333333,
-                            "shift_180": -0.09375,
-                            "shift_365": 0.0357142857142857,
-                            "updated_at": "2018-09-19 10:15:03 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -2963,9 +1281,7 @@
     },
     {
         "name": "Legendary Flame Lord",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN081",
                 "rarity": "Rare",
         "card_type": "monster",
@@ -2975,29 +1291,9 @@
     },
     {
         "name": "Legendary Flame Lord",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-081",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 19.95,
-                            "low": 0.61,
-                            "average": 0.9,
-                            "shift": -0.010989010989011,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0227272727272727,
-                            "shift_21": 0.0112359550561798,
-                            "shift_30": 0.0112359550561798,
-                            "shift_90": 0.0,
-                            "shift_180": -0.0526315789473684,
-                            "shift_365": -0.196428571428571,
-                            "updated_at": "2018-09-19 09:47:58 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "fire",
@@ -3005,9 +1301,7 @@
     },
     {
         "name": "Little-Winguard",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN013",
                 "rarity": "Common",
         "card_type": "monster",
@@ -3017,29 +1311,9 @@
     },
     {
         "name": "Little-Winguard",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-013",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 1.25,
-                            "low": 0.3,
-                            "average": 0.96,
-                            "shift": -0.0103092783505155,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": -0.0103092783505155,
-                            "shift_30": -0.2,
-                            "shift_90": -0.213114754098361,
-                            "shift_180": 0.0212765957446809,
-                            "shift_365": 0.0549450549450549,
-                            "updated_at": "2018-09-18 19:22:15 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -3047,29 +1321,9 @@
     },
     {
         "name": "Maju Garzett",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN024",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 15.17,
-                            "low": 15.17,
-                            "average": 15.95,
-                            "shift": 0.0,
-                            "shift_3": -0.0172520024645718,
-                            "shift_7": -0.0142150803461063,
-                            "shift_21": -0.0117719950433705,
-                            "shift_30": 0.00567465321563682,
-                            "shift_90": -0.0968289920724802,
-                            "shift_180": -0.153846153846154,
-                            "shift_365": 1.73116438356164,
-                            "updated_at": "2018-09-19 11:15:53 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -3077,29 +1331,9 @@
     },
     {
         "name": "Maju Garzett",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-024",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 19.07,
-                            "low": 0.3,
-                            "average": 1.0,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": -0.0099009900990099,
-                            "shift_30": -0.0099009900990099,
-                            "shift_90": -0.0825688073394495,
-                            "shift_180": 0.204819277108434,
-                            "shift_365": -0.029126213592233,
-                            "updated_at": "2018-09-19 11:16:04 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -3107,9 +1341,7 @@
     },
     {
         "name": "Mefist the Infernal General",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN066",
                 "rarity": "Rare",
         "card_type": "monster",
@@ -3119,29 +1351,9 @@
     },
     {
         "name": "Mefist the Infernal General",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-066",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 36.44,
-                            "low": 0.99,
-                            "average": 1.01,
-                            "shift": -0.00980392156862745,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0194174757281553,
-                            "shift_21": -0.00980392156862745,
-                            "shift_30": -0.00980392156862745,
-                            "shift_90": 0.0412371134020619,
-                            "shift_180": -0.0900900900900901,
-                            "shift_365": -0.114035087719298,
-                            "updated_at": "2018-09-19 09:13:57 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -3149,9 +1361,7 @@
     },
     {
         "name": "Metallizing Parasite - Lunatite",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN074",
                 "rarity": "Rare",
         "card_type": "monster",
@@ -3161,29 +1371,9 @@
     },
     {
         "name": "Metallizing Parasite - Lunatite",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-074",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 5.7,
-                            "low": 0.99,
-                            "average": 0.83,
-                            "shift": 0.0,
-                            "shift_3": -0.0119047619047619,
-                            "shift_7": -0.0235294117647059,
-                            "shift_21": -0.0459770114942529,
-                            "shift_30": -0.0459770114942529,
-                            "shift_90": -0.0674157303370786,
-                            "shift_180": -0.10752688172043,
-                            "shift_365": -0.574358974358974,
-                            "updated_at": "2018-09-19 11:22:02 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "water",
@@ -3191,29 +1381,9 @@
     },
     {
         "name": "Mirage Knight",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN018",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 14.24,
-                            "low": 14.24,
-                            "average": 14.24,
-                            "shift": 0.0,
-                            "shift_3": 0.00564971751412429,
-                            "shift_7": 0.0113636363636364,
-                            "shift_21": 0.280575539568345,
-                            "shift_30": 0.314866112650046,
-                            "shift_90": 0.311233885819521,
-                            "shift_180": 0.190635451505017,
-                            "shift_365": 0.29102447869447,
-                            "updated_at": "2018-09-19 11:23:42 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -3221,29 +1391,9 @@
     },
     {
         "name": "Mirage Knight",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-018",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 12.02,
-                            "low": 1.95,
-                            "average": 2.93,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0244755244755245,
-                            "shift_21": 0.186234817813765,
-                            "shift_30": 0.181451612903226,
-                            "shift_90": 0.162698412698413,
-                            "shift_180": 0.408653846153846,
-                            "shift_365": 0.487309644670051,
-                            "updated_at": "2018-09-19 11:24:24 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -3251,9 +1401,7 @@
     },
     {
         "name": "Morale Boost",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN042",
                 "rarity": "Common",
         "card_type": "spell",
@@ -3263,29 +1411,9 @@
     },
     {
         "name": "Morale Boost",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-042",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 18.31,
-                            "low": 0.54,
-                            "average": 0.9,
-                            "shift": 0.0112359550561798,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": -0.0217391304347826,
-                            "shift_30": 0.0,
-                            "shift_90": -0.010989010989011,
-                            "shift_180": -0.0526315789473684,
-                            "shift_365": -0.0526315789473684,
-                            "updated_at": "2018-09-18 20:26:07 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -3293,29 +1421,9 @@
     },
     {
         "name": "Mudora",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN076",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 9.93,
-                            "low": 5.0,
-                            "average": 7.02,
-                            "shift": 0.0,
-                            "shift_3": -0.290909090909091,
-                            "shift_7": -0.285859613428281,
-                            "shift_21": -0.293051359516616,
-                            "shift_30": -0.277033985581874,
-                            "shift_90": 0.610091743119266,
-                            "shift_180": -0.075098814229249,
-                            "shift_365": 1.53429602888087,
-                            "updated_at": "2018-09-19 11:26:57 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3323,29 +1431,9 @@
     },
     {
         "name": "Mudora",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-076",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 62.07,
-                            "low": 0.56,
-                            "average": 0.96,
-                            "shift": 0.0,
-                            "shift_3": 0.0212765957446809,
-                            "shift_7": 0.0105263157894737,
-                            "shift_21": -0.0103092783505155,
-                            "shift_30": 0.0,
-                            "shift_90": 1.08695652173913,
-                            "shift_180": -0.165217391304348,
-                            "shift_365": -0.255813953488372,
-                            "updated_at": "2018-09-19 11:28:46 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -3353,9 +1441,7 @@
     },
     {
         "name": "Mustering of the Dark Scorpions",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN093",
                 "rarity": "Common",
         "card_type": "spell",
@@ -3365,29 +1451,9 @@
     },
     {
         "name": "Mustering of the Dark Scorpions",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-093",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 18.35,
-                            "low": 0.54,
-                            "average": 0.83,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": -0.0119047619047619,
-                            "shift_90": -0.0235294117647059,
-                            "shift_180": -0.0777777777777778,
-                            "shift_365": -0.0568181818181818,
-                            "updated_at": "2018-09-19 07:59:13 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -3395,9 +1461,7 @@
     },
     {
         "name": "Nin-Ken Dog",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN002",
                 "rarity": "Common",
         "card_type": "monster",
@@ -3407,29 +1471,9 @@
     },
     {
         "name": "Nin-Ken Dog",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-002",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 3.46,
-                            "low": 0.54,
-                            "average": 0.85,
-                            "shift": 0.0,
-                            "shift_3": -0.0229885057471264,
-                            "shift_7": -0.0229885057471264,
-                            "shift_21": -0.0229885057471264,
-                            "shift_30": -0.0229885057471264,
-                            "shift_90": -0.0449438202247191,
-                            "shift_180": -0.205607476635514,
-                            "shift_365": -0.0449438202247191,
-                            "updated_at": "2018-09-19 11:59:04 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -3437,9 +1481,7 @@
     },
     {
         "name": "Non-Spellcasting Area",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN043",
                 "rarity": "Common",
         "card_type": "spell",
@@ -3449,29 +1491,9 @@
     },
     {
         "name": "Non-Spellcasting Area",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-043",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 18.35,
-                            "low": 0.54,
-                            "average": 0.82,
-                            "shift": 0.0,
-                            "shift_3": -0.0238095238095238,
-                            "shift_7": -0.0238095238095238,
-                            "shift_21": -0.0120481927710843,
-                            "shift_30": -0.0352941176470588,
-                            "shift_90": -0.0465116279069767,
-                            "shift_180": -0.0574712643678161,
-                            "shift_365": -0.0681818181818182,
-                            "updated_at": "2018-09-19 01:59:49 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -3479,9 +1501,7 @@
     },
     {
         "name": "Ojama Green",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN056",
                 "rarity": "Common",
         "card_type": "monster",
@@ -3491,29 +1511,9 @@
     },
     {
         "name": "Ojama Green",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-056",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 21.84,
-                            "low": 1.35,
-                            "average": 1.48,
-                            "shift": -0.149425287356322,
-                            "shift_3": -0.233160621761658,
-                            "shift_7": -0.129411764705882,
-                            "shift_21": -0.108433734939759,
-                            "shift_30": -0.168539325842697,
-                            "shift_90": -0.370212765957447,
-                            "shift_180": -0.353711790393013,
-                            "shift_365": 0.321428571428571,
-                            "updated_at": "2018-09-19 10:15:31 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -3521,9 +1521,7 @@
     },
     {
         "name": "Ojama Trio",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN047",
                 "rarity": "Short Print",
         "card_type": "trap",
@@ -3533,29 +1531,9 @@
     },
     {
         "name": "Ojama Trio",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-047",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 2.75,
-                            "low": 1.05,
-                            "average": 1.79,
-                            "shift": 0.0,
-                            "shift_3": -0.0110497237569061,
-                            "shift_7": -0.00555555555555556,
-                            "shift_21": 0.0228571428571429,
-                            "shift_30": -0.0376344086021505,
-                            "shift_90": -0.06282722513089,
-                            "shift_180": -0.0578947368421053,
-                            "shift_365": -0.281124497991968,
-                            "updated_at": "2018-09-19 10:23:05 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -3563,9 +1541,7 @@
     },
     {
         "name": "Outstanding Dog Marron",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN062",
                 "rarity": "Short Print",
         "card_type": "monster",
@@ -3575,29 +1551,9 @@
     },
     {
         "name": "Outstanding Dog Marron",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-062",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 18.35,
-                            "low": 0.54,
-                            "average": 1.0,
-                            "shift": 0.0101010101010101,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0416666666666667,
-                            "shift_21": 0.0526315789473684,
-                            "shift_30": 0.0752688172043011,
-                            "shift_90": 0.0101010101010101,
-                            "shift_180": -0.0196078431372549,
-                            "shift_365": -0.115044247787611,
-                            "updated_at": "2018-09-19 11:55:11 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -3605,9 +1561,7 @@
     },
     {
         "name": "Pandemonium",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN094",
                 "rarity": "Short Print",
         "card_type": "spell",
@@ -3617,29 +1571,9 @@
     },
     {
         "name": "Pandemonium",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-094",
                 "rarity": "Short Print",
-                        "prices": {
-                            "high": 3.24,
-                            "low": 0.54,
-                            "average": 1.19,
-                            "shift": 0.0,
-                            "shift_3": 0.00847457627118644,
-                            "shift_7": 0.00847457627118644,
-                            "shift_21": 0.0530973451327434,
-                            "shift_30": 0.0530973451327434,
-                            "shift_90": 0.0625,
-                            "shift_180": 0.0720720720720721,
-                            "shift_365": -0.161971830985915,
-                            "updated_at": "2018-09-18 19:45:28 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Field",
         "family": null,
@@ -3647,9 +1581,7 @@
     },
     {
         "name": "Pandemonium Watchbear",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN058",
                 "rarity": "Common",
         "card_type": "monster",
@@ -3659,29 +1591,9 @@
     },
     {
         "name": "Pandemonium Watchbear",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-058",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 2.22,
-                            "low": 0.99,
-                            "average": 0.96,
-                            "shift": -0.0103092783505155,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0303030303030303,
-                            "shift_21": -0.0103092783505155,
-                            "shift_30": -0.0303030303030303,
-                            "shift_90": 0.0105263157894737,
-                            "shift_180": -0.0943396226415094,
-                            "shift_365": 0.0434782608695652,
-                            "updated_at": "2018-09-18 18:59:56 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -3689,29 +1601,9 @@
     },
     {
         "name": "Precious Cards from Beyond",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN038",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 9.35,
-                            "low": 9.35,
-                            "average": 9.35,
-                            "shift": 0.00107066381156317,
-                            "shift_3": 0.00321888412017167,
-                            "shift_7": 0.00971922246220302,
-                            "shift_21": -0.00106837606837607,
-                            "shift_30": 0.026344676180022,
-                            "shift_90": -0.309963099630996,
-                            "shift_180": -0.403698979591837,
-                            "shift_365": -0.388489208633094,
-                            "updated_at": "2018-09-19 09:11:16 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -3719,29 +1611,9 @@
     },
     {
         "name": "Precious Cards from Beyond",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-038",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 7.57,
-                            "low": 0.54,
-                            "average": 1.2,
-                            "shift": -0.0551181102362205,
-                            "shift_3": -0.0551181102362205,
-                            "shift_7": -0.0625,
-                            "shift_21": -0.0769230769230769,
-                            "shift_30": -0.0625,
-                            "shift_90": -0.0909090909090909,
-                            "shift_180": -0.117647058823529,
-                            "shift_365": -0.368421052631579,
-                            "updated_at": "2018-09-19 09:11:18 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Continuous",
         "family": null,
@@ -3749,9 +1621,7 @@
     },
     {
         "name": "Ray of Hope",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN103",
                 "rarity": "Common",
         "card_type": "trap",
@@ -3761,29 +1631,9 @@
     },
     {
         "name": "Ray of Hope",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-103",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 2.22,
-                            "low": 0.54,
-                            "average": 0.89,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0111111111111111,
-                            "shift_21": -0.0111111111111111,
-                            "shift_30": 0.0,
-                            "shift_90": 0.0,
-                            "shift_180": -0.0531914893617021,
-                            "shift_365": -0.021978021978022,
-                            "updated_at": "2018-09-19 07:04:15 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -3791,9 +1641,7 @@
     },
     {
         "name": "Really Eternal Rest",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN050",
                 "rarity": "Common",
         "card_type": "trap",
@@ -3803,29 +1651,9 @@
     },
     {
         "name": "Really Eternal Rest",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-050",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 18.28,
-                            "low": 0.54,
-                            "average": 0.92,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": -0.010752688172043,
-                            "shift_90": -0.0315789473684211,
-                            "shift_180": -0.0315789473684211,
-                            "shift_365": 0.0337078651685393,
-                            "updated_at": "2018-09-18 20:53:50 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -3833,29 +1661,9 @@
     },
     {
         "name": "Reflect Bounder",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN012",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 14.03,
-                            "low": 14.03,
-                            "average": 14.03,
-                            "shift": 0.0,
-                            "shift_3": 0.00285918513223731,
-                            "shift_7": 0.00645624103299857,
-                            "shift_21": 0.000713266761768902,
-                            "shift_30": 0.0233406272793581,
-                            "shift_90": 3.02005730659026,
-                            "shift_180": 0.0,
-                            "shift_365": 0.0,
-                            "updated_at": "2018-09-19 11:44:21 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -3863,29 +1671,9 @@
     },
     {
         "name": "Reflect Bounder",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-012",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 34.9,
-                            "low": 4.68,
-                            "average": 5.95,
-                            "shift": 0.0,
-                            "shift_3": -0.0165289256198347,
-                            "shift_7": 0.0311958405545927,
-                            "shift_21": 0.265957446808511,
-                            "shift_30": -0.0703125,
-                            "shift_90": -0.206666666666667,
-                            "shift_180": -0.00998336106489185,
-                            "shift_365": 0.00847457627118644,
-                            "updated_at": "2018-09-19 11:45:11 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -3893,9 +1681,7 @@
     },
     {
         "name": "Rod of Silence - Kay'est",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN036",
                 "rarity": "Common",
         "card_type": "spell",
@@ -3905,29 +1691,9 @@
     },
     {
         "name": "Rod of Silence - Kay'est",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-036",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 6.73,
-                            "low": 0.54,
-                            "average": 0.97,
-                            "shift": -0.0202020202020202,
-                            "shift_3": -0.0202020202020202,
-                            "shift_7": -0.0202020202020202,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": 0.0,
-                            "shift_180": -0.0849056603773585,
-                            "shift_365": -0.236220472440945,
-                            "updated_at": "2018-09-19 09:50:06 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -3935,9 +1701,7 @@
     },
     {
         "name": "Rod of the Mind's Eye",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN039",
                 "rarity": "Common",
         "card_type": "spell",
@@ -3947,29 +1711,9 @@
     },
     {
         "name": "Rod of the Mind's Eye",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-039",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 18.31,
-                            "low": 0.54,
-                            "average": 0.92,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.010989010989011,
-                            "shift_90": -0.0315789473684211,
-                            "shift_180": -0.0416666666666667,
-                            "shift_365": 0.0574712643678161,
-                            "updated_at": "2018-09-18 18:29:52 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -3977,29 +1721,9 @@
     },
     {
         "name": "Sakuretsu Armor",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN102",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 9.35,
-                            "low": 9.35,
-                            "average": 9.35,
-                            "shift": 0.0,
-                            "shift_3": 0.00321888412017167,
-                            "shift_7": 0.00754310344827586,
-                            "shift_21": -0.00106837606837607,
-                            "shift_30": 0.0229759299781182,
-                            "shift_90": 5.92592592592593,
-                            "shift_180": 6.48,
-                            "shift_365": 0.0,
-                            "updated_at": "2018-09-19 09:19:34 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -4007,29 +1731,9 @@
     },
     {
         "name": "Sakuretsu Armor",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-102",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 7.2,
-                            "low": 0.54,
-                            "average": 0.95,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0106382978723404,
-                            "shift_21": -0.0206185567010309,
-                            "shift_30": 0.0106382978723404,
-                            "shift_90": -0.0594059405940594,
-                            "shift_180": 0.0555555555555556,
-                            "shift_365": -0.136363636363636,
-                            "updated_at": "2018-09-19 09:19:42 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -4037,9 +1741,7 @@
     },
     {
         "name": "Sasuke Samurai 2",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN059",
                 "rarity": "Common",
         "card_type": "monster",
@@ -4049,29 +1751,9 @@
     },
     {
         "name": "Sasuke Samurai 2",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-059",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 18.35,
-                            "low": 0.99,
-                            "average": 0.98,
-                            "shift": 0.0315789473684211,
-                            "shift_3": 0.0315789473684211,
-                            "shift_7": 0.0315789473684211,
-                            "shift_21": 0.0208333333333333,
-                            "shift_30": 0.0208333333333333,
-                            "shift_90": 0.0103092783505155,
-                            "shift_180": 0.0103092783505155,
-                            "shift_365": 0.0652173913043478,
-                            "updated_at": "2018-09-19 02:24:16 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -4079,9 +1761,7 @@
     },
     {
         "name": "Shadowknight Archfiend",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN068",
                 "rarity": "Common",
         "card_type": "monster",
@@ -4091,29 +1771,9 @@
     },
     {
         "name": "Shadowknight Archfiend",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-068",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 6.73,
-                            "low": 0.65,
-                            "average": 0.91,
-                            "shift": 0.0111111111111111,
-                            "shift_3": 0.0111111111111111,
-                            "shift_7": -0.0108695652173913,
-                            "shift_21": 0.0111111111111111,
-                            "shift_30": -0.021505376344086,
-                            "shift_90": 0.0459770114942529,
-                            "shift_180": 0.0111111111111111,
-                            "shift_365": 0.0340909090909091,
-                            "updated_at": "2018-09-18 22:18:32 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "wind",
@@ -4121,9 +1781,7 @@
     },
     {
         "name": "Shinato's Ark",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN029",
                 "rarity": "Common",
         "card_type": "spell",
@@ -4133,29 +1791,9 @@
     },
     {
         "name": "Shinato's Ark",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-029",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 1.5,
-                            "low": 0.69,
-                            "average": 1.46,
-                            "shift": 0.00689655172413793,
-                            "shift_3": 0.00689655172413793,
-                            "shift_7": 0.00689655172413793,
-                            "shift_21": 0.303571428571429,
-                            "shift_30": 0.303571428571429,
-                            "shift_90": 0.206611570247934,
-                            "shift_180": 0.106060606060606,
-                            "shift_365": -0.115151515151515,
-                            "updated_at": "2018-09-19 11:47:15 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Ritual",
         "family": null,
@@ -4163,9 +1801,7 @@
     },
     {
         "name": "Shinato, King of a Higher Plane",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN016",
                 "rarity": "Ultra Rare",
         "card_type": "monster",
@@ -4175,29 +1811,9 @@
     },
     {
         "name": "Shinato, King of a Higher Plane",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-016",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 68.49,
-                            "low": 6.0,
-                            "average": 9.39,
-                            "shift": 0.0,
-                            "shift_3": 0.478740157480315,
-                            "shift_7": 0.380882352941176,
-                            "shift_21": 0.0931315483119907,
-                            "shift_30": -0.218801996672213,
-                            "shift_90": -0.476588628762542,
-                            "shift_180": 0.253671562082777,
-                            "shift_365": 0.117857142857143,
-                            "updated_at": "2018-09-19 09:25:40 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "light",
@@ -4205,9 +1821,7 @@
     },
     {
         "name": "Shooting Star Bow - Ceal",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN033",
                 "rarity": "Common",
         "card_type": "spell",
@@ -4217,29 +1831,9 @@
     },
     {
         "name": "Shooting Star Bow - Ceal",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-033",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 19.03,
-                            "low": 0.54,
-                            "average": 1.19,
-                            "shift": -0.0165289256198347,
-                            "shift_3": -0.0165289256198347,
-                            "shift_7": -0.00833333333333333,
-                            "shift_21": -0.0403225806451613,
-                            "shift_30": -0.048,
-                            "shift_90": 0.0347826086956522,
-                            "shift_180": 0.043859649122807,
-                            "shift_365": -0.184931506849315,
-                            "updated_at": "2018-09-18 19:51:09 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -4247,29 +1841,9 @@
     },
     {
         "name": "Skill Drain",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN049",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 23.17,
-                            "low": 23.17,
-                            "average": 23.17,
-                            "shift": 0.0,
-                            "shift_3": 0.243025751072961,
-                            "shift_7": 0.246369015599785,
-                            "shift_21": 0.23903743315508,
-                            "shift_30": 0.267505470459519,
-                            "shift_90": -0.0550570962479608,
-                            "shift_180": 2.86166666666667,
-                            "shift_365": 0.0,
-                            "updated_at": "2018-09-19 10:21:56 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -4277,29 +1851,9 @@
     },
     {
         "name": "Skill Drain",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-049",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 21.03,
-                            "low": 6.06,
-                            "average": 7.79,
-                            "shift": 0.0,
-                            "shift_3": -0.0238095238095238,
-                            "shift_7": -0.0358910891089109,
-                            "shift_21": -0.00764331210191083,
-                            "shift_30": -0.0225846925972397,
-                            "shift_90": -0.108695652173913,
-                            "shift_180": -0.0488400488400488,
-                            "shift_365": 0.084958217270195,
-                            "updated_at": "2018-09-19 07:24:38 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Continuous",
         "family": null,
@@ -4307,9 +1861,7 @@
     },
     {
         "name": "Skull Archfiend of Lightning",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN073",
                 "rarity": "Ultra Rare",
         "card_type": "monster",
@@ -4319,29 +1871,9 @@
     },
     {
         "name": "Skull Archfiend of Lightning",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-073",
                 "rarity": "Ultra Rare",
-                        "prices": {
-                            "high": 50.0,
-                            "low": 3.99,
-                            "average": 8.31,
-                            "shift": 0.547486033519553,
-                            "shift_3": 0.547486033519553,
-                            "shift_7": 0.779443254817987,
-                            "shift_21": -0.103559870550162,
-                            "shift_30": -0.0756395995550612,
-                            "shift_90": 1.63809523809524,
-                            "shift_180": 1.05185185185185,
-                            "shift_365": 0.658682634730539,
-                            "updated_at": "2018-09-18 22:22:20 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -4349,9 +1881,7 @@
     },
     {
         "name": "Spell Reproduction",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN083",
                 "rarity": "Common",
         "card_type": "spell",
@@ -4361,29 +1891,9 @@
     },
     {
         "name": "Spell Reproduction",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-083",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.23,
-                            "low": 0.54,
-                            "average": 0.91,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0,
-                            "shift_90": 0.0111111111111111,
-                            "shift_180": -0.172727272727273,
-                            "shift_365": 0.0,
-                            "updated_at": "2018-09-18 23:23:49 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -4391,9 +1901,7 @@
     },
     {
         "name": "Spell Vanishing",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN101",
                 "rarity": "Super Rare",
         "card_type": "trap",
@@ -4403,29 +1911,9 @@
     },
     {
         "name": "Spell Vanishing",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-101",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 10.42,
-                            "low": 1.0,
-                            "average": 1.54,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": -0.0128205128205128,
-                            "shift_21": 0.0,
-                            "shift_30": -0.00645161290322581,
-                            "shift_90": -0.202072538860104,
-                            "shift_180": -0.218274111675127,
-                            "shift_365": -0.252427184466019,
-                            "updated_at": "2018-09-18 20:47:50 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Counter",
         "family": null,
@@ -4433,9 +1921,7 @@
     },
     {
         "name": "Staunch Defender",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN046",
                 "rarity": "Common",
         "card_type": "trap",
@@ -4445,29 +1931,9 @@
     },
     {
         "name": "Staunch Defender",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-046",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 1.56,
-                            "low": 0.99,
-                            "average": 1.05,
-                            "shift": 0.0,
-                            "shift_3": -0.00943396226415094,
-                            "shift_7": -0.0186915887850467,
-                            "shift_21": -0.00943396226415094,
-                            "shift_30": -0.0186915887850467,
-                            "shift_90": 0.0294117647058824,
-                            "shift_180": -0.166666666666667,
-                            "shift_365": -0.173228346456693,
-                            "updated_at": "2018-09-10 02:33:56 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "trap",
         "property": "Normal",
         "family": null,
@@ -4475,29 +1941,9 @@
     },
     {
         "name": "Terrorking Archfiend",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN072",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 9.35,
-                            "low": 9.35,
-                            "average": 9.35,
-                            "shift": 0.0,
-                            "shift_3": 0.00321888412017167,
-                            "shift_7": 0.00971922246220302,
-                            "shift_21": 0.0,
-                            "shift_30": 0.0229759299781182,
-                            "shift_90": 0.00862998921251348,
-                            "shift_180": 0.263513513513513,
-                            "shift_365": 2.11666666666667,
-                            "updated_at": "2018-09-19 11:29:42 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -4505,29 +1951,9 @@
     },
     {
         "name": "Terrorking Archfiend",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-072",
                 "rarity": "Super Rare",
-                        "prices": {
-                            "high": 40.98,
-                            "low": 2.23,
-                            "average": 4.25,
-                            "shift": 0.0,
-                            "shift_3": -0.0116279069767442,
-                            "shift_7": 0.0340632603406326,
-                            "shift_21": 0.0290556900726392,
-                            "shift_30": 0.0442260442260442,
-                            "shift_90": 0.574074074074074,
-                            "shift_180": 0.568265682656827,
-                            "shift_365": 0.257396449704142,
-                            "updated_at": "2018-09-19 11:29:58 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -4535,9 +1961,7 @@
     },
     {
         "name": "Thousand Needles",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN028",
                 "rarity": "Common",
         "card_type": "monster",
@@ -4547,29 +1971,9 @@
     },
     {
         "name": "Thousand Needles",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-028",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 19.07,
-                            "low": 0.54,
-                            "average": 0.83,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": 0.0,
-                            "shift_30": -0.0235294117647059,
-                            "shift_90": -0.0235294117647059,
-                            "shift_180": -0.0348837209302326,
-                            "shift_365": -0.0348837209302326,
-                            "updated_at": "2018-09-19 11:34:27 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -4577,9 +1981,7 @@
     },
     {
         "name": "Token Thanksgiving",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN041",
                 "rarity": "Common",
         "card_type": "spell",
@@ -4589,29 +1991,9 @@
     },
     {
         "name": "Token Thanksgiving",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-041",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 15.22,
-                            "low": 0.54,
-                            "average": 0.89,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": -0.0111111111111111,
-                            "shift_30": -0.0111111111111111,
-                            "shift_90": -0.043010752688172,
-                            "shift_180": -0.0631578947368421,
-                            "shift_365": -0.0111111111111111,
-                            "updated_at": "2018-09-18 19:51:16 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Normal",
         "family": null,
@@ -4619,9 +2001,7 @@
     },
     {
         "name": "Tsukuyomi",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN075",
                 "rarity": "Rare",
         "card_type": "monster",
@@ -4631,29 +2011,9 @@
     },
     {
         "name": "Tsukuyomi",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-075",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 23.07,
-                            "low": 1.69,
-                            "average": 2.52,
-                            "shift": 0.0120481927710843,
-                            "shift_3": 0.008,
-                            "shift_7": 0.0161290322580645,
-                            "shift_21": 0.037037037037037,
-                            "shift_30": 0.0543933054393305,
-                            "shift_90": 0.0327868852459016,
-                            "shift_180": 0.0723404255319149,
-                            "shift_365": 0.150684931506849,
-                            "updated_at": "2018-09-19 10:56:09 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -4661,29 +2021,9 @@
     },
     {
         "name": "Twin Swords of Flashing Light - Tryce",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN037",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 15.17,
-                            "low": 15.17,
-                            "average": 15.17,
-                            "shift": 0.0,
-                            "shift_3": 0.006635700066357,
-                            "shift_7": 0.0106595602931379,
-                            "shift_21": 1.90057361376673,
-                            "shift_30": 1.90613026819923,
-                            "shift_90": 0.0,
-                            "shift_180": 0.0,
-                            "shift_365": 0.0,
-                            "updated_at": "2018-09-19 11:33:15 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -4691,29 +2031,9 @@
     },
     {
         "name": "Twin Swords of Flashing Light - Tryce",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-037",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 6.73,
-                            "low": 0.54,
-                            "average": 1.33,
-                            "shift": 0.0,
-                            "shift_3": 0.0152671755725191,
-                            "shift_7": -0.101351351351351,
-                            "shift_21": -0.152866242038217,
-                            "shift_30": 0.0390625,
-                            "shift_90": -0.0220588235294118,
-                            "shift_180": 0.108333333333333,
-                            "shift_365": -0.119205298013245,
-                            "updated_at": "2018-09-19 11:33:17 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -4721,29 +2041,9 @@
     },
     {
         "name": "Vampire Lord",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN000",
                 "rarity": "Secret Rare",
-                        "prices": {
-                            "high": 28.91,
-                            "low": 28.27,
-                            "average": 28.61,
-                            "shift": 0.0,
-                            "shift_3": 0.0059774964838256,
-                            "shift_7": 0.0116690240452617,
-                            "shift_21": 0.0120268836222144,
-                            "shift_30": 0.0306195965417867,
-                            "shift_90": -0.425617345914475,
-                            "shift_180": -0.402838655812983,
-                            "shift_365": 0.270990670812972,
-                            "updated_at": "2018-09-19 10:37:23 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -4751,29 +2051,9 @@
     },
     {
         "name": "Vampire Lord",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-000",
                 "rarity": "Secret Rare",
-                        "prices": {
-                            "high": 499.99,
-                            "low": 7.07,
-                            "average": 10.64,
-                            "shift": 0.000940733772342427,
-                            "shift_3": -0.127868852459016,
-                            "shift_7": 0.0310077519379845,
-                            "shift_21": -0.0882604970008569,
-                            "shift_30": -0.0650263620386643,
-                            "shift_90": 0.0300096805421104,
-                            "shift_180": 0.52,
-                            "shift_365": 0.10259067357513,
-                            "updated_at": "2018-09-19 10:37:29 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "dark",
@@ -4781,9 +2061,7 @@
     },
     {
         "name": "Vilepawn Archfiend",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN067",
                 "rarity": "Common",
         "card_type": "monster",
@@ -4793,29 +2071,9 @@
     },
     {
         "name": "Vilepawn Archfiend",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-067",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 5.16,
-                            "low": 0.54,
-                            "average": 0.87,
-                            "shift": 0.0,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": -0.0113636363636364,
-                            "shift_30": -0.0113636363636364,
-                            "shift_90": -0.0333333333333333,
-                            "shift_180": -0.0224719101123595,
-                            "shift_365": -0.565,
-                            "updated_at": "2018-09-18 19:26:51 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
@@ -4823,9 +2081,7 @@
     },
     {
         "name": "Wicked-Breaking Flamberge - Baou",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN035",
                 "rarity": "Rare",
         "card_type": "spell",
@@ -4835,29 +2091,9 @@
     },
     {
         "name": "Wicked-Breaking Flamberge - Baou",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-035",
                 "rarity": "Rare",
-                        "prices": {
-                            "high": 36.44,
-                            "low": 0.65,
-                            "average": 0.94,
-                            "shift": 0.0681818181818182,
-                            "shift_3": 0.0444444444444444,
-                            "shift_7": 0.010752688172043,
-                            "shift_21": 0.0217391304347826,
-                            "shift_30": 0.032967032967033,
-                            "shift_90": 0.0804597701149425,
-                            "shift_180": 0.146341463414634,
-                            "shift_365": -0.0309278350515464,
-                            "updated_at": "2018-09-19 09:27:42 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "spell",
         "property": "Equip",
         "family": null,
@@ -4865,9 +2101,7 @@
     },
     {
         "name": "Zolga",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-EN079",
                 "rarity": "Common",
         "card_type": "monster",
@@ -4877,29 +2111,9 @@
     },
     {
         "name": "Zolga",
-        "numbers": [
-            {
-                "name": "Dark Crisis",
+                "pack": "Dark Crisis",
                 "print_tag": "DCR-079",
                 "rarity": "Common",
-                        "prices": {
-                            "high": 1.44,
-                            "low": 0.65,
-                            "average": 0.88,
-                            "shift": -0.0112359550561798,
-                            "shift_3": 0.0,
-                            "shift_7": 0.0,
-                            "shift_21": -0.0112359550561798,
-                            "shift_30": -0.0112359550561798,
-                            "shift_90": 0.0232558139534884,
-                            "shift_180": -0.032967032967033,
-                            "shift_365": 0.0114942528735632,
-                            "updated_at": "2018-09-18 18:58:51 -0600"
-                        }
-                    }
-                }
-            }
-        ],
         "card_type": "monster",
         "property": null,
         "family": "earth",
