@@ -1,0 +1,196 @@
+[
+    {
+        "name": "Abyss Actor - Comic Relief",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: White Dragon Abyss",
+                "print_tag": "LED3-EN046",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "fail",
+                    "message": "Unable to find prices for this card."
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Pendulum"
+    },
+    {
+        "name": "Abyss Actor - Mellow Madonna",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: White Dragon Abyss",
+                "print_tag": "LED3-EN045",
+                "rarity": "Unknown Rarity",
+                "price_data": {
+                    "status": "fail",
+                    "message": "Unable to find prices for this card."
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Pendulum"
+    },
+    {
+        "name": "Abyss Playhouse - Fantastic Theater",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: White Dragon Abyss",
+                "print_tag": "LED3-EN048",
+                "rarity": "Unknown Rarity",
+                "price_data": {
+                    "status": "fail",
+                    "message": "Unable to find prices for this card."
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Abyss Script - Romantic Terror",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: White Dragon Abyss",
+                "print_tag": "LED3-EN047",
+                "rarity": "Unknown Rarity",
+                "price_data": {
+                    "status": "fail",
+                    "message": "Unable to find prices for this card."
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Blackwing Full-Armor Master",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: White Dragon Abyss",
+                "print_tag": "LED3-EN023",
+                "rarity": "Unknown Rarity",
+                "price_data": {
+                    "status": "fail",
+                    "message": "Unable to find prices for this card."
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Synchro"
+    },
+    {
+        "name": "Blue-Eyes Chaos Dragon",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: White Dragon Abyss",
+                "print_tag": "LED3-EN001",
+                "rarity": "Unknown Rarity",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.88,
+                            "low": 19.88,
+                            "average": 19.88,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0,
+                            "shift_180": 0.0,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:14:44 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Ritual"
+    },
+    {
+        "name": "Cyber Eternity Dragon",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: White Dragon Abyss",
+                "print_tag": "LED3-EN012",
+                "rarity": "Unknown Rarity",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 14.88,
+                            "low": 14.88,
+                            "average": 14.88,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0,
+                            "shift_180": 0.0,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 12:30:59 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "Cybernetic Revolution (card)",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: White Dragon Abyss",
+                "print_tag": "LED3-EN016",
+                "rarity": "Unknown Rarity",
+                "price_data": {
+                    "status": "fail",
+                    "message": "Unable to find prices for this card."
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Super Strident Blaze",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: White Dragon Abyss",
+                "print_tag": "LED3-EN015",
+                "rarity": "Unknown Rarity",
+                "price_data": {
+                    "status": "fail",
+                    "message": "Unable to find prices for this card."
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    }
+]

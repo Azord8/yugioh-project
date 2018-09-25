@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Amazing Pendulum",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN034",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Archfiend Eccentrick",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN026",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Pendulum"
+    },
+    {
+        "name": "Astrograph Sorcerer",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN001",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Black Fang Magician",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN004",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Chronograph Sorcerer",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN002",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Dharma-Eye Magician",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN018",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Doomstar Magician",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN021",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Double Iris Magician",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN003",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Dragon's Mirror",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN039",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dragonpit Magician",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN014",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Dragonpulse Magician",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN013",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Echo Oscillation",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN042",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Enlightenment Paladin",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN031",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Synchro"
+    },
+    {
+        "name": "Foucault's Cannon",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN024",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Guiding Ariadne",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN027",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Pendulum"
+    },
+    {
+        "name": "Harmonizing Magician",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN010",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Hypnosister",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN025",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Lector Pendulum, the Dracoverlord",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN060",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Pendulum"
+    },
+    {
+        "name": "Magical Abductor",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN029",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Master Pendulum, the Dracoslayer",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN059",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Pendulum"
+    },
+    {
+        "name": "Metalfoes Adamante",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN055",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Psychic / Fusion"
+    },
+    {
+        "name": "Metalfoes Counter",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN056",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Metalfoes Crimsonite",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN053",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Psychic / Fusion"
+    },
+    {
+        "name": "Metalfoes Orichalc",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN054",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Psychic / Fusion"
+    },
+    {
+        "name": "Nobledragon Magician",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN015",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Oafdragon Magician",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN016",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Odd-Eyes Absolute Dragon",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN033",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Odd-Eyes Fusion",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN038",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Odd-Eyes Meteorburst Dragon",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN032",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Odd-Eyes Pendulum Dragon",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN023",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Pendulum"
+    },
+    {
+        "name": "Odd-Eyes Vortex Dragon",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN030",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Fusion"
+    },
+    {
+        "name": "Oracle of Zefra",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN050",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Pendulum Call",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN036",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Pendulum Reborn",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN041",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Pendulum Shift",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN037",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Pendulum Storm",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN035",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Performapal Skullcrobat Joker",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN022",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Purple Poison Magician",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN006",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Qliphort Monolith",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN058",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Qliphort Scout",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN057",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Raremetalfoes Bismugear",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN052",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Psychic / Pendulum"
+    },
+    {
+        "name": "Rescue Hamster",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN028",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Pendulum"
+    },
+    {
+        "name": "Ritual Beast Tamer Zeframpilica",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN048",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Psychic / Pendulum"
+    },
+    {
+        "name": "Ritual Beast Tamer Zefrawendi",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN049",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Psychic / Pendulum"
+    },
+    {
+        "name": "Satellarknight Zefrathuban",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN044",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Pendulum"
+    },
+    {
+        "name": "Star Pendulumgraph",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN007",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Stargazer Magician",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN011",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Stellarknight Zefraxciton",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN045",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Pendulum"
+    },
+    {
+        "name": "Summoner's Art",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN040",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Time Pendulumgraph",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN008",
+                "rarity": "Ultra Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Timebreaker Magician",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN019",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Timegazer Magician",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN012",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Timestar Magician",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN009",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Xyz"
+    },
+    {
+        "name": "Tuning Magician",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN020",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Tuner"
+    },
+    {
+        "name": "Unwavering Bond",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN043",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "White Wing Magician",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN005",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Wisdom-Eye Magician",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN017",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Zefra Divine Strike",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN051",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Zefraniu, Secret of the Yang Zing",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN047",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Wyrm / Pendulum"
+    },
+    {
+        "name": "Zefraxi, Treasure of the Yang Zing",
+                "pack": "Pendulum Evolution",
+                "print_tag": "PEVO-EN046",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Wyrm / Pendulum"
+    }
+]

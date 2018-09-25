@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Advanced Dark",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN056",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Akashic Magician",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN052",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Link"
+    },
+    {
+        "name": "Aleister the Invoker",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN040",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Aleister the Invoker of Madness",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN020",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Link"
+    },
+    {
+        "name": "Armor Ninjitsu Art of Alchemy",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN027",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Armor Ninjitsu Art of Rust Mist",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN030",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ash Blossom & Joyous Spring",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN047",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Zombie / Tuner"
+    },
+    {
+        "name": "Cyberdark Impact!",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN053",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dragunity Knight - Vajrayana",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN050",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "El Shaddoll Winda",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN049",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Fusion"
+    },
+    {
+        "name": "Elemental HERO Chaos Neos",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN035",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "Elemental HERO Magma Neos",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN034",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "Elemental HERO Neos",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN031",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior"
+    },
+    {
+        "name": "Forbidden Trapezohedron",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN019",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Fortune Chariot",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN005",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Fairy / Union"
+    },
+    {
+        "name": "Gateway to Chaos",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN058",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gem-Knight Seraphinite",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN048",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fairy / Fusion"
+    },
+    {
+        "name": "Goddess Skuld's Oracle",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN008",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Goddess Urd's Verdict",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN010",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Goddess Verdande's Guidance",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN009",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Golden Bamboo Sword",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN054",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Hi-Speedroid Chanbara",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN051",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Hidden Village of Ninjitsu Arts",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN014",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Invocation",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN043",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Invoked Mechaba",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN041",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "Magic Planter",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN055",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Magical Meltdown",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN042",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mermail Abyssleed",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN038",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Sea Serpent / Effect"
+    },
+    {
+        "name": "Mermail Abyssmegalo",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN037",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Sea Serpent / Effect"
+    },
+    {
+        "name": "Mermail Abyssteus",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN039",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Mischief of the Time Goddess",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN007",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mist Valley Apex Avian",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN045",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Neo-Spacian Flare Scarab",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN033",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Neo-Spacian Glow Moss",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN032",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Ninja Grandmaster Hanzo",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN022",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Ninja Grandmaster Saizo",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN011",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Link"
+    },
+    {
+        "name": "Ninjitsu Art of Mirage-Transformation",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN015",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ninjitsu Art of Super-Transformation",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN029",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ninjitsu Art of Transformation",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN028",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Old Entity Chthugua",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN016",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Pyro / Synchro"
+    },
+    {
+        "name": "Omega Summon",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN044",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Outer Entity Azathot",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN018",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Xyz"
+    },
+    {
+        "name": "Outer Entity Nyarla",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN017",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fiend / Xyz"
+    },
+    {
+        "name": "Red Dragon Ninja",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN025",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Ride of the Valkyries",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN006",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Shaddoll Fusion",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN057",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Strike Ninja",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN021",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Twilight Ninja Jogen",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN026",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Pendulum"
+    },
+    {
+        "name": "Twin Twisters",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN059",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Upstart Golden Ninja",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN023",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Urgent Ritual Art",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN060",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Valkyrie Brunhilde",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN004",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Valkyrie Dritte",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN001",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Valkyrie Erste",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN003",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Valkyrie Zweite",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN002",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Vision HERO Trinity",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN036",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "White Dragon Ninja",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN024",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Windwitch - Ice Bell",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN046",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Yellow Dragon Ninja",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN013",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Yellow Ninja",
+                "pack": "Shadows in Valhalla",
+                "print_tag": "SHVA-EN012",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Warrior / Effect"
+    }
+]

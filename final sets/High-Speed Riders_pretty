@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Armoroid",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN047",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Black Rose Moonlight Dragon",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN044",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Cardcar D",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN051",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Chain Resonator",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN018",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Tuner"
+    },
+    {
+        "name": "Compulsory Evacuation Device",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN058",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dark Resonator",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN020",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Tuner"
+    },
+    {
+        "name": "Dice Roll Battle",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN014",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Emergency Teleport",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN054",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Expressroid",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN045",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Future Glow",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN057",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Goyo Chaser",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN038",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Synchro"
+    },
+    {
+        "name": "Goyo Predator",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN039",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Synchro"
+    },
+    {
+        "name": "Hi-Speedroid Chanbara",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN010",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Hi-Speedroid Kendama",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN009",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Hot Red Dragon Archfiend",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN040",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Hot Red Dragon Archfiend Abyss",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN041",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Hot Red Dragon Archfiend Bane",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN042",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Hushed Psychic Cleric",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN050",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Krebons",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN046",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Psychic / Tuner"
+    },
+    {
+        "name": "Mirror Resonator",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN019",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Tuner"
+    },
+    {
+        "name": "Mystical Space Typhoon",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN053",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "PSY-Frame Circuit",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN036",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "PSY-Frame Driver",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN028",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic"
+    },
+    {
+        "name": "PSY-Frame Overload",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN037",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "PSY-Framegear Alpha",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN029",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Tuner"
+    },
+    {
+        "name": "PSY-Framegear Beta",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN030",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Tuner"
+    },
+    {
+        "name": "PSY-Framegear Delta",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN032",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Tuner"
+    },
+    {
+        "name": "PSY-Framegear Epsilon",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN033",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Tuner"
+    },
+    {
+        "name": "PSY-Framegear Gamma",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN031",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Tuner"
+    },
+    {
+        "name": "PSY-Framelord Omega",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN035",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Synchro"
+    },
+    {
+        "name": "PSY-Framelord Zeta",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN034",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Synchro"
+    },
+    {
+        "name": "Pot of Duality",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN056",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Psychic Overload",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN060",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Psychokinesis",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN055",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Red Carpet",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN027",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Red Cocoon",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN026",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Red Dragon Archfiend",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN023",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Red Nova Dragon",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN024",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Red Resonator",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN016",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Fiend / Tuner"
+    },
+    {
+        "name": "Red Sprinter",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN015",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Red Wyvern",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN022",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Resonator Call",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN025",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Serene Psychic Witch",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN049",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Shock Surprise",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN012",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Silent Psychic Wizard",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN048",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Speed Recovery",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN011",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Speedroid Double Yoyo",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN003",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Speedroid Menko",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN005",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Speedroid Ohajikid",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN007",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Speedroid Razorang",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN004",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Speedroid Red-Eyed Dice",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN008",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Speedroid Taketomborg",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN006",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Speedroid Terrortop",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN001",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Speedroid Tri-Eyed Dice",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN002",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Stardust Spark Dragon",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN043",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Supercharge",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN059",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Synchro Cracker",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN013",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Synkron Resonator",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN017",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Tuner"
+    },
+    {
+        "name": "Trishula, Dragon of the Ice Barrier",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN052",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Vice Dragon",
+                "pack": "High-Speed Riders",
+                "print_tag": "HSRD-EN021",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    }
+]

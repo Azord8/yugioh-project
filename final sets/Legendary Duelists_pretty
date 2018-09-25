@@ -1,0 +1,522 @@
+[
+    {
+        "name": "A Legendary Ocean",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN021",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Amazoness Archer",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN012",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Amazoness Baby Tiger",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN009",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Amazoness Call",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN010",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Amazoness Onslaught",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN011",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Amazoness Princess",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN008",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Amazoness Swords Woman",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN013",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Amazoness Village",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN014",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Armoroid",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN034",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Bonding - D2O",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN038",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Bonding - DHO",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN039",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Bonding - H2O",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN051",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Citadel Whale",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN016",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fish / Effect"
+    },
+    {
+        "name": "Cyberdark Cannon",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN022",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Cyberdark Claw",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN023",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Cyberdark Edge",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN027",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Cyberdark Horn",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN026",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Cyberdark Inferno",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN025",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Cyberdark Keel",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN028",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Cyberdarkness Dragon",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN024",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "Duoterion",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN037",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Emergeroid Call",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN032",
+                "rarity": "Ultra Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Expressroid",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN033",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Gearfried the Red-Eyes Iron Knight",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN002",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Hydrogeddon",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN040",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Inferno Fire Blast",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN007",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Leotaur",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN045",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Megaroid City",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN031",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mixeroid",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN029",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Monster Reincarnation",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN048",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Oxygeddon",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN041",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Rage of Kairyu-Shin",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN017",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Red-Eyes B. Dragon",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN000",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Normal"
+    },
+    {
+        "name": "Red-Eyes Baby Dragon",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN001",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Red-Eyes Fang with Chain",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN004",
+                "rarity": "Ultra Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Red-Eyes Fusion",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN006",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Red-Eyes Retro Dragon",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN005",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Red-Eyes Slash Dragon",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN003",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Fusion"
+    },
+    {
+        "name": "Riryoku",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN047",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Sea Stealth Attack",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN018",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Sergeant Electro",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN046",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Sphere Kuriboh",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN043",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Super Vehicroid - Mobile Base",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN030",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "The Golden Apples",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN050",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Legendary Fisherman",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN019",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "The Legendary Fisherman II",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN015",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "The Legendary Fisherman III",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN020",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Vehicroid Connection Zone",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN035",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Water Dragon",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN042",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Sea Serpent / Effect"
+    },
+    {
+        "name": "Water Dragon Cluster",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN036",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Sea Serpent / Effect"
+    },
+    {
+        "name": "Wonder Balloons",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN049",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Yomi Ship",
+                "pack": "Legendary Duelists",
+                "print_tag": "LEDU-EN044",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    }
+]

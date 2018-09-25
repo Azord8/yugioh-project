@@ -1,0 +1,1062 @@
+[
+    {
+        "name": "Ancient Gear Box",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN032",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "And the Band Played On",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN079",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Artifact Achilleshield",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN015",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Artifact Aegis",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN014",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Artifact Beagalltach",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN012",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Artifact Caduceus",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN017",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Artifact Durendal",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN049",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Xyz"
+    },
+    {
+        "name": "Artifact Durendal",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN049",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Xyz"
+    },
+    {
+        "name": "Artifact Failnaught",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN013",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Artifact Ignition",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN060",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Artifact Labrys",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN016",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Artifact Moralltach",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN011",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Artifact Sanctum",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN072",
+                "rarity": "Ultra Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Artifact Scythe",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN000",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Artifacts Unleashed",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN061",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Avalon",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN088",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Battlin' Boxer Big Bandage",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN008",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Battlin' Boxer Veil",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN009",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Beautunaful Princess",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN036",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fish / Effect"
+    },
+    {
+        "name": "Blizzard Thunderbird",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN007",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Bolt Penguin",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN090",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Thunder"
+    },
+    {
+        "name": "Bujin Hirume",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN024",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Bujincident",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN075",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Bujingi Sinyou",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN084",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Bujinki Amaterasu",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN052",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast-Warrior / Xyz"
+    },
+    {
+        "name": "Bujinki Amaterasu",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN052",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast-Warrior / Xyz"
+    },
+    {
+        "name": "Bujinki Amaterasu",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN052",
+                "rarity": "Ghost Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast-Warrior / Xyz"
+    },
+    {
+        "name": "Bujintervention",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN064",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Cairngorgon, Antiluminescent Knight",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN054",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Rock / Xyz"
+    },
+    {
+        "name": "Condemned Maiden",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN038",
+                "rarity": "Short Print",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Dawn Knight",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN033",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Diamond Core of Koa'ki Meiru",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN065",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Don Thousand's Throne",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN059",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Double Dragon Descent",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN069",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Escalation of the Monarchs",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN089",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Evo-Singularity",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN077",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Forbidden Scripture",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN067",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Galactic Charity",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN057",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Galaxy Dragon",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN098",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Galaxy Mirror Sage",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN002",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Flip"
+    },
+    {
+        "name": "Galaxy Tyranno",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN003",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Gazer Shark",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN006",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fish / Effect"
+    },
+    {
+        "name": "Ghostrick Doll",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN022",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Ghostrick Night",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN074",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ghostrick Parade",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN063",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ghostrick Socuteboss",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN051",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Xyz"
+    },
+    {
+        "name": "Ghostrick Warwolf",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN023",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Gimmick Puppet Des Troy",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN095",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Gladiator Beast Augustus",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN030",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Gladiator Beast Nerokius",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN086",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Fusion"
+    },
+    {
+        "name": "Hazy Flame Hydra",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN027",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Heliosphere Dragon",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN004",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Hundred-Footed Horror",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN099",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Jackpot 7",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN068",
+                "rarity": "Short Print",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Last Counter",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN071",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Lucent, Netherlord of Dark World",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN031",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Madolche Anjelly",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN028",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Majesty's Fiend",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN034",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Mecha Phantom Beast O-Lion",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN026",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Mermaid Shark",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN005",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fish / Effect"
+    },
+    {
+        "name": "Noble Knight Brothers",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN081",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Noble Knight Eachtar",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN082",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Noble Knights of the Round Table",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN087",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Nopenguin",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN037",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Number 103: Ragnazero",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN042",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fairy / Xyz"
+    },
+    {
+        "name": "Number 42: Galaxy Tomahawk",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN092",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Number 43: Manipulator of Souls",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN047",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Xyz"
+    },
+    {
+        "name": "Number 48: Shadow Lich",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN097",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Xyz"
+    },
+    {
+        "name": "Number 62: Galaxy-Eyes Prime Photon Dragon",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN040",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Number 62: Galaxy-Eyes Prime Photon Dragon",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN040",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Number 80: Rhapsody in Berserk",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN045",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Xyz"
+    },
+    {
+        "name": "Number C102: Archfiend Seraph",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN044",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Xyz"
+    },
+    {
+        "name": "Number C102: Archfiend Seraph",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN044",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Xyz"
+    },
+    {
+        "name": "Number C103: Ragnafinity",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN043",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fairy / Xyz"
+    },
+    {
+        "name": "Number C107: Neo Galaxy-Eyes Tachyon Dragon",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN041",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Number C107: Neo Galaxy-Eyes Tachyon Dragon",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN041",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Number C43: High Manipulator of Chaos",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN048",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Xyz"
+    },
+    {
+        "name": "Number C80: Requiem in Berserk",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN046",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Xyz"
+    },
+    {
+        "name": "Orea, the Sylvan High Arbiter",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN050",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Plant / Xyz"
+    },
+    {
+        "name": "Phantom Fortress Enterblathnir",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN053",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Phantom King Hydride",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN091",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Tuner"
+    },
+    {
+        "name": "Phonon Pulse Dragon",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN055",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Pilica, Descendant of Gusto",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN029",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Rank-Up-Magic - The Seventh One",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN058",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Reverse Breaker",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN056",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Rose Archer",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN093",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Scrap Factory",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN066",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Shogi Knight",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN094",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Starduston",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN039",
+                "rarity": "Short Print",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Sylvan Charity",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN062",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Sylvan Cherubsprout",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN018",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Sylvan Lotuswain",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN020",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Sylvan Princessprout",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN083",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Sylvan Sagequoia",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN021",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Sylvan Snapdrassinagon",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN019",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Sylvan Waterslide",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN073",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Tachyon Chaos Hole",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN070",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Monarchs Erupt",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN076",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Thestalos the Mega Monarch",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN035",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Pyro / Effect"
+    },
+    {
+        "name": "Traptrix Dionaea",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN025",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Tri-and-Guess",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN080",
+                "rarity": "Short Print",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Umbral Horror Ghost",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN010",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Vampire Vamp",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN085",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Xyz Universe",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN078",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "ZS - Vanish Sage",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN001",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "ZW - Sleipnir Mail",
+                "pack": "Primal Origin",
+                "print_tag": "PRIO-EN096",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast / Effect"
+    }
+]

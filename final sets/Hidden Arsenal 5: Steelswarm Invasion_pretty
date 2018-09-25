@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Aquamirror Meditation",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN058",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Blessings for Gusto",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN059",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Caam, Serenity of Gusto",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN041",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Contact with Gusto",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN056",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Daigusto Eguls",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN054",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Psychic / Synchro"
+    },
+    {
+        "name": "Daigusto Gulldos",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN053",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Psychic / Synchro"
+    },
+    {
+        "name": "Evigishki Mind Augus",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN051",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Ritual"
+    },
+    {
+        "name": "Evigishki Soul Ogre",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN052",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Ritual"
+    },
+    {
+        "name": "First Step Towards Infestation",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN057",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gem-Armadillo",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN005",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Gem-Enhancement",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN029",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gem-Knight Alexandrite",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN004",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Gem-Knight Aquamarine",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN020",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Aqua / Fusion"
+    },
+    {
+        "name": "Gem-Knight Fusion",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN026",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gem-Knight Garnet",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN001",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Pyro / Normal"
+    },
+    {
+        "name": "Gem-Knight Ruby",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN019",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Pyro / Fusion"
+    },
+    {
+        "name": "Gem-Knight Sapphire",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN002",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Aqua"
+    },
+    {
+        "name": "Gem-Knight Topaz",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN021",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Thunder / Fusion"
+    },
+    {
+        "name": "Gem-Knight Tourmaline",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN003",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Thunder"
+    },
+    {
+        "name": "Gem-Merchant",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN006",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Gishki Abyss",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN031",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fish / Effect"
+    },
+    {
+        "name": "Gishki Aquamirror",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN055",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Ritual",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gishki Ariel",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN035",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Gishki Chain",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN034",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Sea Serpent / Effect"
+    },
+    {
+        "name": "Gishki Marker",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN033",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Gishki Shadow",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN036",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Sea Serpent / Effect"
+    },
+    {
+        "name": "Gishki Vanity",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN032",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Gusto Egul",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN038",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Tuner"
+    },
+    {
+        "name": "Gusto Gulldo",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN037",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Tuner"
+    },
+    {
+        "name": "Gusto Thunbolt",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN039",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Thunder / Effect"
+    },
+    {
+        "name": "Infestation Wave",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN060",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Kayenn, the Master Magma Blacksmith",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN012",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Laval Burner",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN013",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Pyro / Effect"
+    },
+    {
+        "name": "Laval Forest Sprite",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN011",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Pyro / Tuner"
+    },
+    {
+        "name": "Laval Judgment Lord",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN014",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Laval Miller",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN007",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Pyro / Effect"
+    },
+    {
+        "name": "Laval Warrior",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN009",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Laval the Greater",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN023",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Synchro"
+    },
+    {
+        "name": "Lavalval Dragon",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN022",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Molten Whirlwind Wall",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN030",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Prominence, Molten Swordsman",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN010",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Searing Fire Wall",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN027",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Soaring Eagle Above the Searing Land",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN008",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Winged Beast / Tuner"
+    },
+    {
+        "name": "Steelswarm Caller",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN046",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Steelswarm Caucastag",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN050",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Steelswarm Cell",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN043",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Steelswarm Gatekeeper",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN045",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Steelswarm Girastag",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN049",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Steelswarm Mantis",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN047",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Steelswarm Moth",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN048",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Steelswarm Scout",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN044",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Vylon Charger",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN017",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Vylon Cube",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN015",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Vylon Epsilon",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN025",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Synchro"
+    },
+    {
+        "name": "Vylon Material",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN028",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Vylon Sigma",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN024",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Synchro"
+    },
+    {
+        "name": "Vylon Soldier",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN018",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Vylon Vanguard",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN016",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Winda, Priestess of Gusto",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN040",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Windaar, Sage of Gusto",
+                "pack": "Hidden Arsenal 5: Steelswarm Invasion",
+                "print_tag": "HA05-EN042",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Psychic / Effect"
+    }
+]

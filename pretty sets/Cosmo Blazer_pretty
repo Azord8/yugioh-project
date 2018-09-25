@@ -1,0 +1,3776 @@
+[
+    {
+        "name": "Abyss-scale of Cetus",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN061",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 1.1,
+                            "low": 0.49,
+                            "average": 1.1,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.264367816091954,
+                            "shift_180": 0.145833333333333,
+                            "shift_365": 0.170212765957447,
+                            "updated_at": "2018-09-24 12:53:51 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Abyss-scorn",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN075",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 1.1,
+                            "low": 0.39,
+                            "average": 0.92,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0952380952380952,
+                            "shift_21": 0.0454545454545455,
+                            "shift_30": 0.0823529411764706,
+                            "shift_90": 0.15,
+                            "shift_180": 0.15,
+                            "shift_365": 0.15,
+                            "updated_at": "2018-09-24 15:35:13 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "After the Storm",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN066",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.41,
+                            "average": 0.85,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.241071428571429,
+                            "shift_30": -0.247787610619469,
+                            "shift_90": -0.0229885057471264,
+                            "shift_180": -0.0760869565217391,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 12:57:02 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Amarylease",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN004",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.42,
+                            "average": 0.93,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0108695652173913,
+                            "shift_30": 0.0333333333333333,
+                            "shift_90": 0.0689655172413793,
+                            "shift_180": 0.021978021978022,
+                            "shift_365": 0.0941176470588235,
+                            "updated_at": "2018-09-24 14:38:30 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Artorigus, King of the Noble Knights",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN086",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 22.92,
+                            "low": 3.95,
+                            "average": 4.05,
+                            "shift": -0.0097799511002445,
+                            "shift_3": -0.0145985401459854,
+                            "shift_7": -0.0264423076923077,
+                            "shift_21": -0.0857787810383747,
+                            "shift_30": -0.0753424657534247,
+                            "shift_90": 1.04545454545455,
+                            "shift_180": 0.505576208178439,
+                            "shift_365": 1.9136690647482,
+                            "updated_at": "2018-09-24 13:16:20 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Artorigus, King of the Noble Knights",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN086",
+                "rarity": "Ultimate Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 32.24,
+                            "low": 5.99,
+                            "average": 5.54,
+                            "shift": -0.00894454382826476,
+                            "shift_3": 0.0532319391634981,
+                            "shift_7": 0.0259259259259259,
+                            "shift_21": -0.0766666666666667,
+                            "shift_30": -0.0314685314685315,
+                            "shift_90": 0.804560260586319,
+                            "shift_180": 0.489247311827957,
+                            "shift_365": 1.4954954954955,
+                            "updated_at": "2018-09-24 13:16:21 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Bacon Saver",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN003",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.41,
+                            "average": 1.09,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0267857142857143,
+                            "shift_21": -0.0267857142857143,
+                            "shift_30": -0.0267857142857143,
+                            "shift_90": -0.043859649122807,
+                            "shift_180": 0.211111111111111,
+                            "shift_365": 0.297619047619048,
+                            "updated_at": "2018-09-24 14:18:22 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Blackwing - Damascus the Polar Night",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN096",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.67,
+                            "low": 0.33,
+                            "average": 0.93,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0568181818181818,
+                            "shift_21": 0.0108695652173913,
+                            "shift_30": 0.0108695652173913,
+                            "shift_90": 0.0449438202247191,
+                            "shift_180": -0.267716535433071,
+                            "shift_365": -0.191304347826087,
+                            "updated_at": "2018-09-24 14:25:32 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Blackwing - Gladius the Midnight Sun",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN095",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.61,
+                            "average": 1.17,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0263157894736842,
+                            "shift_30": 0.0173913043478261,
+                            "shift_90": 0.0353982300884956,
+                            "shift_180": -0.064,
+                            "shift_365": -0.315789473684211,
+                            "updated_at": "2018-09-24 14:25:45 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Bonfire Colossus",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN084",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 21.87,
+                            "low": 0.99,
+                            "average": 1.22,
+                            "shift": 0.0,
+                            "shift_3": -0.00813008130081301,
+                            "shift_7": -0.0161290322580645,
+                            "shift_21": 0.0,
+                            "shift_30": -0.00813008130081301,
+                            "shift_90": -0.0161290322580645,
+                            "shift_180": 0.0608695652173913,
+                            "shift_365": 0.0892857142857143,
+                            "updated_at": "2018-09-24 14:30:59 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Breakthrough Skill",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN078",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.75,
+                            "low": 2.98,
+                            "average": 3.99,
+                            "shift": -0.00992555831265509,
+                            "shift_3": -0.0244498777506112,
+                            "shift_7": -0.0196560196560197,
+                            "shift_21": 0.0230769230769231,
+                            "shift_30": 0.025706940874036,
+                            "shift_90": 0.1875,
+                            "shift_180": 0.242990654205607,
+                            "shift_365": 0.0697050938337802,
+                            "updated_at": "2018-09-24 12:22:03 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Breakthrough Skill",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN078",
+                "rarity": "Ultimate Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 9.97,
+                            "low": 6.39,
+                            "average": 6.37,
+                            "shift": 0.0127186009538951,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0143312101910828,
+                            "shift_21": -0.00933125972006221,
+                            "shift_30": -0.0348484848484849,
+                            "shift_90": -0.0506706408345753,
+                            "shift_180": -0.0977337110481586,
+                            "shift_365": -0.355263157894737,
+                            "updated_at": "2018-09-24 15:25:05 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Brotherhood of the Fire Fist - Bear",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN024",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 1.03,
+                            "average": 1.56,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.208121827411168,
+                            "shift_21": 0.012987012987013,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0684931506849315,
+                            "shift_180": 0.0263157894736842,
+                            "shift_365": 0.155555555555556,
+                            "updated_at": "2018-09-24 14:32:11 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Brotherhood of the Fire Fist - Bear",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN024",
+                "rarity": "Ultimate Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.13,
+                            "low": 3.99,
+                            "average": 4.13,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.00959232613908873,
+                            "shift_21": -0.00721153846153846,
+                            "shift_30": -0.0923076923076923,
+                            "shift_90": -0.0719101123595506,
+                            "shift_180": 0.0954907161803713,
+                            "shift_365": 0.251515151515152,
+                            "updated_at": "2018-09-24 14:32:28 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Brotherhood of the Fire Fist - Dragon",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN025",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 17.76,
+                            "low": 2.87,
+                            "average": 3.5,
+                            "shift": -0.0112994350282486,
+                            "shift_3": -0.0112994350282486,
+                            "shift_7": -0.0223463687150838,
+                            "shift_21": 0.0174418604651163,
+                            "shift_30": 0.00864553314121038,
+                            "shift_90": 0.0294117647058824,
+                            "shift_180": 0.268115942028986,
+                            "shift_365": 0.174496644295302,
+                            "updated_at": "2018-09-24 14:32:20 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Brotherhood of the Fire Fist - Gorilla",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN023",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 7.38,
+                            "low": 0.33,
+                            "average": 0.89,
+                            "shift": 0.0,
+                            "shift_3": 0.0113636363636364,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": -0.021978021978022,
+                            "shift_90": -0.168224299065421,
+                            "shift_180": -0.021978021978022,
+                            "shift_365": -0.144230769230769,
+                            "updated_at": "2018-09-24 14:32:20 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Brotherhood of the Fire Fist - Hawk",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN021",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.42,
+                            "average": 0.82,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.247706422018349,
+                            "shift_30": 0.0123456790123457,
+                            "shift_90": 0.025,
+                            "shift_180": -0.0465116279069767,
+                            "shift_365": 0.025,
+                            "updated_at": "2018-09-24 14:32:28 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Brotherhood of the Fire Fist - Horse Prince",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN097",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 7.5,
+                            "low": 3.09,
+                            "average": 3.23,
+                            "shift": 0.0031055900621118,
+                            "shift_3": 0.0031055900621118,
+                            "shift_7": -0.0241691842900302,
+                            "shift_21": -0.0415430267062315,
+                            "shift_30": 0.00623052959501558,
+                            "shift_90": 0.0125391849529781,
+                            "shift_180": 0.0487012987012987,
+                            "shift_365": -0.0152439024390244,
+                            "updated_at": "2018-09-24 14:32:28 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast-Warrior / Synchro"
+    },
+    {
+        "name": "Brotherhood of the Fire Fist - Lion Emperor",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN099",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.95,
+                            "low": 1.73,
+                            "average": 1.89,
+                            "shift": -0.0207253886010363,
+                            "shift_3": -0.244,
+                            "shift_7": -0.00526315789473684,
+                            "shift_21": -0.015625,
+                            "shift_30": -0.244,
+                            "shift_90": -0.050251256281407,
+                            "shift_180": -0.0406091370558376,
+                            "shift_365": -0.567505720823799,
+                            "updated_at": "2018-09-24 14:32:37 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast-Warrior / Xyz"
+    },
+    {
+        "name": "Brotherhood of the Fire Fist - Raven",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN022",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.41,
+                            "average": 1.17,
+                            "shift": 0.0,
+                            "shift_3": -0.00847457627118644,
+                            "shift_7": -0.00847457627118644,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0173913043478261,
+                            "shift_90": -0.040983606557377,
+                            "shift_180": 0.271739130434783,
+                            "shift_365": 0.36046511627907,
+                            "updated_at": "2018-09-24 14:32:40 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Brotherhood of the Fire Fist - Snake",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN026",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 7.85,
+                            "low": 0.52,
+                            "average": 1.02,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": -0.00970873786407767,
+                            "shift_90": -0.128205128205128,
+                            "shift_180": -0.00970873786407767,
+                            "shift_365": -0.11304347826087,
+                            "updated_at": "2018-09-24 14:32:48 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Brotherhood of the Fire Fist - Spirit",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN098",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.6,
+                            "average": 1.03,
+                            "shift": 0.0,
+                            "shift_3": 0.0198019801980198,
+                            "shift_7": 0.0198019801980198,
+                            "shift_21": 0.0198019801980198,
+                            "shift_30": 0.0404040404040404,
+                            "shift_90": 0.0404040404040404,
+                            "shift_180": -0.176,
+                            "shift_365": -0.16260162601626,
+                            "updated_at": "2018-09-24 14:32:48 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast-Warrior / Tuner"
+    },
+    {
+        "name": "Brotherhood of the Fire Fist - Swallow",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN027",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.19,
+                            "low": 0.52,
+                            "average": 1.0,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0099009900990099,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0638297872340425,
+                            "shift_180": 0.0309278350515464,
+                            "shift_365": -0.186991869918699,
+                            "updated_at": "2018-09-08 13:55:03 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Brotherhood of the Fire Fist - Tiger King",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN048",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.2,
+                            "low": 0.67,
+                            "average": 1.32,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0075187969924812,
+                            "shift_21": 0.056,
+                            "shift_30": 0.0393700787401575,
+                            "shift_90": 0.0909090909090909,
+                            "shift_180": 0.128205128205128,
+                            "shift_365": -0.108108108108108,
+                            "updated_at": "2018-09-24 14:32:50 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast-Warrior / Xyz"
+    },
+    {
+        "name": "Brotherhood of the Fire Fist - Tiger King",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN048",
+                "rarity": "Ultimate Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 9.99,
+                            "low": 2.95,
+                            "average": 2.95,
+                            "shift": 0.0,
+                            "shift_3": -0.0327868852459016,
+                            "shift_7": -0.171348314606742,
+                            "shift_21": -0.215425531914894,
+                            "shift_30": -0.217506631299735,
+                            "shift_90": -0.264339152119701,
+                            "shift_180": -0.0923076923076923,
+                            "shift_365": -0.0752351097178683,
+                            "updated_at": "2018-09-24 14:33:17 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast-Warrior / Xyz"
+    },
+    {
+        "name": "Brushfire Knight",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN037",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 1.23,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.00819672131147541,
+                            "shift_30": 0.0423728813559322,
+                            "shift_90": 0.0,
+                            "shift_180": 0.255102040816327,
+                            "shift_365": -0.031496062992126,
+                            "updated_at": "2018-09-24 14:33:11 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Crimson Blader",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN093",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 22.23,
+                            "low": 1.5,
+                            "average": 2.94,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.03886925795053,
+                            "shift_21": 0.507692307692308,
+                            "shift_30": 0.615384615384615,
+                            "shift_90": -0.0328947368421053,
+                            "shift_180": 0.523316062176166,
+                            "shift_365": -0.0101010101010101,
+                            "updated_at": "2018-09-24 14:24:07 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Synchro"
+    },
+    {
+        "name": "Crimson Sunbird",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN090",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 1.28,
+                            "shift": 0.0,
+                            "shift_3": -0.00775193798449612,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0078740157480315,
+                            "shift_30": 0.040650406504065,
+                            "shift_90": 0.024,
+                            "shift_180": 0.0,
+                            "shift_365": 0.523809523809524,
+                            "updated_at": "2018-09-24 10:11:17 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Winged Beast / Fusion"
+    },
+    {
+        "name": "Diamond Dire Wolf",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN051",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 21.9,
+                            "low": 4.73,
+                            "average": 5.93,
+                            "shift": 0.0,
+                            "shift_3": -0.010016694490818,
+                            "shift_7": -0.0542264752791069,
+                            "shift_21": -0.0294599018003273,
+                            "shift_30": -0.0262725779967159,
+                            "shift_90": -0.0278688524590164,
+                            "shift_180": -0.188782489740082,
+                            "shift_365": -0.227864583333333,
+                            "updated_at": "2018-09-24 14:50:10 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Xyz"
+    },
+    {
+        "name": "Dice-nied",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN080",
+                "rarity": "Short Print",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 1.1,
+                            "low": 0.35,
+                            "average": 0.9,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0217391304347826,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0344827586206897,
+                            "shift_180": -0.010989010989011,
+                            "shift_365": 0.0227272727272727,
+                            "updated_at": "2018-09-08 07:52:07 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dimension Gate",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN068",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.39,
+                            "average": 1.19,
+                            "shift": 0.0,
+                            "shift_3": -0.00833333333333333,
+                            "shift_7": 0.043859649122807,
+                            "shift_21": 0.0530973451327434,
+                            "shift_30": 0.0625,
+                            "shift_90": 0.383720930232558,
+                            "shift_180": 0.122641509433962,
+                            "shift_365": 0.307692307692308,
+                            "updated_at": "2018-09-24 12:49:56 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dododo Bot",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN001",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.41,
+                            "average": 1.19,
+                            "shift": 0.0,
+                            "shift_3": 0.0347826086956522,
+                            "shift_7": 0.043859649122807,
+                            "shift_21": 0.043859649122807,
+                            "shift_30": 0.00847457627118644,
+                            "shift_90": 0.00847457627118644,
+                            "shift_180": 0.122641509433962,
+                            "shift_365": 0.352272727272727,
+                            "updated_at": "2018-09-24 13:11:17 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Double Shark",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN010",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.42,
+                            "average": 2.06,
+                            "shift": 0.0,
+                            "shift_3": 0.0198019801980198,
+                            "shift_7": 0.0198019801980198,
+                            "shift_21": 0.03,
+                            "shift_30": 0.03,
+                            "shift_90": 0.0198019801980198,
+                            "shift_180": -0.0844444444444444,
+                            "shift_365": 1.31460674157303,
+                            "updated_at": "2018-09-24 15:32:27 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fish / Effect"
+    },
+    {
+        "name": "Fire Formation - Tenken",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN072",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.54,
+                            "average": 1.36,
+                            "shift": 0.0,
+                            "shift_3": -0.0072992700729927,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0542635658914729,
+                            "shift_30": 0.105691056910569,
+                            "shift_90": 0.162393162393162,
+                            "shift_180": 0.511111111111111,
+                            "shift_365": 0.446808510638298,
+                            "updated_at": "2018-09-24 14:40:49 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Fire Formation - Tenki",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN059",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.04,
+                            "low": 0.99,
+                            "average": 1.6,
+                            "shift": 0.0,
+                            "shift_3": -0.0062111801242236,
+                            "shift_7": -0.0062111801242236,
+                            "shift_21": 0.0256410256410256,
+                            "shift_30": 0.00628930817610063,
+                            "shift_90": -0.024390243902439,
+                            "shift_180": -0.101123595505618,
+                            "shift_365": 0.0256410256410256,
+                            "updated_at": "2018-09-24 14:49:18 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Fire Formation - Tensen",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN071",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 8.51,
+                            "low": 0.52,
+                            "average": 1.07,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": -0.430851063829787,
+                            "shift_180": 0.0388349514563107,
+                            "shift_365": 0.126315789473684,
+                            "updated_at": "2018-09-24 14:40:49 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Fire Formation - Tensu",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN058",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.59,
+                            "low": 0.46,
+                            "average": 1.05,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.00943396226415094,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.166666666666667,
+                            "shift_180": -0.0277777777777778,
+                            "shift_365": 0.22093023255814,
+                            "updated_at": "2018-09-24 12:46:45 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Fool of Prophecy",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN035",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.04,
+                            "low": 0.99,
+                            "average": 1.13,
+                            "shift": 0.0,
+                            "shift_3": -0.27741935483871,
+                            "shift_7": -0.282051282051282,
+                            "shift_21": 0.0,
+                            "shift_30": 0.00900900900900901,
+                            "shift_90": 0.0,
+                            "shift_180": -0.227586206896552,
+                            "shift_365": -0.216783216783217,
+                            "updated_at": "2018-09-24 10:28:33 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Gagaga Clerk",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN008",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 23.65,
+                            "low": 2.55,
+                            "average": 2.69,
+                            "shift": 0.0,
+                            "shift_3": 0.0112781954887218,
+                            "shift_7": 0.0674603174603175,
+                            "shift_21": 0.0,
+                            "shift_30": 0.174672489082969,
+                            "shift_90": 0.280952380952381,
+                            "shift_180": 0.164502164502165,
+                            "shift_365": 0.0346153846153846,
+                            "updated_at": "2018-09-24 14:00:12 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Gagagadraw",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN055",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.68,
+                            "average": 1.06,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.00952380952380952,
+                            "shift_21": 0.00952380952380952,
+                            "shift_30": 0.00952380952380952,
+                            "shift_90": -0.045045045045045,
+                            "shift_180": -0.101694915254237,
+                            "shift_365": -0.116666666666667,
+                            "updated_at": "2018-09-24 12:31:35 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Garbage Lord",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN019",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.49,
+                            "average": 1.27,
+                            "shift": 0.040983606557377,
+                            "shift_3": 0.032520325203252,
+                            "shift_7": 0.032520325203252,
+                            "shift_21": 0.0241935483870968,
+                            "shift_30": 0.0672268907563025,
+                            "shift_90": 0.443181818181818,
+                            "shift_180": 0.336842105263158,
+                            "shift_365": 0.00793650793650794,
+                            "updated_at": "2018-09-24 14:02:06 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Garbage Ogre",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN018",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.42,
+                            "average": 1.19,
+                            "shift": 0.0,
+                            "shift_3": -0.032520325203252,
+                            "shift_7": -0.032520325203252,
+                            "shift_21": -0.0245901639344262,
+                            "shift_30": 0.0170940170940171,
+                            "shift_90": 0.383720930232558,
+                            "shift_180": 0.322222222222222,
+                            "shift_365": 0.469135802469136,
+                            "updated_at": "2018-09-24 14:02:07 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Goblin Circus",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN067",
+                "rarity": "Short Print",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.04,
+                            "low": 0.41,
+                            "average": 1.68,
+                            "shift": 0.0,
+                            "shift_3": -0.0117647058823529,
+                            "shift_7": 0.0,
+                            "shift_21": 0.00598802395209581,
+                            "shift_30": 0.05,
+                            "shift_90": 0.931034482758621,
+                            "shift_180": 0.826086956521739,
+                            "shift_365": 1.04878048780488,
+                            "updated_at": "2018-09-24 12:17:11 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gogogo Ghost",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN002",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.42,
+                            "average": 1.22,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0252100840336134,
+                            "shift_30": 0.0338983050847458,
+                            "shift_90": 0.0166666666666667,
+                            "shift_180": 0.340659340659341,
+                            "shift_365": 0.402298850574713,
+                            "updated_at": "2018-09-24 14:04:56 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Hazy Flame Basiltrice",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN049",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.85,
+                            "shift": 0.0,
+                            "shift_3": 0.0240963855421687,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0365853658536585,
+                            "shift_30": -0.0116279069767442,
+                            "shift_90": -0.0229885057471264,
+                            "shift_180": -0.0760869565217391,
+                            "shift_365": 0.0759493670886076,
+                            "updated_at": "2018-09-24 12:01:48 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Pyro / Xyz"
+    },
+    {
+        "name": "Hazy Flame Cerbereus",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN028",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.42,
+                            "average": 1.23,
+                            "shift": 0.0,
+                            "shift_3": -0.00806451612903226,
+                            "shift_7": 0.0,
+                            "shift_21": 0.00819672131147541,
+                            "shift_30": 0.0423728813559322,
+                            "shift_90": 0.0789473684210526,
+                            "shift_180": 0.33695652173913,
+                            "shift_365": 0.351648351648352,
+                            "updated_at": "2018-09-24 12:01:54 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Hazy Flame Griffin",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN029",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.41,
+                            "average": 1.13,
+                            "shift": 0.0,
+                            "shift_3": 0.317647058823529,
+                            "shift_7": 0.317647058823529,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.333333333333333,
+                            "shift_180": 0.230769230769231,
+                            "shift_365": 0.28735632183908,
+                            "updated_at": "2018-09-24 12:01:55 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Hazy Flame Mantikor",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN082",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 3.92,
+                            "low": 0.69,
+                            "average": 1.42,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0142857142857143,
+                            "shift_30": 0.0676691729323308,
+                            "shift_90": -0.0273972602739726,
+                            "shift_180": 0.00709219858156028,
+                            "shift_365": 0.0518518518518519,
+                            "updated_at": "2018-09-24 12:02:02 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Hazy Flame Peryton",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN031",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.4,
+                            "low": 0.34,
+                            "average": 1.36,
+                            "shift": 0.0,
+                            "shift_3": 0.0225563909774436,
+                            "shift_7": 0.0225563909774436,
+                            "shift_21": 0.0303030303030303,
+                            "shift_30": 0.0381679389312977,
+                            "shift_90": -0.0072992700729927,
+                            "shift_180": -0.0215827338129496,
+                            "shift_365": 0.0225563909774436,
+                            "updated_at": "2018-09-24 11:43:57 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Pyro / Effect"
+    },
+    {
+        "name": "Hazy Flame Sphynx",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN030",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.42,
+                            "average": 1.2,
+                            "shift": 0.0,
+                            "shift_3": -0.00826446280991736,
+                            "shift_7": 0.0,
+                            "shift_21": -0.00826446280991736,
+                            "shift_30": 0.0256410256410256,
+                            "shift_90": 0.304347826086957,
+                            "shift_180": 0.290322580645161,
+                            "shift_365": 0.348314606741573,
+                            "updated_at": "2018-09-24 12:02:18 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Hazy Glory",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN074",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.4,
+                            "average": 0.83,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0119047619047619,
+                            "shift_21": -0.0119047619047619,
+                            "shift_30": 0.0,
+                            "shift_90": -0.0459770114942529,
+                            "shift_180": -0.0879120879120879,
+                            "shift_365": -0.0568181818181818,
+                            "updated_at": "2018-09-24 13:57:54 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Hazy Pillar",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN060",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.42,
+                            "average": 0.84,
+                            "shift": 0.0,
+                            "shift_3": -0.0117647058823529,
+                            "shift_7": -0.0117647058823529,
+                            "shift_21": 0.0,
+                            "shift_30": -0.256637168141593,
+                            "shift_90": -0.282051282051282,
+                            "shift_180": -0.0561797752808989,
+                            "shift_365": -0.184466019417476,
+                            "updated_at": "2018-09-24 12:30:12 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Heraldic Beast Basilisk",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN013",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.42,
+                            "average": 1.2,
+                            "shift": 0.0,
+                            "shift_3": -0.00826446280991736,
+                            "shift_7": 0.0,
+                            "shift_21": 0.00840336134453781,
+                            "shift_30": 0.00840336134453781,
+                            "shift_90": -0.0769230769230769,
+                            "shift_180": 0.132075471698113,
+                            "shift_365": 0.395348837209302,
+                            "updated_at": "2018-09-24 12:03:17 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Heraldic Beast Eale",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN014",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.42,
+                            "average": 0.86,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.036144578313253,
+                            "shift_90": 0.0117647058823529,
+                            "shift_180": -0.0227272727272727,
+                            "shift_365": 0.0238095238095238,
+                            "updated_at": "2018-09-24 12:03:26 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Heraldic Beast Leo",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN017",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.67,
+                            "low": 0.33,
+                            "average": 0.89,
+                            "shift": 0.0,
+                            "shift_3": -0.0111111111111111,
+                            "shift_7": -0.0111111111111111,
+                            "shift_21": -0.043010752688172,
+                            "shift_30": -0.0111111111111111,
+                            "shift_90": -0.021978021978022,
+                            "shift_180": -0.0824742268041237,
+                            "shift_365": -0.325757575757576,
+                            "updated_at": "2018-09-24 12:03:30 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Heraldic Beast Twin-Headed Eagle",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN015",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 1.1,
+                            "low": 0.39,
+                            "average": 0.88,
+                            "shift": 0.0,
+                            "shift_3": 0.0114942528735632,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0537634408602151,
+                            "shift_30": 0.0,
+                            "shift_90": -0.0434782608695652,
+                            "shift_180": -0.0638297872340425,
+                            "shift_365": -0.0112359550561798,
+                            "updated_at": "2018-09-24 12:03:34 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Heraldic Beast Unicorn",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN016",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.42,
+                            "average": 1.2,
+                            "shift": 0.0,
+                            "shift_3": 0.0256410256410256,
+                            "shift_7": 0.0434782608695652,
+                            "shift_21": 0.0434782608695652,
+                            "shift_30": 0.00840336134453781,
+                            "shift_90": 0.0526315789473684,
+                            "shift_180": 0.276595744680851,
+                            "shift_365": 0.333333333333333,
+                            "updated_at": "2018-09-24 12:03:36 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Heraldry Change",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN070",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 7.84,
+                            "low": 0.41,
+                            "average": 1.17,
+                            "shift": 0.0,
+                            "shift_3": -0.00847457627118644,
+                            "shift_7": 0.0353982300884956,
+                            "shift_21": 0.0446428571428571,
+                            "shift_30": 0.409638554216867,
+                            "shift_90": 0.409638554216867,
+                            "shift_180": 0.344827586206897,
+                            "shift_365": 0.392857142857143,
+                            "updated_at": "2018-09-24 13:57:57 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Heraldry Reborn",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN057",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.67,
+                            "low": 0.69,
+                            "average": 1.21,
+                            "shift": 0.0,
+                            "shift_3": -0.00819672131147541,
+                            "shift_7": 0.0,
+                            "shift_21": -0.00819672131147541,
+                            "shift_30": -0.00819672131147541,
+                            "shift_90": 0.287234042553192,
+                            "shift_180": 0.222222222222222,
+                            "shift_365": 0.423529411764706,
+                            "updated_at": "2018-09-24 12:30:46 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Hyper-Ancient Shark Megalodon",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN012",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 1.1,
+                            "low": 0.49,
+                            "average": 0.93,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0568181818181818,
+                            "shift_90": 0.0568181818181818,
+                            "shift_180": 0.0568181818181818,
+                            "shift_365": -0.0106382978723404,
+                            "updated_at": "2018-09-24 12:06:37 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fish / Effect"
+    },
+    {
+        "name": "Ignition Beast Volcannon",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN091",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.33,
+                            "average": 1.2,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.00826446280991736,
+                            "shift_21": 0.0169491525423729,
+                            "shift_30": 0.0256410256410256,
+                            "shift_90": 0.411764705882353,
+                            "shift_180": 0.348314606741573,
+                            "shift_365": 0.481481481481481,
+                            "updated_at": "2018-09-24 10:20:02 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "Inari Fire",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN038",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.45,
+                            "average": 1.16,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": -0.0254237288135593,
+                            "shift_90": -0.0495867768595041,
+                            "shift_180": 0.292134831460674,
+                            "shift_365": -0.08,
+                            "updated_at": "2018-09-24 10:20:15 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Pyro / Effect"
+    },
+    {
+        "name": "Infernal Flame Vixen",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN087",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.67,
+                            "low": 0.69,
+                            "average": 0.95,
+                            "shift": 0.0,
+                            "shift_3": 0.0674157303370786,
+                            "shift_7": 0.0,
+                            "shift_21": -0.201680672268908,
+                            "shift_30": -0.208333333333333,
+                            "shift_90": 0.043956043956044,
+                            "shift_180": 0.043956043956044,
+                            "shift_365": -0.201680672268908,
+                            "updated_at": "2018-09-24 10:20:33 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Pyro / Xyz"
+    },
+    {
+        "name": "Infernity Archer",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN094",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 3.92,
+                            "low": 0.33,
+                            "average": 1.24,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.00813008130081301,
+                            "shift_21": 0.00813008130081301,
+                            "shift_30": 0.0333333333333333,
+                            "shift_90": 0.00813008130081301,
+                            "shift_180": -0.008,
+                            "shift_365": -0.0676691729323308,
+                            "updated_at": "2018-09-24 10:20:37 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Jurrac Impact",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN079",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.05,
+                            "low": 0.42,
+                            "average": 1.17,
+                            "shift": 0.0,
+                            "shift_3": -0.00847457627118644,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0487804878048781,
+                            "shift_30": 0.0446428571428571,
+                            "shift_90": 0.0173913043478261,
+                            "shift_180": 0.3,
+                            "shift_365": -0.025,
+                            "updated_at": "2018-09-24 15:41:40 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Kickfire",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN089",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.01,
+                            "low": 1.99,
+                            "average": 2.3,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.00881057268722467,
+                            "shift_21": 0.133663366336634,
+                            "shift_30": 0.156565656565657,
+                            "shift_90": 0.100961538461538,
+                            "shift_180": 0.100961538461538,
+                            "shift_365": 0.0853080568720379,
+                            "updated_at": "2018-09-24 13:55:46 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Leotaur",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN042",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.42,
+                            "average": 1.16,
+                            "shift": 0.0,
+                            "shift_3": -0.0170940170940171,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0087719298245614,
+                            "shift_30": 0.0087719298245614,
+                            "shift_90": 0.306818181818182,
+                            "shift_180": 0.277777777777778,
+                            "shift_365": 0.419753086419753,
+                            "updated_at": "2018-09-24 11:51:08 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Lightning Chidori",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN052",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 21.0,
+                            "low": 2.5,
+                            "average": 3.24,
+                            "shift": 0.0,
+                            "shift_3": 0.0553745928338762,
+                            "shift_7": 0.0657894736842105,
+                            "shift_21": 0.0693069306930693,
+                            "shift_30": 0.051948051948052,
+                            "shift_90": 0.0253164556962025,
+                            "shift_180": -0.029940119760479,
+                            "shift_365": 0.195571955719557,
+                            "updated_at": "2018-09-24 14:49:34 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Thunder / Xyz"
+    },
+    {
+        "name": "Lightning Chidori",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN052",
+                "rarity": "Ultimate Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 21.08,
+                            "low": 4.99,
+                            "average": 6.61,
+                            "shift": 0.0,
+                            "shift_3": -0.00301659125188537,
+                            "shift_7": -0.00601503759398496,
+                            "shift_21": 0.31936127744511,
+                            "shift_30": 0.365702479338843,
+                            "shift_90": 0.176156583629893,
+                            "shift_180": 1.04012345679012,
+                            "shift_365": 0.551643192488263,
+                            "updated_at": "2018-09-24 14:49:35 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Thunder / Xyz"
+    },
+    {
+        "name": "March of the Monarchs",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN064",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.66,
+                            "average": 1.05,
+                            "shift": 0.0,
+                            "shift_3": -0.00943396226415094,
+                            "shift_7": -0.0454545454545455,
+                            "shift_21": -0.0707964601769911,
+                            "shift_30": -0.0789473684210526,
+                            "shift_90": -0.198473282442748,
+                            "shift_180": -0.0869565217391304,
+                            "shift_365": 0.179775280898876,
+                            "updated_at": "2018-09-24 12:35:04 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mermail Abyssdine",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN032",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.04,
+                            "low": 3.51,
+                            "average": 7.46,
+                            "shift": 0.907928388746803,
+                            "shift_3": 0.947780678851175,
+                            "shift_7": -0.112960760998811,
+                            "shift_21": -0.0880195599022005,
+                            "shift_30": 0.0492264416315049,
+                            "shift_90": 4.18055555555556,
+                            "shift_180": 5.32203389830508,
+                            "shift_365": 4.968,
+                            "updated_at": "2018-09-24 14:20:46 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Mermail Abyssleed",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN034",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 40.91,
+                            "low": 3.75,
+                            "average": 4.96,
+                            "shift": 0.0163934426229508,
+                            "shift_3": 0.0163934426229508,
+                            "shift_7": 0.0376569037656904,
+                            "shift_21": -0.138888888888889,
+                            "shift_30": -0.15358361774744,
+                            "shift_90": -0.305322128851541,
+                            "shift_180": -0.240428790199081,
+                            "shift_365": -0.114285714285714,
+                            "updated_at": "2018-09-24 13:48:18 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Sea Serpent / Effect"
+    },
+    {
+        "name": "Mermail Abyssnose",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN033",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.42,
+                            "average": 1.16,
+                            "shift": 0.0,
+                            "shift_3": 0.292134831460674,
+                            "shift_7": 0.292134831460674,
+                            "shift_21": 0.0176991150442478,
+                            "shift_30": 0.0267857142857143,
+                            "shift_90": 0.32183908045977,
+                            "shift_180": 0.25,
+                            "shift_365": 0.352941176470588,
+                            "updated_at": "2018-09-24 09:41:23 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fish / Effect"
+    },
+    {
+        "name": "Mermail Abyssteus",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN083",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 25.55,
+                            "low": 1.67,
+                            "average": 1.86,
+                            "shift": 0.0,
+                            "shift_3": -0.03125,
+                            "shift_7": -0.0106382978723404,
+                            "shift_21": 0.0,
+                            "shift_30": -0.333333333333333,
+                            "shift_90": -0.130841121495327,
+                            "shift_180": -0.0970873786407767,
+                            "shift_365": -0.677083333333333,
+                            "updated_at": "2018-09-24 13:01:00 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Mermail Abyssteus",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN083",
+                "rarity": "Ultimate Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 45.78,
+                            "low": 11.46,
+                            "average": 8.41,
+                            "shift": 0.0,
+                            "shift_3": -0.0140679953106682,
+                            "shift_7": -0.0140679953106682,
+                            "shift_21": -0.0788608981380066,
+                            "shift_30": -0.0848748639825898,
+                            "shift_90": -0.189788053949904,
+                            "shift_180": -0.273747841105354,
+                            "shift_365": -0.484049079754601,
+                            "updated_at": "2018-09-24 13:01:01 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Mermail Abysstrite",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN050",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.74,
+                            "low": 2.0,
+                            "average": 3.07,
+                            "shift": 0.0,
+                            "shift_3": -0.11271676300578,
+                            "shift_7": -0.104956268221574,
+                            "shift_21": 0.0406779661016949,
+                            "shift_30": 0.0513698630136986,
+                            "shift_90": 0.558375634517767,
+                            "shift_180": 0.980645161290323,
+                            "shift_365": 0.91875,
+                            "updated_at": "2018-09-24 10:02:23 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Sea Serpent / Xyz"
+    },
+    {
+        "name": "Mystical Fairy Elfuria",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN085",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 30.21,
+                            "low": 0.7,
+                            "average": 2.78,
+                            "shift": 1.33613445378151,
+                            "shift_3": -0.0141843971631206,
+                            "shift_7": -0.0511945392491468,
+                            "shift_21": -0.0576271186440678,
+                            "shift_30": 0.0145985401459854,
+                            "shift_90": 0.033457249070632,
+                            "shift_180": 0.125506072874494,
+                            "shift_365": 0.103174603174603,
+                            "updated_at": "2018-09-24 10:46:44 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Noble Arms - Caliburn",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN000",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.53,
+                            "average": 0.92,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.148148148148148,
+                            "shift_30": -0.163636363636364,
+                            "shift_90": 0.0574712643678161,
+                            "shift_180": 0.0,
+                            "shift_365": 0.121951219512195,
+                            "updated_at": "2018-09-24 13:16:35 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Noble Knight Joan",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN092",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.74,
+                            "low": 0.82,
+                            "average": 1.36,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0072992700729927,
+                            "shift_21": -0.0285714285714286,
+                            "shift_30": -0.0144927536231884,
+                            "shift_90": 0.0303030303030303,
+                            "shift_180": 0.0225563909774436,
+                            "shift_365": 0.0708661417322835,
+                            "updated_at": "2018-09-24 11:24:06 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Noble Knight Medraut",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN081",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 27.0,
+                            "low": 12.0,
+                            "average": 16.82,
+                            "shift": 0.0,
+                            "shift_3": 0.05125,
+                            "shift_7": 0.105851413543721,
+                            "shift_21": 0.0964797913950456,
+                            "shift_30": 0.128859060402685,
+                            "shift_90": 0.259925093632959,
+                            "shift_180": 0.0150875075437538,
+                            "shift_365": 0.332805071315372,
+                            "updated_at": "2018-09-24 11:24:09 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Number 53: Heart-eartH",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN046",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 36.77,
+                            "low": 2.39,
+                            "average": 3.85,
+                            "shift": 0.0,
+                            "shift_3": 0.173780487804878,
+                            "shift_7": -0.0277777777777778,
+                            "shift_21": 0.0377358490566038,
+                            "shift_30": -0.108796296296296,
+                            "shift_90": -0.0102827763496144,
+                            "shift_180": 0.452830188679245,
+                            "shift_365": 0.206896551724138,
+                            "updated_at": "2018-09-24 09:00:56 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Xyz"
+    },
+    {
+        "name": "Number 53: Heart-eartH",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN046",
+                "rarity": "Ultimate Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 23.65,
+                            "low": 3.99,
+                            "average": 3.58,
+                            "shift": 0.0,
+                            "shift_3": 0.101538461538462,
+                            "shift_7": -0.0191780821917808,
+                            "shift_21": -0.0554089709762533,
+                            "shift_30": 0.754901960784314,
+                            "shift_90": 0.826530612244898,
+                            "shift_180": 0.455284552845528,
+                            "shift_365": 0.143769968051118,
+                            "updated_at": "2018-09-24 09:00:57 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Xyz"
+    },
+    {
+        "name": "Number 92: Heart-eartH Dragon",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN045",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 30.87,
+                            "low": 3.49,
+                            "average": 3.79,
+                            "shift": 0.0,
+                            "shift_3": 0.114705882352941,
+                            "shift_7": 0.0828571428571429,
+                            "shift_21": 0.12797619047619,
+                            "shift_30": -0.0231958762886598,
+                            "shift_90": -0.126728110599078,
+                            "shift_180": -0.298148148148148,
+                            "shift_365": -0.00785340314136126,
+                            "updated_at": "2018-09-24 11:27:58 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Number 92: Heart-eartH Dragon",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN045",
+                "rarity": "Ultimate Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 25.65,
+                            "low": 3.59,
+                            "average": 4.29,
+                            "shift": 0.0214285714285714,
+                            "shift_3": 0.0238663484486874,
+                            "shift_7": -0.00232558139534884,
+                            "shift_21": -0.0487804878048781,
+                            "shift_30": 0.137931034482759,
+                            "shift_90": 0.1,
+                            "shift_180": 0.172131147540984,
+                            "shift_365": 0.215297450424929,
+                            "updated_at": "2018-09-24 11:28:29 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Number 92: Heart-eartH Dragon",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN045",
+                "rarity": "Ghost Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 9.99,
+                            "low": 3.09,
+                            "average": 3.36,
+                            "shift": 0.0,
+                            "shift_3": -0.0117647058823529,
+                            "shift_7": -0.04,
+                            "shift_21": -0.031700288184438,
+                            "shift_30": -0.0508474576271186,
+                            "shift_90": -0.38348623853211,
+                            "shift_180": -0.0819672131147541,
+                            "shift_365": -0.151515151515152,
+                            "updated_at": "2018-09-24 11:28:45 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Orbital 7 (card)",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN020",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 1.14,
+                            "low": 0.49,
+                            "average": 1.13,
+                            "shift": 0.0,
+                            "shift_3": -0.00884955752212389,
+                            "shift_7": -0.00884955752212389,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.258426966292135,
+                            "shift_180": 0.230769230769231,
+                            "shift_365": 0.28735632183908,
+                            "updated_at": "2018-09-24 11:10:18 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Pyrorex the Elemental Lord",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN040",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 28.43,
+                            "low": 3.09,
+                            "average": 4.35,
+                            "shift": 0.0,
+                            "shift_3": -0.0136363636363636,
+                            "shift_7": -0.290849673202614,
+                            "shift_21": -0.292006525285481,
+                            "shift_30": -0.0765957446808511,
+                            "shift_90": -0.493582263710618,
+                            "shift_180": -0.662519440124417,
+                            "shift_365": 0.637735849056604,
+                            "updated_at": "2018-09-24 11:37:10 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Pyrotech Mech - Shiryu",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN041",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.4,
+                            "average": 1.12,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.00900900900900901,
+                            "shift_90": 0.365853658536585,
+                            "shift_180": 0.28735632183908,
+                            "shift_365": 0.365853658536585,
+                            "updated_at": "2018-09-24 11:37:08 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Pyro / Effect"
+    },
+    {
+        "name": "Quick Booster",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN065",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 7.72,
+                            "low": 1.18,
+                            "average": 1.63,
+                            "shift": -0.00609756097560976,
+                            "shift_3": 0.00617283950617284,
+                            "shift_7": 0.0316455696202532,
+                            "shift_21": 0.00617283950617284,
+                            "shift_30": 0.0124223602484472,
+                            "shift_90": -0.168367346938776,
+                            "shift_180": -0.275555555555556,
+                            "shift_365": -0.323651452282158,
+                            "updated_at": "2018-09-24 13:21:38 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Quick Booster",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN065",
+                "rarity": "Ultimate Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 15.78,
+                            "low": 1.63,
+                            "average": 1.86,
+                            "shift": -0.0106382978723404,
+                            "shift_3": 0.00540540540540541,
+                            "shift_7": -0.0053475935828877,
+                            "shift_21": -0.0158730158730159,
+                            "shift_30": -0.03125,
+                            "shift_90": -0.07,
+                            "shift_180": -0.180616740088106,
+                            "shift_365": -0.457725947521866,
+                            "updated_at": "2018-09-24 13:22:04 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Reaper of Prophecy",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN036",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 1.75,
+                            "average": 2.62,
+                            "shift": 0.031496062992126,
+                            "shift_3": -0.149350649350649,
+                            "shift_7": -0.138157894736842,
+                            "shift_21": 0.212962962962963,
+                            "shift_30": 0.0916666666666667,
+                            "shift_90": -0.096551724137931,
+                            "shift_180": 1.046875,
+                            "shift_365": 0.0916666666666667,
+                            "updated_at": "2018-09-24 14:56:46 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Red Duston",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN044",
+                "rarity": "Short Print",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.54,
+                            "low": 0.64,
+                            "average": 0.99,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0531914893617021,
+                            "shift_21": 0.03125,
+                            "shift_30": 0.03125,
+                            "shift_90": 0.0206185567010309,
+                            "shift_180": 0.0531914893617021,
+                            "shift_365": 0.0421052631578947,
+                            "updated_at": "2018-09-24 11:14:00 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Slacker Magician",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN053",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.74,
+                            "low": 1.9,
+                            "average": 2.21,
+                            "shift": 0.0,
+                            "shift_3": -0.0045045045045045,
+                            "shift_7": -0.026431718061674,
+                            "shift_21": 0.0574162679425837,
+                            "shift_30": 0.0574162679425837,
+                            "shift_90": -0.227272727272727,
+                            "shift_180": 0.207650273224044,
+                            "shift_365": -0.0349344978165939,
+                            "updated_at": "2018-09-24 15:03:36 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Xyz"
+    },
+    {
+        "name": "Spear Shark",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN009",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.42,
+                            "average": 1.17,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0173913043478261,
+                            "shift_90": 0.0446428571428571,
+                            "shift_180": 0.271739130434783,
+                            "shift_365": 0.329545454545455,
+                            "updated_at": "2018-09-24 15:06:13 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fish / Effect"
+    },
+    {
+        "name": "Spell Wall",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN088",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.42,
+                            "average": 0.88,
+                            "shift": 0.0,
+                            "shift_3": 0.0114942528735632,
+                            "shift_7": 0.0476190476190476,
+                            "shift_21": 0.0602409638554217,
+                            "shift_30": 0.0232558139534884,
+                            "shift_90": 0.0864197530864197,
+                            "shift_180": -0.0638297872340425,
+                            "shift_365": -0.145631067961165,
+                            "updated_at": "2018-09-24 12:25:07 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Spellbook of the Master",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN062",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 22.26,
+                            "low": 2.98,
+                            "average": 3.9,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0101522842639594,
+                            "shift_21": 0.0512129380053908,
+                            "shift_30": 0.0103626943005181,
+                            "shift_90": 0.029023746701847,
+                            "shift_180": -0.131403118040089,
+                            "shift_365": -0.307282415630551,
+                            "updated_at": "2018-09-24 10:56:00 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Spikeshield with Chain",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN076",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.42,
+                            "average": 1.18,
+                            "shift": 0.0,
+                            "shift_3": 0.35632183908046,
+                            "shift_7": 0.0442477876106195,
+                            "shift_21": 0.0,
+                            "shift_30": 0.00854700854700855,
+                            "shift_90": 0.311111111111111,
+                            "shift_180": 0.134615384615385,
+                            "shift_365": 0.325842696629214,
+                            "updated_at": "2018-09-24 13:27:21 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Star Drawing",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN043",
+                "rarity": "Short Print",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.99,
+                            "average": 1.18,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.00840336134453781,
+                            "shift_21": 0.0350877192982456,
+                            "shift_30": 0.0260869565217391,
+                            "shift_90": 0.0727272727272727,
+                            "shift_180": -0.163120567375887,
+                            "shift_365": -0.186206896551724,
+                            "updated_at": "2018-09-24 15:08:24 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "The Big Cattle Drive",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN063",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.86,
+                            "low": 0.42,
+                            "average": 1.22,
+                            "shift": 0.0,
+                            "shift_3": -0.00813008130081301,
+                            "shift_7": 0.00826446280991736,
+                            "shift_21": 0.00826446280991736,
+                            "shift_30": 0.0166666666666667,
+                            "shift_90": 0.386363636363636,
+                            "shift_180": 0.297872340425532,
+                            "shift_365": 0.418604651162791,
+                            "updated_at": "2018-09-24 13:00:26 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ultimate Fire Formation - Seito",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN073",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.67,
+                            "low": 0.69,
+                            "average": 1.25,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": -0.00793650793650794,
+                            "shift_180": -0.0601503759398496,
+                            "shift_365": -0.0384615384615385,
+                            "updated_at": "2018-09-24 15:37:39 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Valkyrian Knight",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN039",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.01,
+                            "low": 2.62,
+                            "average": 3.13,
+                            "shift": 0.0,
+                            "shift_3": -0.0188087774294671,
+                            "shift_7": -0.0656716417910448,
+                            "shift_21": -0.0927536231884058,
+                            "shift_30": -0.00634920634920635,
+                            "shift_90": -0.021875,
+                            "shift_180": 0.469483568075117,
+                            "shift_365": 0.298755186721992,
+                            "updated_at": "2018-09-24 11:56:24 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Xyz Dimension Splash",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN069",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.5,
+                            "low": 0.42,
+                            "average": 1.18,
+                            "shift": 0.0,
+                            "shift_3": -0.0327868852459016,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.296703296703297,
+                            "shift_90": 0.311111111111111,
+                            "shift_180": 0.145631067961165,
+                            "shift_365": 0.388235294117647,
+                            "updated_at": "2018-09-24 15:40:07 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Xyz Double Back",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN056",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.4,
+                            "average": 0.9,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0112359550561798,
+                            "shift_30": 0.0112359550561798,
+                            "shift_90": 0.0,
+                            "shift_180": -0.032258064516129,
+                            "shift_365": 0.0465116279069767,
+                            "updated_at": "2018-09-24 13:22:27 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Xyz Remora",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN011",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.42,
+                            "average": 1.19,
+                            "shift": 0.0,
+                            "shift_3": -0.00833333333333333,
+                            "shift_7": 0.00847457627118644,
+                            "shift_21": 0.352272727272727,
+                            "shift_30": 0.0347826086956522,
+                            "shift_90": 0.4,
+                            "shift_180": 0.337078651685393,
+                            "shift_365": 0.337078651685393,
+                            "updated_at": "2018-09-24 12:11:31 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fish / Effect"
+    },
+    {
+        "name": "Xyz Tribalrivals",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN077",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.42,
+                            "average": 1.13,
+                            "shift": 0.0,
+                            "shift_3": -0.0666666666666667,
+                            "shift_7": -0.0260869565217391,
+                            "shift_21": -0.0175438596491228,
+                            "shift_30": -0.00884955752212389,
+                            "shift_90": 0.302325581395349,
+                            "shift_180": 0.0467289719626168,
+                            "shift_365": -0.0967741935483871,
+                            "updated_at": "2018-09-24 15:40:25 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "ZW - Leo Arms",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN047",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.41,
+                            "low": 1.85,
+                            "average": 2.93,
+                            "shift": 0.0173611111111111,
+                            "shift_3": 0.0,
+                            "shift_7": -0.00340136054421769,
+                            "shift_21": -0.00677966101694915,
+                            "shift_30": 0.00687285223367698,
+                            "shift_90": -0.165242165242165,
+                            "shift_180": 0.713450292397661,
+                            "shift_365": 0.542105263157895,
+                            "updated_at": "2018-09-24 09:28:27 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast / Xyz"
+    },
+    {
+        "name": "ZW - Leo Arms",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN047",
+                "rarity": "Ultimate Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 8.01,
+                            "low": 2.69,
+                            "average": 2.31,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0375,
+                            "shift_21": 0.0452488687782805,
+                            "shift_30": 0.17258883248731,
+                            "shift_90": 0.290502793296089,
+                            "shift_180": -0.0211864406779661,
+                            "shift_365": 0.196891191709845,
+                            "updated_at": "2018-09-24 09:28:28 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast / Xyz"
+    },
+    {
+        "name": "ZW - Lightning Blade",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN005",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.67,
+                            "low": 0.67,
+                            "average": 0.99,
+                            "shift": 0.0102040816326531,
+                            "shift_3": 0.0645161290322581,
+                            "shift_7": 0.0531914893617021,
+                            "shift_21": 0.0645161290322581,
+                            "shift_30": 0.0645161290322581,
+                            "shift_90": 0.0645161290322581,
+                            "shift_180": -0.01,
+                            "shift_365": 0.0102040816326531,
+                            "updated_at": "2018-09-24 11:56:05 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "ZW - Tornado Bringer",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN006",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.33,
+                            "low": 0.99,
+                            "average": 1.77,
+                            "shift": 0.0,
+                            "shift_3": -0.00561797752808989,
+                            "shift_7": -0.0166666666666667,
+                            "shift_21": -0.0634920634920635,
+                            "shift_30": 0.023121387283237,
+                            "shift_90": 0.120253164556962,
+                            "shift_180": 0.237762237762238,
+                            "shift_365": 0.404761904761905,
+                            "updated_at": "2018-09-24 11:56:10 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "ZW - Ultimate Shield",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN007",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.4,
+                            "average": 1.17,
+                            "shift": 0.0,
+                            "shift_3": -0.00847457627118644,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.344827586206897,
+                            "shift_90": 0.329545454545455,
+                            "shift_180": 0.271739130434783,
+                            "shift_365": 0.36046511627907,
+                            "updated_at": "2018-09-24 11:56:16 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Zerozerock",
+        "numbers": [
+            {
+                "name": "Cosmo Blazer",
+                "print_tag": "CBLZ-EN054",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.42,
+                            "average": 0.91,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0111111111111111,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0,
+                            "shift_180": -0.157407407407407,
+                            "shift_365": 0.0111111111111111,
+                            "updated_at": "2018-09-24 13:22:55 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    }
+]

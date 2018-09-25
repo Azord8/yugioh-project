@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Baby Tiragon",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN051",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Battle Warrior",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN025",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior"
+    },
+    {
+        "name": "Battlecruiser Dianthus",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN043",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Xyz"
+    },
+    {
+        "name": "Blue Mountain Butterspy",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN012",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Box of Friends",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN013",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Butterspy Protection",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN060",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "CXyz Battleship Cherry Blossom",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN044",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Xyz"
+    },
+    {
+        "name": "CXyz Coach Lord Ultimatrainer",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN038",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "CXyz Comics Hero Legend Arthur",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN042",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "CXyz Mechquipped Djinn Angeneral",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN036",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fairy / Xyz"
+    },
+    {
+        "name": "CXyz Simon the Great Moral Leader",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN040",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Xyz"
+    },
+    {
+        "name": "CXyz Skypalace Babylon",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN046",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Chakra",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN052",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Ritual"
+    },
+    {
+        "name": "Chronomaly Aztec Mask Golem",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN001",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Chronomaly Cabrera Trebuchet",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN002",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Chronomaly Mud Golem",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN003",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Chronomaly Sol Monolith",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN004",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Coach King Giantrainer",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN037",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Comics Hero King Arthur",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN041",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Gagaga Gardna",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN021",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Gash the Dust Lord",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN015",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Gimmick Puppet Egg Head",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN005",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Gimmick Puppet Gear Changer",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN006",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Gimmick Puppet Nightmare",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN009",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Gimmick Puppet Scissor Arms",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN008",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Gimmick Puppet Twilight Joker",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN007",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Gogogo Giant",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN020",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Gogogo Golem",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN017",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Heraldry Record",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN059",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Heroic Challenger - Ambush Soldier",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN010",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Heroic Challenger - Clasp Sword",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN011",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Insect Armor with Laser Cannon",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN057",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Kagetokage",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN018",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "Kurivolt",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN019",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Thunder / Effect"
+    },
+    {
+        "name": "Mechquipped Angineer",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN035",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Xyz"
+    },
+    {
+        "name": "Night Papilloperative",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN048",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Norito the Moral Leader",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN039",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Xyz"
+    },
+    {
+        "name": "Number 15: Gimmick Puppet Giant Grinder",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN027",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Number 44: Sky Pegasus",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN028",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast / Xyz"
+    },
+    {
+        "name": "Number 49: Fortune Tune",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN029",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Winged Beast / Xyz"
+    },
+    {
+        "name": "Number 54: Lion Heart",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN026",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Number 57: Tri-Head Dust Dragon",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN030",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Number 63: Shamoji Soldier",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN031",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Xyz"
+    },
+    {
+        "name": "Number 74: Master of Blades",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN032",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Psychic / Xyz"
+    },
+    {
+        "name": "Number 85: Crazy Box",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN033",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Xyz"
+    },
+    {
+        "name": "Number 87: Queen of the Night",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN034",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Plant / Xyz"
+    },
+    {
+        "name": "Number Wall",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN058",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Overlay Capture",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN056",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Photon Alexandra Queen",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN047",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Photon Cerberus",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN022",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Photon Lizard",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN023",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Princess Cologne (card)",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN050",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Xyz"
+    },
+    {
+        "name": "Puppet Ritual",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN054",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Resurrection of Chakra",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN053",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Ritual",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Rocket Arrow Express",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN024",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Skypalace Gangaridai",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN045",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Stoic Challenge",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN055",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Unformed Void",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN049",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Aqua / Xyz"
+    },
+    {
+        "name": "Zombowwow",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN014",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Zubaba Knight",
+                "pack": "Number Hunters",
+                "print_tag": "NUMH-EN016",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    }
+]

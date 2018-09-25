@@ -1,0 +1,1112 @@
+[
+    {
+        "name": "Advance Zone",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN088",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Advanced Dark",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN094",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Alchemic Magician",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN047",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Xyz"
+    },
+    {
+        "name": "Amores of Prophecy",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN016",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Atlantean Attack Squad",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN036",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Sea Serpent / Effect"
+    },
+    {
+        "name": "Block Golem",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN035",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Blue Dragon Ninja",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN083",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Sea Serpent / Effect"
+    },
+    {
+        "name": "Catapult Zone",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN064",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Charioteer of Prophecy",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN019",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Chewbone",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN090",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Zombie / Flip"
+    },
+    {
+        "name": "Chronomaly Colossal Head",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN010",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Chronomaly Crystal Bones",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN012",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Chronomaly Crystal Chrononaut",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN042",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Xyz"
+    },
+    {
+        "name": "Chronomaly Crystal Skull",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN013",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Chronomaly Golden Jet",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN011",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Chronomaly Mayan Machine",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN009",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Chronomaly Moai",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN014",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Chronomaly Pyramid Eye Tablet",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN055",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Chronomaly Technology",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN054",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Cold Feet",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN065",
+                "rarity": "Short Print",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Compulsory Escape Device",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN074",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Damage Mage",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN002",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Dust Knight",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN034",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Eco, Mystical Spirit of the Forest",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN091",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Fairy King Albverdich",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN049",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Xyz"
+    },
+    {
+        "name": "Gagagarevenge",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN051",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gagagarush",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN067",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Galaxy Queen's Light",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN056",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gear Gigant X",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN046",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Geargiaccelerator",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN028",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Geargiano Mk-II",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN027",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Geargiarmor",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN030",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Geargiarsenal",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN029",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Generation Force (card)",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN063",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Goblin Marauding Squad",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN040",
+                "rarity": "Short Print",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Grandsoil the Elemental Lord",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN038",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Heroic Challenger - Double Lance",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN008",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Heroic Challenger - Spartan",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN005",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Heroic Challenger - Swordshield",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN007",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Heroic Challenger - War Hammer",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN006",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Heroic Champion - Excalibur",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN041",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Heroic Champion - Excalibur",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN041",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Heroic Champion - Excalibur",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN041",
+                "rarity": "Ghost Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Heroic Chance",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN053",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Heroic Retribution Sword",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN068",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Hierophant of Prophecy",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN045",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Xyz"
+    },
+    {
+        "name": "Hierophant of Prophecy",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN045",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Xyz"
+    },
+    {
+        "name": "High Priestess of Prophecy",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN020",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Illusory Snatcher",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN037",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Imairuka",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN084",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Sea Serpent / Effect"
+    },
+    {
+        "name": "Impenetrable Attack",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN066",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Lightray Madoor",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN082",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Little Trooper",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN032",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Lucky Punch",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN080",
+                "rarity": "Short Print",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Madolche Baaple",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN022",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Madolche Butlerusk",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN025",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Madolche Chateau",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN061",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Madolche Chouxvalier",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN023",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Madolche Lesson",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN070",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Madolche Magileine",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN024",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Madolche Mewfeuille",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN021",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Madolche Puddingcess",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN026",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Madolche Puddingcess",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN026",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Madolche Tea Break",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN072",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Madolche Waltz",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN071",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mahunder",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN096",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Thunder / Effect"
+    },
+    {
+        "name": "Miracle Contact",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN093",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ninjitsu Art of Shadow Sealing",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN089",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Noble Arms - Gallatin",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN086",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Noble Knight Gawayn",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN000",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Number 33: Chronomaly Machu Mech",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN043",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Number 33: Chronomaly Machu Mech",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN043",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Number 6: Chronomaly Atlandis",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN092",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Number 91: Thunder Spark Dragon",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN098",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Number 91: Thunder Spark Dragon",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN098",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Overlay Regen",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN052",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Pahunder",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN095",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Thunder / Effect"
+    },
+    {
+        "name": "Photon Caesar",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN004",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Prophecy Destroyer",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN081",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Prophecy Destroyer",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN081",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Rebound",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN079",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Revival Golem",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN085",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Silver Sentinel",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN033",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Silver Sentinel",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN033",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Sishunder",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN097",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Thunder / Effect"
+    },
+    {
+        "name": "Soul Drain",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN078",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Soul of Silvermountain",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN048",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Xyz"
+    },
+    {
+        "name": "Spellbook Library of the Crescent",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN087",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Spellbook Magician of Prophecy",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN015",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Spellbook Magician of Prophecy",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN015",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Spellbook of Life",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN059",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Spellbook of Power",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN058",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Spellbook of Secrets",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN057",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Spellbook of Secrets",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN057",
+                "rarity": "Ultimate Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Spellbook of Wisdom",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN060",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Spirit Converter",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN099",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Stonehenge Methods",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN069",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Strength of Prophecy",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN018",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Superdimensional Robot Galaxy Destroyer",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN044",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Superdimensional Robot Galaxy Destroyer",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN044",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Sword Breaker",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN050",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Temperance of Prophecy",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN017",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Three Thousand Needles",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN039",
+                "rarity": "Short Print",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Three of a Kind",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN077",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Trance the Magic Swordsman",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN001",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster"
+    },
+    {
+        "name": "Turnabout",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN075",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Uniflora, Mystical Beast of the Forest",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN031",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Void Trap Hole",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN076",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Where Arf Thou?",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN062",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Xyz Soul",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN073",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "ZW - Phoenix Bow",
+                "pack": "Return of the Duelist",
+                "print_tag": "REDU-EN003",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Winged Beast / Effect"
+    }
+]

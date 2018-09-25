@@ -1,0 +1,512 @@
+[
+    {
+        "name": "Amulet Dragon",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN003",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Fusion"
+    },
+    {
+        "name": "Assault Dog",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN033",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Ayers Rock Sunrise",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN020",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Battle Fusion",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN017",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Berserker Soul",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN007",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Black Sonic",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN030",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Black Wing Revenge",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN031",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Blackwing - Hurricane the Tornado",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN029",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Tuner"
+    },
+    {
+        "name": "Blackwing - Oroshi the Squall",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN027",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Tuner"
+    },
+    {
+        "name": "Blackwing - Steam the Cloak",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN028",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Tuner"
+    },
+    {
+        "name": "Carboneddon",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN022",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Celestial Sword - Eatos",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN011",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Construction Train Signal Red",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN038",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Dark Magician Girl the Dragon Knight",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN004",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Fusion"
+    },
+    {
+        "name": "Doble Passe",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN021",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Express Train Trolley Olley",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN037",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Final Fusion",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN018",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Fire Hand",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN046",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Pyro / Effect"
+    },
+    {
+        "name": "Flash Fusion",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN016",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gate Blocker",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN034",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Guarded Treasure",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN013",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Guardian Dreadscythe",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN010",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Guardian Eatos",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN009",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Ice Hand",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN047",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Kuribandit",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN002",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Legend of Heart",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN006",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Legendary Knight Timaeus",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN001",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Lillybot (card)",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN050",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Lionhearted Locomotive",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN036",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Magic Hand",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN045",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Mathematician",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN023",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Mound of the Bound Creator",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN025",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Number 73: Abyss Splash",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN040",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Number C106: Giant Red Hand",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN049",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Xyz"
+    },
+    {
+        "name": "Number C5: Chaos Chimera Dragon",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN043",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Number C73: Abyss Supra Splash",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN041",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Pair Cycroid",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN019",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "Prominence Hand",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN048",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Pyro / Effect"
+    },
+    {
+        "name": "Ra's Disciple",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN024",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Rank-Up-Magic Admiration of the Thousands",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN044",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Rank-Up-Magic Quick Chaos",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN042",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Reaper Scythe - Dreadscythe",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN012",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Relay Soul",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN008",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Rising Sun Slash",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN051",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Sabatiel - The Philosopher's Stone",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN015",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Shadow Impulse",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN032",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Shooting Star",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN026",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Soul Charge",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN014",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Eye of Timaeus",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN005",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Train Connection",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN039",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Wiretap",
+                "pack": "Dragons of Legend",
+                "print_tag": "DRLG-EN035",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    }
+]

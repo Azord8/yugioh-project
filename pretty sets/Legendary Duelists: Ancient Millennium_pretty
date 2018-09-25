@@ -1,0 +1,1770 @@
+[
+    {
+        "name": "Ancient Gear Frame",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN030",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.64,
+                            "low": 0.82,
+                            "average": 1.4,
+                            "shift": 0.0,
+                            "shift_3": 0.0687022900763359,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0852713178294574,
+                            "shift_30": 0.0447761194029851,
+                            "shift_90": 0.0218978102189781,
+                            "shift_180": -0.0604026845637584,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-11 05:39:05 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Ancient Gear Fusion",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN032",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 39.99,
+                            "low": 29.0,
+                            "average": 33.87,
+                            "shift": 0.0,
+                            "shift_3": 0.0254391278013325,
+                            "shift_7": 0.0,
+                            "shift_21": 0.14006734006734,
+                            "shift_30": 0.155237120436711,
+                            "shift_90": 0.148185825703628,
+                            "shift_180": 0.23306627822287,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-13 11:37:08 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ancient Gear Golem - Ultimate Pound",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN035",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 10.41,
+                            "low": 0.33,
+                            "average": 0.74,
+                            "shift": 0.0,
+                            "shift_3": -0.0133333333333333,
+                            "shift_7": -0.0133333333333333,
+                            "shift_21": 0.0,
+                            "shift_30": -0.0133333333333333,
+                            "shift_90": 0.0277777777777778,
+                            "shift_180": 0.0,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:41:49 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Ancient Gear Megaton Golem",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN031",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 10.83,
+                            "low": 3.5,
+                            "average": 5.49,
+                            "shift": -0.00362976406533575,
+                            "shift_3": 0.0378071833648393,
+                            "shift_7": 0.22271714922049,
+                            "shift_21": 0.109090909090909,
+                            "shift_30": 0.102409638554217,
+                            "shift_90": 0.0338983050847458,
+                            "shift_180": 0.0618955512572534,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:36:06 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "Armed Dragon Catapult Cannon",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN021",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 9.13,
+                            "low": 0.83,
+                            "average": 2.7,
+                            "shift": -0.010989010989011,
+                            "shift_3": -0.003690036900369,
+                            "shift_7": -0.0689655172413793,
+                            "shift_21": 0.888111888111888,
+                            "shift_30": 0.836734693877551,
+                            "shift_90": 0.443850267379679,
+                            "shift_180": -0.1,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:45:30 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "Armed Dragon LV3",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN025",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.77,
+                            "shift": 0.0,
+                            "shift_3": -0.0128205128205128,
+                            "shift_7": -0.0128205128205128,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": -0.0128205128205128,
+                            "shift_180": 0.0131578947368421,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 12:01:55 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Armed Dragon LV5",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN026",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 10.58,
+                            "low": 0.33,
+                            "average": 0.76,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0256410256410256,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0133333333333333,
+                            "shift_180": 0.0857142857142857,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:13:57 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Armed Dragon LV7",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN027",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.83,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0375,
+                            "shift_30": 0.0246913580246914,
+                            "shift_90": 0.0375,
+                            "shift_180": 0.0375,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 17:17:34 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "BM-4 Blast Spider",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN014",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.08,
+                            "low": 0.33,
+                            "average": 0.81,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.051948051948052,
+                            "shift_30": 0.0253164556962025,
+                            "shift_90": 0.0125,
+                            "shift_180": 0.0657894736842105,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 17:15:52 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Barrel Dragon",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN019",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.76,
+                            "shift": 0.0,
+                            "shift_3": 0.027027027027027,
+                            "shift_7": 0.0410958904109589,
+                            "shift_21": 0.0555555555555556,
+                            "shift_30": 0.0555555555555556,
+                            "shift_90": 0.206349206349206,
+                            "shift_180": 0.0133333333333333,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:20:01 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Black Illusion Ritual",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN006",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 10.02,
+                            "low": 0.33,
+                            "average": 0.81,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0253164556962025,
+                            "shift_21": -0.0121951219512195,
+                            "shift_30": -0.0470588235294118,
+                            "shift_90": 0.0657894736842105,
+                            "shift_180": 0.0125,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:26:43 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Ritual",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Blast Sphere",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN018",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.79,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": -0.0246913580246914,
+                            "shift_90": 0.0394736842105263,
+                            "shift_180": 0.0972222222222222,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 17:37:40 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Cocoon of Ultra Evolution",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN009",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 38.23,
+                            "low": 7.5,
+                            "average": 8.15,
+                            "shift": 0.00493218249075216,
+                            "shift_3": -0.0343601895734597,
+                            "shift_7": -0.0251196172248804,
+                            "shift_21": -0.102422907488987,
+                            "shift_30": -0.123655913978495,
+                            "shift_90": -0.0400471142520612,
+                            "shift_180": -0.139387539598733,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:08:57 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Corrosive Scales",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN010",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.01,
+                            "low": 0.33,
+                            "average": 0.77,
+                            "shift": 0.0,
+                            "shift_3": -0.0128205128205128,
+                            "shift_7": -0.0493827160493827,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": -0.134831460674157,
+                            "shift_180": -0.0493827160493827,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-07 18:34:01 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Cross-Dimensional Duel",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN033",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 2.1,
+                            "low": 1.75,
+                            "average": 1.96,
+                            "shift": 0.0,
+                            "shift_3": -0.0050761421319797,
+                            "shift_7": 0.00512820512820513,
+                            "shift_21": 0.0208333333333333,
+                            "shift_30": 0.0315789473684211,
+                            "shift_90": 0.0103092783505155,
+                            "shift_180": 0.0261780104712042,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 13:46:21 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Crystal Beast Ruby Carbuncle",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN041",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 10.02,
+                            "low": 0.33,
+                            "average": 0.8,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0123456790123457,
+                            "shift_21": 0.0126582278481013,
+                            "shift_30": 0.038961038961039,
+                            "shift_90": 0.0666666666666667,
+                            "shift_180": 0.0256410256410256,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 10:12:24 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Crystal Beast Sapphire Pegasus",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN042",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.87,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0235294117647059,
+                            "shift_21": 0.0235294117647059,
+                            "shift_30": -0.0113636363636364,
+                            "shift_90": 0.0740740740740741,
+                            "shift_180": 0.0481927710843374,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:28:29 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Crystal Bond",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN039",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 37.24,
+                            "low": 20.0,
+                            "average": 22.46,
+                            "shift": -0.000445037828215398,
+                            "shift_3": 0.00133749442710655,
+                            "shift_7": 0.0112561909049977,
+                            "shift_21": 0.026508226691042,
+                            "shift_30": 0.0500233754090697,
+                            "shift_90": 0.016289592760181,
+                            "shift_180": -0.121626906531091,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:25:06 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Crystal Release",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN044",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.77,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0131578947368421,
+                            "shift_180": 0.0,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:58:50 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Crystal Tree",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN045",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 10.1,
+                            "low": 0.33,
+                            "average": 0.81,
+                            "shift": 0.0,
+                            "shift_3": -0.0121951219512195,
+                            "shift_7": 0.0125,
+                            "shift_21": 0.0253164556962025,
+                            "shift_30": 0.0253164556962025,
+                            "shift_90": -0.0121951219512195,
+                            "shift_180": 0.051948051948052,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 12:39:31 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Desperado Barrel Dragon",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN015",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 28.42,
+                            "low": 3.2,
+                            "average": 3.08,
+                            "shift": -0.0750750750750751,
+                            "shift_3": -0.216284987277354,
+                            "shift_7": -0.21227621483376,
+                            "shift_21": -0.0314465408805031,
+                            "shift_30": 0.00325732899022801,
+                            "shift_90": -0.0375,
+                            "shift_180": -0.394891944990177,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:04:21 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Heavy Metal Raiders",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN016",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 21.86,
+                            "low": 0.99,
+                            "average": 2.71,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0304182509505703,
+                            "shift_21": -0.0557491289198606,
+                            "shift_30": 0.0265151515151515,
+                            "shift_90": 0.361809045226131,
+                            "shift_180": -0.168711656441718,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:18:46 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Illusionist Faceless Magician",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN002",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 1.05,
+                            "shift": 0.0,
+                            "shift_3": 0.00961538461538462,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0294117647058824,
+                            "shift_90": 0.117021276595745,
+                            "shift_180": 0.0606060606060606,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:39:19 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Insect Queen",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN012",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.76,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.027027027027027,
+                            "shift_30": 0.027027027027027,
+                            "shift_90": 0.0410958904109589,
+                            "shift_180": 0.0410958904109589,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 12:58:06 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Instant Fusion",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN048",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 10.34,
+                            "low": 1.55,
+                            "average": 2.1,
+                            "shift": 0.0,
+                            "shift_3": 0.0194174757281553,
+                            "shift_7": 0.0194174757281553,
+                            "shift_21": 0.111111111111111,
+                            "shift_30": 0.09375,
+                            "shift_90": 0.304347826086957,
+                            "shift_180": 0.428571428571429,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:25:25 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Limiter Removal",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN049",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 9.4,
+                            "low": 0.33,
+                            "average": 0.76,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.027027027027027,
+                            "shift_21": 0.0,
+                            "shift_30": 0.027027027027027,
+                            "shift_90": 0.0704225352112676,
+                            "shift_180": 0.0704225352112676,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 17:02:44 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Metamorphosed Insect Queen",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN008",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 9.4,
+                            "low": 0.99,
+                            "average": 2.25,
+                            "shift": 0.0180995475113122,
+                            "shift_3": 0.0465116279069767,
+                            "shift_7": 0.0613207547169811,
+                            "shift_21": 0.153846153846154,
+                            "shift_30": 0.196808510638298,
+                            "shift_90": 0.216216216216216,
+                            "shift_180": 0.19047619047619,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 10:41:09 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Millennium-Eyes Illusionist",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN001",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 3.8,
+                            "low": 3.26,
+                            "average": 3.71,
+                            "shift": -0.00268817204301075,
+                            "shift_3": 0.0108991825613079,
+                            "shift_7": 0.134556574923547,
+                            "shift_21": 0.0108991825613079,
+                            "shift_30": 0.159375,
+                            "shift_90": -0.00802139037433155,
+                            "shift_180": -0.401612903225806,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:11:10 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Millennium-Eyes Restrict",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN003",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 17.95,
+                            "low": 9.75,
+                            "average": 12.52,
+                            "shift": 0.0,
+                            "shift_3": -0.00476947535771065,
+                            "shift_7": 0.0877497827975673,
+                            "shift_21": 0.0700854700854701,
+                            "shift_30": 0.340471092077088,
+                            "shift_90": 0.220272904483431,
+                            "shift_180": -0.187540558079169,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:47:40 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Fusion"
+    },
+    {
+        "name": "Mimicat",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN051",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 26.24,
+                            "low": 2.94,
+                            "average": 4.12,
+                            "shift": 0.0,
+                            "shift_3": 0.0024330900243309,
+                            "shift_7": -0.0328638497652582,
+                            "shift_21": -0.0593607305936073,
+                            "shift_30": -0.0699774266365688,
+                            "shift_90": 0.134986225895317,
+                            "shift_180": 0.173789173789174,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 12:52:43 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ojama Pajama",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN024",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.09,
+                            "low": 0.33,
+                            "average": 0.92,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0697674418604651,
+                            "shift_30": 0.0337078651685393,
+                            "shift_90": 0.0574712643678161,
+                            "shift_180": 0.0454545454545455,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:37:12 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ojamagic",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN029",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.77,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0131578947368421,
+                            "shift_21": -0.0128205128205128,
+                            "shift_30": -0.0253164556962025,
+                            "shift_90": 0.0,
+                            "shift_180": 0.0,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:15:24 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ojamassimilation",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN022",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 9.59,
+                            "low": 0.33,
+                            "average": 1.29,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0227272727272727,
+                            "shift_21": 0.102564102564103,
+                            "shift_30": 0.102564102564103,
+                            "shift_90": 0.0487804878048781,
+                            "shift_180": 0.141592920353982,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-23 07:01:54 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ojamatch",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN023",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.04,
+                            "low": 0.33,
+                            "average": 0.73,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0394736842105263,
+                            "shift_21": -0.0135135135135135,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0428571428571429,
+                            "shift_180": -0.151162790697674,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 12:02:42 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Panzer Dragon",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN047",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.86,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0227272727272727,
+                            "shift_21": 0.0886075949367089,
+                            "shift_30": 0.0487804878048781,
+                            "shift_90": 0.131578947368421,
+                            "shift_180": 0.246376811594203,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:11:17 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "Parasite Paranoid",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN007",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.08,
+                            "low": 0.33,
+                            "average": 0.79,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0246913580246914,
+                            "shift_21": -0.0246913580246914,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0675675675675676,
+                            "shift_180": 0.025974025974026,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 11:29:18 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Perfectly Ultimate Great Moth",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN013",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.79,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0125,
+                            "shift_21": 0.025974025974026,
+                            "shift_30": 0.0128205128205128,
+                            "shift_90": -0.0125,
+                            "shift_180": 0.025974025974026,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 11:30:18 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Pinch Hopper",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN011",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.7,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0666666666666667,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0769230769230769,
+                            "shift_180": -0.0410958904109589,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:56:46 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Proton Blast",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN017",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.77,
+                            "low": 0.33,
+                            "average": 1.49,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0567375886524823,
+                            "shift_21": 0.0492957746478873,
+                            "shift_30": 0.0719424460431655,
+                            "shift_90": 0.192,
+                            "shift_180": -0.0914634146341463,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 17:42:56 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Rainbow Bridge",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN038",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 29.15,
+                            "low": 4.34,
+                            "average": 5.46,
+                            "shift": 0.0,
+                            "shift_3": -0.00364963503649635,
+                            "shift_7": -0.0197486535008977,
+                            "shift_21": -0.0586206896551724,
+                            "shift_30": 0.0282485875706215,
+                            "shift_90": -0.100494233937397,
+                            "shift_180": -0.314070351758794,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:55:25 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Rainbow Dragon",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN043",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.9,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0721649484536082,
+                            "shift_21": 0.0344827586206897,
+                            "shift_30": 0.0112359550561798,
+                            "shift_90": 0.0588235294117647,
+                            "shift_180": -0.174311926605505,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 12:42:07 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Rainbow Overdragon",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN037",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 25.51,
+                            "low": 3.5,
+                            "average": 5.3,
+                            "shift": -0.0148698884758364,
+                            "shift_3": -0.0185185185185185,
+                            "shift_7": -0.0310786106032907,
+                            "shift_21": 0.0663983903420523,
+                            "shift_30": 0.0794297352342159,
+                            "shift_90": 0.177777777777778,
+                            "shift_180": -0.022140221402214,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:48:17 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Fusion"
+    },
+    {
+        "name": "Relinquished",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN000",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.32,
+                            "low": 0.33,
+                            "average": 0.8,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0256410256410256,
+                            "shift_21": 0.0,
+                            "shift_30": -0.0476190476190476,
+                            "shift_90": 0.212121212121212,
+                            "shift_180": 0.0,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:41:53 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Ritual"
+    },
+    {
+        "name": "Relinquished Fusion",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN004",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 32.9,
+                            "low": 3.64,
+                            "average": 4.05,
+                            "shift": -0.281914893617021,
+                            "shift_3": 0.00997506234413965,
+                            "shift_7": 0.0150375939849624,
+                            "shift_21": -0.129032258064516,
+                            "shift_30": -0.15625,
+                            "shift_90": -0.267631103074141,
+                            "shift_180": -0.544431946006749,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:11:22 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Thousand-Eyes Restrict",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN005",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.99,
+                            "average": 1.46,
+                            "shift": 0.0,
+                            "shift_3": 0.0428571428571429,
+                            "shift_7": 0.0814814814814815,
+                            "shift_21": 0.158730158730159,
+                            "shift_30": 0.17741935483871,
+                            "shift_90": 0.158730158730159,
+                            "shift_180": 0.206611570247934,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:02:47 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Fusion"
+    },
+    {
+        "name": "Time Machine",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN020",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 10.1,
+                            "low": 0.33,
+                            "average": 0.76,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0256410256410256,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0133333333333333,
+                            "shift_90": 0.0133333333333333,
+                            "shift_180": 0.027027027027027,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 13:42:11 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Toon Kingdom",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN052",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 28.75,
+                            "low": 9.99,
+                            "average": 10.18,
+                            "shift": -0.00098135426889107,
+                            "shift_3": 0.0129353233830846,
+                            "shift_7": 0.0887700534759358,
+                            "shift_21": 0.285353535353535,
+                            "shift_30": 0.508148148148148,
+                            "shift_90": 0.52623688155922,
+                            "shift_180": 0.316946959896507,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:36:05 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ultimate Ancient Gear Golem",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN036",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.89,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0326086956521739,
+                            "shift_30": -0.0824742268041237,
+                            "shift_90": -0.0111111111111111,
+                            "shift_180": -0.021978021978022,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:28:55 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "Ultimate Crystal Magic",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN040",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.25,
+                            "low": 2.24,
+                            "average": 2.43,
+                            "shift": -0.0357142857142857,
+                            "shift_3": 0.051948051948052,
+                            "shift_7": -0.0830188679245283,
+                            "shift_21": -0.0689655172413793,
+                            "shift_30": -0.226114649681529,
+                            "shift_90": -0.0689655172413793,
+                            "shift_180": -0.291545189504373,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:37:27 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "VWXYZ-Dragon Catapult Cannon",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN028",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 1.08,
+                            "low": 0.25,
+                            "average": 0.8,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0697674418604651,
+                            "shift_21": -0.036144578313253,
+                            "shift_30": -0.036144578313253,
+                            "shift_90": -0.238095238095238,
+                            "shift_180": -0.252336448598131,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:06:42 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "Vortex Trooper",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN046",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.73,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.028169014084507,
+                            "shift_90": 0.028169014084507,
+                            "shift_180": -0.0135135135135135,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 12:50:45 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Worm Bait",
+        "numbers": [
+            {
+                "name": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN050",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.83,
+                            "shift": 0.0,
+                            "shift_3": -0.0459770114942529,
+                            "shift_7": -0.0348837209302326,
+                            "shift_21": 0.0121951219512195,
+                            "shift_30": 0.0121951219512195,
+                            "shift_90": -0.0235294117647059,
+                            "shift_180": 0.0121951219512195,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 13:21:17 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    }
+]

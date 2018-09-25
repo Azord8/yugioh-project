@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Allure of Darkness",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN054",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Armageddon Knight",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN040",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Beat, Bladesman Fur Hire",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN017",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Bravo, Fighter Fur Hire",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN019",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "Crimson Knight Vampire Bram",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN013",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Xyz"
+    },
+    {
+        "name": "Dark Grepher",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN042",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Dhampir Vampire Sheridan",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN007",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Xyz"
+    },
+    {
+        "name": "Donpa, Marksman Fur Hire",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN014",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Drowning Mirror Force",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN045",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dyna, Hero Fur Hire",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN021",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Fandora, the Flying Furtress",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN024",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Foolish Burial Goods",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN058",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Helmer, Helmsman Fur Hire",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN016",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Horn of the Phantom Beast",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN060",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Kuribandit",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN051",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Magical Citadel of Endymion",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN055",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mayhem Fur Hire",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN025",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mirror Force",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN059",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mystic Tomato",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN046",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Plaguespreader Zombie",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN041",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Tuner"
+    },
+    {
+        "name": "Quick Booster",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN057",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Rafale, Champion Fur Hire",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN023",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Recon, Scout Fur Hire",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN015",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Reinforcement of the Army",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN053",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Sagitta, Maverick Fur Hire",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN020",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Scapegoat",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN052",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Seal, Strategist Fur Hire",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN018",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Shadow Vampire",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN012",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Sky Striker Ace - Kagari",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN027",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Machine / Link"
+    },
+    {
+        "name": "Sky Striker Ace - Raye",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN029",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Sky Striker Ace - Shizuku",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN028",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Link"
+    },
+    {
+        "name": "Sky Striker Airspace - Area Zero",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN039",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Sky Striker Maneuver - Afterburners!",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN031",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Sky Striker Maneuver - Jamming Waves!",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN032",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Sky Striker Mecha - Eagle Booster",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN035",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Sky Striker Mecha - Hornet Drones",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN033",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Sky Striker Mecha - Shark Cannon",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN036",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Sky Striker Mecha - Widow Anchor",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN034",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Sky Striker Mecha Modules - Multirole",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN038",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Sky Striker Mecharmory - Hercules Base",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN037",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Sky Striker Mobilize - Engage!",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN030",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Spell Power Grasp",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN056",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Monarchs Stormforth",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN044",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Toon Table of Contents",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN043",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Training Fur Hire, Fur All Your Training Needs",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN026",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Vampire Awakening",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN010",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Vampire Domination",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN011",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Vampire Familiar",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN001",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Vampire Fraulein",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN003",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Vampire Grimson",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN004",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Vampire Red Baron",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN006",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Vampire Retainer",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN002",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Vampire Scarlet Scourge",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN005",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Vampire Sorcerer",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN049",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Vampire Vamp",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN050",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Vampire's Desire",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN008",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Vampire's Domain",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN009",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Vampiric Koala",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN048",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Vampiric Orchis",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN047",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Wiz, Sage Fur Hire",
+                "pack": "Dark Saviors",
+                "print_tag": "DASA-EN022",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Spellcaster / Effect"
+    }
+]

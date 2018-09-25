@@ -1,0 +1,1112 @@
+[
+    {
+        "name": "Air Armor Ninja",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN014",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Aqua Armor Ninja",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN015",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Armor Blast",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN053",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Armor Ninjitsu Art of Alchemy",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN051",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Armor Ninjitsu Art of Freezing",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN068",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Armor Ninjitsu Art of Rust Mist",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN069",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Blade Armor Ninja",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN041",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Chow Len the Prophet",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN032",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Counterforce",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN064",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Creeping Darkness",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN059",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Danipon",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN091",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Dark Blade the Captain of the Evil World",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN034",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Dark Diviner",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN095",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Synchro"
+    },
+    {
+        "name": "Dark Flattop",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN096",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Dark Mambele",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN058",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Darklon",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN002",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Darkstorm Dragon",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN037",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Gemini"
+    },
+    {
+        "name": "Degen-Force",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN073",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dicephoon",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN063",
+                "rarity": "Short Print",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Divine Dragon Apocralyph",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN036",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Double Defender",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN049",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Driven Daredevil",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN097",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Synchro"
+    },
+    {
+        "name": "Earth Armor Ninja",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN016",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Evo-Branch",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN074",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Evo-Force",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN057",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Evo-Instant",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN088",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Evolsaur Elias",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN027",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Evolsaur Terias",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN028",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Evoltile Casinerio",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN026",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "Evoltile Najasho",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN083",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "Evoltile Pleuro",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN025",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "Evolzar Solda",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN045",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Evolzar Solda",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN045",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Familiar-Possessed - Dharc",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN033",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Flame Armor Ninja",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN013",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Full-Force Strike",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN047",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gagaga Girl",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN003",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Gagagabolt",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN048",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gagagaguard",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN065",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Galaxy Storm",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN050",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Galaxy Wave",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN062",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gogogo Giant",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN004",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Interplanetarypurplythorny Dragon",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN085",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Inzektor Ant",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN018",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Inzektor Axe - Zektahawk",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN000",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Inzektor Centipede",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN019",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Inzektor Dragonfly",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN020",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Inzektor Exa-Beetle",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN046",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Insect / Xyz"
+    },
+    {
+        "name": "Inzektor Giga-Mantis",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN021",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Inzektor Giga-Mantis",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN021",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Inzektor Giga-Weevil",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN022",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Inzektor Hopper",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN081",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Inzektor Hornet",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN017",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Inzektor Orb",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN070",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Inzektor Sword - Zektkaliber",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN054",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Inzektor Sword - Zektkaliber",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN054",
+                "rarity": "Ultimate Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Koalo-Koala",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN094",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Fusion"
+    },
+    {
+        "name": "Kurivolt",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN001",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Thunder / Effect"
+    },
+    {
+        "name": "M-X-Saber Invoker",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN099",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Masked Ninja Ebisu",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN030",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Ninja Grandmaster Hanzo",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN029",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Ninja Grandmaster Hanzo",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN029",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Ninjitsu Art of Duplication",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN089",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ninjitsu Art of Super-Transformation",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN075",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Number 12: Crimson Shadow Armor Ninja",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN042",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Number 12: Crimson Shadow Armor Ninja",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN042",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Number 96: Dark Mist",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN043",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Xyz"
+    },
+    {
+        "name": "Number 96: Dark Mist",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN043",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Xyz"
+    },
+    {
+        "name": "Number C39: Utopia Ray",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN040",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Number C39: Utopia Ray",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN040",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Number C39: Utopia Ray",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN040",
+                "rarity": "Ghost Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Numen erat Testudo",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN038",
+                "rarity": "Short Print",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Over Capacity",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN077",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Photon Circle",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN011",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Photon Crusher",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN009",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Photon Leo",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN010",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Photon Lizard",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN007",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Photon Thrasher",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN008",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Photon Trident",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN087",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Primordial Soup",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN056",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Reverse Buster",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN012",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Royal Prison",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN079",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Sealing Ceremony of Katon",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN080",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Shocktopus",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN006",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fish / Effect"
+    },
+    {
+        "name": "Shrine of Mist Valley",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN060",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Splash Capture",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN067",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Star Light, Star Bright",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN052",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Sweet Corn",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN092",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "The Huge Revolution is Over",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN078",
+                "rarity": "Short Print",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Tour Bus From the Underworld",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN086",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Trance Archfiend",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN035",
+                "rarity": "Short Print",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Twin Photon Lizard",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN039",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Fusion"
+    },
+    {
+        "name": "Twin Photon Lizard",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN039",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Fusion"
+    },
+    {
+        "name": "Upstart Golden Ninja",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN031",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Vampiric Koala",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN093",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Variable Form",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN071",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Weights & Zenmaisures",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN055",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "White Dragon Ninja",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN084",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "White Night Queen",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN090",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Wind-Up Arsenal Zenmaioh",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN098",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Wind-Up Carrier Zenmaity",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN044",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Wind-Up Carrier Zenmaity",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN044",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Wind-Up Honeybee",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN024",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Wind-Up Rat",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN023",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Wind-Up Shark",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN082",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fish / Effect"
+    },
+    {
+        "name": "Xyz Burst",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN061",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Xyz Reborn",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN076",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Xyz Reflect",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN066",
+                "rarity": "Ultra Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Xyz Reflect",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN066",
+                "rarity": "Ultimate Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "ZW - Unicorn Spear",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN005",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Zenmailstrom",
+                "pack": "Order of Chaos",
+                "print_tag": "ORCS-EN072",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    }
+]

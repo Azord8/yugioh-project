@@ -1,0 +1,902 @@
+[
+    {
+        "name": "Ameba",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-010",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Axe of Despair",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-002",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Banisher of the Light",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-078",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Black Illusion Ritual",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-051",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Ritual",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Black Pendant",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-003",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Blue-Eyes Toon Dragon",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-000",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Toon"
+    },
+    {
+        "name": "Boar Soldier",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-089",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Ceremonial Bell",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-092",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Chain Energy",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-046",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Chorus of Sanctuary",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-037",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Commencement Dance",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-062",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Ritual",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Confiscation",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-038",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Crab Turtle",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-069",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Ritual"
+    },
+    {
+        "name": "Curse of Fiend",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-032",
+                "rarity": "Short Print",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Cyber Jar",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-077",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Dark Zebra",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-084",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Darkness Approaches",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-040",
+                "rarity": "Super Short Print",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Delinquent Duo",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-039",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Eatgaboon",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-065",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Electric Snake",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-008",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Thunder / Effect"
+    },
+    {
+        "name": "Eternal Rest",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-060",
+                "rarity": "Super Short Print",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Fairy's Hand Mirror",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-041",
+                "rarity": "Short Print",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Final Destiny",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-035",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Flash Assailant",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-082",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Flying Kamakiri 1",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-091",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Gaia Power",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-096",
+                "rarity": "Short Print",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Giant Germ",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-085",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Giant Rat",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-079",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Gravekeeper's Servant",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-031",
+                "rarity": "Short Print",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Griggle",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-016",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Guardian of the Throne Room",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-013",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine"
+    },
+    {
+        "name": "Hamburger Recipe",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-063",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Ritual",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Hiro's Shadow Scout",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-024",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Horn of Light",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-004",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Horn of the Unicorn",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-054",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "House of Adhesive Tape",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-064",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Hungry Burger",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-068",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Ritual"
+    },
+    {
+        "name": "Hyozanryu",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-075",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon"
+    },
+    {
+        "name": "Invader of the Throne",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-026",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Jigen Bakudan",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-074",
+                "rarity": "Short Print",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Pyro / Effect"
+    },
+    {
+        "name": "Karate Man",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-083",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Kotodama",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-095",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Labyrinth Wall",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-055",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock"
+    },
+    {
+        "name": "Luminous Spark",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-100",
+                "rarity": "Short Print",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Magical Labyrinth",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-059",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Maha Vailo",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-012",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Malevolent Nuzzler",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-005",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Manga Ryu-Ran",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-071",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dragon / Toon"
+    },
+    {
+        "name": "Megamorph",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-061",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Messenger of Peace",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-102",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Minar",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-015",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Molten Destruction",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-098",
+                "rarity": "Short Print",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mother Grizzly",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-090",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Mystic Plasma Zone",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-101",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mystic Tomato",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-094",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Mystical Space Typhoon",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-047",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Nimble Momonga",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-086",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Octoberser",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-052",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua"
+    },
+    {
+        "name": "Painful Choice",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-049",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Performance of Sword",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-067",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Ritual"
+    },
+    {
+        "name": "Psychic Kappa",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-053",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua"
+    },
+    {
+        "name": "Relinquished",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-029",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Ritual"
+    },
+    {
+        "name": "Rising Air Current",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-099",
+                "rarity": "Short Print",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Rush Recklessly",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-043",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ryu-Ran",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-070",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dragon"
+    },
+    {
+        "name": "Senju of the Thousand Hands",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-080",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Serpent Night Dragon",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-103",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon"
+    },
+    {
+        "name": "Shining Angel",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-088",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Slot Machine",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-028",
+                "rarity": "Super Short Print",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine"
+    },
+    {
+        "name": "Snake Fang",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-050",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Snatch Steal",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-036",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Sonic Bird",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-093",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Spear Cretin",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-087",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Spellbinding Circle",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-006",
+                "rarity": "Ultra Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Stone Ogre Grotto",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-058",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock"
+    },
+    {
+        "name": "Tailor of the Fickle",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-042",
+                "rarity": "Short Print",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Forceful Sentry",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-045",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Reliable Guardian",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-044",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Toll",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-034",
+                "rarity": "Super Short Print",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Toon Mermaid",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-072",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Toon"
+    },
+    {
+        "name": "Toon Summoned Skull",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-073",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Toon"
+    },
+    {
+        "name": "Toon World",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-076",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Turtle Oath",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-066",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Ritual",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Twin Long Rods 2",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-057",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua"
+    },
+    {
+        "name": "Tyhone 2",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-017",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dragon"
+    },
+    {
+        "name": "UFO Turtle",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-081",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Umiiruka",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-097",
+                "rarity": "Short Print",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Upstart Goblin",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-033",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Wall Shadow",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-056",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Weather Report",
+                "pack": "Magic Ruler",
+                "print_tag": "MRL-020",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    }
+]

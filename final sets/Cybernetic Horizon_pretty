@@ -1,0 +1,1002 @@
+[
+    {
+        "name": "Ballista Squad",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN077",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Beast Magic Attack",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN063",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Borrel Regenerator",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN053",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Borrelsword Dragon",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN034",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Link"
+    },
+    {
+        "name": "Breaking of the World",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN057",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Celestial Observatory",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN064",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Centerfrog",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN025",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Cluster Congester",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN002",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Cyberse / Effect"
+    },
+    {
+        "name": "Contact Gate",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN000",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Cosmo Brain",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN020",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Cross Breed",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN066",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Crusadia Arboria",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN007",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Warrior / Tuner"
+    },
+    {
+        "name": "Crusadia Draco",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN009",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Crusadia Equimax",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN044",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Cyberse / Link"
+    },
+    {
+        "name": "Crusadia Leonis",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN008",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Crusadia Magius",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN042",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Link"
+    },
+    {
+        "name": "Crusadia Maximus",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN010",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Crusadia Power",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN055",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Crusadia Reclusia",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN006",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Crusadia Regulex",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN043",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast / Link"
+    },
+    {
+        "name": "Crusadia Revival",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN054",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Crusadia Vanguard",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN071",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Cupid Volley",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN024",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Cyber Dragon Herz",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN015",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Cyber Dragon Sieger",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN046",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Link"
+    },
+    {
+        "name": "Cyber Dragon Vier",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN014",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Cyber Revsystem",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN059",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Cybernetic Overflow",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN073",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Cyberse Magician",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN026",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Cyberse / Ritual"
+    },
+    {
+        "name": "Cyberse Witch",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN035",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Cyberse / Link"
+    },
+    {
+        "name": "Cycle of the World",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN056",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Ritual",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Cynet Ritual",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN051",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Ritual",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Danger! Bigfoot!",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN082",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Danger! Chupacabra!",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN084",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Danger! Nessie!",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN083",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Danger! Zone",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN087",
+                "rarity": "Ultra Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Danger!? Jackalope?",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN085",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Dealer's Choice",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN080",
+                "rarity": "Short Print",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Demise, Agent of Armageddon",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN028",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Ritual"
+    },
+    {
+        "name": "Demise, Supreme King of Armageddon",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN030",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Ritual"
+    },
+    {
+        "name": "Divine Serpent Geh",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN092",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "Dragunity Couse",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN017",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Tuner"
+    },
+    {
+        "name": "Dragunity Knight - Ascalon",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN033",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Dragunity Knight - Luin",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN032",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Dragunity Legion (card)",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN074",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dragunity Senatus",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN016",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Fiend Lord Kid",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN022",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Flip"
+    },
+    {
+        "name": "Gladiator Beast Dragases",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN099",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Link"
+    },
+    {
+        "name": "Gouki Heel Ogre",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN038",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Link"
+    },
+    {
+        "name": "Gouki Moonsault",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN003",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Gouki Ringtrainer",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN005",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Gouki Tagpartner",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN004",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Gouki The Giant Ogre",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN039",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Link"
+    },
+    {
+        "name": "Hip Hoshiningen",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN050",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Link"
+    },
+    {
+        "name": "Impcantation Candoll",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN012",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Pyro / Effect"
+    },
+    {
+        "name": "Impcantation Talismandra",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN013",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Interrupt Resistor",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN097",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Cyberse / Effect"
+    },
+    {
+        "name": "Ledger of Legerdemain",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN067",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Link Devotee",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN036",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Cyberse / Link"
+    },
+    {
+        "name": "Link Disciple",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN098",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Cyberse / Link"
+    },
+    {
+        "name": "Link Turret",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN070",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mana Dragon Zirnitron",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN021",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Mekk-Knight of the Morning Star",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN045",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Link"
+    },
+    {
+        "name": "Metaphys Ascension",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN076",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Metaphys Decoy Dragon",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN018",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Wyrm / Pendulum"
+    },
+    {
+        "name": "Miniborrel Dragon",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN040",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Link"
+    },
+    {
+        "name": "Mirror Force Launcher",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN069",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mythical Institution",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN062",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Noble Arms - Clarent",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN091",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Noble Knight Custennin",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN088",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Noble Knight Pellinore",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN090",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Paladin of Storm Dragon",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN031",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Cyberse / Ritual"
+    },
+    {
+        "name": "Performapal Gold Fang",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN095",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast / Pendulum"
+    },
+    {
+        "name": "Performapal Handsamuraiger",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN093",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Performapal Lebellman",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN094",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Pendulum"
+    },
+    {
+        "name": "Pinpoint Landing",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN081",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Psychic Ace",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN023",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Realm of Danger!",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN086",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Renewal of the World",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN072",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Reprodocus",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN048",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Dinosaur / Link"
+    },
+    {
+        "name": "Restoration Point Guard",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN037",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Cyberse / Link"
+    },
+    {
+        "name": "Ruin, Angel of Oblivion",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN027",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Ritual"
+    },
+    {
+        "name": "Ruin, Supreme Queen of Oblivion",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN029",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Ritual"
+    },
+    {
+        "name": "SIMM Tablir",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN001",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Cyberse / Effect"
+    },
+    {
+        "name": "Sacred Noble Knight of King Custennin",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN089",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Shield Handler",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN068",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Sky Striker Ace - Hayate",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN047",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Link"
+    },
+    {
+        "name": "Solitary Sword of Poison",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN065",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Deep Grave",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN078",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Turning of the World",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN058",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Umbramirage the Elemental Lord",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN019",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Universal Adapter",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN079",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Vorticular Drumgon",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN041",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Link"
+    },
+    {
+        "name": "Wee Witch's Apprentice",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN049",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Link"
+    },
+    {
+        "name": "White Stingray",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN096",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fish / Effect"
+    },
+    {
+        "name": "World Legacy - \"World Crown\"",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN011",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "World Legacy Survivor",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN060",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "World Legacy's Memory",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN061",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "World Legacy's Mind Meld",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN075",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Zero Extra Link",
+                "pack": "Cybernetic Horizon",
+                "print_tag": "CYHO-EN052",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    }
+]

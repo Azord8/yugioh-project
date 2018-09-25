@@ -1,0 +1,3402 @@
+[
+    {
+        "name": "Aegaion the Sea Castrum",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN055",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.42,
+                            "average": 1.07,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.126315789473684,
+                            "shift_30": 0.126315789473684,
+                            "shift_90": 0.138297872340426,
+                            "shift_180": 0.103092783505155,
+                            "shift_365": 0.229885057471264,
+                            "updated_at": "2018-09-24 14:35:56 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Al-Lumi'raj",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN037",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.42,
+                            "average": 1.06,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0192307692307692,
+                            "shift_180": 0.104166666666667,
+                            "shift_365": 0.0495049504950495,
+                            "updated_at": "2018-09-24 13:43:04 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Wyrm / Tuner"
+    },
+    {
+        "name": "Arisen Gaia the Fierce Knight",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN098",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 0.5,
+                            "average": 1.01,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.165289256198347,
+                            "shift_21": 0.01,
+                            "shift_30": -0.0194174757281553,
+                            "shift_90": 0.0202020202020202,
+                            "shift_180": -0.165289256198347,
+                            "shift_365": -0.495,
+                            "updated_at": "2018-09-24 13:19:07 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Bad Luck Blast",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN080",
+                "rarity": "Short Print",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.76,
+                            "low": 0.42,
+                            "average": 0.9,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": -0.0425531914893617,
+                            "shift_180": -0.166666666666667,
+                            "shift_365": 0.0227272727272727,
+                            "updated_at": "2018-09-24 13:51:10 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Black Luster Soldier - Sacred Soldier",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN097",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 23.65,
+                            "low": 3.25,
+                            "average": 3.95,
+                            "shift": -0.0100250626566416,
+                            "shift_3": -0.00503778337531486,
+                            "shift_7": -0.0813953488372093,
+                            "shift_21": 0.00508905852417303,
+                            "shift_30": 0.036745406824147,
+                            "shift_90": -0.0961098398169336,
+                            "shift_180": -0.163135593220339,
+                            "shift_365": 0.222910216718266,
+                            "updated_at": "2018-09-24 14:24:34 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Blackwing - Harmattan the Dust",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN014",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.42,
+                            "average": 1.04,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.00952380952380952,
+                            "shift_21": 0.118279569892473,
+                            "shift_30": 0.118279569892473,
+                            "shift_90": 0.181818181818182,
+                            "shift_180": 0.106382978723404,
+                            "shift_365": 0.118279569892473,
+                            "updated_at": "2018-09-24 14:25:55 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Buster Blader, the Destruction Swordmaster",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN018",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 23.32,
+                            "low": 1.72,
+                            "average": 1.93,
+                            "shift": 0.0,
+                            "shift_3": 0.00520833333333333,
+                            "shift_7": -0.053921568627451,
+                            "shift_21": -0.0102564102564103,
+                            "shift_30": -0.195833333333333,
+                            "shift_90": -0.178723404255319,
+                            "shift_180": -0.263358778625954,
+                            "shift_365": 0.0211640211640212,
+                            "updated_at": "2018-09-24 13:19:50 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Buster Blader, the Dragon Destroyer Swordsman",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN045",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 11.4,
+                            "low": 3.17,
+                            "average": 3.53,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.00282485875706215,
+                            "shift_21": -0.0167130919220056,
+                            "shift_30": -0.0139664804469274,
+                            "shift_90": 0.110062893081761,
+                            "shift_180": -0.0112044817927171,
+                            "shift_365": 0.412,
+                            "updated_at": "2018-09-24 14:34:35 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "Buster Dragon",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN052",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 34.58,
+                            "low": 5.99,
+                            "average": 7.49,
+                            "shift": 0.00672043010752688,
+                            "shift_3": 0.0609065155807365,
+                            "shift_7": 0.0402777777777778,
+                            "shift_21": 0.0761494252873563,
+                            "shift_30": 0.0654338549075391,
+                            "shift_90": 0.0331034482758621,
+                            "shift_180": 0.0998531571218796,
+                            "shift_365": 0.117910447761194,
+                            "updated_at": "2018-09-24 14:34:50 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Buster Whelp of the Destruction Swordsman",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN019",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.96,
+                            "average": 1.35,
+                            "shift": -0.00735294117647059,
+                            "shift_3": 0.00746268656716418,
+                            "shift_7": 0.261682242990654,
+                            "shift_21": -0.0287769784172662,
+                            "shift_30": -0.0492957746478873,
+                            "shift_90": -0.0357142857142857,
+                            "shift_180": -0.123376623376623,
+                            "shift_365": 0.205357142857143,
+                            "updated_at": "2018-09-24 13:19:58 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Tuner"
+    },
+    {
+        "name": "Chimeratech Rampage Dragon",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN093",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 21.14,
+                            "low": 0.59,
+                            "average": 1.05,
+                            "shift": -0.036697247706422,
+                            "shift_3": -0.0540540540540541,
+                            "shift_7": -0.0540540540540541,
+                            "shift_21": 0.0396039603960396,
+                            "shift_30": 0.09375,
+                            "shift_90": 0.129032258064516,
+                            "shift_180": 0.0714285714285714,
+                            "shift_365": -0.0454545454545455,
+                            "updated_at": "2018-09-24 15:35:10 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "Cyber Dragon Infinity",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN094",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 36.44,
+                            "low": 4.79,
+                            "average": 6.1,
+                            "shift": 0.0,
+                            "shift_3": 0.0356536502546689,
+                            "shift_7": 0.0427350427350427,
+                            "shift_21": -0.0687022900763359,
+                            "shift_30": -0.0799396681749623,
+                            "shift_90": -0.159779614325069,
+                            "shift_180": 0.0873440285204991,
+                            "shift_365": -0.272943980929678,
+                            "updated_at": "2018-09-24 16:21:37 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Dark Doriado",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN035",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.42,
+                            "average": 1.05,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.00943396226415094,
+                            "shift_21": 0.117021276595745,
+                            "shift_30": -0.00943396226415094,
+                            "shift_90": 0.0,
+                            "shift_180": 0.105263157894737,
+                            "shift_365": 0.22093023255814,
+                            "updated_at": "2018-09-24 15:20:54 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Deskbot 007",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN039",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.42,
+                            "average": 0.96,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0103092783505155,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0666666666666667,
+                            "shift_180": 0.0212765957446809,
+                            "shift_365": 0.129411764705882,
+                            "updated_at": "2018-09-24 15:27:21 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Deskbot 008",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN040",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.42,
+                            "average": 0.96,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0103092783505155,
+                            "shift_30": -0.0103092783505155,
+                            "shift_90": -0.0103092783505155,
+                            "shift_180": -0.04,
+                            "shift_365": 0.0909090909090909,
+                            "updated_at": "2018-09-24 15:27:36 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Destruction Sword Flash",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN072",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.42,
+                            "average": 0.93,
+                            "shift": 0.0,
+                            "shift_3": -0.0106382978723404,
+                            "shift_7": -0.0106382978723404,
+                            "shift_21": -0.0106382978723404,
+                            "shift_30": 0.0108695652173913,
+                            "shift_90": -0.122641509433962,
+                            "shift_180": -0.0210526315789474,
+                            "shift_365": 0.0449438202247191,
+                            "updated_at": "2018-09-24 13:20:24 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Destruction Swordsman Fusion",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN059",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.74,
+                            "low": 0.99,
+                            "average": 1.34,
+                            "shift": 0.50561797752809,
+                            "shift_3": -0.00740740740740741,
+                            "shift_7": -0.0147058823529412,
+                            "shift_21": 0.0307692307692308,
+                            "shift_30": 0.0307692307692308,
+                            "shift_90": 0.0151515151515152,
+                            "shift_180": 0.145299145299145,
+                            "shift_365": -0.336633663366337,
+                            "updated_at": "2018-09-24 16:19:50 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dharma-Eye Magician",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN096",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.41,
+                            "low": 0.33,
+                            "average": 0.98,
+                            "shift": 0.0,
+                            "shift_3": -0.0392156862745098,
+                            "shift_7": -0.0101010101010101,
+                            "shift_21": -0.0485436893203883,
+                            "shift_30": -0.100917431192661,
+                            "shift_90": 0.13953488372093,
+                            "shift_180": 0.152941176470588,
+                            "shift_365": 0.166666666666667,
+                            "updated_at": "2018-09-24 15:30:03 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Dinomic Powerload",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN062",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.42,
+                            "average": 0.89,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0111111111111111,
+                            "shift_30": -0.021978021978022,
+                            "shift_90": -0.0326086956521739,
+                            "shift_180": -0.0729166666666667,
+                            "shift_365": 0.0470588235294118,
+                            "updated_at": "2018-09-24 13:10:12 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dinomist Brachion",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN027",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.42,
+                            "average": 1.08,
+                            "shift": 0.0,
+                            "shift_3": 0.186813186813187,
+                            "shift_7": 0.186813186813187,
+                            "shift_21": 0.173913043478261,
+                            "shift_30": 0.161290322580645,
+                            "shift_90": 0.241379310344828,
+                            "shift_180": 0.186813186813187,
+                            "shift_365": 0.255813953488372,
+                            "updated_at": "2018-09-24 15:30:10 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Dinomist Ceratops",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN028",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.42,
+                            "average": 0.93,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0106382978723404,
+                            "shift_21": 0.0108695652173913,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0568181818181818,
+                            "shift_180": -0.0210526315789474,
+                            "shift_365": 0.134146341463415,
+                            "updated_at": "2018-09-24 15:30:10 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Dinomist Charge",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN063",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.42,
+                            "average": 0.91,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0108695652173913,
+                            "shift_30": 0.0,
+                            "shift_90": -0.0108695652173913,
+                            "shift_180": -0.0520833333333333,
+                            "shift_365": 0.0459770114942529,
+                            "updated_at": "2018-09-24 11:11:14 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dinomist Plesios",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN025",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.42,
+                            "average": 0.91,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0108695652173913,
+                            "shift_30": -0.021505376344086,
+                            "shift_90": 0.0,
+                            "shift_180": -0.021505376344086,
+                            "shift_365": 0.0833333333333333,
+                            "updated_at": "2018-09-24 15:30:11 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Dinomist Pteran",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN026",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 2.95,
+                            "low": 0.69,
+                            "average": 1.07,
+                            "shift": 0.00943396226415094,
+                            "shift_3": 0.00943396226415094,
+                            "shift_7": 0.202247191011236,
+                            "shift_21": -0.036036036036036,
+                            "shift_30": 0.0,
+                            "shift_90": -0.00925925925925926,
+                            "shift_180": -0.0695652173913043,
+                            "shift_365": 0.0808080808080808,
+                            "updated_at": "2018-09-24 15:30:10 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Dinomist Rex",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN029",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.74,
+                            "low": 0.48,
+                            "average": 1.03,
+                            "shift": 0.00980392156862745,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": -0.019047619047619,
+                            "shift_90": -0.00961538461538462,
+                            "shift_180": -0.0462962962962963,
+                            "shift_365": 0.0510204081632653,
+                            "updated_at": "2018-09-24 15:30:24 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Dinomist Rush",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN073",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.42,
+                            "average": 0.95,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": -0.144144144144144,
+                            "shift_90": 0.0326086956521739,
+                            "shift_180": -0.151785714285714,
+                            "shift_365": 0.117647058823529,
+                            "updated_at": "2018-09-24 13:37:36 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dinomist Stegosaur",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN024",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.42,
+                            "average": 0.92,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.010752688172043,
+                            "shift_21": 0.0,
+                            "shift_30": -0.010752688172043,
+                            "shift_90": -0.010752688172043,
+                            "shift_180": -0.0315789473684211,
+                            "shift_365": 0.121951219512195,
+                            "updated_at": "2018-09-24 15:30:16 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Dinoster Power, the Mighty Dracoslayer",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN046",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 14.79,
+                            "low": 0.47,
+                            "average": 0.97,
+                            "shift": 0.0,
+                            "shift_3": -0.0102040816326531,
+                            "shift_7": -0.0102040816326531,
+                            "shift_21": 0.0104166666666667,
+                            "shift_30": -0.0102040816326531,
+                            "shift_90": -0.0396039603960396,
+                            "shift_180": -0.0673076923076923,
+                            "shift_365": 0.0659340659340659,
+                            "updated_at": "2018-09-24 14:07:02 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Dragon / Fusion"
+    },
+    {
+        "name": "Draco Face-Off",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN061",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.42,
+                            "average": 0.9,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.010989010989011,
+                            "shift_21": 0.0112359550561798,
+                            "shift_30": 0.0112359550561798,
+                            "shift_90": 0.0112359550561798,
+                            "shift_180": -0.032258064516129,
+                            "shift_365": 0.2,
+                            "updated_at": "2018-09-24 13:11:28 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dragon Buster Destruction Sword",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN020",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 2.49,
+                            "low": 0.54,
+                            "average": 1.08,
+                            "shift": 0.0,
+                            "shift_3": -0.027027027027027,
+                            "shift_7": -0.027027027027027,
+                            "shift_21": -0.0526315789473684,
+                            "shift_30": 0.102040816326531,
+                            "shift_90": 0.102040816326531,
+                            "shift_180": -0.0847457627118644,
+                            "shift_365": 0.161290322580645,
+                            "updated_at": "2018-09-24 13:22:35 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Tuner"
+    },
+    {
+        "name": "Dragon's Bind",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN069",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.42,
+                            "average": 0.96,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0103092783505155,
+                            "shift_30": -0.0204081632653061,
+                            "shift_90": 0.0,
+                            "shift_180": -0.2,
+                            "shift_365": 0.129411764705882,
+                            "updated_at": "2018-09-24 13:38:11 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Engraver of the Mark",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN041",
+                "rarity": "Short Print",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 21.5,
+                            "low": 0.39,
+                            "average": 0.91,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0111111111111111,
+                            "shift_21": 0.0111111111111111,
+                            "shift_30": 0.0111111111111111,
+                            "shift_90": -0.0421052631578947,
+                            "shift_180": -0.165137614678899,
+                            "shift_365": 0.0963855421686747,
+                            "updated_at": "2018-09-24 15:56:13 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Enlightenment Paladin",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN047",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 24.62,
+                            "low": 1.66,
+                            "average": 2.01,
+                            "shift": 0.0,
+                            "shift_3": 0.0050251256281407,
+                            "shift_7": -0.230769230769231,
+                            "shift_21": 0.0752688172043011,
+                            "shift_30": -0.190283400809717,
+                            "shift_90": 0.0752688172043011,
+                            "shift_180": -0.2,
+                            "shift_365": 0.0362694300518135,
+                            "updated_at": "2018-09-24 15:20:48 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Synchro"
+    },
+    {
+        "name": "Fiendish Rhino Warrior",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN091",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.78,
+                            "average": 1.38,
+                            "shift": -0.034965034965035,
+                            "shift_3": -0.00719424460431655,
+                            "shift_7": 0.0072992700729927,
+                            "shift_21": -0.00719424460431655,
+                            "shift_30": 0.0072992700729927,
+                            "shift_90": 0.121951219512195,
+                            "shift_180": -0.536912751677852,
+                            "shift_365": -0.028169014084507,
+                            "updated_at": "2018-09-24 15:19:57 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Follow Wing",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN070",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.42,
+                            "average": 0.93,
+                            "shift": 0.0,
+                            "shift_3": 0.0108695652173913,
+                            "shift_7": 0.0,
+                            "shift_21": -0.146788990825688,
+                            "shift_30": -0.105769230769231,
+                            "shift_90": -0.0210526315789474,
+                            "shift_180": 0.0108695652173913,
+                            "shift_365": 0.0813953488372093,
+                            "updated_at": "2018-09-24 14:42:17 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Forbidden Apocrypha",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN078",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.42,
+                            "average": 0.84,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.024390243902439,
+                            "shift_21": 0.0120481927710843,
+                            "shift_30": 0.05,
+                            "shift_90": 0.024390243902439,
+                            "shift_180": -0.0232558139534884,
+                            "shift_365": -0.56020942408377,
+                            "updated_at": "2018-09-24 14:42:18 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gadarla, the Mystery Dust Kaiju",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN087",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.56,
+                            "low": 1.25,
+                            "average": 1.92,
+                            "shift": 0.00523560209424084,
+                            "shift_3": 0.0105263157894737,
+                            "shift_7": 0.0378378378378378,
+                            "shift_21": 0.12280701754386,
+                            "shift_30": 0.129411764705882,
+                            "shift_90": 0.28,
+                            "shift_180": -0.0985915492957746,
+                            "shift_365": -0.161572052401747,
+                            "updated_at": "2018-09-24 16:46:07 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Goyo Defender",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN050",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.43,
+                            "average": 1.05,
+                            "shift": 0.0,
+                            "shift_3": 0.0294117647058824,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0625,
+                            "shift_30": -0.0625,
+                            "shift_90": -0.0869565217391304,
+                            "shift_180": -0.102564102564103,
+                            "shift_365": -0.146341463414634,
+                            "updated_at": "2018-09-24 14:12:13 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Synchro"
+    },
+    {
+        "name": "Goyo Emperor",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN044",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 0.33,
+                            "average": 0.96,
+                            "shift": 0.0,
+                            "shift_3": 0.032258064516129,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.032258064516129,
+                            "shift_90": 0.0,
+                            "shift_180": -0.0588235294117647,
+                            "shift_365": 0.0105263157894737,
+                            "updated_at": "2018-09-24 11:43:10 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "Goyo King",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN051",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.93,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0333333333333333,
+                            "shift_90": -0.0106382978723404,
+                            "shift_180": -0.0510204081632653,
+                            "shift_365": -0.0210526315789474,
+                            "updated_at": "2018-09-24 14:12:09 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Synchro"
+    },
+    {
+        "name": "Guiding Ariadne",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN036",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.77,
+                            "low": 0.5,
+                            "average": 0.96,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0103092783505155,
+                            "shift_30": -0.0204081632653061,
+                            "shift_90": 0.0105263157894737,
+                            "shift_180": 0.0105263157894737,
+                            "shift_365": 0.0549450549450549,
+                            "updated_at": "2018-09-24 13:24:58 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Pendulum"
+    },
+    {
+        "name": "Hi-Speed Re-Level",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN058",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.42,
+                            "average": 1.02,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0192307692307692,
+                            "shift_21": 0.0099009900990099,
+                            "shift_30": 0.0099009900990099,
+                            "shift_90": -0.0192307692307692,
+                            "shift_180": -0.0555555555555556,
+                            "shift_365": 0.228915662650602,
+                            "updated_at": "2018-09-24 12:31:11 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Hi-Speedroid Hagoita",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN049",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 0.33,
+                            "average": 0.95,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0106382978723404,
+                            "shift_30": 0.0106382978723404,
+                            "shift_90": 0.0106382978723404,
+                            "shift_180": 0.0,
+                            "shift_365": 0.0674157303370786,
+                            "updated_at": "2018-09-24 12:04:04 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Interrupted Kaiju Slumber",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN089",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 22.19,
+                            "low": 3.2,
+                            "average": 3.53,
+                            "shift": 0.0,
+                            "shift_3": -0.0221606648199446,
+                            "shift_7": 0.00284090909090909,
+                            "shift_21": -0.00842696629213483,
+                            "shift_30": 0.0202312138728324,
+                            "shift_90": 0.113564668769716,
+                            "shift_180": -0.0661375661375661,
+                            "shift_365": 0.0443786982248521,
+                            "updated_at": "2018-09-24 14:59:05 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Jizukiru, the Star Destroying Kaiju",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN088",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 13.42,
+                            "low": 4.7,
+                            "average": 5.0,
+                            "shift": 0.016260162601626,
+                            "shift_3": -0.00199600798403194,
+                            "shift_7": 0.00200400801603206,
+                            "shift_21": 0.187648456057007,
+                            "shift_30": 0.193317422434368,
+                            "shift_90": 0.567398119122257,
+                            "shift_180": 0.388888888888889,
+                            "shift_365": 0.689189189189189,
+                            "updated_at": "2018-09-24 14:03:14 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Karma of the Destruction Swordsman",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN060",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.42,
+                            "average": 0.91,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.125,
+                            "shift_30": -0.099009900990099,
+                            "shift_90": 0.0,
+                            "shift_180": -0.0319148936170213,
+                            "shift_365": 0.0224719101123595,
+                            "updated_at": "2018-09-24 13:21:57 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Kozmo Dark Eclipser",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN085",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 32.4,
+                            "low": 7.36,
+                            "average": 7.82,
+                            "shift": 0.0275952693823916,
+                            "shift_3": 0.0697674418604651,
+                            "shift_7": 0.0357615894039735,
+                            "shift_21": 0.121951219512195,
+                            "shift_30": 0.151693667157585,
+                            "shift_90": -0.0126262626262626,
+                            "shift_180": -0.354252683732453,
+                            "shift_365": -0.143483023001095,
+                            "updated_at": "2018-09-24 15:29:41 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Kozmo Delta Shuttle",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN084",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.99,
+                            "low": 0.42,
+                            "average": 0.9,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0217391304347826,
+                            "shift_21": -0.010989010989011,
+                            "shift_30": -0.010989010989011,
+                            "shift_90": 0.0344827586206897,
+                            "shift_180": -0.0217391304347826,
+                            "shift_365": 0.0112359550561798,
+                            "updated_at": "2018-09-24 08:29:51 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Kozmo Soartroopers",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN083",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.53,
+                            "average": 1.1,
+                            "shift": 0.0377358490566038,
+                            "shift_3": -0.0178571428571429,
+                            "shift_7": 0.0185185185185185,
+                            "shift_21": 0.1,
+                            "shift_30": 0.0377358490566038,
+                            "shift_90": 0.0679611650485437,
+                            "shift_180": -0.0434782608695652,
+                            "shift_365": -0.0833333333333333,
+                            "updated_at": "2018-09-24 15:31:41 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Kozmo Tincan",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN082",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 40.08,
+                            "low": 11.61,
+                            "average": 17.59,
+                            "shift": 0.0377581120943953,
+                            "shift_3": 0.0925465838509317,
+                            "shift_7": 0.0778186274509804,
+                            "shift_21": 1.00570125427594,
+                            "shift_30": 1.02416570771001,
+                            "shift_90": 0.689721421709894,
+                            "shift_180": 0.673644148430067,
+                            "shift_365": 0.413987138263666,
+                            "updated_at": "2018-09-24 13:46:15 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Kozmojo",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN086",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 43.73,
+                            "low": 14.7,
+                            "average": 20.99,
+                            "shift": -0.0384791571232249,
+                            "shift_3": 0.0,
+                            "shift_7": 0.00719769673704415,
+                            "shift_21": 0.820468343451865,
+                            "shift_30": 0.739022369511185,
+                            "shift_90": 0.590151515151515,
+                            "shift_180": 0.643696162881754,
+                            "shift_365": 0.120662039508809,
+                            "updated_at": "2018-09-24 15:58:54 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Majespecter Sonics",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN064",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.42,
+                            "average": 0.91,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0111111111111111,
+                            "shift_30": 0.0340909090909091,
+                            "shift_90": 0.0,
+                            "shift_180": -0.021505376344086,
+                            "shift_365": 0.0833333333333333,
+                            "updated_at": "2018-09-24 12:50:52 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Majespecter Supercell",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN074",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.41,
+                            "low": 0.5,
+                            "average": 1.05,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0396039603960396,
+                            "shift_30": 0.0396039603960396,
+                            "shift_90": -0.0625,
+                            "shift_180": 0.0194174757281553,
+                            "shift_365": 0.0294117647058824,
+                            "updated_at": "2018-09-24 13:30:33 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Majespecter Toad - Ogama",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN030",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 17.13,
+                            "low": 0.5,
+                            "average": 1.0,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0099009900990099,
+                            "shift_21": 0.0,
+                            "shift_30": -0.0196078431372549,
+                            "shift_90": -0.0196078431372549,
+                            "shift_180": -0.107142857142857,
+                            "shift_365": 0.136363636363636,
+                            "updated_at": "2018-09-24 10:34:27 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Master Pendulum, the Dracoslayer",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN023",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 21.5,
+                            "low": 0.5,
+                            "average": 1.09,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.076271186440678,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0380952380952381,
+                            "shift_90": 0.0283018867924528,
+                            "shift_180": 0.0,
+                            "shift_365": -0.186567164179104,
+                            "updated_at": "2018-09-24 10:37:39 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Pendulum"
+    },
+    {
+        "name": "Mistaken Accusation",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN068",
+                "rarity": "Short Print",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.42,
+                            "average": 1.07,
+                            "shift": 0.0,
+                            "shift_3": -0.00925925925925926,
+                            "shift_7": -0.00925925925925926,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.00943396226415094,
+                            "shift_180": 0.150537634408602,
+                            "shift_365": 0.244186046511628,
+                            "updated_at": "2018-09-24 16:23:15 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Neptabyss, the Atlantean Prince",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN092",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 21.47,
+                            "low": 1.87,
+                            "average": 1.96,
+                            "shift": -0.0050761421319797,
+                            "shift_3": -0.02,
+                            "shift_7": -0.0150753768844221,
+                            "shift_21": -0.0050761421319797,
+                            "shift_30": -0.193415637860082,
+                            "shift_90": -0.0297029702970297,
+                            "shift_180": -0.125,
+                            "shift_365": 0.473684210526316,
+                            "updated_at": "2018-09-24 15:08:07 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Sea Serpent / Effect"
+    },
+    {
+        "name": "Odd-Eyes Advent",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN066",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.43,
+                            "average": 0.94,
+                            "shift": 0.0,
+                            "shift_3": -0.0105263157894737,
+                            "shift_7": 0.0217391304347826,
+                            "shift_21": 0.0217391304347826,
+                            "shift_30": 0.0217391304347826,
+                            "shift_90": 0.0561797752808989,
+                            "shift_180": -0.203389830508475,
+                            "shift_365": -0.06,
+                            "updated_at": "2018-09-24 15:44:55 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Ritual",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Odd-Eyes Gravity Dragon",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN043",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.53,
+                            "low": 0.8,
+                            "average": 2.04,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.316129032258064,
+                            "shift_21": 0.186046511627907,
+                            "shift_30": 0.291139240506329,
+                            "shift_90": 0.557251908396947,
+                            "shift_180": -0.0192307692307692,
+                            "shift_365": 0.0515463917525773,
+                            "updated_at": "2018-09-24 15:27:05 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Dragon / Ritual"
+    },
+    {
+        "name": "Pendulum Reborn",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN077",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 0.46,
+                            "average": 0.91,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": -0.0108695652173913,
+                            "shift_180": -0.0714285714285714,
+                            "shift_365": 0.0111111111111111,
+                            "updated_at": "2018-09-24 13:59:41 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Pendulum Storm",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN057",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.32,
+                            "average": 0.93,
+                            "shift": 0.0108695652173913,
+                            "shift_3": 0.0108695652173913,
+                            "shift_7": 0.0108695652173913,
+                            "shift_21": 0.0108695652173913,
+                            "shift_30": -0.0210526315789474,
+                            "shift_90": -0.0210526315789474,
+                            "shift_180": -0.0510204081632653,
+                            "shift_365": 0.0689655172413793,
+                            "updated_at": "2018-09-24 12:16:58 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Performance Hurricane",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN056",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.41,
+                            "average": 0.92,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0222222222222222,
+                            "shift_30": 0.010989010989011,
+                            "shift_90": 0.0222222222222222,
+                            "shift_180": -0.0416666666666667,
+                            "shift_365": 0.0697674418604651,
+                            "updated_at": "2018-09-24 12:17:01 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Performapal Bit Bite Turtle",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN005",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.42,
+                            "average": 0.91,
+                            "shift": 0.0,
+                            "shift_3": -0.0108695652173913,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0111111111111111,
+                            "shift_180": -0.0319148936170213,
+                            "shift_365": 0.123456790123457,
+                            "updated_at": "2018-09-24 10:43:09 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Reptile / Pendulum"
+    },
+    {
+        "name": "Performapal Guitartle",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN004",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 15.12,
+                            "low": 0.47,
+                            "average": 1.06,
+                            "shift": 0.0,
+                            "shift_3": -0.0185185185185185,
+                            "shift_7": -0.0185185185185185,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0495049504950495,
+                            "shift_180": 0.0927835051546392,
+                            "shift_365": 0.191011235955056,
+                            "updated_at": "2018-09-24 08:34:55 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Pendulum"
+    },
+    {
+        "name": "Performapal Monkeyboard",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN003",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.42,
+                            "average": 0.91,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.021505376344086,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0111111111111111,
+                            "shift_90": 0.0,
+                            "shift_180": -0.0319148936170213,
+                            "shift_365": 0.109756097560976,
+                            "updated_at": "2018-09-24 11:31:43 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Pendulum"
+    },
+    {
+        "name": "Performapal Pendulum Sorcerer",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN090",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 21.94,
+                            "low": 2.5,
+                            "average": 3.99,
+                            "shift": 0.0,
+                            "shift_3": -0.0025,
+                            "shift_7": 0.0445026178010471,
+                            "shift_21": 0.0871934604904632,
+                            "shift_30": 0.102209944751381,
+                            "shift_90": 0.047244094488189,
+                            "shift_180": -0.12882096069869,
+                            "shift_365": -0.329411764705882,
+                            "updated_at": "2018-09-24 15:02:01 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Performapal Rain Goat",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN006",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.39,
+                            "average": 0.9,
+                            "shift": 0.0,
+                            "shift_3": -0.010989010989011,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0465116279069767,
+                            "shift_30": 0.0344827586206897,
+                            "shift_90": -0.0217391304347826,
+                            "shift_180": -0.0526315789473684,
+                            "shift_365": 0.111111111111111,
+                            "updated_at": "2018-09-24 11:31:49 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Performapal Trump Girl",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN007",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.42,
+                            "average": 0.91,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0111111111111111,
+                            "shift_30": 0.0111111111111111,
+                            "shift_90": -0.0108695652173913,
+                            "shift_180": -0.1875,
+                            "shift_365": 0.0705882352941176,
+                            "updated_at": "2018-09-24 11:32:33 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Quaking Mirror Force",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN076",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 29.15,
+                            "low": 3.86,
+                            "average": 4.31,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0213776722090261,
+                            "shift_21": 0.0858585858585859,
+                            "shift_30": 0.036144578313253,
+                            "shift_90": -0.109730848861284,
+                            "shift_180": -0.161793372319688,
+                            "shift_365": -0.473039215686274,
+                            "updated_at": "2018-09-24 16:16:55 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Red-Eyes Retro Dragon",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN095",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 21.86,
+                            "low": 0.6,
+                            "average": 0.91,
+                            "shift": -0.0108695652173913,
+                            "shift_3": -0.021505376344086,
+                            "shift_7": -0.0108695652173913,
+                            "shift_21": -0.380952380952381,
+                            "shift_30": -0.354609929078014,
+                            "shift_90": -0.0618556701030928,
+                            "shift_180": -0.201754385964912,
+                            "shift_365": -0.125,
+                            "updated_at": "2018-09-24 14:04:02 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Reject Reborn",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN071",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 0.46,
+                            "average": 0.99,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0879120879120879,
+                            "shift_180": 0.0,
+                            "shift_365": 0.0760869565217391,
+                            "updated_at": "2018-09-24 13:49:02 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Robot Buster Destruction Sword",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN022",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.42,
+                            "average": 0.9,
+                            "shift": 0.0,
+                            "shift_3": -0.010989010989011,
+                            "shift_7": 0.0,
+                            "shift_21": -0.108910891089109,
+                            "shift_30": -0.108910891089109,
+                            "shift_90": -0.032258064516129,
+                            "shift_180": -0.0625,
+                            "shift_365": 0.0465116279069767,
+                            "updated_at": "2018-09-24 11:18:29 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Score the Melodious Diva",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN013",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.42,
+                            "average": 0.9,
+                            "shift": 0.0,
+                            "shift_3": -0.010989010989011,
+                            "shift_7": -0.010989010989011,
+                            "shift_21": -0.0425531914893617,
+                            "shift_30": -0.032258064516129,
+                            "shift_90": -0.010989010989011,
+                            "shift_180": -0.0721649484536082,
+                            "shift_365": 0.111111111111111,
+                            "updated_at": "2018-09-24 14:56:39 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Shiranui Samurai",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN034",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.33,
+                            "average": 1.09,
+                            "shift": 0.0186915887850467,
+                            "shift_3": -0.00909090909090909,
+                            "shift_7": 0.00925925925925926,
+                            "shift_21": 0.0186915887850467,
+                            "shift_30": 0.0186915887850467,
+                            "shift_90": 0.197802197802198,
+                            "shift_180": 0.112244897959184,
+                            "shift_365": 0.0480769230769231,
+                            "updated_at": "2018-09-24 15:00:27 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Shiranui Samuraisaga",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN053",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.42,
+                            "average": 1.14,
+                            "shift": 0.00892857142857143,
+                            "shift_3": 0.00892857142857143,
+                            "shift_7": 0.141414141414141,
+                            "shift_21": 0.153061224489796,
+                            "shift_30": 0.164948453608247,
+                            "shift_90": 0.189473684210526,
+                            "shift_180": -0.0173913043478261,
+                            "shift_365": 0.284090909090909,
+                            "updated_at": "2018-09-24 15:00:20 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Zombie / Synchro"
+    },
+    {
+        "name": "Shiranui Shogunsaga",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN054",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.77,
+                            "low": 1.87,
+                            "average": 2.16,
+                            "shift": 0.0285714285714286,
+                            "shift_3": 0.0285714285714286,
+                            "shift_7": 0.023696682464455,
+                            "shift_21": -0.653290529695024,
+                            "shift_30": 0.107692307692308,
+                            "shift_90": 0.227272727272727,
+                            "shift_180": 0.241379310344828,
+                            "shift_365": 0.43046357615894,
+                            "updated_at": "2018-09-24 14:45:45 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Zombie / Synchro"
+    },
+    {
+        "name": "Shiranui Smith",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN032",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.42,
+                            "average": 1.12,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.204301075268817,
+                            "shift_21": 0.191489361702128,
+                            "shift_30": 0.217391304347826,
+                            "shift_90": 0.191489361702128,
+                            "shift_180": 0.191489361702128,
+                            "shift_365": 0.272727272727273,
+                            "updated_at": "2018-09-24 15:00:29 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Shiranui Spectralsword",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN031",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 1.33,
+                            "average": 2.23,
+                            "shift": 0.0,
+                            "shift_3": 0.0136363636363636,
+                            "shift_7": 0.0469483568075117,
+                            "shift_21": -0.0429184549356223,
+                            "shift_30": -0.132295719844358,
+                            "shift_90": 0.0469483568075117,
+                            "shift_180": 0.448051948051948,
+                            "shift_365": -0.051063829787234,
+                            "updated_at": "2018-09-24 12:11:15 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Zombie / Tuner"
+    },
+    {
+        "name": "Shiranui Spiritmaster",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN033",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 0.59,
+                            "low": 0.59,
+                            "average": 0.62,
+                            "shift": -0.557142857142857,
+                            "shift_3": -0.560283687943262,
+                            "shift_7": -0.557142857142857,
+                            "shift_21": -0.557142857142857,
+                            "shift_30": -0.572413793103448,
+                            "shift_90": -0.619631901840491,
+                            "shift_180": -0.699029126213592,
+                            "shift_365": -0.840616966580977,
+                            "updated_at": "2018-09-24 14:07:16 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Shiranui Style Swallow's Slash",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN075",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 1.99,
+                            "low": 0.66,
+                            "average": 1.11,
+                            "shift": 0.00909090909090909,
+                            "shift_3": 0.00909090909090909,
+                            "shift_7": 0.00909090909090909,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": -0.00892857142857143,
+                            "shift_180": -0.00892857142857143,
+                            "shift_365": 0.15625,
+                            "updated_at": "2018-09-24 13:24:46 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Shiranui Style Synthesis",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN065",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.42,
+                            "average": 0.93,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0108695652173913,
+                            "shift_21": 0.021978021978022,
+                            "shift_30": 0.0333333333333333,
+                            "shift_90": 0.0,
+                            "shift_180": -0.154545454545455,
+                            "shift_365": 0.0689655172413793,
+                            "updated_at": "2018-09-24 12:22:02 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Solemn Strike",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN079",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 29.48,
+                            "low": 7.33,
+                            "average": 11.45,
+                            "shift": 0.0,
+                            "shift_3": 0.0114840989399293,
+                            "shift_7": 0.0428051001821494,
+                            "shift_21": 0.00615114235500879,
+                            "shift_30": 0.0159716060337178,
+                            "shift_90": -0.0991345397324941,
+                            "shift_180": -0.219495569188821,
+                            "shift_365": -0.366353071389043,
+                            "updated_at": "2018-09-24 15:05:08 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Solo the Melodious Songstress",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN012",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.42,
+                            "average": 0.91,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0224719101123595,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0111111111111111,
+                            "shift_180": -0.0520833333333333,
+                            "shift_365": 0.123456790123457,
+                            "updated_at": "2018-09-24 12:32:35 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Steel Cavalry of Dinon",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN000",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.33,
+                            "average": 1.12,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.217391304347826,
+                            "shift_21": 0.0,
+                            "shift_30": 0.217391304347826,
+                            "shift_90": 0.00900900900900901,
+                            "shift_180": 0.191489361702128,
+                            "shift_365": 0.0769230769230769,
+                            "updated_at": "2018-09-24 15:02:30 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Dinosaur / Pendulum"
+    },
+    {
+        "name": "Superheavy Samurai Beast Kyubi",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN048",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 1.05,
+                            "average": 1.12,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.178947368421053,
+                            "shift_30": 0.166666666666667,
+                            "shift_90": 0.154639175257732,
+                            "shift_180": -0.0260869565217391,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:12:54 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Superheavy Samurai General Coral",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN011",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.99,
+                            "average": 1.06,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0,
+                            "shift_180": -0.0275229357798165,
+                            "shift_365": 0.029126213592233,
+                            "updated_at": "2018-09-24 15:13:05 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Superheavy Samurai General Jade",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN010",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.99,
+                            "average": 0.94,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": -0.0105263157894737,
+                            "shift_90": -0.576576576576577,
+                            "shift_180": -0.556603773584906,
+                            "shift_365": 0.0681818181818182,
+                            "updated_at": "2018-09-24 16:21:37 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Superheavy Samurai Magnet",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN008",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.99,
+                            "average": 1.09,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.00925925925925926,
+                            "shift_21": 0.00925925925925926,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0,
+                            "shift_180": 0.0283018867924528,
+                            "shift_365": 0.297619047619048,
+                            "updated_at": "2018-09-16 07:36:03 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Superheavy Samurai Prepped Defense",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN009",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.99,
+                            "average": 0.84,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0,
+                            "shift_180": -0.0454545454545455,
+                            "shift_365": -0.192307692307692,
+                            "updated_at": "2018-09-24 15:13:21 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Timebreaker Magician",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN002",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.57,
+                            "low": 0.43,
+                            "average": 0.96,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0103092783505155,
+                            "shift_21": 0.0105263157894737,
+                            "shift_30": 0.0212765957446809,
+                            "shift_90": 0.032258064516129,
+                            "shift_180": -0.0103092783505155,
+                            "shift_365": 0.0434782608695652,
+                            "updated_at": "2018-09-24 15:45:58 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Toon Buster Blader",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN038",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.04,
+                            "low": 0.69,
+                            "average": 1.06,
+                            "shift": -0.550847457627119,
+                            "shift_3": -0.550847457627119,
+                            "shift_7": -0.569105691056911,
+                            "shift_21": -0.643097643097643,
+                            "shift_30": 0.0,
+                            "shift_90": 0.115789473684211,
+                            "shift_180": 0.0,
+                            "shift_365": -0.450777202072539,
+                            "updated_at": "2018-09-24 14:11:47 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Toon"
+    },
+    {
+        "name": "Traptrix Rafflesia",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN099",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.01,
+                            "low": 2.0,
+                            "average": 2.54,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.00793650793650794,
+                            "shift_21": 0.00793650793650794,
+                            "shift_30": 0.036734693877551,
+                            "shift_90": -0.0830324909747292,
+                            "shift_180": -0.280453257790368,
+                            "shift_365": -0.096085409252669,
+                            "updated_at": "2018-09-24 13:14:11 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Xyz"
+    },
+    {
+        "name": "Tuning Magician",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN001",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.41,
+                            "low": 0.53,
+                            "average": 1.05,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0,
+                            "shift_180": 0.0714285714285714,
+                            "shift_365": 0.141304347826087,
+                            "updated_at": "2018-09-24 11:00:07 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Tuner"
+    },
+    {
+        "name": "Twilight Ninja Getsuga, the Shogun",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN017",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.57,
+                            "low": 1.22,
+                            "average": 1.93,
+                            "shift": 0.0,
+                            "shift_3": 0.0265957446808511,
+                            "shift_7": -0.035,
+                            "shift_21": 0.0104712041884817,
+                            "shift_30": 0.738738738738739,
+                            "shift_90": 0.787037037037037,
+                            "shift_180": 0.94949494949495,
+                            "shift_365": 1.09782608695652,
+                            "updated_at": "2018-09-24 15:53:00 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Twilight Ninja Nichirin, the Chunin",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN016",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.92,
+                            "shift": 0.0,
+                            "shift_3": 0.010989010989011,
+                            "shift_7": 0.010989010989011,
+                            "shift_21": -0.010752688172043,
+                            "shift_30": -0.0315789473684211,
+                            "shift_90": -0.0315789473684211,
+                            "shift_180": -0.185840707964602,
+                            "shift_365": 0.108433734939759,
+                            "updated_at": "2018-09-24 11:00:33 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Twilight Ninja Shingetsu",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN015",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.86,
+                            "low": 0.42,
+                            "average": 1.05,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.153846153846154,
+                            "shift_90": 0.105263157894737,
+                            "shift_180": 0.0,
+                            "shift_365": 0.280487804878049,
+                            "updated_at": "2018-09-08 04:28:43 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Twin Twisters",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN067",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 26.96,
+                            "low": 4.24,
+                            "average": 6.08,
+                            "shift": -0.0529595015576324,
+                            "shift_3": -0.0674846625766871,
+                            "shift_7": -0.0065359477124183,
+                            "shift_21": -0.121387283236994,
+                            "shift_30": -0.164835164835165,
+                            "shift_90": -0.282172373081464,
+                            "shift_180": -0.26835138387485,
+                            "shift_365": -0.161379310344828,
+                            "updated_at": "2018-09-24 16:23:22 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ultimate Providence",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN081",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.9,
+                            "low": 1.35,
+                            "average": 2.47,
+                            "shift": 0.0,
+                            "shift_3": 0.0977777777777778,
+                            "shift_7": 0.27979274611399,
+                            "shift_21": 0.21078431372549,
+                            "shift_30": -0.05,
+                            "shift_90": -0.176666666666667,
+                            "shift_180": -0.171140939597315,
+                            "shift_365": 0.0206611570247934,
+                            "updated_at": "2018-09-10 08:25:40 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Wizard Buster Destruction Sword",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN021",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 0.49,
+                            "low": 0.49,
+                            "average": 0.49,
+                            "shift": -0.528846153846154,
+                            "shift_3": -0.528846153846154,
+                            "shift_7": -0.528846153846154,
+                            "shift_21": -0.537735849056604,
+                            "shift_30": -0.537735849056604,
+                            "shift_90": -0.473118279569892,
+                            "shift_180": -0.5625,
+                            "shift_365": -0.455555555555556,
+                            "updated_at": "2018-09-24 13:24:43 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Zany Zebra",
+        "numbers": [
+            {
+                "name": "Breakers of Shadow",
+                "print_tag": "BOSH-EN042",
+                "rarity": "Short Print",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.42,
+                            "average": 0.85,
+                            "shift": 0.0,
+                            "shift_3": -0.0116279069767442,
+                            "shift_7": -0.0116279069767442,
+                            "shift_21": -0.0116279069767442,
+                            "shift_30": 0.0,
+                            "shift_90": -0.0229885057471264,
+                            "shift_180": -0.0449438202247191,
+                            "shift_365": 0.0240963855421687,
+                            "updated_at": "2018-09-24 11:54:40 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Beast / Pendulum"
+    }
+]

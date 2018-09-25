@@ -1,0 +1,3368 @@
+[
+    {
+        "name": "Altergeist Hexstia",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN046",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 21.14,
+                            "low": 0.33,
+                            "average": 1.03,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.00980392156862745,
+                            "shift_21": 0.0,
+                            "shift_30": -0.0283018867924528,
+                            "shift_90": -0.0636363636363636,
+                            "shift_180": 0.0198019801980198,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 13:27:01 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Spellcaster / Link"
+    },
+    {
+        "name": "Altergeist Manifestation",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN070",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.77,
+                            "low": 0.33,
+                            "average": 1.01,
+                            "shift": 0.0,
+                            "shift_3": -0.00980392156862745,
+                            "shift_7": -0.0194174757281553,
+                            "shift_21": -0.00980392156862745,
+                            "shift_30": -0.00980392156862745,
+                            "shift_90": -0.0471698113207547,
+                            "shift_180": -0.0982142857142857,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:15:03 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Artifact Mjollnir",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN028",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.65,
+                            "shift": -0.0298507462686567,
+                            "shift_3": -0.0298507462686567,
+                            "shift_7": -0.0579710144927536,
+                            "shift_21": -0.0298507462686567,
+                            "shift_30": -0.0441176470588235,
+                            "shift_90": 0.0655737704918033,
+                            "shift_180": -0.121621621621622,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:22:59 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Bitrooper",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN005",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.6,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.104477611940299,
+                            "shift_21": -0.0476190476190476,
+                            "shift_30": -0.0476190476190476,
+                            "shift_90": 0.0714285714285714,
+                            "shift_180": -0.166666666666667,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:16:54 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Cyberse / Effect"
+    },
+    {
+        "name": "Boot Sector Launch",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN053",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 22.23,
+                            "low": 0.99,
+                            "average": 1.93,
+                            "shift": 0.0104712041884817,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0546448087431694,
+                            "shift_21": 0.176829268292683,
+                            "shift_30": 0.176829268292683,
+                            "shift_90": 0.462121212121212,
+                            "shift_180": -0.138392857142857,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 12:43:02 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Borrel Cooling",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN068",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.71,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0273972602739726,
+                            "shift_21": 0.0289855072463768,
+                            "shift_30": 0.0441176470588235,
+                            "shift_90": 0.290909090909091,
+                            "shift_180": 0.0289855072463768,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 13:29:10 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Call of the Archfiend",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN075",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.71,
+                            "shift": -0.0533333333333333,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0405405405405405,
+                            "shift_21": -0.0273972602739726,
+                            "shift_30": 0.0441176470588235,
+                            "shift_90": 0.145161290322581,
+                            "shift_180": 0.0597014925373134,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 13:43:18 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Clara & Rushka, the Ventriloduo",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN049",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 27.7,
+                            "low": 2.22,
+                            "average": 3.48,
+                            "shift": 0.00578034682080925,
+                            "shift_3": 0.029585798816568,
+                            "shift_7": 0.0205278592375367,
+                            "shift_21": -0.0569105691056911,
+                            "shift_30": 0.0773993808049536,
+                            "shift_90": 0.144736842105263,
+                            "shift_180": 0.133550488599349,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:15:01 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster / Link"
+    },
+    {
+        "name": "Column Switch",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN064",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.68,
+                            "shift": 0.0,
+                            "shift_3": 0.0149253731343284,
+                            "shift_7": 0.0149253731343284,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0461538461538462,
+                            "shift_90": 0.214285714285714,
+                            "shift_180": 0.0967741935483871,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 12:36:55 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Contact \"C\"",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN037",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.8,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.024390243902439,
+                            "shift_30": -0.0123456790123457,
+                            "shift_90": 0.0126582278481013,
+                            "shift_180": -0.0804597701149425,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:18:05 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Curious, the Lightsworn Dominion",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN091",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 21.86,
+                            "low": 0.58,
+                            "average": 1.21,
+                            "shift": 0.0,
+                            "shift_3": -0.00819672131147541,
+                            "shift_7": -0.00819672131147541,
+                            "shift_21": 0.12037037037037,
+                            "shift_30": 0.198019801980198,
+                            "shift_90": 0.141509433962264,
+                            "shift_180": -0.0902255639097744,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:17:41 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Link"
+    },
+    {
+        "name": "Cynet Refresh",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN067",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.65,
+                            "shift": 0.0,
+                            "shift_3": 0.015625,
+                            "shift_7": 0.015625,
+                            "shift_21": 0.015625,
+                            "shift_30": 0.0,
+                            "shift_90": 0.160714285714286,
+                            "shift_180": -0.0972222222222222,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 13:47:34 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "D.D. Seeker",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN031",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.64,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0153846153846154,
+                            "shift_30": 0.0,
+                            "shift_90": 0.142857142857143,
+                            "shift_180": 0.0158730158730159,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:17:39 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Dai Dance",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN077",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.63,
+                            "shift": -0.0597014925373134,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0454545454545455,
+                            "shift_21": 0.0161290322580645,
+                            "shift_30": 0.0161290322580645,
+                            "shift_90": 0.166666666666667,
+                            "shift_180": -0.0597014925373134,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 13:34:20 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Desmanian Devil",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN033",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.71,
+                            "shift": 0.0,
+                            "shift_3": -0.0138888888888889,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0138888888888889,
+                            "shift_30": 0.0,
+                            "shift_90": 0.203389830508475,
+                            "shift_180": 0.0289855072463768,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:08:55 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Downbeat",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN063",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.41,
+                            "low": 0.39,
+                            "average": 1.04,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0458715596330275,
+                            "shift_21": 0.00970873786407767,
+                            "shift_30": 0.00970873786407767,
+                            "shift_90": 0.0,
+                            "shift_180": 0.118279569892473,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 13:11:26 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Duelittle Chimera",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN050",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.4,
+                            "average": 1.11,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.018348623853211,
+                            "shift_21": 0.0471698113207547,
+                            "shift_30": 0.121212121212121,
+                            "shift_90": 0.193548387096774,
+                            "shift_180": 0.121212121212121,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 13:40:35 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast / Link"
+    },
+    {
+        "name": "Euler's Circuit",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN055",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.64,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0985915492957746,
+                            "shift_21": -0.072463768115942,
+                            "shift_30": -0.072463768115942,
+                            "shift_90": 0.163636363636364,
+                            "shift_180": 0.0666666666666667,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:31:30 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Excode Talker",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN038",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 25.84,
+                            "low": 4.66,
+                            "average": 4.87,
+                            "shift": -0.00204918032786885,
+                            "shift_3": -0.0161616161616162,
+                            "shift_7": -0.0220883534136546,
+                            "shift_21": -0.209415584415584,
+                            "shift_30": -0.491649269311065,
+                            "shift_90": 1.98773006134969,
+                            "shift_180": 0.90234375,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 13:10:25 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Cyberse / Link"
+    },
+    {
+        "name": "F.A. Auto Navigator",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN086",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.75,
+                            "shift": -0.0131578947368421,
+                            "shift_3": -0.0131578947368421,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": -0.025974025974026,
+                            "shift_90": 0.153846153846154,
+                            "shift_180": 0.0563380281690141,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:18:01 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "F.A. City Grand Prix",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN088",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.62,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0882352941176471,
+                            "shift_30": -0.0606060606060606,
+                            "shift_90": 0.0,
+                            "shift_180": -0.0461538461538462,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:57:02 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "F.A. Motorhome Transport",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN087",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.33,
+                            "average": 0.63,
+                            "shift": 0.0,
+                            "shift_3": -0.015625,
+                            "shift_7": 0.0161290322580645,
+                            "shift_21": -0.0597014925373134,
+                            "shift_30": -0.015625,
+                            "shift_90": -0.0735294117647059,
+                            "shift_180": -0.015625,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:57:10 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "F.A. Test Run",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN089",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.72,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0136986301369863,
+                            "shift_30": -0.0136986301369863,
+                            "shift_90": 0.161290322580645,
+                            "shift_180": 0.142857142857143,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:57:19 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Fire Prison",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN052",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.71,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0142857142857143,
+                            "shift_21": 0.0597014925373134,
+                            "shift_30": 0.0597014925373134,
+                            "shift_90": 0.245614035087719,
+                            "shift_180": 0.145161290322581,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:41:39 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Flame Administrator",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN041",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.65,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0441176470588235,
+                            "shift_21": -0.0972222222222222,
+                            "shift_30": -0.0441176470588235,
+                            "shift_90": -0.0845070422535211,
+                            "shift_180": 0.0833333333333333,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 13:30:37 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Cyberse / Link"
+    },
+    {
+        "name": "Flick Clown",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN004",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.62,
+                            "shift": 0.0,
+                            "shift_3": 0.0163934426229508,
+                            "shift_7": -0.0606060606060606,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.148148148148148,
+                            "shift_180": -0.0158730158730159,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:06:19 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Cyberse / Effect"
+    },
+    {
+        "name": "Gem-Knight Phantom Quartz",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN092",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 21.14,
+                            "low": 0.33,
+                            "average": 1.03,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.00980392156862745,
+                            "shift_21": -0.16260162601626,
+                            "shift_30": 0.00980392156862745,
+                            "shift_90": 0.157303370786517,
+                            "shift_180": 0.0957446808510638,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:04:04 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Link"
+    },
+    {
+        "name": "Ghost Bird of Bewitchment",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN032",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.75,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0273972602739726,
+                            "shift_21": 0.0273972602739726,
+                            "shift_30": 0.0869565217391304,
+                            "shift_90": 0.171875,
+                            "shift_180": 0.0273972602739726,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:05:56 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Ghostrick Renovation",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN074",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.67,
+                            "shift": 0.0,
+                            "shift_3": -0.0289855072463768,
+                            "shift_7": -0.0289855072463768,
+                            "shift_21": -0.0428571428571429,
+                            "shift_30": 0.0,
+                            "shift_90": 0.116666666666667,
+                            "shift_180": 0.0634920634920635,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:20:22 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Glory of the Noble Knights",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN059",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.74,
+                            "low": 0.99,
+                            "average": 1.16,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.094488188976378,
+                            "shift_21": -0.08,
+                            "shift_30": -0.1015625,
+                            "shift_90": 0.306818181818182,
+                            "shift_180": 0.337209302325581,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:11:36 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Grappler Angler",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN029",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.69,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0142857142857143,
+                            "shift_21": -0.0142857142857143,
+                            "shift_30": -0.0142857142857143,
+                            "shift_90": 0.131147540983607,
+                            "shift_180": 0.0147058823529412,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:13:35 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Warrior / Tuner"
+    },
+    {
+        "name": "Heavymetalfoes Electrumite",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN098",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 62.07,
+                            "low": 6.99,
+                            "average": 16.49,
+                            "shift": 0.0179122915379864,
+                            "shift_3": 0.0417193426042984,
+                            "shift_7": 0.0223325062034739,
+                            "shift_21": -0.162175902389426,
+                            "shift_30": -0.211483253588517,
+                            "shift_90": -0.35423197492163,
+                            "shift_180": -0.694078336736588,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:50:43 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Psychic / Link"
+    },
+    {
+        "name": "Hey, Trunade!",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN062",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 32.4,
+                            "low": 3.99,
+                            "average": 6.58,
+                            "shift": 0.0123076923076923,
+                            "shift_3": -0.0784313725490196,
+                            "shift_7": -0.012012012012012,
+                            "shift_21": -0.146562905317769,
+                            "shift_30": -0.287107258938245,
+                            "shift_90": -0.136482939632546,
+                            "shift_180": -0.314583333333333,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:57:49 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Inspector Boarder",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN035",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 38.63,
+                            "low": 6.2,
+                            "average": 13.66,
+                            "shift": -0.0144300144300144,
+                            "shift_3": -0.0291400142146411,
+                            "shift_7": 0.0118518518518519,
+                            "shift_21": 0.014105419450631,
+                            "shift_30": -0.147315855181024,
+                            "shift_90": 0.116925592804579,
+                            "shift_180": -0.149968886123211,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:19:32 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Isolde, Two Tales of the Noble Knights",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN094",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 37.39,
+                            "low": 24.99,
+                            "average": 27.97,
+                            "shift": -0.0120098904980572,
+                            "shift_3": -0.0137517630465444,
+                            "shift_7": -0.0918831168831169,
+                            "shift_21": 0.0483508245877061,
+                            "shift_30": 0.229450549450549,
+                            "shift_90": 0.414054600606673,
+                            "shift_180": 2.10088691796009,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 17:07:20 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Link"
+    },
+    {
+        "name": "Kuro-Obi Karate Spirit",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN081",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.68,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0285714285714286,
+                            "shift_21": -0.0422535211267606,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0967741935483871,
+                            "shift_180": -0.0144927536231884,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 11:09:19 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Warrior / Pendulum"
+    },
+    {
+        "name": "Link Hole",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN051",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.61,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0615384615384615,
+                            "shift_21": -0.0161290322580645,
+                            "shift_30": -0.0161290322580645,
+                            "shift_90": 0.109090909090909,
+                            "shift_180": 0.0338983050847458,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 17:13:56 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Linkbelt Wall Dragon",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN006",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.62,
+                            "shift": 0.0,
+                            "shift_3": 0.0333333333333333,
+                            "shift_7": -0.0606060606060606,
+                            "shift_21": 0.0,
+                            "shift_30": -0.03125,
+                            "shift_90": 0.0333333333333333,
+                            "shift_180": -0.126760563380282,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 11:52:38 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Lockout Gardna",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN002",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.67,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0694444444444444,
+                            "shift_21": -0.0821917808219178,
+                            "shift_30": -0.0147058823529412,
+                            "shift_90": 0.264150943396226,
+                            "shift_180": 0.135593220338983,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 11:53:43 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Cyberse / Effect"
+    },
+    {
+        "name": "Mahjong Munia Maidens",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN030",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.7,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0294117647058824,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.09375,
+                            "shift_180": 0.09375,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 10:33:06 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Flip"
+    },
+    {
+        "name": "Masterking Archfiend",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN090",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.83,
+                            "average": 1.51,
+                            "shift": -0.00657894736842105,
+                            "shift_3": 0.0342465753424658,
+                            "shift_7": 0.0633802816901408,
+                            "shift_21": 0.0633802816901408,
+                            "shift_30": 0.0709219858156028,
+                            "shift_90": 0.237704918032787,
+                            "shift_180": 0.797619047619048,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 13:46:46 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Link"
+    },
+    {
+        "name": "Mekk-Knight Blue Sky",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN014",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 41.87,
+                            "low": 9.07,
+                            "average": 12.03,
+                            "shift": -0.0187601957585644,
+                            "shift_3": -0.0383693045563549,
+                            "shift_7": -0.0115036976170912,
+                            "shift_21": -0.0352846832397755,
+                            "shift_30": -0.214751958224543,
+                            "shift_90": 0.316192560175055,
+                            "shift_180": -0.199067909454061,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:13:26 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Mekk-Knight Green Horizon",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN015",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.62,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0158730158730159,
+                            "shift_21": -0.0461538461538462,
+                            "shift_30": -0.0461538461538462,
+                            "shift_90": -0.0461538461538462,
+                            "shift_180": -0.0882352941176471,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:08:13 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Mekk-Knight Indigo Eclipse",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN019",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.72,
+                            "average": 1.01,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0288461538461538,
+                            "shift_21": -0.0194174757281553,
+                            "shift_30": -0.0288461538461538,
+                            "shift_90": -0.073394495412844,
+                            "shift_180": 0.0520833333333333,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:19:47 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Mekk-Knight Orange Sunset",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN016",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.66,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0294117647058824,
+                            "shift_21": -0.0571428571428571,
+                            "shift_30": -0.0294117647058824,
+                            "shift_90": 0.0153846153846154,
+                            "shift_180": -0.0434782608695652,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:08:37 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Mekk-Knight Purple Nightfall",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN020",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 15.99,
+                            "low": 10.31,
+                            "average": 10.74,
+                            "shift": 0.00561797752808989,
+                            "shift_3": -0.0709342560553633,
+                            "shift_7": -0.434141201264489,
+                            "shift_21": -0.355342136854742,
+                            "shift_30": -0.459486663311525,
+                            "shift_90": 0.18021978021978,
+                            "shift_180": -0.3908111174135,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:13:48 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Mekk-Knight Red Moon",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN018",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.46,
+                            "average": 1.04,
+                            "shift": 0.0,
+                            "shift_3": 0.00970873786407767,
+                            "shift_7": 0.0612244897959184,
+                            "shift_21": 0.0505050505050505,
+                            "shift_30": 0.142857142857143,
+                            "shift_90": 0.316455696202532,
+                            "shift_180": 0.333333333333333,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:52:53 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Mekk-Knight Spectrum Supreme",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN047",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 22.59,
+                            "low": 0.99,
+                            "average": 1.6,
+                            "shift": 0.0,
+                            "shift_3": -0.0062111801242236,
+                            "shift_7": 0.032258064516129,
+                            "shift_21": 0.194029850746269,
+                            "shift_30": 0.194029850746269,
+                            "shift_90": 0.259842519685039,
+                            "shift_180": 0.28,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:49:52 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Cyberse / Link"
+    },
+    {
+        "name": "Mekk-Knight Yellow Star",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN017",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.85,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0240963855421687,
+                            "shift_30": 0.0240963855421687,
+                            "shift_90": 0.148648648648649,
+                            "shift_180": 0.148648648648649,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:37:43 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Metalrokket Dragon",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN008",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.36,
+                            "average": 0.87,
+                            "shift": 0.0,
+                            "shift_3": -0.0113636363636364,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0224719101123595,
+                            "shift_30": -0.0224719101123595,
+                            "shift_90": 0.0481927710843374,
+                            "shift_180": 0.10126582278481,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:08:40 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Mythical Beast Bashilisk",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN025",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.76,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.027027027027027,
+                            "shift_30": 0.0555555555555556,
+                            "shift_90": 0.169230769230769,
+                            "shift_180": 0.0410958904109589,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:48:23 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Mythical Beast Garuda",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN023",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.77,
+                            "average": 1.29,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0514705882352941,
+                            "shift_21": 0.032,
+                            "shift_30": -0.0583941605839416,
+                            "shift_90": 0.0573770491803279,
+                            "shift_180": -0.426666666666667,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:19:43 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Mythical Beast Jackal",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN022",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 1.0,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.282051282051282,
+                            "shift_21": 0.204819277108434,
+                            "shift_30": 0.19047619047619,
+                            "shift_90": 0.333333333333333,
+                            "shift_180": 0.333333333333333,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:20:18 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Mythical Beast Jackal King",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN026",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 24.38,
+                            "low": 6.19,
+                            "average": 6.76,
+                            "shift": -0.0315186246418338,
+                            "shift_3": -0.0116959064327485,
+                            "shift_7": 0.0134932533733133,
+                            "shift_21": 0.0679304897314376,
+                            "shift_30": 0.698492462311558,
+                            "shift_90": 1.22368421052632,
+                            "shift_180": 0.915014164305949,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:15:35 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Mythical Beast Master Cerberus",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN027",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 46.39,
+                            "low": 4.66,
+                            "average": 10.16,
+                            "shift": -0.0126336248785228,
+                            "shift_3": -0.0221366698748797,
+                            "shift_7": -0.0221366698748797,
+                            "shift_21": -0.141891891891892,
+                            "shift_30": -0.246849518161601,
+                            "shift_90": -0.256222547584187,
+                            "shift_180": -0.433035714285714,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:08:10 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Mythical Beast Medusa",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN024",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.73,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.028169014084507,
+                            "shift_21": -0.0135135135135135,
+                            "shift_30": 0.0138888888888889,
+                            "shift_90": -0.051948051948052,
+                            "shift_180": -0.0987654320987654,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 10:47:21 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Mythical Bestiamorph",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN073",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.76,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.191489361702128,
+                            "shift_30": -0.191489361702128,
+                            "shift_90": 0.027027027027027,
+                            "shift_180": -0.0617283950617284,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 13:33:45 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mythical Bestiary",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN058",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.83,
+                            "average": 1.19,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.00847457627118644,
+                            "shift_30": 0.0347826086956522,
+                            "shift_90": 0.0720720720720721,
+                            "shift_180": 0.0530973451327434,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 10:47:45 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Nagel's Protection",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN054",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.62,
+                            "shift": -0.0606060606060606,
+                            "shift_3": -0.0606060606060606,
+                            "shift_7": -0.0606060606060606,
+                            "shift_21": -0.03125,
+                            "shift_30": -0.0158730158730159,
+                            "shift_90": 0.169811320754717,
+                            "shift_180": 0.0333333333333333,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 13:15:38 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Oops!",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN080",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.72,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": -0.0136986301369863,
+                            "shift_90": 0.0,
+                            "shift_180": -0.111111111111111,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:37:19 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Overtex Qoatlus",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN036",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.74,
+                            "low": 0.99,
+                            "average": 1.62,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0181818181818182,
+                            "shift_21": -0.0121951219512195,
+                            "shift_30": 0.0188679245283019,
+                            "shift_90": 0.218045112781955,
+                            "shift_180": -0.28,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:25:00 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Parallel Port Armor",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN066",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.64,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0447761194029851,
+                            "shift_21": -0.0447761194029851,
+                            "shift_30": -0.0303030303030303,
+                            "shift_90": 0.032258064516129,
+                            "shift_180": -0.0447761194029851,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 13:59:48 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Parthian Shot",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN079",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.64,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.072463768115942,
+                            "shift_21": -0.0588235294117647,
+                            "shift_30": -0.0153846153846154,
+                            "shift_90": 0.142857142857143,
+                            "shift_180": -0.0447761194029851,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 13:59:37 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Pendulum Paradox",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN061",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 29.15,
+                            "low": 0.88,
+                            "average": 3.76,
+                            "shift": 0.0,
+                            "shift_3": 0.010752688172043,
+                            "shift_7": 0.0053475935828877,
+                            "shift_21": 0.032967032967033,
+                            "shift_30": 0.0,
+                            "shift_90": -0.0939759036144578,
+                            "shift_180": -0.349480968858132,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:02:41 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Qliphort Genius",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN095",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 21.47,
+                            "low": 1.5,
+                            "average": 2.28,
+                            "shift": 0.0,
+                            "shift_3": 0.135,
+                            "shift_7": 0.0913461538461538,
+                            "shift_21": 0.112745098039216,
+                            "shift_30": 0.0913461538461538,
+                            "shift_90": 0.152284263959391,
+                            "shift_180": 0.164102564102564,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:13:22 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Link"
+    },
+    {
+        "name": "Recovery Sorcerer",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN042",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.61,
+                            "shift": -0.0317460317460317,
+                            "shift_3": -0.0317460317460317,
+                            "shift_7": -0.0615384615384615,
+                            "shift_21": -0.046875,
+                            "shift_30": -0.115942028985507,
+                            "shift_90": -0.0317460317460317,
+                            "shift_180": -0.0757575757575758,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 11:14:13 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Cyberse / Link"
+    },
+    {
+        "name": "Ritual Beast Ulti-Kimunfalcos",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN096",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.33,
+                            "average": 0.86,
+                            "shift": 0.0,
+                            "shift_3": -0.0227272727272727,
+                            "shift_7": -0.0114942528735632,
+                            "shift_21": -0.0752688172043011,
+                            "shift_30": -0.0549450549450549,
+                            "shift_90": 0.0238095238095238,
+                            "shift_180": -0.0337078651685393,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:58:39 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Psychic / Link"
+    },
+    {
+        "name": "Saryuja Skull Dread",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN048",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 79.77,
+                            "low": 19.07,
+                            "average": 28.62,
+                            "shift": -0.00348189415041783,
+                            "shift_3": 0.0177809388335704,
+                            "shift_7": 0.00210084033613445,
+                            "shift_21": -0.148974130240856,
+                            "shift_30": -0.310693641618497,
+                            "shift_90": -0.404989604989605,
+                            "shift_180": -0.554205607476635,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:45:05 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Dragon / Link"
+    },
+    {
+        "name": "Scramble Egg",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN099",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.05,
+                            "low": 0.33,
+                            "average": 0.67,
+                            "shift": 0.0,
+                            "shift_3": 0.0151515151515152,
+                            "shift_7": 0.0151515151515152,
+                            "shift_21": 0.046875,
+                            "shift_30": 0.0806451612903226,
+                            "shift_90": 0.175438596491228,
+                            "shift_180": -0.141025641025641,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-12 23:52:43 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Secure Gardna",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN043",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.63,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.015625,
+                            "shift_21": 0.0,
+                            "shift_30": -0.015625,
+                            "shift_90": 0.125,
+                            "shift_180": 0.05,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:44:31 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Cyberse / Link"
+    },
+    {
+        "name": "Shelrokket Dragon",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN007",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.33,
+                            "average": 0.9,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.010989010989011,
+                            "shift_21": -0.12621359223301,
+                            "shift_30": -0.12621359223301,
+                            "shift_90": 0.0344827586206897,
+                            "shift_180": 0.139240506329114,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:10:48 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Showdown of the Secret Sense Scroll Techniques",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN078",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.63,
+                            "shift": 0.0,
+                            "shift_3": -0.0307692307692308,
+                            "shift_7": -0.0454545454545455,
+                            "shift_21": -0.0454545454545455,
+                            "shift_30": -0.0597014925373134,
+                            "shift_90": 0.0677966101694915,
+                            "shift_180": -0.136986301369863,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 13:25:08 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Steelswarm Origin",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN093",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.34,
+                            "average": 1.09,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0283018867924528,
+                            "shift_21": 0.0480769230769231,
+                            "shift_30": 0.313253012048193,
+                            "shift_90": 0.379746835443038,
+                            "shift_180": 0.297619047619048,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:10:07 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Link"
+    },
+    {
+        "name": "Striping Partner",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN003",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.63,
+                            "shift": 0.0327868852459016,
+                            "shift_3": 0.0327868852459016,
+                            "shift_7": -0.015625,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.145454545454545,
+                            "shift_180": 0.05,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:10:55 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Cyberse / Effect"
+    },
+    {
+        "name": "There Can Be Only One",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN076",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.99,
+                            "average": 1.12,
+                            "shift": 0.0,
+                            "shift_3": -0.0743801652892562,
+                            "shift_7": -0.00884955752212389,
+                            "shift_21": -0.205673758865248,
+                            "shift_30": 0.0769230769230769,
+                            "shift_90": 0.0980392156862745,
+                            "shift_180": 0.0,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:15:43 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Tindangle Acute Cerberus",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN045",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.61,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0615384615384615,
+                            "shift_21": -0.0757575757575758,
+                            "shift_30": -0.0317460317460317,
+                            "shift_90": 0.12962962962963,
+                            "shift_180": -0.102941176470588,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:26:09 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Link"
+    },
+    {
+        "name": "Tindangle Angel",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN009",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.33,
+                            "average": 0.7,
+                            "shift": 0.0,
+                            "shift_3": -0.0277777777777778,
+                            "shift_7": -0.0410958904109589,
+                            "shift_21": -0.0140845070422535,
+                            "shift_30": -0.0140845070422535,
+                            "shift_90": 0.228070175438596,
+                            "shift_180": -0.0277777777777778,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 10:55:34 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Flip"
+    },
+    {
+        "name": "Tindangle Base Gardna",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN010",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.66,
+                            "shift": 0.0819672131147541,
+                            "shift_3": 0.0153846153846154,
+                            "shift_7": -0.0571428571428571,
+                            "shift_21": 0.0476190476190476,
+                            "shift_30": 0.0645161290322581,
+                            "shift_90": 0.222222222222222,
+                            "shift_180": 0.0645161290322581,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 10:55:38 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Tindangle Delaunay",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN069",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.33,
+                            "average": 0.61,
+                            "shift": -0.0317460317460317,
+                            "shift_3": -0.0317460317460317,
+                            "shift_7": -0.0895522388059701,
+                            "shift_21": -0.0757575757575758,
+                            "shift_30": -0.0161290322580645,
+                            "shift_90": 0.742857142857143,
+                            "shift_180": -0.115942028985507,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 13:41:03 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Tindangle Hound",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN011",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.71,
+                            "shift": 0.0,
+                            "shift_3": 0.0757575757575758,
+                            "shift_7": 0.0142857142857143,
+                            "shift_21": 0.0441176470588235,
+                            "shift_30": 0.109375,
+                            "shift_90": 0.267857142857143,
+                            "shift_180": 0.183333333333333,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 10:55:39 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Flip"
+    },
+    {
+        "name": "Tindangle Intruder",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN013",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.62,
+                            "shift": 0.0,
+                            "shift_3": 0.0333333333333333,
+                            "shift_7": -0.0461538461538462,
+                            "shift_21": -0.0158730158730159,
+                            "shift_30": 0.0,
+                            "shift_90": 0.169811320754717,
+                            "shift_180": 0.0163934426229508,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:27:43 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Flip"
+    },
+    {
+        "name": "Tindangle Protector",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN012",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.62,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.114285714285714,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0163934426229508,
+                            "shift_90": 0.107142857142857,
+                            "shift_180": 0.0,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 10:55:55 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Flip"
+    },
+    {
+        "name": "Trading Places",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN065",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.73,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0138888888888889,
+                            "shift_21": 0.0138888888888889,
+                            "shift_30": 0.0735294117647059,
+                            "shift_90": 0.028169014084507,
+                            "shift_180": 0.0895522388059701,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 13:03:54 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Triple Burst Dragon",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN044",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 22.92,
+                            "low": 2.95,
+                            "average": 2.48,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.008,
+                            "shift_21": -0.03125,
+                            "shift_30": -0.0236220472440945,
+                            "shift_90": -0.0534351145038168,
+                            "shift_180": 0.340540540540541,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:28:11 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Link"
+    },
+    {
+        "name": "Underclock Taker",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN039",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.31,
+                            "low": 0.43,
+                            "average": 1.43,
+                            "shift": 0.172131147540984,
+                            "shift_3": 0.16260162601626,
+                            "shift_7": 0.153225806451613,
+                            "shift_21": 0.125984251968504,
+                            "shift_30": 0.0514705882352941,
+                            "shift_90": 0.153225806451613,
+                            "shift_180": 0.43,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:59:37 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Cyberse / Link"
+    },
+    {
+        "name": "Vector Scare Archfiend",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN040",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.34,
+                            "average": 0.96,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0666666666666667,
+                            "shift_21": -0.127272727272727,
+                            "shift_30": 0.0434782608695652,
+                            "shift_90": -0.179487179487179,
+                            "shift_180": 0.263157894736842,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 17:02:10 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Cyberse / Link"
+    },
+    {
+        "name": "Vendread Battlelord",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN082",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 21.14,
+                            "low": 0.72,
+                            "average": 1.02,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0192307692307692,
+                            "shift_21": -0.0285714285714286,
+                            "shift_30": 0.0,
+                            "shift_90": 0.133333333333333,
+                            "shift_180": 0.120879120879121,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:33:19 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Ritual"
+    },
+    {
+        "name": "Vendread Charge",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN084",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.57,
+                            "low": 0.46,
+                            "average": 0.96,
+                            "shift": 0.0,
+                            "shift_3": -0.0103092783505155,
+                            "shift_7": -0.0588235294117647,
+                            "shift_21": -0.119266055045872,
+                            "shift_30": -0.102803738317757,
+                            "shift_90": 0.0909090909090909,
+                            "shift_180": 0.0786516853932584,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 13:19:05 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Vendread Core",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN083",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.77,
+                            "low": 0.72,
+                            "average": 1.03,
+                            "shift": -0.0462962962962963,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0720720720720721,
+                            "shift_21": -0.055045871559633,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0618556701030928,
+                            "shift_180": 0.0404040404040404,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:12:06 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Vendread Revolution",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN085",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.77,
+                            "low": 0.5,
+                            "average": 1.24,
+                            "shift": 0.0598290598290598,
+                            "shift_3": -0.03125,
+                            "shift_7": -0.008,
+                            "shift_21": 0.180952380952381,
+                            "shift_30": 0.180952380952381,
+                            "shift_90": 0.227722772277228,
+                            "shift_180": 0.215686274509804,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:13:04 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Wattkinetic Puppeteer",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN034",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.72,
+                            "shift": 0.0,
+                            "shift_3": 0.0588235294117647,
+                            "shift_7": 0.0588235294117647,
+                            "shift_21": 0.0285714285714286,
+                            "shift_30": 0.0434782608695652,
+                            "shift_90": 0.2,
+                            "shift_180": 0.161290322580645,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:48:14 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "World Legacy - \"World Shield\"",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN021",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.6,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0163934426229508,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0714285714285714,
+                            "shift_180": -0.0476190476190476,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:53:06 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "World Legacy Key",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN057",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.33,
+                            "average": 0.85,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0229885057471264,
+                            "shift_21": 0.0240963855421687,
+                            "shift_30": 0.0365853658536585,
+                            "shift_90": 0.349206349206349,
+                            "shift_180": 0.148648648648649,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:53:01 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "World Legacy Scars",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN056",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.81,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0121951219512195,
+                            "shift_21": 0.051948051948052,
+                            "shift_30": 0.0657894736842105,
+                            "shift_90": 0.125,
+                            "shift_180": 0.10958904109589,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:07:19 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "World Legacy Whispers",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN071",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.9,
+                            "shift": 0.0,
+                            "shift_3": 0.0112359550561798,
+                            "shift_7": -0.010989010989011,
+                            "shift_21": -0.158878504672897,
+                            "shift_30": -0.0625,
+                            "shift_90": 0.153846153846154,
+                            "shift_180": 0.125,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 13:01:36 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "World Legacy's Secret",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN072",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.74,
+                            "low": 1.55,
+                            "average": 3.02,
+                            "shift": 0.0,
+                            "shift_3": -0.0033003300330033,
+                            "shift_7": -0.0033003300330033,
+                            "shift_21": -0.0382165605095541,
+                            "shift_30": -0.137142857142857,
+                            "shift_90": 0.852760736196319,
+                            "shift_180": 0.131086142322097,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:04:48 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Yoko-Zuna Sumo Spirit",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN000",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 1.05,
+                            "low": 0.25,
+                            "average": 0.88,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0114942528735632,
+                            "shift_30": -0.137254901960784,
+                            "shift_90": 0.0232558139534884,
+                            "shift_180": 0.0232558139534884,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 12:07:27 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Warrior / Pendulum"
+    },
+    {
+        "name": "Zefra Metaltron",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN097",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.77,
+                            "low": 0.54,
+                            "average": 1.19,
+                            "shift": 0.00847457627118644,
+                            "shift_3": 0.00847457627118644,
+                            "shift_7": 0.101851851851852,
+                            "shift_21": 0.144230769230769,
+                            "shift_30": 0.122641509433962,
+                            "shift_90": 0.155339805825243,
+                            "shift_180": 0.19,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 16:58:46 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Wyrm / Link"
+    },
+    {
+        "name": "Zombino",
+        "numbers": [
+            {
+                "name": "Extreme Force",
+                "print_tag": "EXFO-EN001",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.83,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0121951219512195,
+                            "shift_21": 0.0246913580246914,
+                            "shift_30": 0.0375,
+                            "shift_90": 0.0921052631578947,
+                            "shift_180": 0.106666666666667,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:44:47 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Zombie / Normal"
+    }
+]

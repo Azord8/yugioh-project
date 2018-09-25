@@ -1,0 +1,3606 @@
+[
+    {
+        "name": "Absorb Fusion",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "\u200eCORE-EN092",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 22.02,
+                            "low": 2.45,
+                            "average": 4.0,
+                            "shift": 0.0,
+                            "shift_3": 0.0204081632653061,
+                            "shift_7": 0.0230179028132992,
+                            "shift_21": 0.0204081632653061,
+                            "shift_30": 0.0050251256281407,
+                            "shift_90": -0.2,
+                            "shift_180": -0.440559440559441,
+                            "shift_365": 0.253918495297806,
+                            "updated_at": "2018-09-24 11:46:15 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Archfiend Black Skull Dragon",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN048",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 30.21,
+                            "low": 3.25,
+                            "average": 3.91,
+                            "shift": 0.0077319587628866,
+                            "shift_3": -0.00255102040816327,
+                            "shift_7": 0.0861111111111111,
+                            "shift_21": 0.0831024930747922,
+                            "shift_30": 0.098314606741573,
+                            "shift_90": -0.0668257756563246,
+                            "shift_180": -0.322357019064125,
+                            "shift_365": -0.225742574257426,
+                            "updated_at": "2018-09-24 15:54:58 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Fusion"
+    },
+    {
+        "name": "Archfiend Black Skull Dragon",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN048",
+                "rarity": "Ultimate Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 27.3,
+                            "low": 6.35,
+                            "average": 6.56,
+                            "shift": 0.00305810397553517,
+                            "shift_3": 0.025,
+                            "shift_7": -0.0641940085592011,
+                            "shift_21": 0.0412698412698413,
+                            "shift_30": -0.0194319880418535,
+                            "shift_90": 0.656565656565657,
+                            "shift_180": 0.0754098360655738,
+                            "shift_365": 0.134948096885813,
+                            "updated_at": "2018-09-24 15:54:59 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Fusion"
+    },
+    {
+        "name": "Archfiend Eccentrick",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN042",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 26.2,
+                            "low": 3.18,
+                            "average": 3.52,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0356164383561644,
+                            "shift_21": -0.0736842105263158,
+                            "shift_30": -0.0857142857142857,
+                            "shift_90": -0.167848699763593,
+                            "shift_180": -0.233115468409586,
+                            "shift_365": -0.229759299781182,
+                            "updated_at": "2018-09-24 14:44:13 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Pendulum"
+    },
+    {
+        "name": "Aroma Garden",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN062",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.85,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0229885057471264,
+                            "shift_21": -0.0340909090909091,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0119047619047619,
+                            "shift_180": -0.0860215053763441,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 12:58:45 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Aroma Jar",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN038",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 11.46,
+                            "low": 0.95,
+                            "average": 2.63,
+                            "shift": 0.00766283524904215,
+                            "shift_3": 1.30701754385965,
+                            "shift_7": 0.696774193548387,
+                            "shift_21": 0.00381679389312977,
+                            "shift_30": 0.0115384615384615,
+                            "shift_90": 1.43518518518519,
+                            "shift_180": 1.03875968992248,
+                            "shift_365": 1.41284403669725,
+                            "updated_at": "2018-09-24 14:46:21 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Rock / Flip"
+    },
+    {
+        "name": "Aromage Bergamot",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN037",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.89,
+                            "low": 0.46,
+                            "average": 0.92,
+                            "shift": 0.0,
+                            "shift_3": -0.010752688172043,
+                            "shift_7": -0.010752688172043,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": -0.123809523809524,
+                            "shift_180": 0.010989010989011,
+                            "shift_365": 0.0697674418604651,
+                            "updated_at": "2018-09-24 14:02:19 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Aromage Cananga",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN035",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.99,
+                            "low": 0.33,
+                            "average": 0.84,
+                            "shift": -0.0117647058823529,
+                            "shift_3": -0.0117647058823529,
+                            "shift_7": -0.0117647058823529,
+                            "shift_21": 0.0,
+                            "shift_30": -0.0117647058823529,
+                            "shift_90": -0.0117647058823529,
+                            "shift_180": -0.0666666666666667,
+                            "shift_365": -0.0561797752808989,
+                            "updated_at": "2018-09-24 14:03:20 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Aromage Jasmine",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN034",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.64,
+                            "low": 15.98,
+                            "average": 17.2,
+                            "shift": -0.0148911798396334,
+                            "shift_3": -0.0199430199430199,
+                            "shift_7": -0.00864553314121038,
+                            "shift_21": 0.0250297973778308,
+                            "shift_30": -0.0249433106575964,
+                            "shift_90": -0.0544255085211655,
+                            "shift_180": -0.0238365493757094,
+                            "shift_365": 0.961231470923603,
+                            "updated_at": "2018-09-24 17:55:08 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Aromage Rosemary",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN036",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 34.58,
+                            "low": 5.42,
+                            "average": 6.54,
+                            "shift": 0.0,
+                            "shift_3": -0.029673590504451,
+                            "shift_7": 0.0108191653786708,
+                            "shift_21": 0.135416666666667,
+                            "shift_30": 0.129533678756477,
+                            "shift_90": -0.018018018018018,
+                            "shift_180": -0.0150602409638554,
+                            "shift_365": 0.568345323741007,
+                            "updated_at": "2018-09-24 17:20:23 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Back-Up Rider",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN064",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.88,
+                            "shift": 0.0,
+                            "shift_3": 0.0114942528735632,
+                            "shift_7": 0.0114942528735632,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0232558139534884,
+                            "shift_180": -0.0537634408602151,
+                            "shift_365": -0.0638297872340425,
+                            "updated_at": "2018-09-24 12:40:39 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Balance of Judgment",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN078",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.74,
+                            "low": 0.66,
+                            "average": 1.08,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0357142857142857,
+                            "shift_21": 0.0485436893203883,
+                            "shift_30": 0.0188679245283019,
+                            "shift_90": 0.0485436893203883,
+                            "shift_180": -0.0769230769230769,
+                            "shift_365": 0.213483146067416,
+                            "updated_at": "2018-09-24 17:10:06 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Bird of Paradise Lost",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN040",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.99,
+                            "low": 0.33,
+                            "average": 0.86,
+                            "shift": 0.0,
+                            "shift_3": -0.0114942528735632,
+                            "shift_7": -0.0114942528735632,
+                            "shift_21": -0.0114942528735632,
+                            "shift_30": -0.0227272727272727,
+                            "shift_90": -0.0227272727272727,
+                            "shift_180": -0.0549450549450549,
+                            "shift_365": -0.0444444444444444,
+                            "updated_at": "2018-09-24 14:23:52 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Wyrm / Tuner"
+    },
+    {
+        "name": "Black Metal Dragon",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN022",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 8.19,
+                            "low": 0.93,
+                            "average": 1.17,
+                            "shift": 0.0,
+                            "shift_3": -0.00847457627118644,
+                            "shift_7": -0.0168067226890756,
+                            "shift_21": -0.00847457627118644,
+                            "shift_30": 0.0263157894736842,
+                            "shift_90": -0.530120481927711,
+                            "shift_180": -0.532,
+                            "shift_365": -0.0330578512396694,
+                            "updated_at": "2018-09-24 14:24:25 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Brilliant Fusion",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN056",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 27.3,
+                            "low": 4.49,
+                            "average": 5.33,
+                            "shift": 0.00566037735849057,
+                            "shift_3": -0.0499108734402852,
+                            "shift_7": 0.0492125984251969,
+                            "shift_21": 0.156182212581345,
+                            "shift_30": 0.143776824034335,
+                            "shift_90": -0.313144329896907,
+                            "shift_180": -0.697845804988662,
+                            "shift_365": -0.603717472118959,
+                            "updated_at": "2018-09-24 16:16:02 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Brilliant Spark",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN068",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.87,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0116279069767442,
+                            "shift_30": 0.0116279069767442,
+                            "shift_90": 0.0,
+                            "shift_180": -0.194444444444444,
+                            "shift_365": -0.0333333333333333,
+                            "updated_at": "2018-09-24 13:53:52 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Bubble Barrier",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN058",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.42,
+                            "average": 0.93,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0108695652173913,
+                            "shift_30": 0.021978021978022,
+                            "shift_90": 0.021978021978022,
+                            "shift_180": 0.0108695652173913,
+                            "shift_365": 0.0813953488372093,
+                            "updated_at": "2018-09-24 12:43:36 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Cards of the Red Stone",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN060",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 30.21,
+                            "low": 4.33,
+                            "average": 4.6,
+                            "shift": 0.0,
+                            "shift_3": -0.00863930885529158,
+                            "shift_7": -0.00649350649350649,
+                            "shift_21": 0.02,
+                            "shift_30": -0.0727272727272727,
+                            "shift_90": -0.0946745562130177,
+                            "shift_180": -0.04375,
+                            "shift_365": -0.0574948665297741,
+                            "updated_at": "2018-09-24 14:09:30 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Chicken Game",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN067",
+                "rarity": "Short Print",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.95,
+                            "low": 0.95,
+                            "average": 1.14,
+                            "shift": 0.0,
+                            "shift_3": 0.036697247706422,
+                            "shift_7": 0.0272727272727273,
+                            "shift_21": 0.036697247706422,
+                            "shift_30": 0.0272727272727273,
+                            "shift_90": 0.00892857142857143,
+                            "shift_180": -0.0173913043478261,
+                            "shift_365": 0.00892857142857143,
+                            "updated_at": "2018-09-24 12:36:11 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Crystal Rose",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN012",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 0.69,
+                            "average": 0.93,
+                            "shift": 0.0,
+                            "shift_3": 0.021978021978022,
+                            "shift_7": 0.0449438202247191,
+                            "shift_21": 0.120481927710843,
+                            "shift_30": 0.0449438202247191,
+                            "shift_90": -0.0606060606060606,
+                            "shift_180": -0.0792079207920792,
+                            "shift_365": 0.0449438202247191,
+                            "updated_at": "2018-09-24 16:48:28 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "D/D Pandora",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN011",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.86,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0,
+                            "shift_180": -0.0337078651685393,
+                            "shift_365": -0.0337078651685393,
+                            "updated_at": "2018-09-24 15:18:53 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "D/D/D Marksman King Tell",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN052",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 3.92,
+                            "low": 0.54,
+                            "average": 1.0,
+                            "shift": 0.0,
+                            "shift_3": -0.0654205607476635,
+                            "shift_7": -0.0909090909090909,
+                            "shift_21": 0.0101010101010101,
+                            "shift_30": -0.0909090909090909,
+                            "shift_90": 0.0638297872340425,
+                            "shift_180": -0.12280701754386,
+                            "shift_365": -0.0990990990990991,
+                            "updated_at": "2018-09-24 15:19:22 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Xyz"
+    },
+    {
+        "name": "D/D/D Oracle King d'Arc",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN046",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.74,
+                            "low": 1.68,
+                            "average": 2.21,
+                            "shift": 0.00454545454545455,
+                            "shift_3": 0.0231481481481481,
+                            "shift_7": -0.0133928571428571,
+                            "shift_21": -0.0177777777777778,
+                            "shift_30": -0.0177777777777778,
+                            "shift_90": 0.0728155339805825,
+                            "shift_180": -0.0133928571428571,
+                            "shift_365": 0.284883720930233,
+                            "updated_at": "2018-09-24 17:19:24 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Fusion"
+    },
+    {
+        "name": "Deskbot 005",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN044",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 7.53,
+                            "low": 0.41,
+                            "average": 0.84,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": -0.0117647058823529,
+                            "shift_180": -0.0869565217391304,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:27:16 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Dogoran, the Mad Flame Kaiju",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN087",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.02,
+                            "low": 1.99,
+                            "average": 2.92,
+                            "shift": -0.033112582781457,
+                            "shift_3": -0.0457516339869281,
+                            "shift_7": 0.0103806228373702,
+                            "shift_21": 0.0,
+                            "shift_30": 0.028169014084507,
+                            "shift_90": 0.0318021201413428,
+                            "shift_180": 0.0855018587360595,
+                            "shift_365": -0.0135135135135135,
+                            "updated_at": "2018-09-24 15:04:43 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Dragong",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN096",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 8.99,
+                            "low": 0.39,
+                            "average": 0.83,
+                            "shift": 0.0,
+                            "shift_3": 0.0121951219512195,
+                            "shift_7": -0.0119047619047619,
+                            "shift_21": -0.0119047619047619,
+                            "shift_30": -0.0119047619047619,
+                            "shift_90": -0.0119047619047619,
+                            "shift_180": -0.0777777777777778,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 10:00:59 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Dried Winds",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN075",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.38,
+                            "low": 1.32,
+                            "average": 6.1,
+                            "shift": 5.85393258426966,
+                            "shift_3": 0.0,
+                            "shift_7": -0.00651465798045603,
+                            "shift_21": -0.0113452188006483,
+                            "shift_30": 2.2972972972973,
+                            "shift_90": 1.96116504854369,
+                            "shift_180": 2.48571428571429,
+                            "shift_365": 3.12162162162162,
+                            "updated_at": "2018-09-24 17:26:15 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Escher the Frost Vassal",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN091",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.39,
+                            "average": 0.88,
+                            "shift": 0.0,
+                            "shift_3": -0.0112359550561798,
+                            "shift_7": -0.0112359550561798,
+                            "shift_21": 0.0476190476190476,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0602409638554217,
+                            "shift_180": 0.0114942528735632,
+                            "shift_365": 0.0602409638554217,
+                            "updated_at": "2018-09-24 15:23:32 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Extinction on Schedule",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN081",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.89,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0113636363636364,
+                            "shift_30": 0.0113636363636364,
+                            "shift_90": 0.0,
+                            "shift_180": -0.135922330097087,
+                            "shift_365": 0.0470588235294118,
+                            "updated_at": "2018-09-24 15:34:45 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Extra Buck",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN079",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.25,
+                            "average": 0.81,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0125,
+                            "shift_21": 0.0125,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0,
+                            "shift_180": -0.0898876404494382,
+                            "shift_365": -0.0121951219512195,
+                            "updated_at": "2018-09-24 15:34:56 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ferret Flames",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN077",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.89,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0113636363636364,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0,
+                            "shift_180": -0.043010752688172,
+                            "shift_365": 0.0595238095238095,
+                            "updated_at": "2018-09-24 14:40:08 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Fluffal Mouse",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN010",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 21.47,
+                            "low": 1.49,
+                            "average": 1.9,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0104166666666667,
+                            "shift_21": 0.0160427807486631,
+                            "shift_30": 0.0160427807486631,
+                            "shift_90": 0.111111111111111,
+                            "shift_180": -0.0355329949238579,
+                            "shift_365": 0.00529100529100529,
+                            "updated_at": "2018-09-24 15:46:59 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Gem-Knight Lady Brilliant Diamond",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN047",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 24.76,
+                            "low": 3.15,
+                            "average": 3.54,
+                            "shift": -0.0111731843575419,
+                            "shift_3": -0.00561797752808989,
+                            "shift_7": -0.078125,
+                            "shift_21": -0.0732984293193717,
+                            "shift_30": -0.0354223433242507,
+                            "shift_90": 0.0028328611898017,
+                            "shift_180": -0.251585623678647,
+                            "shift_365": 0.778894472361809,
+                            "updated_at": "2018-09-14 08:21:02 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Fusion"
+    },
+    {
+        "name": "Hi-Speedroid Kendama",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN095",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 11.2,
+                            "low": 0.75,
+                            "average": 1.13,
+                            "shift": -0.0175438596491228,
+                            "shift_3": -0.0175438596491228,
+                            "shift_7": 0.0,
+                            "shift_21": 0.00900900900900901,
+                            "shift_30": 0.037037037037037,
+                            "shift_90": 0.037037037037037,
+                            "shift_180": 0.0,
+                            "shift_365": 0.0181818181818182,
+                            "updated_at": "2018-09-24 15:26:41 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Humid Winds",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN074",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.91,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0421052631578947,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0111111111111111,
+                            "shift_90": 0.0963855421686747,
+                            "shift_180": -0.149532710280374,
+                            "shift_365": 0.0833333333333333,
+                            "updated_at": "2018-09-24 13:59:17 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Igknight Burst",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN073",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.57,
+                            "low": 0.39,
+                            "average": 0.81,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": -0.0240963855421687,
+                            "shift_90": -0.0121951219512195,
+                            "shift_180": -0.0795454545454545,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:29:28 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Igknight Champion",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN033",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.39,
+                            "average": 0.83,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0121951219512195,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": -0.0119047619047619,
+                            "shift_180": -0.0348837209302326,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 10:19:48 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Igknight Crusader",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN027",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 23.65,
+                            "low": 1.56,
+                            "average": 3.08,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0314465408805031,
+                            "shift_21": 0.0476190476190476,
+                            "shift_30": 0.0476190476190476,
+                            "shift_90": 0.949367088607595,
+                            "shift_180": 1.05333333333333,
+                            "shift_365": 0.257142857142857,
+                            "updated_at": "2018-09-24 10:19:48 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Pendulum"
+    },
+    {
+        "name": "Igknight Gallant",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN031",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.88,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0114942528735632,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0,
+                            "shift_180": -0.137254901960784,
+                            "shift_365": 0.0476190476190476,
+                            "updated_at": "2018-09-24 09:45:32 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Pendulum"
+    },
+    {
+        "name": "Igknight Lancer",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN032",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.78,
+                            "shift": 0.0,
+                            "shift_3": 0.012987012987013,
+                            "shift_7": 0.0263157894736842,
+                            "shift_21": 0.0263157894736842,
+                            "shift_30": 0.0,
+                            "shift_90": -0.0126582278481013,
+                            "shift_180": -0.0602409638554217,
+                            "shift_365": -0.025,
+                            "updated_at": "2018-09-24 10:19:48 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Igknight Margrave",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN030",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.89,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0113636363636364,
+                            "shift_180": -0.0111111111111111,
+                            "shift_365": 0.0595238095238095,
+                            "updated_at": "2018-09-24 09:46:41 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Pendulum"
+    },
+    {
+        "name": "Igknight Paladin",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN029",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.89,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0113636363636364,
+                            "shift_30": 0.0113636363636364,
+                            "shift_90": -0.021978021978022,
+                            "shift_180": -0.0531914893617021,
+                            "shift_365": 0.0595238095238095,
+                            "updated_at": "2018-09-24 09:46:13 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Pendulum"
+    },
+    {
+        "name": "Igknight Squire",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN026",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.88,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0114942528735632,
+                            "shift_30": 0.0,
+                            "shift_90": -0.161904761904762,
+                            "shift_180": -0.161904761904762,
+                            "shift_365": 0.0476190476190476,
+                            "updated_at": "2018-09-24 09:47:23 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Pendulum"
+    },
+    {
+        "name": "Igknight Templar",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN028",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.35,
+                            "low": 0.66,
+                            "average": 1.18,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0442477876106195,
+                            "shift_90": 0.0630630630630631,
+                            "shift_180": 0.0,
+                            "shift_365": -0.0923076923076923,
+                            "updated_at": "2018-09-24 10:20:02 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Pendulum"
+    },
+    {
+        "name": "Ignister Prominence, the Blasting Dracoslayer",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN050",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 28.41,
+                            "low": 1.63,
+                            "average": 3.02,
+                            "shift": -0.0162866449511401,
+                            "shift_3": 0.00666666666666667,
+                            "shift_7": -0.0194805194805195,
+                            "shift_21": 0.0522648083623693,
+                            "shift_30": 0.0378006872852234,
+                            "shift_90": 0.135338345864662,
+                            "shift_180": -0.310502283105023,
+                            "shift_365": 0.431279620853081,
+                            "updated_at": "2018-09-24 16:57:41 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Ignister Prominence, the Blasting Dracoslayer",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN050",
+                "rarity": "Ultimate Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.95,
+                            "low": 4.9,
+                            "average": 5.84,
+                            "shift": 0.0,
+                            "shift_3": -0.00170940170940171,
+                            "shift_7": -0.00848896434634975,
+                            "shift_21": -0.015177065767285,
+                            "shift_30": 0.0299823633156966,
+                            "shift_90": 0.0245614035087719,
+                            "shift_180": -0.205442176870748,
+                            "shift_365": 0.993174061433447,
+                            "updated_at": "2018-09-24 16:57:42 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Ignition Phoenix",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN061",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.92,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.010989010989011,
+                            "shift_90": 0.0,
+                            "shift_180": -0.0212765957446809,
+                            "shift_365": 0.0574712643678161,
+                            "updated_at": "2018-09-24 13:13:40 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Infernoid Decatron",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN039",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 30.21,
+                            "low": 6.19,
+                            "average": 7.9,
+                            "shift": 0.0115236875800256,
+                            "shift_3": 0.156661786237189,
+                            "shift_7": 0.0618279569892473,
+                            "shift_21": 0.0851648351648352,
+                            "shift_30": 0.0881542699724518,
+                            "shift_90": -0.170168067226891,
+                            "shift_180": 0.109550561797753,
+                            "shift_365": 0.639004149377593,
+                            "updated_at": "2018-09-24 16:25:49 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Fiend / Tuner"
+    },
+    {
+        "name": "Infernoid Tierra",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN049",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 24.39,
+                            "low": 2.49,
+                            "average": 3.59,
+                            "shift": 0.00560224089635854,
+                            "shift_3": -0.585450346420323,
+                            "shift_7": 0.0286532951289398,
+                            "shift_21": 0.0748502994011976,
+                            "shift_30": 0.237931034482759,
+                            "shift_90": -0.0477453580901857,
+                            "shift_180": 0.273049645390071,
+                            "shift_365": 0.554112554112554,
+                            "updated_at": "2018-09-24 17:18:46 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Fiend / Fusion"
+    },
+    {
+        "name": "Infernoid Tierra",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN049",
+                "rarity": "Ultimate Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 23.65,
+                            "low": 3.97,
+                            "average": 4.79,
+                            "shift": -0.00208333333333333,
+                            "shift_3": 0.124413145539906,
+                            "shift_7": 0.0788288288288288,
+                            "shift_21": 0.0936073059360731,
+                            "shift_30": 0.0256959314775161,
+                            "shift_90": -0.146167557932264,
+                            "shift_180": 0.159806295399516,
+                            "shift_365": 0.496875,
+                            "updated_at": "2018-09-24 17:18:47 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Fiend / Fusion"
+    },
+    {
+        "name": "Keeper of the Shrine",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN024",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.47,
+                            "average": 0.96,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0103092783505155,
+                            "shift_21": -0.0103092783505155,
+                            "shift_30": 0.0666666666666667,
+                            "shift_90": 0.0666666666666667,
+                            "shift_180": 0.0,
+                            "shift_365": 0.156626506024096,
+                            "updated_at": "2018-09-24 17:08:38 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Kozmo Farmgirl",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN082",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 24.82,
+                            "low": 2.99,
+                            "average": 3.72,
+                            "shift": 0.00540540540540541,
+                            "shift_3": 0.0163934426229508,
+                            "shift_7": -0.0053475935828877,
+                            "shift_21": 0.047887323943662,
+                            "shift_30": 0.0508474576271186,
+                            "shift_90": 0.177215189873418,
+                            "shift_180": 0.1625,
+                            "shift_365": -0.626880641925777,
+                            "updated_at": "2018-09-24 14:51:14 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Kozmo Forerunner",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN085",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.88,
+                            "low": 0.46,
+                            "average": 1.04,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0630630630630631,
+                            "shift_21": 0.118279569892473,
+                            "shift_30": 0.130434782608696,
+                            "shift_90": 0.0947368421052632,
+                            "shift_180": 0.0505050505050505,
+                            "shift_365": 0.0721649484536082,
+                            "updated_at": "2018-09-24 14:31:32 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Kozmo Goodwitch",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN083",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.83,
+                            "average": 1.13,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.00884955752212389,
+                            "shift_21": 0.00900900900900901,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0,
+                            "shift_180": -0.0175438596491228,
+                            "shift_365": -0.104,
+                            "updated_at": "2018-09-24 15:06:53 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Kozmo Sliprider",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN084",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.88,
+                            "low": 0.61,
+                            "average": 0.97,
+                            "shift": 0.0104166666666667,
+                            "shift_3": 0.0104166666666667,
+                            "shift_7": 0.0210526315789474,
+                            "shift_21": 0.043010752688172,
+                            "shift_30": 0.102272727272727,
+                            "shift_90": -0.0934579439252336,
+                            "shift_180": -0.0202020202020202,
+                            "shift_365": -0.118181818181818,
+                            "updated_at": "2018-09-24 14:32:09 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Kozmotown",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN086",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.88,
+                            "low": 0.47,
+                            "average": 0.97,
+                            "shift": -0.0102040816326531,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0102040816326531,
+                            "shift_21": 0.0104166666666667,
+                            "shift_30": 0.0104166666666667,
+                            "shift_90": -0.03,
+                            "shift_180": -0.149122807017544,
+                            "shift_365": -0.0202020202020202,
+                            "updated_at": "2018-09-24 16:49:40 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Kumongous, the Sticky String Kaiju",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN088",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 21.47,
+                            "low": 2.0,
+                            "average": 3.22,
+                            "shift": -0.0242424242424242,
+                            "shift_3": -0.0212765957446809,
+                            "shift_7": -0.027190332326284,
+                            "shift_21": 0.293172690763052,
+                            "shift_30": 0.298387096774194,
+                            "shift_90": 0.0254777070063694,
+                            "shift_180": -0.197007481296758,
+                            "shift_365": 1.20547945205479,
+                            "updated_at": "2018-09-24 15:04:57 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Kyoutou Waterfront",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "\u200eCORE-EN089\u202c",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 11.32,
+                            "low": 0.42,
+                            "average": 1.97,
+                            "shift": -0.00505050505050505,
+                            "shift_3": -0.00505050505050505,
+                            "shift_7": -0.0100502512562814,
+                            "shift_21": -0.00505050505050505,
+                            "shift_30": 1.23863636363636,
+                            "shift_90": -0.374603174603175,
+                            "shift_180": -0.370607028753994,
+                            "shift_365": -0.218253968253968,
+                            "updated_at": "2018-09-24 16:47:02 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Luster Pendulum, the Dracoslayer",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN025",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.0,
+                            "low": 1.43,
+                            "average": 2.1,
+                            "shift": -0.110169491525424,
+                            "shift_3": -0.128630705394191,
+                            "shift_7": -0.125,
+                            "shift_21": -0.139344262295082,
+                            "shift_30": -0.0987124463519313,
+                            "shift_90": -0.195402298850575,
+                            "shift_180": -0.520547945205479,
+                            "shift_365": 0.228070175438596,
+                            "updated_at": "2018-09-15 09:25:21 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Pendulum"
+    },
+    {
+        "name": "Magical Abductor",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN041",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.74,
+                            "low": 0.69,
+                            "average": 1.04,
+                            "shift": 0.0,
+                            "shift_3": 0.04,
+                            "shift_7": 0.04,
+                            "shift_21": 0.0505050505050505,
+                            "shift_30": 0.0297029702970297,
+                            "shift_90": 0.155555555555556,
+                            "shift_180": 0.130434782608696,
+                            "shift_365": 0.0833333333333333,
+                            "updated_at": "2018-09-24 17:13:07 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Mandragon",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN097",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.57,
+                            "low": 0.38,
+                            "average": 0.81,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": -0.0357142857142857,
+                            "shift_180": -0.0898876404494382,
+                            "shift_365": -0.0470588235294118,
+                            "updated_at": "2018-09-24 14:10:27 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Pendulum"
+    },
+    {
+        "name": "Mistaken Arrest",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN065",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 23.65,
+                            "low": 1.99,
+                            "average": 3.24,
+                            "shift": -0.00307692307692308,
+                            "shift_3": -0.00917431192660551,
+                            "shift_7": 0.0553745928338762,
+                            "shift_21": 0.087248322147651,
+                            "shift_30": 0.08,
+                            "shift_90": -0.179746835443038,
+                            "shift_180": -0.0357142857142857,
+                            "shift_365": 0.603960396039604,
+                            "updated_at": "2018-09-24 15:19:12 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mystery Shell Dragon",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN001",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.24,
+                            "low": 0.42,
+                            "average": 1.07,
+                            "shift": 0.0,
+                            "shift_3": 0.0288461538461538,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0388349514563107,
+                            "shift_30": 0.0388349514563107,
+                            "shift_90": 0.0388349514563107,
+                            "shift_180": -0.018348623853211,
+                            "shift_365": 0.00943396226415094,
+                            "updated_at": "2018-09-24 17:35:05 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Wyrm / Normal"
+    },
+    {
+        "name": "Odd-Eyes Rebellion Dragon",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN051",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 8.05,
+                            "low": 4.49,
+                            "average": 3.92,
+                            "shift": 0.0,
+                            "shift_3": -0.0175438596491228,
+                            "shift_7": -0.0150753768844221,
+                            "shift_21": -0.00759493670886076,
+                            "shift_30": 0.0,
+                            "shift_90": 0.116809116809117,
+                            "shift_180": 0.513513513513513,
+                            "shift_365": 0.568,
+                            "updated_at": "2018-09-24 14:05:38 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Odd-Eyes Rebellion Dragon",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN051",
+                "rarity": "Ultimate Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 36.44,
+                            "low": 3.43,
+                            "average": 3.95,
+                            "shift": 0.0154241645244216,
+                            "shift_3": 0.0180412371134021,
+                            "shift_7": 0.0128205128205128,
+                            "shift_21": 0.036745406824147,
+                            "shift_30": 0.0340314136125654,
+                            "shift_90": -0.458904109589041,
+                            "shift_180": -0.527511961722488,
+                            "shift_365": 0.128571428571429,
+                            "updated_at": "2018-09-24 17:47:26 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Opera the Melodious Diva",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN008",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.42,
+                            "average": 0.89,
+                            "shift": -0.0111111111111111,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": -0.0111111111111111,
+                            "shift_90": 0.0,
+                            "shift_180": -0.0824742268041237,
+                            "shift_365": -0.0111111111111111,
+                            "updated_at": "2018-09-24 16:50:08 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Performage Damage Juggler",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN015",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.1,
+                            "low": 0.33,
+                            "average": 0.94,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0105263157894737,
+                            "shift_21": 0.010752688172043,
+                            "shift_30": 0.0,
+                            "shift_90": -0.0208333333333333,
+                            "shift_180": -0.113207547169811,
+                            "shift_365": 0.0930232558139535,
+                            "updated_at": "2018-09-24 14:20:05 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Performage Flame Eater",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN016",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.89,
+                            "shift": 0.0,
+                            "shift_3": -0.0111111111111111,
+                            "shift_7": -0.0111111111111111,
+                            "shift_21": -0.0326086956521739,
+                            "shift_30": -0.0111111111111111,
+                            "shift_90": -0.0111111111111111,
+                            "shift_180": -0.0531914893617021,
+                            "shift_365": 0.0113636363636364,
+                            "updated_at": "2018-09-24 09:26:36 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Performage Hat Tricker",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN017",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.05,
+                            "low": 0.66,
+                            "average": 0.95,
+                            "shift": 0.0,
+                            "shift_3": 0.0326086956521739,
+                            "shift_7": 0.0326086956521739,
+                            "shift_21": 0.043956043956044,
+                            "shift_30": 0.0326086956521739,
+                            "shift_90": -0.0776699029126214,
+                            "shift_180": -0.151785714285714,
+                            "shift_365": 0.043956043956044,
+                            "updated_at": "2018-09-24 17:28:33 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Performage Stilts Launcher",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN019",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.87,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0333333333333333,
+                            "shift_30": 0.0,
+                            "shift_90": -0.163461538461538,
+                            "shift_180": -0.147058823529412,
+                            "shift_365": 0.0116279069767442,
+                            "updated_at": "2018-09-24 10:03:35 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Performage Trapeze Magician",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN053",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.9,
+                            "average": 1.44,
+                            "shift": 0.0,
+                            "shift_3": -0.027027027027027,
+                            "shift_7": -0.04,
+                            "shift_21": -0.0204081632653061,
+                            "shift_30": -0.0588235294117647,
+                            "shift_90": -0.0463576158940397,
+                            "shift_180": -0.137724550898204,
+                            "shift_365": 0.116279069767442,
+                            "updated_at": "2018-09-24 10:03:43 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Xyz"
+    },
+    {
+        "name": "Performage Trick Clown",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN018",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 14.38,
+                            "low": 0.42,
+                            "average": 0.94,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0208333333333333,
+                            "shift_21": -0.0408163265306122,
+                            "shift_30": -0.0105263157894737,
+                            "shift_90": -0.0693069306930693,
+                            "shift_180": -0.168141592920354,
+                            "shift_365": -0.121495327102804,
+                            "updated_at": "2018-09-24 14:48:18 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Performapal Camelump",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN005",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.87,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0116279069767442,
+                            "shift_30": 0.0,
+                            "shift_90": -0.0224719101123595,
+                            "shift_180": -0.09375,
+                            "shift_365": -0.0333333333333333,
+                            "updated_at": "2018-09-24 11:30:20 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Pendulum"
+    },
+    {
+        "name": "Performapal Drummerilla",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN006",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.33,
+                            "average": 0.89,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0348837209302326,
+                            "shift_30": 0.0229885057471264,
+                            "shift_90": 0.0113636363636364,
+                            "shift_180": -0.021978021978022,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 09:38:18 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Pendulum"
+    },
+    {
+        "name": "Performapal Salutiger",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN093",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 1.03,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.170454545454545,
+                            "shift_180": -0.055045871559633,
+                            "shift_365": 0.197674418604651,
+                            "updated_at": "2018-09-22 22:26:03 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Performapal Silver Claw",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN090",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.89,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0113636363636364,
+                            "shift_30": -0.0111111111111111,
+                            "shift_90": 0.0348837209302326,
+                            "shift_180": -0.0326086956521739,
+                            "shift_365": 0.0113636363636364,
+                            "updated_at": "2018-09-24 11:31:52 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Beast / Pendulum"
+    },
+    {
+        "name": "Pianissimo",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN055",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 8.81,
+                            "low": 0.42,
+                            "average": 0.88,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0112359550561798,
+                            "shift_21": 0.0,
+                            "shift_30": -0.0112359550561798,
+                            "shift_90": -0.0434782608695652,
+                            "shift_180": -0.185185185185185,
+                            "shift_365": 0.0114942528735632,
+                            "updated_at": "2018-09-24 16:50:30 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Raidraptor - Fuzzy Lanius",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN013",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.19,
+                            "low": 0.33,
+                            "average": 0.91,
+                            "shift": 0.0,
+                            "shift_3": 0.0459770114942529,
+                            "shift_7": 0.0581395348837209,
+                            "shift_21": 0.0459770114942529,
+                            "shift_30": 0.0581395348837209,
+                            "shift_90": 0.0224719101123595,
+                            "shift_180": -0.133333333333333,
+                            "shift_365": 0.0705882352941176,
+                            "updated_at": "2018-09-08 19:17:00 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Raidraptor - Return",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN069",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.99,
+                            "low": 0.33,
+                            "average": 0.89,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0111111111111111,
+                            "shift_21": 0.0229885057471264,
+                            "shift_30": 0.0113636363636364,
+                            "shift_90": 0.0,
+                            "shift_180": -0.0111111111111111,
+                            "shift_365": -0.0111111111111111,
+                            "updated_at": "2018-09-24 13:47:49 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Raidraptor - Singing Lanius",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN014",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.19,
+                            "low": 0.33,
+                            "average": 0.87,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0116279069767442,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0116279069767442,
+                            "shift_90": -0.0113636363636364,
+                            "shift_180": -0.0113636363636364,
+                            "shift_365": 0.0235294117647059,
+                            "updated_at": "2018-09-09 12:28:04 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Rank-Up-Magic Raptor's Force",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN057",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.99,
+                            "low": 0.33,
+                            "average": 0.91,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0224719101123595,
+                            "shift_21": 0.0581395348837209,
+                            "shift_30": 0.0581395348837209,
+                            "shift_90": 0.0581395348837209,
+                            "shift_180": 0.0340909090909091,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 12:13:08 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Raptor's Gust",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN070",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.42,
+                            "average": 0.88,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0352941176470588,
+                            "shift_30": 0.0114942528735632,
+                            "shift_90": 0.0114942528735632,
+                            "shift_180": 0.0,
+                            "shift_365": 0.0352941176470588,
+                            "updated_at": "2018-09-24 13:47:55 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Red-Eyes Archfiend of Lightning",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN023",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 25.72,
+                            "low": 2.5,
+                            "average": 2.92,
+                            "shift": -0.00341296928327645,
+                            "shift_3": -0.0817610062893082,
+                            "shift_7": -0.0846394984326019,
+                            "shift_21": -0.0234113712374582,
+                            "shift_30": -0.0234113712374582,
+                            "shift_90": 0.0618181818181818,
+                            "shift_180": -0.0457516339869281,
+                            "shift_365": 0.118773946360153,
+                            "updated_at": "2018-09-24 17:30:34 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Gemini"
+    },
+    {
+        "name": "Red-Eyes Black Flare Dragon",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN020",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 32.02,
+                            "low": 6.45,
+                            "average": 7.8,
+                            "shift": 0.0358565737051793,
+                            "shift_3": 0.04,
+                            "shift_7": 0.0209424083769634,
+                            "shift_21": -0.00383141762452107,
+                            "shift_30": 0.0554803788903924,
+                            "shift_90": -0.0930232558139535,
+                            "shift_180": -0.165775401069519,
+                            "shift_365": 0.0249671484888305,
+                            "updated_at": "2018-09-24 14:36:32 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Gemini"
+    },
+    {
+        "name": "Red-Eyes Flare Metal Dragon",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN054",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 38.96,
+                            "low": 6.19,
+                            "average": 7.13,
+                            "shift": 0.0214899713467049,
+                            "shift_3": -0.00557880055788006,
+                            "shift_7": 0.00281293952180028,
+                            "shift_21": 0.0258992805755396,
+                            "shift_30": -0.00557880055788006,
+                            "shift_90": -0.083547557840617,
+                            "shift_180": -0.105395232120452,
+                            "shift_365": 0.598654708520179,
+                            "updated_at": "2018-09-24 14:10:24 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Red-Eyes Flare Metal Dragon",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN054",
+                "rarity": "Ultimate Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 36.7,
+                            "low": 5.95,
+                            "average": 11.23,
+                            "shift": 0.24916573971079,
+                            "shift_3": -0.284713375796178,
+                            "shift_7": 0.234065934065934,
+                            "shift_21": 0.760188087774295,
+                            "shift_30": 0.666172106824926,
+                            "shift_90": 0.110781404549951,
+                            "shift_180": 0.454663212435233,
+                            "shift_365": 1.14312977099237,
+                            "updated_at": "2018-09-21 20:18:44 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Red-Eyes Flare Metal Dragon",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN054",
+                "rarity": "Ghost Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 106.01,
+                            "low": 5.25,
+                            "average": 17.56,
+                            "shift": -0.0383561643835616,
+                            "shift_3": -0.040983606557377,
+                            "shift_7": -0.181436567164179,
+                            "shift_21": -0.118533400301356,
+                            "shift_30": -0.0972222222222222,
+                            "shift_90": 2.0363321799308,
+                            "shift_180": 1.7421875,
+                            "shift_365": 0.6875,
+                            "updated_at": "2018-09-24 14:10:26 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Red-Eyes Fusion",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN059",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 21.47,
+                            "low": 2.49,
+                            "average": 4.16,
+                            "shift": 0.185185185185185,
+                            "shift_3": 0.158774373259053,
+                            "shift_7": 0.178470254957507,
+                            "shift_21": 0.3,
+                            "shift_30": 0.191977077363897,
+                            "shift_90": -0.0392609699769053,
+                            "shift_180": -0.185909980430528,
+                            "shift_365": -0.157894736842105,
+                            "updated_at": "2018-09-24 17:43:14 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Retaliating \"C\"",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN045",
+                "rarity": "Short Print",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.88,
+                            "low": 0.52,
+                            "average": 0.84,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.024390243902439,
+                            "shift_30": 0.024390243902439,
+                            "shift_90": -0.0117647058823529,
+                            "shift_180": -0.0869565217391304,
+                            "shift_365": 0.0632911392405063,
+                            "updated_at": "2018-09-24 14:38:00 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Return of the Red-Eyes",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN072",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.42,
+                            "average": 1.09,
+                            "shift": 0.00925925925925926,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.282352941176471,
+                            "shift_30": 0.282352941176471,
+                            "shift_90": 0.0186915887850467,
+                            "shift_180": 0.184782608695652,
+                            "shift_365": 0.297619047619048,
+                            "updated_at": "2018-09-24 17:55:12 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Risebell the Summoner",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN002",
+                "rarity": "Short Print",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 3.92,
+                            "low": 0.42,
+                            "average": 0.9,
+                            "shift": 0.0,
+                            "shift_3": -0.010989010989011,
+                            "shift_7": -0.010989010989011,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0112359550561798,
+                            "shift_90": 0.0843373493975904,
+                            "shift_180": -0.0425531914893617,
+                            "shift_365": 0.0588235294117647,
+                            "updated_at": "2018-09-24 11:17:54 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Psychic / Pendulum"
+    },
+    {
+        "name": "Secret Blast",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN099",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 0.66,
+                            "average": 0.94,
+                            "shift": 0.0,
+                            "shift_3": -0.0105263157894737,
+                            "shift_7": -0.0105263157894737,
+                            "shift_21": 0.0217391304347826,
+                            "shift_30": -0.0693069306930693,
+                            "shift_90": 0.032967032967033,
+                            "shift_180": -0.0309278350515464,
+                            "shift_365": 0.0217391304347826,
+                            "updated_at": "2018-09-24 17:18:34 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Side Effects?",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN080",
+                "rarity": "Short Print",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.42,
+                            "average": 0.91,
+                            "shift": 0.0,
+                            "shift_3": -0.0108695652173913,
+                            "shift_7": -0.0108695652173913,
+                            "shift_21": -0.021505376344086,
+                            "shift_30": -0.021505376344086,
+                            "shift_90": 0.0,
+                            "shift_180": -0.021505376344086,
+                            "shift_365": 0.0833333333333333,
+                            "updated_at": "2018-09-24 11:09:13 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Sky Dragoons of Draconia",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN000",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.85,
+                            "low": 0.46,
+                            "average": 0.9,
+                            "shift": 0.0112359550561798,
+                            "shift_3": 0.0344827586206897,
+                            "shift_7": -0.010989010989011,
+                            "shift_21": 0.0344827586206897,
+                            "shift_30": 0.0227272727272727,
+                            "shift_90": 0.0112359550561798,
+                            "shift_180": -0.0526315789473684,
+                            "shift_365": 0.0344827586206897,
+                            "updated_at": "2018-09-24 15:03:38 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Pendulum"
+    },
+    {
+        "name": "Storming Mirror Force",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN076",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 45.52,
+                            "low": 11.84,
+                            "average": 13.88,
+                            "shift": 0.010924981791697,
+                            "shift_3": 0.010924981791697,
+                            "shift_7": -0.0564242012236574,
+                            "shift_21": 0.0467571644042232,
+                            "shift_30": 0.04047976011994,
+                            "shift_90": -0.11704834605598,
+                            "shift_180": -0.568273716951789,
+                            "shift_365": -0.159297395517868,
+                            "updated_at": "2018-09-24 15:34:12 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Superheavy Samurai Blowtorch",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN007",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.35,
+                            "average": 1.05,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.166666666666667,
+                            "shift_30": 0.0,
+                            "shift_90": -0.609665427509294,
+                            "shift_180": -0.594594594594595,
+                            "shift_365": -0.490291262135922,
+                            "updated_at": "2018-09-24 15:12:58 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Superheavy Samurai Ogre Shutendoji",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN094",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 8.22,
+                            "low": 1.63,
+                            "average": 2.85,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.313364055299539,
+                            "shift_21": 0.255506607929515,
+                            "shift_30": 0.255506607929515,
+                            "shift_90": 0.0674157303370786,
+                            "shift_180": 0.331775700934579,
+                            "shift_365": 0.0288808664259928,
+                            "updated_at": "2018-09-24 15:13:23 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Tamtam the Melodious Diva",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN009",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.33,
+                            "average": 0.91,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0111111111111111,
+                            "shift_90": -0.021505376344086,
+                            "shift_180": -0.0618556701030928,
+                            "shift_365": 0.0833333333333333,
+                            "updated_at": "2018-09-24 10:47:35 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Tatsunoko",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN098",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.74,
+                            "low": 1.58,
+                            "average": 2.09,
+                            "shift": 0.0145631067961165,
+                            "shift_3": 0.0145631067961165,
+                            "shift_7": -0.286689419795222,
+                            "shift_21": -0.301003344481605,
+                            "shift_30": -0.289115646258503,
+                            "shift_90": 0.0829015544041451,
+                            "shift_180": -0.027906976744186,
+                            "shift_365": 0.045,
+                            "updated_at": "2018-09-24 15:25:20 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Wyrm / Synchro"
+    },
+    {
+        "name": "The Black Stone of Legend",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN021",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 49.16,
+                            "low": 10.99,
+                            "average": 13.85,
+                            "shift": 0.0,
+                            "shift_3": -0.0149359886201991,
+                            "shift_7": -0.0218926553672316,
+                            "shift_21": 0.0312732688011914,
+                            "shift_30": -0.0246478873239437,
+                            "shift_90": 0.103585657370518,
+                            "shift_180": 0.103585657370518,
+                            "shift_365": -0.00287976961843053,
+                            "updated_at": "2018-09-24 15:14:27 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Toon Cyber Dragon",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN043",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.74,
+                            "low": 1.82,
+                            "average": 2.66,
+                            "shift": -0.00374531835205993,
+                            "shift_3": -0.00374531835205993,
+                            "shift_7": -0.00374531835205993,
+                            "shift_21": 0.0901639344262295,
+                            "shift_30": -0.0291970802919708,
+                            "shift_90": -0.208333333333333,
+                            "shift_180": -0.235632183908046,
+                            "shift_365": 0.785234899328859,
+                            "updated_at": "2018-09-24 16:38:53 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Toon"
+    },
+    {
+        "name": "Trick Box",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN071",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.9,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0112359550561798,
+                            "shift_30": 0.0112359550561798,
+                            "shift_90": -0.150943396226415,
+                            "shift_180": -0.181818181818182,
+                            "shift_365": 0.0344827586206897,
+                            "updated_at": "2018-09-24 13:42:29 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Void Imagination",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN063",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 38.63,
+                            "low": 2.99,
+                            "average": 3.5,
+                            "shift": 0.0,
+                            "shift_3": 0.0416666666666667,
+                            "shift_7": 0.0447761194029851,
+                            "shift_21": -0.0223463687150838,
+                            "shift_30": 0.0174418604651163,
+                            "shift_90": -0.489051094890511,
+                            "shift_180": -0.150485436893204,
+                            "shift_365": 0.822916666666667,
+                            "updated_at": "2018-09-24 16:07:19 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Wavering Eyes",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN066",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 14.46,
+                            "low": 0.42,
+                            "average": 0.93,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0108695652173913,
+                            "shift_21": -0.03125,
+                            "shift_30": -0.0412371134020619,
+                            "shift_90": -0.316176470588235,
+                            "shift_180": -0.486187845303867,
+                            "shift_365": -0.330935251798561,
+                            "updated_at": "2018-09-24 15:49:05 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Xiangke Magician",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN003",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 10.91,
+                            "low": 4.73,
+                            "average": 4.89,
+                            "shift": 0.012448132780083,
+                            "shift_3": 0.0405117270788913,
+                            "shift_7": 0.181598062953995,
+                            "shift_21": 0.199017199017199,
+                            "shift_30": 0.187347931873479,
+                            "shift_90": 0.104072398190045,
+                            "shift_180": 1.88757396449704,
+                            "shift_365": 1.87058823529412,
+                            "updated_at": "2018-09-24 15:52:12 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Xiangsheng Magician",
+        "numbers": [
+            {
+                "name": "Clash of Rebellions",
+                "print_tag": "CORE-EN004",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.88,
+                            "low": 0.78,
+                            "average": 1.42,
+                            "shift": 0.0,
+                            "shift_3": -0.00699300699300699,
+                            "shift_7": 0.0142857142857143,
+                            "shift_21": 0.0441176470588235,
+                            "shift_30": 0.0676691729323308,
+                            "shift_90": 0.365384615384615,
+                            "shift_180": 0.314814814814815,
+                            "shift_365": 0.279279279279279,
+                            "updated_at": "2018-09-24 15:52:31 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Pendulum"
+    }
+]

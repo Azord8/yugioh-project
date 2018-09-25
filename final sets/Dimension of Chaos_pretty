@@ -1,0 +1,1052 @@
+[
+    {
+        "name": "Assault Blackwing - Kunai the Drizzle",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN018",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Assault Blackwing - Raikiri the Rain Shower",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN047",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Synchro"
+    },
+    {
+        "name": "Assault Blackwing - Raikiri the Rain Shower",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN047",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Synchro"
+    },
+    {
+        "name": "Beginning Knight",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN022",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Black Luster Soldier - Super Soldier",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN042",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Ritual"
+    },
+    {
+        "name": "Black Luster Soldier - Super Soldier",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN042",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Ritual"
+    },
+    {
+        "name": "Blazing Mirror Force",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN076",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Charging Gaia the Fierce Knight",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN019",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Contract Laundering",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN096",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "D/D Berfomet",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN010",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "D/D Necro Slime",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN012",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "D/D Savant Galilei",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN091",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Pendulum"
+    },
+    {
+        "name": "D/D Savant Kepler",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN092",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Pendulum"
+    },
+    {
+        "name": "D/D Swirl Slime",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN011",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "D/D/D Contract Change",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN068",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "D/D/D Duo-Dawn King Kali Yuga",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN050",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Xyz"
+    },
+    {
+        "name": "D/D/D Human Resources",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN097",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "D/D/D Oblivion King Abyss Ragnarok",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN099",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Pendulum"
+    },
+    {
+        "name": "D/D/D Rebel King Leonidas",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN098",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Pendulum"
+    },
+    {
+        "name": "D/D/D Wave King Caesar",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN090",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fiend / Xyz"
+    },
+    {
+        "name": "D/D/D Wave Oblivion King Caesar Ragnarok",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN044",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Fusion"
+    },
+    {
+        "name": "Dark Contract with Errors",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN069",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dark Contract with the Gate",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN093",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dark Contract with the Swamp King",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN094",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dark Contract with the Witch",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN095",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Deskbot 006",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN039",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Deskbot Jet",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN049",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Dr. Frankenderp",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN041",
+                "rarity": "Short Print",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Evening Twilight Knight",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN023",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "First-Aid Squad",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN080",
+                "rarity": "Short Print",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Fluffal Wings",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN009",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Frightfur March",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN067",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Frightfur Sabre-Tooth",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN043",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Fusion"
+    },
+    {
+        "name": "Gameciel, the Sea Turtle Kaiju",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN088",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Gateway to Chaos",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN057",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Giant Pairfish",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN037",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Wyrm / Effect"
+    },
+    {
+        "name": "Grand Horn of Heaven",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN079",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Graydle Alligator",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN033",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Graydle Cobra",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN034",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Graydle Dragon",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN048",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Synchro"
+    },
+    {
+        "name": "Graydle Eagle",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN035",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Graydle Impact",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN062",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Graydle Parasite",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN074",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Graydle Slime",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN032",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Tuner"
+    },
+    {
+        "name": "Graydle Split",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN075",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Igknight Cavalier",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN030",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Pendulum"
+    },
+    {
+        "name": "Igknight Reload",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN061",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Igknight Veteran",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN031",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Pendulum"
+    },
+    {
+        "name": "Kaiju Capture Mission",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN089",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Kozmo DOG Fighter",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN084",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Kozmo Dark Destroyer",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN085",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Kozmo Lightsword",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN086",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Kozmo Strawman",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN082",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Kozmoll Wickedwitch",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN083",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Majespecter Cat - Nekomata",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN025",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Majespecter Crow - Yata",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN027",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Majespecter Cyclone",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN060",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Majespecter Fox - Kyubi",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN028",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Majespecter Raccoon - Bunbuku",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN026",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Majespecter Storm",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN059",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Majespecter Tempest",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN073",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Majespecter Tornado",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN072",
+                "rarity": "Ultra Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Majespecter Unicorn - Kirin",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN029",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Majester Paladin, the Ascending Dracoslayer",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN052",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Majester Paladin, the Ascending Dracoslayer",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN052",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Majesty's Pegasus",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN058",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Odd-Eyes Fusion",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN063",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Odd-Eyes Vortex Dragon",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN045",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Fusion"
+    },
+    {
+        "name": "Odd-Eyes Vortex Dragon",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN045",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Fusion"
+    },
+    {
+        "name": "Painful Decision",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN065",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Painful Escape",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN081",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Pendulum Area",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN077",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Performage Mirror Conductor",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN015",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Performage Plushfire",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN016",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Performapal Helpprincess",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN003",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Performapal Secondonkey",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN001",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Pot of The Forbidden",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN040",
+                "rarity": "Short Print",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Flip"
+    },
+    {
+        "name": "Psychic Blade",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN064",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Radian, the Multidimensional Kaiju",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN087",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Raidraptor - Fiend Eagle",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN051",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Xyz"
+    },
+    {
+        "name": "Raidraptor - Skull Eagle",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN014",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Raidraptor - Wild Vulture",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN013",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Rank-Up-Magic Raid Force",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN054",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Raptor's Ultimate Mace",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN055",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Samurai Cavalry of Reptier",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN000",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Dinosaur / Pendulum"
+    },
+    {
+        "name": "Scarlight Red Dragon Archfiend",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN046",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Scarlight Red Dragon Archfiend",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN046",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Scarlight Red Dragon Archfiend",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN046",
+                "rarity": "Ghost Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Shuffle Reborn",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN053",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Skilled Red Magician",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN036",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Sphere Kuriboh",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN020",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Super Rush Headlong",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN066",
+                "rarity": "Short Print",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Super Soldier Rebirth",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN070",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Super Soldier Ritual",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN056",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Ritual",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Super Soldier Shield",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN071",
+                "rarity": "Ultra Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Super Soldier Soul",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN021",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Superheavy Samurai Drum",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN006",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Superheavy Samurai Soulclaw",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN008",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Superheavy Samurai Soulhorns",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN007",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Superheavy Samurai Thief",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN004",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Superheavy Samurai Transporter",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN005",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "The Legendary Fisherman III",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN017",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Toon Barrel Dragon",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN038",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Toon"
+    },
+    {
+        "name": "Urgent Ritual Art",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN078",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Vector Pendulum, the Dracoverlord",
+                "pack": "Dimension of Chaos",
+                "print_tag": "DOCS-EN024",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Pendulum"
+    }
+]

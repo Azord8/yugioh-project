@@ -1,0 +1,1002 @@
+[
+    {
+        "name": "Aegaion the Sea Castrum",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN055",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Al-Lumi'raj",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN037",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Wyrm / Tuner"
+    },
+    {
+        "name": "Arisen Gaia the Fierce Knight",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN098",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Bad Luck Blast",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN080",
+                "rarity": "Short Print",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Black Luster Soldier - Sacred Soldier",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN097",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Blackwing - Harmattan the Dust",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN014",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Buster Blader, the Destruction Swordmaster",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN018",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Buster Blader, the Dragon Destroyer Swordsman",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN045",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "Buster Dragon",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN052",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Buster Whelp of the Destruction Swordsman",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN019",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Tuner"
+    },
+    {
+        "name": "Chimeratech Rampage Dragon",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN093",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "Cyber Dragon Infinity",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN094",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Dark Doriado",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN035",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Deskbot 007",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN039",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Deskbot 008",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN040",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Destruction Sword Flash",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN072",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Destruction Swordsman Fusion",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN059",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dharma-Eye Magician",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN096",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Dinomic Powerload",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN062",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dinomist Brachion",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN027",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Dinomist Ceratops",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN028",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Dinomist Charge",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN063",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dinomist Plesios",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN025",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Dinomist Pteran",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN026",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Dinomist Rex",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN029",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Dinomist Rush",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN073",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dinomist Stegosaur",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN024",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Dinoster Power, the Mighty Dracoslayer",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN046",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Dragon / Fusion"
+    },
+    {
+        "name": "Draco Face-Off",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN061",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dragon Buster Destruction Sword",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN020",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Tuner"
+    },
+    {
+        "name": "Dragon's Bind",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN069",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Engraver of the Mark",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN041",
+                "rarity": "Short Print",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Enlightenment Paladin",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN047",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Synchro"
+    },
+    {
+        "name": "Fiendish Rhino Warrior",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN091",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Follow Wing",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN070",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Forbidden Apocrypha",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN078",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gadarla, the Mystery Dust Kaiju",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN087",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Goyo Defender",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN050",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Synchro"
+    },
+    {
+        "name": "Goyo Emperor",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN044",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "Goyo King",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN051",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Synchro"
+    },
+    {
+        "name": "Guiding Ariadne",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN036",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Pendulum"
+    },
+    {
+        "name": "Hi-Speed Re-Level",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN058",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Hi-Speedroid Hagoita",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN049",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Interrupted Kaiju Slumber",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN089",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Jizukiru, the Star Destroying Kaiju",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN088",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Karma of the Destruction Swordsman",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN060",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Kozmo Dark Eclipser",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN085",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Kozmo Delta Shuttle",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN084",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Kozmo Soartroopers",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN083",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Kozmo Tincan",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN082",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Kozmojo",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN086",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Majespecter Sonics",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN064",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Majespecter Supercell",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN074",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Majespecter Toad - Ogama",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN030",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Master Pendulum, the Dracoslayer",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN023",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Pendulum"
+    },
+    {
+        "name": "Mistaken Accusation",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN068",
+                "rarity": "Short Print",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Neptabyss, the Atlantean Prince",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN092",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Sea Serpent / Effect"
+    },
+    {
+        "name": "Odd-Eyes Advent",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN066",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Ritual",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Odd-Eyes Gravity Dragon",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN043",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Dragon / Ritual"
+    },
+    {
+        "name": "Pendulum Reborn",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN077",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Pendulum Storm",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN057",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Performance Hurricane",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN056",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Performapal Bit Bite Turtle",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN005",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Reptile / Pendulum"
+    },
+    {
+        "name": "Performapal Guitartle",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN004",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Pendulum"
+    },
+    {
+        "name": "Performapal Monkeyboard",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN003",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Pendulum"
+    },
+    {
+        "name": "Performapal Pendulum Sorcerer",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN090",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Performapal Rain Goat",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN006",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Performapal Trump Girl",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN007",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Quaking Mirror Force",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN076",
+                "rarity": "Ultra Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Red-Eyes Retro Dragon",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN095",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Reject Reborn",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN071",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Robot Buster Destruction Sword",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN022",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Score the Melodious Diva",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN013",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Shiranui Samurai",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN034",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Shiranui Samuraisaga",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN053",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Zombie / Synchro"
+    },
+    {
+        "name": "Shiranui Shogunsaga",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN054",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Zombie / Synchro"
+    },
+    {
+        "name": "Shiranui Smith",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN032",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Shiranui Spectralsword",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN031",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Zombie / Tuner"
+    },
+    {
+        "name": "Shiranui Spiritmaster",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN033",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Shiranui Style Swallow's Slash",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN075",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Shiranui Style Synthesis",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN065",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Solemn Strike",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN079",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Solo the Melodious Songstress",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN012",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Steel Cavalry of Dinon",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN000",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Dinosaur / Pendulum"
+    },
+    {
+        "name": "Superheavy Samurai Beast Kyubi",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN048",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Superheavy Samurai General Coral",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN011",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Superheavy Samurai General Jade",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN010",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Superheavy Samurai Magnet",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN008",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Superheavy Samurai Prepped Defense",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN009",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Timebreaker Magician",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN002",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Toon Buster Blader",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN038",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Toon"
+    },
+    {
+        "name": "Traptrix Rafflesia",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN099",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Xyz"
+    },
+    {
+        "name": "Tuning Magician",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN001",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Tuner"
+    },
+    {
+        "name": "Twilight Ninja Getsuga, the Shogun",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN017",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Twilight Ninja Nichirin, the Chunin",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN016",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Twilight Ninja Shingetsu",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN015",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Twin Twisters",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN067",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ultimate Providence",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN081",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Wizard Buster Destruction Sword",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN021",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Zany Zebra",
+                "pack": "Breakers of Shadow",
+                "print_tag": "BOSH-EN042",
+                "rarity": "Short Print",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Beast / Pendulum"
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Ally Mind",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN017",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Ally of Justice Cosmic Gateway",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN022",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Ally of Justice Enemy Catcher",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN020",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Ally of Justice Field Marshal",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN030",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Ally of Justice Nullfier",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN018",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Ally of Justice Reverse Break",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN050",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Ally of Justice Searcher",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN019",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Ally of Justice Thunder Armor",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN021",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Ally of Justice Unlimiter",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN051",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Dai-sojo of the Ice Barrier",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN011",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Dewloren, Tiger King of the Ice Barrier",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN027",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Beast / Synchro"
+    },
+    {
+        "name": "Fabled Gallabas",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN033",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Fabled Grimro",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN032",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Fabled Kushano",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN034",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Tuner"
+    },
+    {
+        "name": "Fabled Lurrie",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN031",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Fabled Valkyrus",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN056",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Synchro"
+    },
+    {
+        "name": "Flamvell Baby",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN016",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Pyro / Tuner"
+    },
+    {
+        "name": "Flamvell Grunika",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN015",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Genex Army",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN045",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Genex Blastfan",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN043",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Genex Doctor",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN009",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Genex Furnace",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN005",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Pyro / Effect"
+    },
+    {
+        "name": "Genex Gaia",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN006",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Genex Recycled",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN044",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Genex Solar",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN010",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Genex Spare",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN007",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Genex Turbine",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN008",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Geo Genex",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN029",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Geomancer of the Ice Barrier",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN047",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Spellcaster / Tuner"
+    },
+    {
+        "name": "Jurrac Giganoto",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN057",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dinosaur / Synchro"
+    },
+    {
+        "name": "Jurrac Monoloph",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN037",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dinosaur / Tuner"
+    },
+    {
+        "name": "Jurrac Protops",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN035",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Jurrac Tyrannus",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN038",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Jurrac Velo",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN036",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Medium of the Ice Barrier",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN012",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Mist Valley Apex Avian",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN049",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Mist Valley Baby Roc",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN013",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Tuner"
+    },
+    {
+        "name": "Mist Valley Executor",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN014",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Thunder / Effect"
+    },
+    {
+        "name": "Mist Valley Falcon",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN048",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Mist Valley Thunder Lord",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN060",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Thunder / Synchro"
+    },
+    {
+        "name": "Naturia Antjaw",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN039",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Naturia Beast",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN026",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Synchro"
+    },
+    {
+        "name": "Naturia Beetle",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN001",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Naturia Cosmobeet",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN042",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Tuner"
+    },
+    {
+        "name": "Naturia Guardian",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN003",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Naturia Leodrake",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN058",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Synchro"
+    },
+    {
+        "name": "Naturia Rock",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN002",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Naturia Rosewhip",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN041",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Tuner"
+    },
+    {
+        "name": "Naturia Spiderfang",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN040",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Naturia Vein",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN004",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Tuner"
+    },
+    {
+        "name": "Pilgrim of the Ice Barrier",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN046",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Thermal Genex",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN028",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Windmill Genex",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN059",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Worm Linx",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN023",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "Worm Millidith",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN024",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "Worm Noble",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN025",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "Worm Opera",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN052",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "Worm Prince",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN053",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "Worm Queen",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN054",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "Worm Rakuyeh",
+                "pack": "Hidden Arsenal 2",
+                "print_tag": "HA02-EN055",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Reptile / Effect"
+    }
+]

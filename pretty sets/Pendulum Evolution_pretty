@@ -1,0 +1,2026 @@
+[
+    {
+        "name": "Amazing Pendulum",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN034",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 8.42,
+                            "low": 0.33,
+                            "average": 0.9,
+                            "shift": 0.836734693877551,
+                            "shift_3": 0.0,
+                            "shift_7": -0.010989010989011,
+                            "shift_21": -0.010989010989011,
+                            "shift_30": -0.010989010989011,
+                            "shift_90": 0.0112359550561798,
+                            "shift_180": -0.0909090909090909,
+                            "shift_365": -0.166666666666667,
+                            "updated_at": "2018-09-24 12:57:53 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Archfiend Eccentrick",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN026",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.62,
+                            "average": 1.09,
+                            "shift": 0.0,
+                            "shift_3": 0.0186915887850467,
+                            "shift_7": 0.0480769230769231,
+                            "shift_21": -0.018018018018018,
+                            "shift_30": 0.058252427184466,
+                            "shift_90": 0.09,
+                            "shift_180": 0.0686274509803922,
+                            "shift_365": -0.305732484076433,
+                            "updated_at": "2018-09-24 14:46:24 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Pendulum"
+    },
+    {
+        "name": "Astrograph Sorcerer",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN001",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 34.49,
+                            "low": 1.06,
+                            "average": 2.2,
+                            "shift": 0.0784313725490196,
+                            "shift_3": -0.0393013100436681,
+                            "shift_7": -0.0638297872340425,
+                            "shift_21": -0.0476190476190476,
+                            "shift_30": -0.0222222222222222,
+                            "shift_90": -0.16030534351145,
+                            "shift_180": -0.431524547803618,
+                            "shift_365": -0.285714285714286,
+                            "updated_at": "2018-09-24 16:31:08 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Black Fang Magician",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN004",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.82,
+                            "average": 2.31,
+                            "shift": 0.0,
+                            "shift_3": 0.0176211453744493,
+                            "shift_7": 0.8046875,
+                            "shift_21": 0.957627118644068,
+                            "shift_30": 1.04424778761062,
+                            "shift_90": 0.925,
+                            "shift_180": 1.02631578947368,
+                            "shift_365": -0.172043010752688,
+                            "updated_at": "2018-09-24 14:24:18 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Chronograph Sorcerer",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN002",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 22.36,
+                            "low": 1.75,
+                            "average": 2.2,
+                            "shift": -0.0178571428571429,
+                            "shift_3": 0.00917431192660551,
+                            "shift_7": 0.042654028436019,
+                            "shift_21": 0.0784313725490196,
+                            "shift_30": 0.0784313725490196,
+                            "shift_90": 0.208791208791209,
+                            "shift_180": 0.517241379310345,
+                            "shift_365": 1.15686274509804,
+                            "updated_at": "2018-09-24 15:52:36 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Dharma-Eye Magician",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN018",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 1.1,
+                            "low": 0.33,
+                            "average": 1.09,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.211111111111111,
+                            "shift_21": 0.211111111111111,
+                            "shift_30": 0.211111111111111,
+                            "shift_90": 0.313253012048193,
+                            "shift_180": 0.297619047619048,
+                            "shift_365": 0.0186915887850467,
+                            "updated_at": "2018-09-24 15:30:27 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Doomstar Magician",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN021",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 0.33,
+                            "average": 0.83,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0,
+                            "shift_180": -0.0978260869565217,
+                            "shift_365": -0.0235294117647059,
+                            "updated_at": "2018-09-24 15:32:59 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Double Iris Magician",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN003",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.03,
+                            "low": 0.82,
+                            "average": 1.36,
+                            "shift": 0.0,
+                            "shift_3": 0.00740740740740741,
+                            "shift_7": -0.0072992700729927,
+                            "shift_21": -0.0215827338129496,
+                            "shift_30": 0.0542635658914729,
+                            "shift_90": 0.320388349514563,
+                            "shift_180": 0.20353982300885,
+                            "shift_365": -0.524475524475524,
+                            "updated_at": "2018-09-24 12:44:51 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Dragon's Mirror",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN039",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 21.47,
+                            "low": 2.19,
+                            "average": 2.34,
+                            "shift": 0.0,
+                            "shift_3": 0.012987012987013,
+                            "shift_7": -0.120300751879699,
+                            "shift_21": 0.966386554621849,
+                            "shift_30": -0.126865671641791,
+                            "shift_90": 0.225130890052356,
+                            "shift_180": 0.329545454545455,
+                            "shift_365": 0.114285714285714,
+                            "updated_at": "2018-09-24 13:12:21 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dragonpit Magician",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN014",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.55,
+                            "average": 1.04,
+                            "shift": 0.0,
+                            "shift_3": -0.0188679245283019,
+                            "shift_7": -0.0280373831775701,
+                            "shift_21": -0.00952380952380952,
+                            "shift_30": 0.0196078431372549,
+                            "shift_90": 0.0505050505050505,
+                            "shift_180": 0.0297029702970297,
+                            "shift_365": -0.412429378531073,
+                            "updated_at": "2018-09-24 16:30:55 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Dragonpulse Magician",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN013",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 0.52,
+                            "average": 1.02,
+                            "shift": 0.0,
+                            "shift_3": 0.02,
+                            "shift_7": 0.02,
+                            "shift_21": 0.0625,
+                            "shift_30": 0.0967741935483871,
+                            "shift_90": 0.120879120879121,
+                            "shift_180": 0.02,
+                            "shift_365": -0.0192307692307692,
+                            "updated_at": "2018-09-24 15:15:27 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Echo Oscillation",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN042",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 8.42,
+                            "low": 0.33,
+                            "average": 0.87,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0235294117647059,
+                            "shift_180": 0.0,
+                            "shift_365": -0.0333333333333333,
+                            "updated_at": "2018-09-24 15:34:15 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Enlightenment Paladin",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN031",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.43,
+                            "low": 0.78,
+                            "average": 1.57,
+                            "shift": -0.00632911392405063,
+                            "shift_3": -0.00632911392405063,
+                            "shift_7": -0.00632911392405063,
+                            "shift_21": 0.427272727272727,
+                            "shift_30": 0.427272727272727,
+                            "shift_90": 0.286885245901639,
+                            "shift_180": 0.37719298245614,
+                            "shift_365": 0.330508474576271,
+                            "updated_at": "2018-09-24 15:20:50 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Synchro"
+    },
+    {
+        "name": "Foucault's Cannon",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN024",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 8.42,
+                            "low": 0.33,
+                            "average": 0.83,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0119047619047619,
+                            "shift_21": -0.0459770114942529,
+                            "shift_30": -0.0348837209302326,
+                            "shift_90": -0.0235294117647059,
+                            "shift_180": -0.0459770114942529,
+                            "shift_365": -0.0119047619047619,
+                            "updated_at": "2018-09-24 08:14:47 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Guiding Ariadne",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN027",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 8.42,
+                            "low": 0.48,
+                            "average": 0.87,
+                            "shift": 0.0,
+                            "shift_3": -0.0113636363636364,
+                            "shift_7": -0.0113636363636364,
+                            "shift_21": -0.074468085106383,
+                            "shift_30": -0.0543478260869565,
+                            "shift_90": -0.0842105263157895,
+                            "shift_180": -0.103092783505155,
+                            "shift_365": 0.0116279069767442,
+                            "updated_at": "2018-09-24 13:24:59 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Pendulum"
+    },
+    {
+        "name": "Harmonizing Magician",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN010",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 23.08,
+                            "low": 1.03,
+                            "average": 2.14,
+                            "shift": -0.00465116279069767,
+                            "shift_3": 0.281437125748503,
+                            "shift_7": 0.266272189349112,
+                            "shift_21": 0.273809523809524,
+                            "shift_30": 0.229885057471264,
+                            "shift_90": 0.345911949685535,
+                            "shift_180": 0.0388349514563107,
+                            "shift_365": -0.235714285714286,
+                            "updated_at": "2018-09-24 14:17:28 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Hypnosister",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN025",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 8.42,
+                            "low": 0.33,
+                            "average": 0.86,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0227272727272727,
+                            "shift_30": -0.0114942528735632,
+                            "shift_90": 0.0238095238095238,
+                            "shift_180": -0.0227272727272727,
+                            "shift_365": 0.0117647058823529,
+                            "updated_at": "2018-09-24 09:57:11 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Lector Pendulum, the Dracoverlord",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN060",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 8.42,
+                            "low": 0.33,
+                            "average": 0.82,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0123456790123457,
+                            "shift_21": 0.0379746835443038,
+                            "shift_30": 0.0512820512820513,
+                            "shift_90": 0.025,
+                            "shift_180": -0.0238095238095238,
+                            "shift_365": -0.0238095238095238,
+                            "updated_at": "2018-09-24 15:54:12 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Pendulum"
+    },
+    {
+        "name": "Magical Abductor",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN029",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.33,
+                            "low": 2.0,
+                            "average": 2.59,
+                            "shift": -0.0477941176470588,
+                            "shift_3": -0.0477941176470588,
+                            "shift_7": 0.121212121212121,
+                            "shift_21": -0.156351791530945,
+                            "shift_30": -0.169871794871795,
+                            "shift_90": 0.0196850393700787,
+                            "shift_180": 1.21367521367521,
+                            "shift_365": 1.61616161616162,
+                            "updated_at": "2018-09-24 17:13:08 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Master Pendulum, the Dracoslayer",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN059",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 8.42,
+                            "low": 0.43,
+                            "average": 0.83,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0375,
+                            "shift_21": 0.0375,
+                            "shift_30": 0.0375,
+                            "shift_90": 0.0641025641025641,
+                            "shift_180": 0.0,
+                            "shift_365": 0.0375,
+                            "updated_at": "2018-09-24 10:37:55 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Pendulum"
+    },
+    {
+        "name": "Metalfoes Adamante",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN055",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 8.42,
+                            "low": 0.33,
+                            "average": 0.88,
+                            "shift": 0.0232558139534884,
+                            "shift_3": 0.0114942528735632,
+                            "shift_7": 0.0114942528735632,
+                            "shift_21": 0.0114942528735632,
+                            "shift_30": 0.0114942528735632,
+                            "shift_90": -0.0112359550561798,
+                            "shift_180": -0.0222222222222222,
+                            "shift_365": 0.0352941176470588,
+                            "updated_at": "2018-09-24 10:41:11 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Psychic / Fusion"
+    },
+    {
+        "name": "Metalfoes Counter",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN056",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 8.42,
+                            "low": 0.46,
+                            "average": 0.99,
+                            "shift": 0.0,
+                            "shift_3": 0.0102040816326531,
+                            "shift_7": 0.0,
+                            "shift_21": 0.03125,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0102040816326531,
+                            "shift_180": -0.0660377358490566,
+                            "shift_365": 0.0879120879120879,
+                            "updated_at": "2018-09-24 12:36:15 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Metalfoes Crimsonite",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN053",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 8.42,
+                            "low": 0.33,
+                            "average": 0.91,
+                            "shift": 0.0224719101123595,
+                            "shift_3": 0.0459770114942529,
+                            "shift_7": 0.0340909090909091,
+                            "shift_21": 0.0459770114942529,
+                            "shift_30": 0.0459770114942529,
+                            "shift_90": -0.0421052631578947,
+                            "shift_180": -0.0618556701030928,
+                            "shift_365": 0.0581395348837209,
+                            "updated_at": "2018-09-24 10:41:12 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Psychic / Fusion"
+    },
+    {
+        "name": "Metalfoes Orichalc",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN054",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 13.62,
+                            "low": 0.33,
+                            "average": 0.91,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.021505376344086,
+                            "shift_30": -0.021505376344086,
+                            "shift_90": 0.0224719101123595,
+                            "shift_180": -0.157407407407407,
+                            "shift_365": 0.0340909090909091,
+                            "updated_at": "2018-09-10 05:43:21 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Psychic / Fusion"
+    },
+    {
+        "name": "Nobledragon Magician",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN015",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 0.33,
+                            "average": 0.8,
+                            "shift": 0.0,
+                            "shift_3": -0.0123456790123457,
+                            "shift_7": 0.0,
+                            "shift_21": -0.024390243902439,
+                            "shift_30": -0.0123456790123457,
+                            "shift_90": 0.0,
+                            "shift_180": -0.0476190476190476,
+                            "shift_365": -0.0588235294117647,
+                            "updated_at": "2018-09-24 15:14:21 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Oafdragon Magician",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN016",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.83,
+                            "average": 1.5,
+                            "shift": 0.0,
+                            "shift_3": -0.025974025974026,
+                            "shift_7": 0.0135135135135135,
+                            "shift_21": 0.0869565217391304,
+                            "shift_30": 0.12781954887218,
+                            "shift_90": 0.363636363636364,
+                            "shift_180": 0.136363636363636,
+                            "shift_365": 0.339285714285714,
+                            "updated_at": "2018-09-24 13:15:15 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Odd-Eyes Absolute Dragon",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN033",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 2.48,
+                            "low": 0.46,
+                            "average": 1.16,
+                            "shift": 0.0,
+                            "shift_3": 0.0087719298245614,
+                            "shift_7": -0.0170940170940171,
+                            "shift_21": 0.138613861386139,
+                            "shift_30": 0.0,
+                            "shift_90": 0.15,
+                            "shift_180": 0.127450980392157,
+                            "shift_365": 0.277777777777778,
+                            "updated_at": "2018-09-24 14:10:09 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Odd-Eyes Fusion",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN038",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 8.42,
+                            "low": 0.46,
+                            "average": 0.94,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0105263157894737,
+                            "shift_21": -0.160714285714286,
+                            "shift_30": -0.0208333333333333,
+                            "shift_90": -0.113207547169811,
+                            "shift_180": -0.241935483870968,
+                            "shift_365": -0.182608695652174,
+                            "updated_at": "2018-09-24 14:10:10 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Odd-Eyes Meteorburst Dragon",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN032",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 3.3,
+                            "low": 0.46,
+                            "average": 0.89,
+                            "shift": 0.0,
+                            "shift_3": -0.0111111111111111,
+                            "shift_7": -0.0111111111111111,
+                            "shift_21": -0.0111111111111111,
+                            "shift_30": 0.0229885057471264,
+                            "shift_90": -0.0326086956521739,
+                            "shift_180": -0.0531914893617021,
+                            "shift_365": -0.0824742268041237,
+                            "updated_at": "2018-09-24 16:46:13 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Odd-Eyes Pendulum Dragon",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN023",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 8.42,
+                            "low": 0.5,
+                            "average": 0.91,
+                            "shift": 0.0,
+                            "shift_3": -0.021505376344086,
+                            "shift_7": -0.021505376344086,
+                            "shift_21": 0.0111111111111111,
+                            "shift_30": 0.0,
+                            "shift_90": -0.0319148936170213,
+                            "shift_180": -0.0108695652173913,
+                            "shift_365": -0.141509433962264,
+                            "updated_at": "2018-09-24 16:56:47 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Pendulum"
+    },
+    {
+        "name": "Odd-Eyes Vortex Dragon",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN030",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 0.62,
+                            "average": 1.24,
+                            "shift": 0.0,
+                            "shift_3": -0.008,
+                            "shift_7": -0.008,
+                            "shift_21": 0.127272727272727,
+                            "shift_30": 0.127272727272727,
+                            "shift_90": 0.117117117117117,
+                            "shift_180": 0.00813008130081301,
+                            "shift_365": 0.158878504672897,
+                            "updated_at": "2018-09-24 14:14:08 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Fusion"
+    },
+    {
+        "name": "Oracle of Zefra",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN050",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 23.08,
+                            "low": 1.28,
+                            "average": 1.96,
+                            "shift": -0.0050761421319797,
+                            "shift_3": -0.02,
+                            "shift_7": -0.0050761421319797,
+                            "shift_21": -0.337837837837838,
+                            "shift_30": -0.312280701754386,
+                            "shift_90": -0.190082644628099,
+                            "shift_180": -0.309859154929577,
+                            "shift_365": -0.2,
+                            "updated_at": "2018-09-24 13:06:47 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Pendulum Call",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN036",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 7.36,
+                            "low": 4.99,
+                            "average": 4.92,
+                            "shift": 0.025,
+                            "shift_3": 0.00819672131147541,
+                            "shift_7": 0.00408163265306122,
+                            "shift_21": 0.40974212034384,
+                            "shift_30": 0.287958115183246,
+                            "shift_90": 0.473053892215569,
+                            "shift_180": 0.708333333333333,
+                            "shift_365": -0.0100603621730382,
+                            "updated_at": "2018-09-24 12:16:50 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Pendulum Reborn",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN041",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.85,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0119047619047619,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0365853658536585,
+                            "shift_90": -0.0116279069767442,
+                            "shift_180": -0.0340909090909091,
+                            "shift_365": -0.105263157894737,
+                            "updated_at": "2018-09-24 14:00:39 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Pendulum Shift",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN037",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 8.42,
+                            "low": 0.33,
+                            "average": 0.79,
+                            "shift": 0.0,
+                            "shift_3": -0.0125,
+                            "shift_7": 0.0128205128205128,
+                            "shift_21": 0.025974025974026,
+                            "shift_30": 0.025974025974026,
+                            "shift_90": 0.0,
+                            "shift_180": -0.0595238095238095,
+                            "shift_365": -0.0919540229885057,
+                            "updated_at": "2018-09-24 11:00:42 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Pendulum Storm",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN035",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 8.42,
+                            "low": 0.33,
+                            "average": 0.83,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": -0.0348837209302326,
+                            "shift_180": -0.0674157303370786,
+                            "shift_365": -0.0235294117647059,
+                            "updated_at": "2018-09-24 12:17:14 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Performapal Skullcrobat Joker",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN022",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.58,
+                            "low": 0.77,
+                            "average": 1.46,
+                            "shift": 0.0,
+                            "shift_3": -0.0135135135135135,
+                            "shift_7": 0.0579710144927536,
+                            "shift_21": -0.0135135135135135,
+                            "shift_30": -0.0266666666666667,
+                            "shift_90": -0.120481927710843,
+                            "shift_180": -0.356828193832599,
+                            "shift_365": -0.716504854368932,
+                            "updated_at": "2018-09-24 11:32:44 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Purple Poison Magician",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN006",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 1.0,
+                            "average": 1.72,
+                            "shift": 0.0,
+                            "shift_3": -0.0171428571428571,
+                            "shift_7": -0.0549450549450549,
+                            "shift_21": -0.0171428571428571,
+                            "shift_30": 0.029940119760479,
+                            "shift_90": 0.365079365079365,
+                            "shift_180": 0.228571428571429,
+                            "shift_365": -0.365313653136531,
+                            "updated_at": "2018-09-24 15:22:19 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Qliphort Monolith",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN058",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 0.5,
+                            "average": 1.09,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.00909090909090909,
+                            "shift_21": -0.0267857142857143,
+                            "shift_30": -0.0267857142857143,
+                            "shift_90": -0.018018018018018,
+                            "shift_180": -0.141732283464567,
+                            "shift_365": -0.0840336134453782,
+                            "updated_at": "2018-09-24 16:31:43 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Qliphort Scout",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN057",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 0.33,
+                            "average": 0.89,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0111111111111111,
+                            "shift_21": -0.021978021978022,
+                            "shift_30": 0.0113636363636364,
+                            "shift_90": -0.0111111111111111,
+                            "shift_180": -0.11,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:44:18 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Raremetalfoes Bismugear",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN052",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 0.5,
+                            "average": 0.93,
+                            "shift": 0.0,
+                            "shift_3": -0.0106382978723404,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0108695652173913,
+                            "shift_30": 0.0108695652173913,
+                            "shift_90": -0.0210526315789474,
+                            "shift_180": -0.0792079207920792,
+                            "shift_365": -0.0510204081632653,
+                            "updated_at": "2018-09-24 11:13:14 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Psychic / Pendulum"
+    },
+    {
+        "name": "Rescue Hamster",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN028",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 7.31,
+                            "low": 1.16,
+                            "average": 1.53,
+                            "shift": 0.00657894736842105,
+                            "shift_3": -0.0377358490566038,
+                            "shift_7": -0.0783132530120482,
+                            "shift_21": 0.02,
+                            "shift_30": 0.02,
+                            "shift_90": 0.0408163265306122,
+                            "shift_180": 0.0928571428571429,
+                            "shift_365": 0.843373493975904,
+                            "updated_at": "2018-09-24 14:44:43 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Pendulum"
+    },
+    {
+        "name": "Ritual Beast Tamer Zeframpilica",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN048",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 0.71,
+                            "average": 1.05,
+                            "shift": 0.0,
+                            "shift_3": 0.00961538461538462,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0789473684210526,
+                            "shift_30": -0.0707964601769911,
+                            "shift_90": -0.0540540540540541,
+                            "shift_180": 0.0606060606060606,
+                            "shift_365": 0.153846153846154,
+                            "updated_at": "2018-09-24 09:31:35 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Psychic / Pendulum"
+    },
+    {
+        "name": "Ritual Beast Tamer Zefrawendi",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN049",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 0.5,
+                            "average": 0.95,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0952380952380952,
+                            "shift_21": 0.0326086956521739,
+                            "shift_30": 0.0326086956521739,
+                            "shift_90": 0.0106382978723404,
+                            "shift_180": 0.0326086956521739,
+                            "shift_365": 0.0795454545454545,
+                            "updated_at": "2018-09-24 09:40:52 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Psychic / Pendulum"
+    },
+    {
+        "name": "Satellarknight Zefrathuban",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN044",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 0.5,
+                            "average": 0.92,
+                            "shift": 0.0,
+                            "shift_3": -0.0212765957446809,
+                            "shift_7": -0.0315789473684211,
+                            "shift_21": -0.010752688172043,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0,
+                            "shift_180": -0.0212765957446809,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:43:18 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Pendulum"
+    },
+    {
+        "name": "Star Pendulumgraph",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN007",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.46,
+                            "average": 1.94,
+                            "shift": 0.0,
+                            "shift_3": 0.175757575757576,
+                            "shift_7": 0.161676646706587,
+                            "shift_21": 0.732142857142857,
+                            "shift_30": 1.20454545454545,
+                            "shift_90": 0.979591836734694,
+                            "shift_180": 0.830188679245283,
+                            "shift_365": 0.310810810810811,
+                            "updated_at": "2018-09-24 15:29:02 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Stargazer Magician",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN011",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 0.53,
+                            "average": 1.07,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.00943396226415094,
+                            "shift_21": 0.00943396226415094,
+                            "shift_30": 0.0490196078431373,
+                            "shift_90": -0.00925925925925926,
+                            "shift_180": 0.114583333333333,
+                            "shift_365": 0.289156626506024,
+                            "updated_at": "2018-09-24 12:53:33 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Stellarknight Zefraxciton",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN045",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.5,
+                            "average": 0.96,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0212765957446809,
+                            "shift_21": 0.0212765957446809,
+                            "shift_30": 0.0549450549450549,
+                            "shift_90": -0.135135135135135,
+                            "shift_180": 0.0,
+                            "shift_365": 0.0666666666666667,
+                            "updated_at": "2018-09-24 15:10:31 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Pendulum"
+    },
+    {
+        "name": "Summoner's Art",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN040",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 23.08,
+                            "low": 1.43,
+                            "average": 1.98,
+                            "shift": 0.0,
+                            "shift_3": -0.0050251256281407,
+                            "shift_7": -0.333333333333333,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0153846153846154,
+                            "shift_180": 0.0645161290322581,
+                            "shift_365": 0.546875,
+                            "updated_at": "2018-09-24 09:38:12 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Time Pendulumgraph",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN008",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.46,
+                            "average": 0.96,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0204081632653061,
+                            "shift_30": -0.0204081632653061,
+                            "shift_90": -0.0588235294117647,
+                            "shift_180": -0.157894736842105,
+                            "shift_365": -0.283582089552239,
+                            "updated_at": "2018-09-24 15:30:54 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Timebreaker Magician",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN019",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 0.33,
+                            "average": 0.92,
+                            "shift": 0.0,
+                            "shift_3": 0.010989010989011,
+                            "shift_7": 0.0222222222222222,
+                            "shift_21": 0.0222222222222222,
+                            "shift_30": 0.0337078651685393,
+                            "shift_90": 0.0574712643678161,
+                            "shift_180": 0.0337078651685393,
+                            "shift_365": -0.0212765957446809,
+                            "updated_at": "2018-09-24 15:46:00 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Timegazer Magician",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN012",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 1.01,
+                            "average": 1.41,
+                            "shift": 0.0,
+                            "shift_3": -0.0275862068965517,
+                            "shift_7": -0.0342465753424658,
+                            "shift_21": 0.0367647058823529,
+                            "shift_30": -0.0723684210526316,
+                            "shift_90": 0.155737704918033,
+                            "shift_180": 0.396039603960396,
+                            "shift_365": 0.63953488372093,
+                            "updated_at": "2018-09-24 12:53:38 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Timestar Magician",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN009",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.88,
+                            "low": 0.44,
+                            "average": 1.87,
+                            "shift": 0.0,
+                            "shift_3": 0.0108108108108108,
+                            "shift_7": 0.0,
+                            "shift_21": 0.016304347826087,
+                            "shift_30": 0.016304347826087,
+                            "shift_90": -0.168888888888889,
+                            "shift_180": -0.0360824742268041,
+                            "shift_365": 0.416666666666667,
+                            "updated_at": "2018-09-24 15:09:32 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Xyz"
+    },
+    {
+        "name": "Tuning Magician",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN020",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 0.46,
+                            "average": 0.93,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0106382978723404,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0108695652173913,
+                            "shift_180": 0.0568181818181818,
+                            "shift_365": 0.0568181818181818,
+                            "updated_at": "2018-09-24 11:00:30 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Tuner"
+    },
+    {
+        "name": "Unwavering Bond",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN043",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 0.33,
+                            "average": 0.8,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0126582278481013,
+                            "shift_21": 0.0126582278481013,
+                            "shift_30": 0.0126582278481013,
+                            "shift_90": -0.0123456790123457,
+                            "shift_180": -0.0588235294117647,
+                            "shift_365": -0.0588235294117647,
+                            "updated_at": "2018-09-24 15:38:36 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "White Wing Magician",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN005",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 27.71,
+                            "low": 0.48,
+                            "average": 2.24,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.12,
+                            "shift_30": 0.12,
+                            "shift_90": 0.0980392156862745,
+                            "shift_180": 0.087378640776699,
+                            "shift_365": 0.125628140703518,
+                            "updated_at": "2018-09-24 14:50:29 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Wisdom-Eye Magician",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN017",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "fail",
+                    "message": "Unable to find prices for this card."
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Zefra Divine Strike",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN051",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 0.33,
+                            "average": 0.83,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0121951219512195,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0,
+                            "shift_180": -0.0568181818181818,
+                            "shift_365": -0.0568181818181818,
+                            "updated_at": "2018-09-24 15:33:20 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Zefraniu, Secret of the Yang Zing",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN047",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 1.95,
+                            "average": 2.75,
+                            "shift": 0.0,
+                            "shift_3": -0.107142857142857,
+                            "shift_7": -0.0802675585284281,
+                            "shift_21": -0.0418118466898955,
+                            "shift_30": 0.0338345864661654,
+                            "shift_90": 0.19047619047619,
+                            "shift_180": 0.785714285714286,
+                            "shift_365": 1.57009345794393,
+                            "updated_at": "2018-09-24 11:33:47 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Wyrm / Pendulum"
+    },
+    {
+        "name": "Zefraxi, Treasure of the Yang Zing",
+        "numbers": [
+            {
+                "name": "Pendulum Evolution",
+                "print_tag": "PEVO-EN046",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 0.69,
+                            "low": 0.69,
+                            "average": 0.69,
+                            "shift": -0.620879120879121,
+                            "shift_3": -0.616666666666667,
+                            "shift_7": -0.61878453038674,
+                            "shift_21": -0.612359550561798,
+                            "shift_30": -0.610169491525424,
+                            "shift_90": -0.616666666666667,
+                            "shift_180": -0.625,
+                            "shift_365": -0.303030303030303,
+                            "updated_at": "2018-09-24 10:30:13 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Wyrm / Pendulum"
+    }
+]

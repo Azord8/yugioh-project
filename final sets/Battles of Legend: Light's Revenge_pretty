@@ -1,0 +1,802 @@
+[
+    {
+        "name": "Abyss Actor - Curtain Raiser",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN012",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Pendulum"
+    },
+    {
+        "name": "Abyss Script - Abysstainment",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN013",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Anti-Spell Fragrance",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN078",
+                "rarity": "Ultra Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Archfiend Zombie-Skull",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN058",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Synchro"
+    },
+    {
+        "name": "Artifact Sanctum",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN080",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Bujintei Tsukuyomi",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN069",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast-Warrior / Xyz"
+    },
+    {
+        "name": "Cactus Bouncer",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN049",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Celestia, Lightsworn Angel",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN040",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Crusader of Endymion",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN048",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Gemini"
+    },
+    {
+        "name": "Crystal Wing Synchro Dragon",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN062",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "D/D/D Super Doom King Bright Armageddon",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN007",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Synchro"
+    },
+    {
+        "name": "D/D/D Super Doom King Dark Armageddon",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN008",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Xyz"
+    },
+    {
+        "name": "Denko Sekka",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN052",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Thunder / Effect"
+    },
+    {
+        "name": "Destiny HERO - Dreamer",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN024",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Destiny HERO - Dusktopia",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN025",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "Different Dimension Ground",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN079",
+                "rarity": "Ultra Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Double Evolution Pill",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN028",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dragunity Knight - Gae Dearg",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN059",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Elemental HERO Nova Master",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN056",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "Evilswarm Exciton Knight",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN068",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Xyz"
+    },
+    {
+        "name": "Felis, Lightsworn Archer",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN043",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast-Warrior / Tuner"
+    },
+    {
+        "name": "Gaia Dragon, the Thunder Charger",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN065",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Galaxy Soldier",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN053",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Garoth, Lightsworn Warrior",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN037",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Giant Rex",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN027",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Gladiator Beast Andabata",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN022",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Beast-Warrior / Fusion"
+    },
+    {
+        "name": "Gladiator Beast Noxious",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN021",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Gladiator Beast Tamer Editor",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN023",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Beast-Warrior / Fusion"
+    },
+    {
+        "name": "Infernoid Devyaty",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN054",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Into the Void",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN074",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Judgment Dragon",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN041",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Jurassic Impact",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN030",
+                "rarity": "Ultra Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Kamion, the Timelord",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN034",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Lazion, the Timelord",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN031",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Lumina, Lightsworn Summoner",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN038",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Lyla, Lightsworn Sorceress",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN036",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "M-X-Saber Invoker",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN063",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Mermail Abyssteus",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN051",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Minerva, the Exalted Lightsworn",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN044",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Xyz"
+    },
+    {
+        "name": "Miracle Contact",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN076",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Neo Galaxy-Eyes Photon Dragon",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN064",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Number 107: Galaxy-Eyes Tachyon Dragon",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN067",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Number 11: Big Eye",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN066",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Xyz"
+    },
+    {
+        "name": "Number 62: Galaxy-Eyes Prime Photon Dragon",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN070",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Odd-Eyes Lancer Dragon",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN001",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Odd-Eyes Venom Dragon",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN006",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Fusion"
+    },
+    {
+        "name": "PSY-Framelord Omega",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN061",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Synchro"
+    },
+    {
+        "name": "Performapal Five-Rainbow Magician",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN005",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Performapal Odd-Eyes Dissolver",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN003",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Performapal Odd-Eyes Minitaurus",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN002",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Beast-Warrior / Pendulum"
+    },
+    {
+        "name": "Performapal Odd-Eyes Synchron",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN004",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Raiden, Hand of the Lightsworn",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN042",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Tuner"
+    },
+    {
+        "name": "Raidraptor - Final Fortress Falcon",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN015",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Xyz"
+    },
+    {
+        "name": "Raidraptor - Force Strix",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN072",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Xyz"
+    },
+    {
+        "name": "Raidraptor - Rudder Strix",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN014",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Raidraptor - Satellite Cannon Falcon",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN073",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Xyz"
+    },
+    {
+        "name": "Sadion, the Timelord",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN033",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Sage with Eyes of Blue",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN055",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Tuner"
+    },
+    {
+        "name": "Solar Recharge",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN045",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Spacetime Transcendence",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN029",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Spellbook Magician of Prophecy",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN050",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Spellbook of Secrets",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN075",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Superheavy Samurai Fist",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN010",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Superheavy Samurai Helper",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN009",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Superheavy Samurai Steam Train King",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN011",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "The Phantom Knights of Break Sword",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN071",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Time Maiden",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN035",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Transmodify",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN077",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Trishula, Dragon of the Ice Barrier",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN060",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Twilight Ninja Jogen",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN016",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Pendulum"
+    },
+    {
+        "name": "Twilight Ninja Kagen",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN017",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Pendulum"
+    },
+    {
+        "name": "Vanity's Fiend",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN047",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Vision HERO Adoration",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN057",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "Vision HERO Witch Raider",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN026",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "White Aura Dolphin",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN019",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fish / Synchro"
+    },
+    {
+        "name": "White Aura Whale",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN020",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fish / Synchro"
+    },
+    {
+        "name": "White Moray",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN018",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fish / Effect"
+    },
+    {
+        "name": "Witch of the Black Forest",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN046",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Wulf, Lightsworn Beast",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN039",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Zaphion, the Timelord",
+                "pack": "Battles of Legend: Light's Revenge",
+                "print_tag": "BLLR-EN032",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fairy / Effect"
+    }
+]

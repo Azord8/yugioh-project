@@ -1,0 +1,1112 @@
+[
+    {
+        "name": "Absorbing Jar",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN037",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Ancient Dragon",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN081",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Aquamirror Cycle",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN079",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Beetron",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN092",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Beetron",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN092",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Berserk Scales",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN054",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Blade Bounzer",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN010",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Bound Wand",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN051",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Bounzer Guard",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN069",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Bright Star Dragon",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN094",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Buten",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN095",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Tuner"
+    },
+    {
+        "name": "Butterflyoke",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN070",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Cameraclops",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN017",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Cardcar D",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN006",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Commander of Swords",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN068",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Constellar Belt",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN064",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dimension Slice",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN076",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Doom Donuts",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN096",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Double Payback",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN080",
+                "rarity": "Short Print",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Draconnection",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN086",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Draconnection",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN086",
+                "rarity": "Ultimate Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Evo-Diversity",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN058",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Evo-Price",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN059",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Evolsaur Darwino",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN027",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Evoltile Elginero",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN083",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "Evoltile Lagosucho",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN026",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "Falling Current",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN053",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Final Inzektion",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN060",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Flame Tiger",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN039",
+                "rarity": "Short Print",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Flelf",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN099",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Gagaga Gardna",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN005",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Gaia Dragon, the Thunder Charger",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN046",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Gamushara",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN067",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Hammer Bounzer",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN009",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Hammer Shark",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN008",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fish / Effect"
+    },
+    {
+        "name": "Hieratic Dragon King of Atum",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN047",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Hieratic Dragon of Asar",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN024",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Hieratic Dragon of Eset",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN020",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Hieratic Dragon of Gebeb",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN019",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Hieratic Dragon of Nebthet",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN021",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Hieratic Dragon of Nuit",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN018",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Hieratic Dragon of Su",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN023",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Hieratic Dragon of Sutekh",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN025",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Hieratic Dragon of Sutekh",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN025",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Hieratic Dragon of Tefnuit",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN022",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Hieratic Seal From the Ashes",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN088",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Hieratic Seal of Banishment",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN071",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Hieratic Seal of Convocation",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN056",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Hieratic Seal of Reflection",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN072",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Hieratic Seal of Supremacy",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN057",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Hieratic Seal of the Dragon King",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN082",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Gemini"
+    },
+    {
+        "name": "Hieratic Seal of the Sun Dragon Overlord",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN002",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon"
+    },
+    {
+        "name": "Hieratic Sun Dragon Overlord of Heliopolis",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN048",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Influence Dragon",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN093",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Tuner"
+    },
+    {
+        "name": "Inzektor Crossbow - Zektarrow",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN061",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Inzektor Earwig",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN030",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Inzektor Exa-Stag",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN050",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Insect / Xyz"
+    },
+    {
+        "name": "Inzektor Exa-Stag",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN050",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Insect / Xyz"
+    },
+    {
+        "name": "Inzektor Firefly",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN028",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Inzektor Gauntlet",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN074",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Inzektor Giga-Cricket",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN031",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Inzektor Ladybug",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN029",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Jumbo Drill",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN015",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Lady of D.",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN036",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Lightray Daedalus",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN033",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Sea Serpent / Effect"
+    },
+    {
+        "name": "Lightray Diabolos",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN035",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Lightray Gearfried",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN034",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Lightray Grepher",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN084",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Lightray Sorcerer",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN032",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Mini-Guts",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN052",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Moonlit Papillon",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN014",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Morpho Butterspy",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN012",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Neo Galaxy-Eyes Photon Dragon",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN041",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Neo Galaxy-Eyes Photon Dragon",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN041",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Neo Galaxy-Eyes Photon Dragon",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN041",
+                "rarity": "Ghost Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Night Beam",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN055",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Night Beam",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN055",
+                "rarity": "Ultimate Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Nimble Manta",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN097",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fish / Effect"
+    },
+    {
+        "name": "Nitwit Outwit",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN066",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Noble Knight Artorigus",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN000",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior"
+    },
+    {
+        "name": "Nomadic Force",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN040",
+                "rarity": "Short Print",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Number 11: Big Eye",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN090",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Xyz"
+    },
+    {
+        "name": "Number 25: Force Focus",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN045",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Number 25: Force Focus",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN045",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Number 32: Shark Drake",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN042",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Sea Serpent / Xyz"
+    },
+    {
+        "name": "Number 32: Shark Drake",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN042",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Sea Serpent / Xyz"
+    },
+    {
+        "name": "Number 7: Lucky Straight",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN091",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Xyz"
+    },
+    {
+        "name": "Overlay Eater",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN007",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "Overlay Owl",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN003",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Phantom Bounzer",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN011",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Photon Papilloperative",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN044",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Photon Strike Bounzer",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN043",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Queen Dragun Djinn",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN049",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Red-Headed Oni",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN038",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Return (card)",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN075",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Rocket Arrow Express",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN016",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Sealing Ceremony of Raiton",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN078",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Shining Elf",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN098",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Xyz"
+    },
+    {
+        "name": "Spiritual Light Art - Hijiri",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN077",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Storm",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN065",
+                "rarity": "Short Print",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Swallowtail Butterspy",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN013",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Tardy Orc",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN085",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Tasuke Knight",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN004",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "That Wacky Magic!",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN063",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Trial and Tribulation",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN087",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Wattaildragon",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN001",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon"
+    },
+    {
+        "name": "Xyz Unit",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN062",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Xyz Unit",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN062",
+                "rarity": "Ultimate Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Xyz Wrath",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN089",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Zekt Conversion",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN073",
+                "rarity": "Ultimate Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Zekt Conversion",
+                "pack": "Galactic Overlord",
+                "print_tag": "GAOV-EN073",
+                "rarity": "Ultra Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    }
+]

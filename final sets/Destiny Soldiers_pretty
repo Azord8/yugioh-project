@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Abyss Actor - Evil Heel",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN016",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Pendulum"
+    },
+    {
+        "name": "Abyss Actor - Extras",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN020",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Pendulum"
+    },
+    {
+        "name": "Abyss Actor - Funky Comedian",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN017",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Pendulum"
+    },
+    {
+        "name": "Abyss Actor - Leading Lady",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN021",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Pendulum"
+    },
+    {
+        "name": "Abyss Actor - Sassy Rookie",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN019",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Pendulum"
+    },
+    {
+        "name": "Abyss Actor - Superstar",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN018",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Pendulum"
+    },
+    {
+        "name": "Abyss Actor - Wild Hope",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN022",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Pendulum"
+    },
+    {
+        "name": "Abyss Actors Back Stage",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN028",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Abyss Prop - Wild Wagon",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN026",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Abyss Script - Fantasy Magic",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN023",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Abyss Script - Fire Dragon's Lair",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN025",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Abyss Script - Opening Ceremony",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN024",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Abyss Script - Rise of the Abyss King",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN027",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Advance Draw",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN056",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Allure of Darkness",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN044",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Archlord Kristya",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN050",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Banishment of the Darklords",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN034",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Creeping Darkness",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN058",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "D Cubed",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN007",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "D-Fusion",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN008",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dark Eruption",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN054",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dark Hole",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN042",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dark Illusion",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN060",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dark Mambele",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN057",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Darklord Amdusc",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN033",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Darklord Asmodeus",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN038",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Darklord Contact",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN035",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Darklord Edeh Arae",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN040",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Darklord Enchantment",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN037",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Darklord Ixchel",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN030",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Darklord Marie",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN046",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Darklord Morningstar",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN029",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Darklord Nasten",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN032",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Darklord Nurse Reficule",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN048",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Darklord Rebellion",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN036",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Darklord Superbia",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN039",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Darklord Tezcatlipoca",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN031",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Darklord Zerato",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN041",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Destiny Draw",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN014",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Destiny End Dragoon",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN013",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "Destiny HERO - Celestial",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN006",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Destiny HERO - Dark Angel",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN005",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Destiny HERO - Decider",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN003",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Destiny HERO - Diamond Dude",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN009",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Destiny HERO - Dogma",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN011",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Destiny HERO - Drilldark",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN001",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Destiny HERO - Dynatag",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN002",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Destiny HERO - Dystopia",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN004",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "Destiny HERO - Malicious",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN010",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Destiny HERO - Plasma",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN012",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Destiny Signal",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN059",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Doomsday Horror",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN049",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Escape from the Dark Dimension",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN045",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Fires of Doomsday",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN043",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Over Destiny",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN015",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Prometheus, King of the Shadows",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN047",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "The Beginning of the End",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN053",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Trade-In",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN051",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Valhalla, Hall of the Fallen",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN055",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Veil of Darkness",
+                "pack": "Destiny Soldiers",
+                "print_tag": "DESO-EN052",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    }
+]

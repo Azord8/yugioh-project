@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Aleister the Invoker",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN026",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Battle Fusion",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN056",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Branch!",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN052",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Edge Imp Chain",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN019",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Edge Imp Sabres",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN018",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Elemental HERO Prisma",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN047",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Fluffal Dog",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN016",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Fluffal Octopus",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN014",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Fluffal Owl",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN017",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Fluffal Penguin",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN015",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Frightfur Fusion",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN025",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Frightfur Kraken",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN020",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fiend / Fusion"
+    },
+    {
+        "name": "Frightfur Sheep",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN023",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Fusion"
+    },
+    {
+        "name": "Frightfur Tiger",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN022",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Fusion"
+    },
+    {
+        "name": "Frightfur Wolf",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN021",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Fusion"
+    },
+    {
+        "name": "Fusion Conscription",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN057",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Fusion Gate",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN050",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Fusion Recovery",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN043",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Fusion Reserve",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN060",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Fusion Substitute",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN041",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Greedy Venom Fusion Dragon",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN010",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Fusion"
+    },
+    {
+        "name": "Grisaille Prison",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN059",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Homunculus the Alchemic Being",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN045",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Instant Fusion",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN042",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Invocation",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN035",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Invoked Caliga",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN027",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Beast / Fusion"
+    },
+    {
+        "name": "Invoked Cocytus",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN029",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Dragon / Fusion"
+    },
+    {
+        "name": "Invoked Elysium",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN033",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Fusion"
+    },
+    {
+        "name": "Invoked Magellanica",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN031",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Fusion"
+    },
+    {
+        "name": "Invoked Mechaba",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN032",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "Invoked Purgatrio",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN030",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Fiend / Fusion"
+    },
+    {
+        "name": "Invoked Raidjin",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN028",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "King of the Swamp",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN040",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Lonefire Blossom",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN046",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Magical Meltdown",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN034",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mark of the Rose",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN054",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Miracle Fertilizer",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN053",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Omega Summon",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN037",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Paradox Fusion",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN058",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Performapal Trump Witch",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN048",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Phoenix Wing Wind Blast",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN044",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Polymerization (Fusion)",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN049",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Predaplanet",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN013",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Predaplant Chimerafflesia",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN009",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Plant / Fusion"
+    },
+    {
+        "name": "Predaplant Chlamydosundew",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN005",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Predaplant Drosophyllum Hydra",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN002",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Predaplant Flytrap",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN006",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Predaplant Moray Nepenthes",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN007",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Predaplant Pterapenthes",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN003",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Predaplant Sarraceniant",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN001",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Predaplant Spinodionaea",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN004",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Predaplant Squid Drosera",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN008",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Predaponics",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN011",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Predapruning",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN012",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Re-Fusion",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN051",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Summoner Monk",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN039",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Summoner of Illusions",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN038",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Super Solar Nutrient",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN055",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Book of the Law",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN036",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Toy Vendor",
+                "pack": "Fusion Enforcers",
+                "print_tag": "FUEN-EN024",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    }
+]

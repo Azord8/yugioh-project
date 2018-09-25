@@ -1,0 +1,1002 @@
+[
+    {
+        "name": "Akashic Magician",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN051",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Link"
+    },
+    {
+        "name": "Altergeist Camouflage",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN070",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Altergeist Kunquery",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN015",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Altergeist Marionetter",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN012",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Altergeist Meluseek",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN014",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Altergeist Primebanshee",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN047",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Link"
+    },
+    {
+        "name": "Altergeist Protocol",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN071",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Altergeist Silquitous",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN013",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Amano-Iwato",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN036",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Spirit"
+    },
+    {
+        "name": "Amazoness Empress",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN095",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "Amazoness Pet Liger",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN094",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Fusion"
+    },
+    {
+        "name": "Amazoness Spy",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN093",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Anesthrokket Dragon",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN009",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Arrivalrivals",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN062",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Asymmetaphys",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN060",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Autorokket Dragon",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN010",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Backup Squad",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN065",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Borreload Dragon",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN042",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Link"
+    },
+    {
+        "name": "Broken Line",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN079",
+                "rarity": "Ultra Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Burning Bamboo Sword",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN066",
+                "rarity": "Short Print",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Capacitor Stalker",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN002",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Cyberse / Effect"
+    },
+    {
+        "name": "Cyberse Beacon",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN067",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dark Angel",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN005",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Defect Compiler",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN001",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Cyberse / Effect"
+    },
+    {
+        "name": "Destrudo the Lost Dragon's Frisson",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN038",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Tuner"
+    },
+    {
+        "name": "Dragonoid Generator",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN054",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Duck Dummy",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN033",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Winged Beast / Gemini"
+    },
+    {
+        "name": "Elemental Grace Doriado",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN039",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Evenly Matched",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN077",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "F.A. Off-Road Grand Prix",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN088",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "F.A. Pit Stop",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN089",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "F.A. Turbo Charger",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN087",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "F.A. Whip Crosser",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN086",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Fantastic Striborg",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN037",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Fire King Avatar Arvata",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN029",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Fuse Line",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN078",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gateway Dragon",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN007",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Gouki Headbatt",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN006",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Gouki Thunder Ogre",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN045",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Link"
+    },
+    {
+        "name": "Hallohallo",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN000",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Pendulum"
+    },
+    {
+        "name": "Krawler Axon",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN017",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Flip"
+    },
+    {
+        "name": "Krawler Dendrite",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN021",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Flip"
+    },
+    {
+        "name": "Krawler Glial",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN018",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Flip"
+    },
+    {
+        "name": "Krawler Ranvier",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN020",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Flip"
+    },
+    {
+        "name": "Krawler Receptor",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN019",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Flip"
+    },
+    {
+        "name": "Krawler Spine",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN016",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Flip"
+    },
+    {
+        "name": "Leng Ling",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN034",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Union"
+    },
+    {
+        "name": "Link Bumper",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN043",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Cyberse / Link"
+    },
+    {
+        "name": "Link Infra-Flier",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN003",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Cyberse / Effect"
+    },
+    {
+        "name": "Link Restart",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN068",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Lunalight Crimson Fox",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN090",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Lunalight Kaleido Chick",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN091",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Lyrilusc - Recital Starling",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN092",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Xyz"
+    },
+    {
+        "name": "Magnarokket Dragon",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN011",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Mecha Phantom Beast Raiten",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN030",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Mermail Abyssnerei",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN028",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Metaphys Daedalus",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN024",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Wyrm / Effect"
+    },
+    {
+        "name": "Metaphys Dimension",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN075",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Metaphys Executor",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN027",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Wyrm / Effect"
+    },
+    {
+        "name": "Metaphys Factor",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN059",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Metaphys Nephthys",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN025",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Wyrm / Effect"
+    },
+    {
+        "name": "Metaphys Ragnarok",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN023",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Wyrm / Tuner"
+    },
+    {
+        "name": "Metaphys Tyrant Dragon",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN026",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Wyrm / Effect"
+    },
+    {
+        "name": "Metaverse",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN076",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mistar Boy",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN052",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Link"
+    },
+    {
+        "name": "Muscle Medic",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN041",
+                "rarity": "Short Print",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Nimble Beaver",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN040",
+                "rarity": "Short Print",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Number 41: Bagooska the Terribly Tired Tapir",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN097",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fiend / Xyz"
+    },
+    {
+        "name": "Ojama Duo",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN080",
+                "rarity": "Short Print",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "One-Time Passcode",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN061",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Overdone Burial",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN063",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Personal Spoofing",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN072",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Quick Launch",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN056",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Quiet Life",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN096",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Remote Rebirth",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN069",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "SPYRAL Double Helix",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN099",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Link"
+    },
+    {
+        "name": "Samurai Destroyer",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN081",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Security Block",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN053",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Self-Destruct Ant",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN035",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Flip"
+    },
+    {
+        "name": "Sniffer Dragon",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN008",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Soldier Dragons",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN032",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Squib Draw",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN055",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Subterror Behemoth Fiendess",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN098",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Wyrm / Link"
+    },
+    {
+        "name": "Temple of the Mind's Eye",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN064",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Accumulator",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN031",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Thunder / Effect"
+    },
+    {
+        "name": "Trickstar Black Catbat",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN044",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Link"
+    },
+    {
+        "name": "Trickstar Narkissus",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN004",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Twin Triangle Dragon",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN046",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Link"
+    },
+    {
+        "name": "Vendread Chimera",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN082",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Ritual"
+    },
+    {
+        "name": "Vendread Nights",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN084",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Vendread Reunion",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN085",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Vendread Striges",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN083",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "World Legacy - \"World Armor\"",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN022",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "World Legacy Clash",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN058",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "World Legacy Pawns",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN073",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "World Legacy Trap Globe",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN074",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "World Legacy in Shadow",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN057",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "X-Krawler Neurogos",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN049",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Link"
+    },
+    {
+        "name": "X-Krawler Qualiark",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN050",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Link"
+    },
+    {
+        "name": "X-Krawler Synaphysis",
+                "pack": "Circuit Break",
+                "print_tag": "CIBR-EN048",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Link"
+    }
+]

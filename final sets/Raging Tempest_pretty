@@ -1,0 +1,1002 @@
+[
+    {
+        "name": "Ancient Gear Howitzer",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN042",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "Ancient Gear Hunting Hound",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN013",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Ancient Gear Reborn",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN070",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Apprentice Piper",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN029",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Flip"
+    },
+    {
+        "name": "Beginning of Heaven and Earth",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN073",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Brave-Eyes Pendulum Dragon",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN039",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Fusion"
+    },
+    {
+        "name": "Chaos Ancient Gear Giant",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN041",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "Cipher Etranger",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN011",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Cipher Spectrum",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN069",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Crystron Quariongandrax",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN046",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Crystron Rion",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN020",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Crystron Sulfefnir",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN021",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Cyber Angel Natasha",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN036",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Ritual"
+    },
+    {
+        "name": "Cyber Tutubon",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN010",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Dark Contract with the Entities",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN099",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Delta The Magnet Warrior",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN097",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Dragoncaller Magician",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN001",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Eater of Millions",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN032",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Envoy of Chaos",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN025",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Fairy Tail - Rella",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN035",
+                "rarity": "Short Print",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Flower Cardian Cherry Blossom with Curtain",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN012",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Flower Cardian Lightflare",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN045",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Synchro"
+    },
+    {
+        "name": "Foolish Burial Goods",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN065",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Full Force Virus",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN078",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Fusion Parasite",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN009",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Fusion Recycling Plant",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN000",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Heavy Armored Train Ironwolf",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN050",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Hebo, Lord of the River",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN030",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Spirit"
+    },
+    {
+        "name": "Lightsworn Judgment",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN095",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Lost Wind",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN068",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Machine Angel Absolute Ritual",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN055",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Ritual",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Majespecter Gust",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN075",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Massivemorph",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN080",
+                "rarity": "Short Print",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mekanikal Arkfiend",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN094",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Metrognome",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN032",
+                "rarity": "Short Print",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fairy / Pendulum"
+    },
+    {
+        "name": "Miscellaneousaurus",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN028",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Neo Galaxy-Eyes Cipher Dragon",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN049",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Odd-Eyes Raging Dragon",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN048",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Performapal Dag Daggerman",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN003",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Pendulum"
+    },
+    {
+        "name": "Performapal Handstandaccoon",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN002",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Pendulum"
+    },
+    {
+        "name": "Performapal Laugh Maker",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN004",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Purushaddoll Aeon",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN077",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Rank-Up-Magic Cipher Ascension",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN056",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Recardination",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN057",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ritual Beast Return",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN064",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Rocket Hand",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN093",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "SPYGAL Misty",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN086",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "SPYRAL GEAR - Utility Wire",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN088",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "SPYRAL MISSION - Recapture",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN089",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "SPYRAL Tough",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN087",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Sea Monster of Theseus",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN081",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Zombie / Fusion"
+    },
+    {
+        "name": "Shinobaron Peacock",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN038",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Ritual"
+    },
+    {
+        "name": "Shinobaroness Peacock",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN037",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Ritual"
+    },
+    {
+        "name": "Shinobird Crane",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN023",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Spirit"
+    },
+    {
+        "name": "Shinobird Crow",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN022",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Spirit"
+    },
+    {
+        "name": "Shinobird Pigeon",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN024",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Spirit"
+    },
+    {
+        "name": "Shinobird Power Spot",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN061",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Shinobird Salvation",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN072",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Shinobird's Calling",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN060",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Ritual",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Shiranui Style Samsara",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN074",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Shiranui Sunsaga",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN047",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Zombie / Synchro"
+    },
+    {
+        "name": "Speedroid Gum Prize",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN005",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Speedroid Horse Stilts",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN006",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Spiritual Beast Tamer Winda",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN026",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Subterror Behemoth Dragossuary",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN083",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Zombie / Flip"
+    },
+    {
+        "name": "Subterror Behemoth Voltelluric",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN084",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Thunder / Flip"
+    },
+    {
+        "name": "Subterror Cave Clash",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN085",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Subterror Nemesis Defender",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN082",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Super Quantal Alphan Spike",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN063",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Super Soldier Synthesis",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN062",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Ritual",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Superheavy Samurai Stealth Ninja",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN044",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Switcheroroo",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN079",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Symph Amplifire",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN092",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Symphonic Warrior Guitaar",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN090",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Symphonic Warrior Miccs",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN096",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Pendulum"
+    },
+    {
+        "name": "Symphonic Warrior Synthess",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN091",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Flip"
+    },
+    {
+        "name": "Terminal World NEXT",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN067",
+                "rarity": "Short Print",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "That Grass Looks Greener",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN066",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Tierra, Source of Destruction",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN027",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "True King Lithosagym, the Disaster",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN019",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Wyrm / Effect"
+    },
+    {
+        "name": "Void Feast",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN076",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Wightprincess",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN033",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Windwitch - Crystal Bell",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN040",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Fusion"
+    },
+    {
+        "name": "Windwitch - Glass Bell",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN098",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Tuner"
+    },
+    {
+        "name": "Windwitch - Ice Bell",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN007",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Windwitch - Snow Bell",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN008",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Tuner"
+    },
+    {
+        "name": "Windwitch - Winter Bell",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN043",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Synchro"
+    },
+    {
+        "name": "Yokotuner",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN031",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Tuner"
+    },
+    {
+        "name": "Zodiac Sign",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN058",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Zoodiac Barrage",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN059",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Zoodiac Boarbow",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN054",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior / Xyz"
+    },
+    {
+        "name": "Zoodiac Broadbull",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN051",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior / Xyz"
+    },
+    {
+        "name": "Zoodiac Bunnyblast",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN015",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Zoodiac Combo",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN071",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Zoodiac Drident",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN053",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior / Xyz"
+    },
+    {
+        "name": "Zoodiac Ramram",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN018",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Zoodiac Ratpier",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN014",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Zoodiac Thoroughblade",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN017",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Zoodiac Tigermortar",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN052",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior / Xyz"
+    },
+    {
+        "name": "Zoodiac Whiptail",
+                "pack": "Raging Tempest",
+                "print_tag": "RATE-EN016",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior / Effect"
+    }
+]

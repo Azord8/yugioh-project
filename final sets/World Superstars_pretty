@@ -1,0 +1,522 @@
+[
+    {
+        "name": "Augmented Heraldry",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN005",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "BOXer",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN048",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Battlin' Boxer Shadow",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN013",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Chronomaly Nebra Disk",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN001",
+                "rarity": "Prismatic Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Dodododraw",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN008",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dragoroar",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN038",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Earthshattering Event",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN042",
+                "rarity": "Prismatic Secret Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Elemental HERO Blazeman",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN032",
+                "rarity": "Prismatic Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Flowerbot",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN036",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Gagaga Mancer",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN028",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Gagaga Samurai",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN027",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Gagaga Sister",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN006",
+                "rarity": "Prismatic Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Galaxy Soldier",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN010",
+                "rarity": "Prismatic Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Galaxy-Eyes Cloudragon",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN009",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Ghostrick Angel of Mischief",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN035",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fairy / Xyz"
+    },
+    {
+        "name": "Ghostrick Break",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN043",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Guard Go!",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN029",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Guerilla Kite",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN040",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Fiend / Tuner"
+    },
+    {
+        "name": "Heavy Knight of the Flame",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN047",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Zombie / Gemini"
+    },
+    {
+        "name": "Heraldic Beast Amphisbaena",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN003",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Heroic Challenger - Assault Halberd",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN016",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Heroic Challenger - Thousand Blades",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN017",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Hi-Five the Sky",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN030",
+                "rarity": "Prismatic Secret Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Humhumming the Key Djinn",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN023",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fiend / Xyz"
+    },
+    {
+        "name": "Humpty Grumpty",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN037",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Jolt Counter",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN015",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Kabuki Dragon",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN049",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Legendary Dragon of White",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN051",
+                "rarity": "Prismatic Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Legendary Magician of Dark",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN052",
+                "rarity": "Prismatic Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Xyz"
+    },
+    {
+        "name": "Marshalling Field",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN025",
+                "rarity": "Prismatic Secret Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mecha Phantom Beast Jaculuslan",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN034",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Naturia Gaiastrio",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN033",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Fusion"
+    },
+    {
+        "name": "Number 18: Heraldry Patriarch",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN004",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Xyz"
+    },
+    {
+        "name": "Number 36: Chronomaly Chateau Huyuk",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN002",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Number 55: Gogogo Goliath",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN007",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Xyz"
+    },
+    {
+        "name": "Number 79: Battlin' Boxer Nova Kaiser",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN014",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Number 86: Heroic Champion - Rhongomyniad",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN022",
+                "rarity": "Prismatic Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Number F0: Utopic Future",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN026",
+                "rarity": "Prismatic Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Numeral Hunter",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN021",
+                "rarity": "Prismatic Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Onomatopia",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN024",
+                "rarity": "Prismatic Secret Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "P.M. Captor",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN044",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Pendulum"
+    },
+    {
+        "name": "Pendulum Impenetrable",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN050",
+                "rarity": "Prismatic Secret Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Photon Stream of Destruction",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN011",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Planckton",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN039",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Spiritual Whisper",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN045",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Star Seraph Scale",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN019",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Star Seraph Scepter",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN018",
+                "rarity": "Prismatic Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Star Seraph Sovereignty",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN020",
+                "rarity": "Prismatic Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Tachyon Transmigration",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN012",
+                "rarity": "Prismatic Secret Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Door of Destiny",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN031",
+                "rarity": "Prismatic Secret Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Wattsychic Fighter",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN041",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Xyz-Raypierce",
+                "pack": "World Superstars",
+                "print_tag": "WSUP-EN046",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dragon / Effect"
+    }
+]

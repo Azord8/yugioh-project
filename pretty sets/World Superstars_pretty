@@ -1,0 +1,1770 @@
+[
+    {
+        "name": "Augmented Heraldry",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN005",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 3.22,
+                            "low": 0.46,
+                            "average": 1.0,
+                            "shift": 0.0,
+                            "shift_3": -0.0099009900990099,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": -0.0990990990990991,
+                            "shift_90": 0.0309278350515464,
+                            "shift_180": -0.0384615384615385,
+                            "shift_365": 0.0309278350515464,
+                            "updated_at": "2018-09-24 12:59:28 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "BOXer",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN048",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.44,
+                            "low": 0.46,
+                            "average": 1.09,
+                            "shift": 0.0,
+                            "shift_3": 0.0283018867924528,
+                            "shift_7": -0.0267857142857143,
+                            "shift_21": 0.0283018867924528,
+                            "shift_30": -0.0267857142857143,
+                            "shift_90": 0.058252427184466,
+                            "shift_180": 0.0686274509803922,
+                            "shift_365": 0.172043010752688,
+                            "updated_at": "2018-09-24 17:51:34 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Battlin' Boxer Shadow",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN013",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.87,
+                            "low": 0.46,
+                            "average": 0.98,
+                            "shift": 0.0,
+                            "shift_3": -0.228346456692913,
+                            "shift_7": 0.0103092783505155,
+                            "shift_21": -0.222222222222222,
+                            "shift_30": -0.216,
+                            "shift_90": -0.234375,
+                            "shift_180": -0.0576923076923077,
+                            "shift_365": -0.0841121495327103,
+                            "updated_at": "2018-09-24 14:20:30 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Chronomaly Nebra Disk",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN001",
+                "rarity": "Prismatic Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.25,
+                            "low": 0.83,
+                            "average": 1.38,
+                            "shift": 0.0,
+                            "shift_3": 0.0072992700729927,
+                            "shift_7": 0.0,
+                            "shift_21": 0.037593984962406,
+                            "shift_30": 0.121951219512195,
+                            "shift_90": 0.078125,
+                            "shift_180": 0.0697674418604651,
+                            "shift_365": 0.0534351145038168,
+                            "updated_at": "2018-09-24 13:43:56 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Dodododraw",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN008",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 7.56,
+                            "low": 0.41,
+                            "average": 1.08,
+                            "shift": 0.0,
+                            "shift_3": 0.0188679245283019,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0285714285714286,
+                            "shift_90": 0.0285714285714286,
+                            "shift_180": 0.00934579439252336,
+                            "shift_365": 0.186813186813187,
+                            "updated_at": "2018-09-24 13:10:25 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dragoroar",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN038",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.87,
+                            "low": 0.41,
+                            "average": 1.28,
+                            "shift": 0.0,
+                            "shift_3": 0.040650406504065,
+                            "shift_7": 0.196261682242991,
+                            "shift_21": 0.032258064516129,
+                            "shift_30": 0.032258064516129,
+                            "shift_90": 0.219047619047619,
+                            "shift_180": -0.0588235294117647,
+                            "shift_365": 0.376344086021505,
+                            "updated_at": "2018-09-24 13:11:47 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Earthshattering Event",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN042",
+                "rarity": "Prismatic Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.54,
+                            "average": 1.59,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.00625,
+                            "shift_21": 0.186567164179104,
+                            "shift_30": 0.2421875,
+                            "shift_90": 0.5,
+                            "shift_180": 0.419642857142857,
+                            "shift_365": 0.445454545454545,
+                            "updated_at": "2018-09-24 10:56:11 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Elemental HERO Blazeman",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN032",
+                "rarity": "Prismatic Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 25.11,
+                            "low": 4.98,
+                            "average": 5.22,
+                            "shift": -0.0905923344947735,
+                            "shift_3": -0.212669683257919,
+                            "shift_7": -0.074468085106383,
+                            "shift_21": -0.151219512195122,
+                            "shift_30": 0.0460921843687375,
+                            "shift_90": -0.109215017064846,
+                            "shift_180": -0.0474452554744526,
+                            "shift_365": 0.0503018108651912,
+                            "updated_at": "2018-09-24 14:54:24 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Flowerbot",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN036",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 3.47,
+                            "low": 0.46,
+                            "average": 0.94,
+                            "shift": 0.0,
+                            "shift_3": 0.0217391304347826,
+                            "shift_7": -0.0105263157894737,
+                            "shift_21": -0.0105263157894737,
+                            "shift_30": 0.010752688172043,
+                            "shift_90": -0.0208333333333333,
+                            "shift_180": -0.0408163265306122,
+                            "shift_365": 0.0804597701149425,
+                            "updated_at": "2018-09-24 10:27:39 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Gagaga Mancer",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN028",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.49,
+                            "low": 0.48,
+                            "average": 0.96,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0303030303030303,
+                            "shift_21": -0.04,
+                            "shift_30": -0.0303030303030303,
+                            "shift_90": 0.0212765957446809,
+                            "shift_180": 0.0,
+                            "shift_365": 0.0549450549450549,
+                            "updated_at": "2018-09-21 23:20:37 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Gagaga Samurai",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN027",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 11.84,
+                            "low": 0.89,
+                            "average": 1.52,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.012987012987013,
+                            "shift_21": 0.216,
+                            "shift_30": 0.1875,
+                            "shift_90": 0.1875,
+                            "shift_180": -0.0379746835443038,
+                            "shift_365": -0.05,
+                            "updated_at": "2018-09-24 14:00:45 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Gagaga Sister",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN006",
+                "rarity": "Prismatic Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.31,
+                            "low": 0.99,
+                            "average": 1.64,
+                            "shift": 0.0,
+                            "shift_3": 0.025,
+                            "shift_7": 0.0314465408805031,
+                            "shift_21": 0.0,
+                            "shift_30": -0.0786516853932584,
+                            "shift_90": 0.0123456790123457,
+                            "shift_180": -0.305084745762712,
+                            "shift_365": -0.344,
+                            "updated_at": "2018-09-24 14:00:34 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Galaxy Soldier",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN010",
+                "rarity": "Prismatic Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 45.0,
+                            "low": 13.59,
+                            "average": 20.99,
+                            "shift": 0.167408231368187,
+                            "shift_3": 0.196693272519954,
+                            "shift_7": 0.222481071636575,
+                            "shift_21": 0.247919143876338,
+                            "shift_30": 0.0375679683638161,
+                            "shift_90": 0.954376163873371,
+                            "shift_180": 1.04381694255112,
+                            "shift_365": 1.43786295005807,
+                            "updated_at": "2018-09-24 15:05:22 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Galaxy-Eyes Cloudragon",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN009",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 1.45,
+                            "low": 0.89,
+                            "average": 1.39,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0145985401459854,
+                            "shift_21": -0.0141843971631206,
+                            "shift_30": -0.415966386554622,
+                            "shift_90": -0.513986013986014,
+                            "shift_180": 0.0859375,
+                            "shift_365": 0.168067226890756,
+                            "updated_at": "2018-09-24 14:01:21 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Ghostrick Angel of Mischief",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN035",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 1.17,
+                            "average": 1.95,
+                            "shift": 0.0103626943005181,
+                            "shift_3": 0.0317460317460317,
+                            "shift_7": -0.0151515151515152,
+                            "shift_21": -0.00510204081632653,
+                            "shift_30": -0.0201005025125628,
+                            "shift_90": 0.0773480662983425,
+                            "shift_180": -0.22,
+                            "shift_365": -0.025,
+                            "updated_at": "2018-09-24 17:43:39 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fairy / Xyz"
+    },
+    {
+        "name": "Ghostrick Break",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN043",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 3.22,
+                            "low": 0.19,
+                            "average": 1.27,
+                            "shift": 0.144144144144144,
+                            "shift_3": 0.144144144144144,
+                            "shift_7": 0.0,
+                            "shift_21": 0.133928571428571,
+                            "shift_30": 0.123893805309735,
+                            "shift_90": 0.123893805309735,
+                            "shift_180": -0.0522388059701493,
+                            "shift_365": -0.358585858585859,
+                            "updated_at": "2018-09-24 15:22:55 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Guard Go!",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN029",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 3.47,
+                            "low": 0.46,
+                            "average": 1.09,
+                            "shift": -0.00909090909090909,
+                            "shift_3": 0.101010101010101,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0,
+                            "shift_180": -0.00909090909090909,
+                            "shift_365": 0.211111111111111,
+                            "updated_at": "2018-09-24 15:39:50 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Guerilla Kite",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN040",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.44,
+                            "low": 0.42,
+                            "average": 0.96,
+                            "shift": 0.0,
+                            "shift_3": -0.219512195121951,
+                            "shift_7": 0.0434782608695652,
+                            "shift_21": 0.0,
+                            "shift_30": -0.213114754098361,
+                            "shift_90": -0.0303030303030303,
+                            "shift_180": 0.032258064516129,
+                            "shift_365": 0.0666666666666667,
+                            "updated_at": "2018-09-24 14:16:56 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Fiend / Tuner"
+    },
+    {
+        "name": "Heavy Knight of the Flame",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN047",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 7.56,
+                            "low": 0.46,
+                            "average": 1.11,
+                            "shift": 0.0,
+                            "shift_3": 0.018348623853211,
+                            "shift_7": 0.018348623853211,
+                            "shift_21": 0.0277777777777778,
+                            "shift_30": 0.0373831775700935,
+                            "shift_90": 0.144329896907216,
+                            "shift_180": 0.0471698113207547,
+                            "shift_365": 0.206521739130435,
+                            "updated_at": "2018-09-24 12:02:24 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Zombie / Gemini"
+    },
+    {
+        "name": "Heraldic Beast Amphisbaena",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN003",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.16,
+                            "low": 0.46,
+                            "average": 1.11,
+                            "shift": 0.0,
+                            "shift_3": -0.00892857142857143,
+                            "shift_7": 0.018348623853211,
+                            "shift_21": -0.104838709677419,
+                            "shift_30": 0.0373831775700935,
+                            "shift_90": 0.0776699029126214,
+                            "shift_180": 0.168421052631579,
+                            "shift_365": 0.247191011235955,
+                            "updated_at": "2018-09-24 12:03:22 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Heroic Challenger - Assault Halberd",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN016",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 3.98,
+                            "low": 0.46,
+                            "average": 1.22,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0161290322580645,
+                            "shift_21": -0.00813008130081301,
+                            "shift_30": -0.0161290322580645,
+                            "shift_90": -0.0757575757575758,
+                            "shift_180": 0.14018691588785,
+                            "shift_365": 0.244897959183673,
+                            "updated_at": "2018-09-24 16:14:23 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Heroic Challenger - Thousand Blades",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN017",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 1.06,
+                            "average": 1.73,
+                            "shift": 0.130718954248366,
+                            "shift_3": -0.0388888888888889,
+                            "shift_7": -0.0597826086956522,
+                            "shift_21": -0.0335195530726257,
+                            "shift_30": 0.0236686390532544,
+                            "shift_90": -0.0846560846560847,
+                            "shift_180": -0.449044585987261,
+                            "shift_365": 0.272058823529412,
+                            "updated_at": "2018-09-24 16:14:08 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Hi-Five the Sky",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN030",
+                "rarity": "Prismatic Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.07,
+                            "low": 0.48,
+                            "average": 1.32,
+                            "shift": 0.178571428571429,
+                            "shift_3": 0.168141592920354,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0153846153846154,
+                            "shift_30": 0.0153846153846154,
+                            "shift_90": -0.0222222222222222,
+                            "shift_180": 0.189189189189189,
+                            "shift_365": -0.0149253731343284,
+                            "updated_at": "2018-09-24 13:58:30 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Humhumming the Key Djinn",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN023",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.44,
+                            "low": 0.46,
+                            "average": 1.11,
+                            "shift": 0.0,
+                            "shift_3": -0.00892857142857143,
+                            "shift_7": -0.00892857142857143,
+                            "shift_21": -0.00892857142857143,
+                            "shift_30": 0.0277777777777778,
+                            "shift_90": 0.0776699029126214,
+                            "shift_180": 0.018348623853211,
+                            "shift_365": 0.21978021978022,
+                            "updated_at": "2018-09-24 12:05:49 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fiend / Xyz"
+    },
+    {
+        "name": "Humpty Grumpty",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN037",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.44,
+                            "low": 0.46,
+                            "average": 1.1,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": -0.140625,
+                            "shift_90": 0.0679611650485437,
+                            "shift_180": 0.195652173913043,
+                            "shift_365": 0.170212765957447,
+                            "updated_at": "2018-09-24 12:05:50 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Jolt Counter",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN015",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 2.32,
+                            "low": 0.71,
+                            "average": 1.17,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.00847457627118644,
+                            "shift_21": -0.00847457627118644,
+                            "shift_30": 0.0636363636363636,
+                            "shift_90": 0.0833333333333333,
+                            "shift_180": 0.0934579439252336,
+                            "shift_365": 0.329545454545455,
+                            "updated_at": "2018-09-24 15:41:25 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Kabuki Dragon",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN049",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 3.22,
+                            "low": 0.42,
+                            "average": 0.94,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.010752688172043,
+                            "shift_180": -0.0105263157894737,
+                            "shift_365": 0.0444444444444444,
+                            "updated_at": "2018-09-06 18:02:50 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Legendary Dragon of White",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN051",
+                "rarity": "Prismatic Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 51.02,
+                            "low": 14.5,
+                            "average": 15.42,
+                            "shift": -0.00644329896907216,
+                            "shift_3": 0.0184940554821664,
+                            "shift_7": -0.0089974293059126,
+                            "shift_21": -0.0265151515151515,
+                            "shift_30": -0.043424317617866,
+                            "shift_90": -0.201036269430052,
+                            "shift_180": -0.308520179372197,
+                            "shift_365": 0.647435897435897,
+                            "updated_at": "2018-09-24 16:16:26 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Legendary Magician of Dark",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN052",
+                "rarity": "Prismatic Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 36.77,
+                            "low": 7.99,
+                            "average": 11.94,
+                            "shift": 0.0,
+                            "shift_3": -0.0394207562349155,
+                            "shift_7": -0.0324149108589951,
+                            "shift_21": 0.00336134453781513,
+                            "shift_30": 0.00759493670886076,
+                            "shift_90": 0.0934065934065934,
+                            "shift_180": 0.0854545454545454,
+                            "shift_365": 0.457875457875458,
+                            "updated_at": "2018-09-24 10:18:15 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Xyz"
+    },
+    {
+        "name": "Marshalling Field",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN025",
+                "rarity": "Prismatic Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 15.33,
+                            "low": 0.45,
+                            "average": 1.48,
+                            "shift": 0.0136986301369863,
+                            "shift_3": 0.0277777777777778,
+                            "shift_7": -0.0133333333333333,
+                            "shift_21": -0.00671140939597315,
+                            "shift_30": 0.0136986301369863,
+                            "shift_90": -0.134502923976608,
+                            "shift_180": -0.26,
+                            "shift_365": 0.28695652173913,
+                            "updated_at": "2018-09-23 04:05:17 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mecha Phantom Beast Jaculuslan",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN034",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 3.47,
+                            "low": 0.42,
+                            "average": 0.96,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0105263157894737,
+                            "shift_21": 0.032258064516129,
+                            "shift_30": 0.0434782608695652,
+                            "shift_90": 0.0,
+                            "shift_180": -0.142857142857143,
+                            "shift_365": 0.142857142857143,
+                            "updated_at": "2018-09-24 10:38:06 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Naturia Gaiastrio",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN033",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.99,
+                            "low": 0.46,
+                            "average": 0.94,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.010752688172043,
+                            "shift_21": 0.010752688172043,
+                            "shift_30": 0.010752688172043,
+                            "shift_90": -0.113207547169811,
+                            "shift_180": -0.160714285714286,
+                            "shift_365": -0.06,
+                            "updated_at": "2018-09-24 10:13:31 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Fusion"
+    },
+    {
+        "name": "Number 18: Heraldry Patriarch",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN004",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 3.22,
+                            "low": 0.48,
+                            "average": 0.98,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0297029702970297,
+                            "shift_21": 0.0,
+                            "shift_30": -0.0297029702970297,
+                            "shift_90": -0.0101010101010101,
+                            "shift_180": -0.125,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 17:41:56 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Xyz"
+    },
+    {
+        "name": "Number 36: Chronomaly Chateau Huyuk",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN002",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.44,
+                            "low": 0.48,
+                            "average": 1.15,
+                            "shift": 0.0,
+                            "shift_3": 0.0555555555555556,
+                            "shift_7": -0.161764705882353,
+                            "shift_21": 0.117647058823529,
+                            "shift_30": 0.128712871287129,
+                            "shift_90": 0.0654205607476635,
+                            "shift_180": 0.14,
+                            "shift_365": 0.175257731958763,
+                            "updated_at": "2018-09-24 17:50:20 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Number 55: Gogogo Goliath",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN007",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.98,
+                            "low": 0.5,
+                            "average": 1.05,
+                            "shift": -0.00943396226415094,
+                            "shift_3": -0.204545454545455,
+                            "shift_7": -0.192307692307692,
+                            "shift_21": -0.192307692307692,
+                            "shift_30": -0.166666666666667,
+                            "shift_90": -0.210526315789474,
+                            "shift_180": 0.0714285714285714,
+                            "shift_365": -0.0540540540540541,
+                            "updated_at": "2018-09-24 11:26:56 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Xyz"
+    },
+    {
+        "name": "Number 79: Battlin' Boxer Nova Kaiser",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN014",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.67,
+                            "low": 0.41,
+                            "average": 1.11,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.00892857142857143,
+                            "shift_21": -0.177777777777778,
+                            "shift_30": -0.0347826086956522,
+                            "shift_90": -0.00892857142857143,
+                            "shift_180": 0.0,
+                            "shift_365": 0.099009900990099,
+                            "updated_at": "2018-09-24 11:27:44 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Number 86: Heroic Champion - Rhongomyniad",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN022",
+                "rarity": "Prismatic Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 14.15,
+                            "low": 4.14,
+                            "average": 5.54,
+                            "shift": -0.0107142857142857,
+                            "shift_3": -0.0448275862068966,
+                            "shift_7": -0.0331588132635253,
+                            "shift_21": -0.117834394904459,
+                            "shift_30": -0.192419825072886,
+                            "shift_90": -0.141085271317829,
+                            "shift_180": 0.810457516339869,
+                            "shift_365": 0.97153024911032,
+                            "updated_at": "2018-09-24 16:50:53 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Number F0: Utopic Future",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN026",
+                "rarity": "Prismatic Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 22.07,
+                            "low": 1.49,
+                            "average": 2.76,
+                            "shift": -0.0675675675675676,
+                            "shift_3": 0.0656370656370656,
+                            "shift_7": 0.0147058823529412,
+                            "shift_21": 0.0147058823529412,
+                            "shift_30": 0.00363636363636364,
+                            "shift_90": -0.0860927152317881,
+                            "shift_180": -0.229050279329609,
+                            "shift_365": -0.260053619302949,
+                            "updated_at": "2018-09-24 17:12:46 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Numeral Hunter",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN021",
+                "rarity": "Prismatic Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.37,
+                            "low": 0.54,
+                            "average": 1.42,
+                            "shift": 0.0,
+                            "shift_3": 0.00709219858156028,
+                            "shift_7": -0.0273972602739726,
+                            "shift_21": -0.0206896551724138,
+                            "shift_30": -0.00699300699300699,
+                            "shift_90": 0.279279279279279,
+                            "shift_180": 0.234782608695652,
+                            "shift_365": 0.314814814814815,
+                            "updated_at": "2018-09-24 11:28:51 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Onomatopia",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN024",
+                "rarity": "Prismatic Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.25,
+                            "low": 0.48,
+                            "average": 1.36,
+                            "shift": 0.0,
+                            "shift_3": 0.0149253731343284,
+                            "shift_7": 0.00740740740740741,
+                            "shift_21": 0.0225563909774436,
+                            "shift_30": 0.0225563909774436,
+                            "shift_90": 0.236363636363636,
+                            "shift_180": 0.192982456140351,
+                            "shift_365": 0.416666666666667,
+                            "updated_at": "2018-09-24 13:05:49 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "P.M. Captor",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN044",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.26,
+                            "low": 0.46,
+                            "average": 0.94,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.010752688172043,
+                            "shift_180": -0.0105263157894737,
+                            "shift_365": 0.0444444444444444,
+                            "updated_at": "2018-09-24 11:28:51 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Pendulum"
+    },
+    {
+        "name": "Pendulum Impenetrable",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN050",
+                "rarity": "Prismatic Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.32,
+                            "low": 0.54,
+                            "average": 1.38,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.148148148148148,
+                            "shift_21": -0.148148148148148,
+                            "shift_30": 0.037593984962406,
+                            "shift_90": 0.0615384615384615,
+                            "shift_180": 0.30188679245283,
+                            "shift_365": 0.38,
+                            "updated_at": "2018-09-24 17:35:52 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Photon Stream of Destruction",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN011",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 3.47,
+                            "low": 0.46,
+                            "average": 1.05,
+                            "shift": 0.0,
+                            "shift_3": 0.0194174757281553,
+                            "shift_7": 0.0294117647058824,
+                            "shift_21": -0.166666666666667,
+                            "shift_30": -0.16,
+                            "shift_90": -0.192307692307692,
+                            "shift_180": -0.227941176470588,
+                            "shift_365": 0.153846153846154,
+                            "updated_at": "2018-09-24 12:17:26 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Planckton",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN039",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.87,
+                            "low": 0.4,
+                            "average": 0.93,
+                            "shift": 0.0,
+                            "shift_3": 0.0333333333333333,
+                            "shift_7": 0.0,
+                            "shift_21": 0.021978021978022,
+                            "shift_30": -0.218487394957983,
+                            "shift_90": 0.0,
+                            "shift_180": -0.122641509433962,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:20:20 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Spiritual Whisper",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN045",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.87,
+                            "low": 0.43,
+                            "average": 0.87,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": -0.0224719101123595,
+                            "shift_180": -0.0842105263157895,
+                            "shift_365": -0.0543478260869565,
+                            "updated_at": "2018-09-24 15:07:54 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Star Seraph Scale",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN019",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.44,
+                            "low": 0.48,
+                            "average": 0.96,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": -0.232,
+                            "shift_90": 0.0105263157894737,
+                            "shift_180": 0.0,
+                            "shift_365": 0.0786516853932584,
+                            "updated_at": "2018-09-24 15:08:26 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Star Seraph Scepter",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN018",
+                "rarity": "Prismatic Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 62.07,
+                            "low": 0.99,
+                            "average": 2.78,
+                            "shift": 0.0036101083032491,
+                            "shift_3": -0.0106761565836299,
+                            "shift_7": 0.025830258302583,
+                            "shift_21": 1.24193548387097,
+                            "shift_30": 1.24193548387097,
+                            "shift_90": 1.29752066115702,
+                            "shift_180": -0.0608108108108108,
+                            "shift_365": 0.985714285714286,
+                            "updated_at": "2018-09-24 15:08:29 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Star Seraph Sovereignty",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN020",
+                "rarity": "Prismatic Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 40.06,
+                            "low": 5.5,
+                            "average": 8.03,
+                            "shift": 0.0469973890339426,
+                            "shift_3": -0.018359853121175,
+                            "shift_7": -0.0564705882352941,
+                            "shift_21": -0.023142509135201,
+                            "shift_30": 0.0693333333333333,
+                            "shift_90": 0.103163686382393,
+                            "shift_180": -0.149522799575822,
+                            "shift_365": -0.0855188141391106,
+                            "updated_at": "2018-09-24 15:08:44 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Tachyon Transmigration",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN012",
+                "rarity": "Prismatic Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.06,
+                            "low": 5.5,
+                            "average": 5.43,
+                            "shift": 0.00742115027829314,
+                            "shift_3": -0.00183823529411765,
+                            "shift_7": -0.0423280423280423,
+                            "shift_21": -0.0320855614973262,
+                            "shift_30": 0.0225988700564972,
+                            "shift_90": 0.508333333333333,
+                            "shift_180": 0.388746803069054,
+                            "shift_365": 0.757281553398058,
+                            "updated_at": "2018-09-24 16:23:10 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Door of Destiny",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN031",
+                "rarity": "Prismatic Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 8.5,
+                            "low": 0.48,
+                            "average": 1.1,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0434782608695652,
+                            "shift_21": -0.172932330827068,
+                            "shift_30": -0.0265486725663717,
+                            "shift_90": -0.0598290598290598,
+                            "shift_180": -0.0677966101694915,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 11:03:48 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Wattsychic Fighter",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN041",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.44,
+                            "low": 0.71,
+                            "average": 1.1,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0280373831775701,
+                            "shift_21": -0.166666666666667,
+                            "shift_30": 0.0185185185185185,
+                            "shift_90": -0.185185185185185,
+                            "shift_180": -0.0677966101694915,
+                            "shift_365": -0.219858156028369,
+                            "updated_at": "2018-09-24 14:25:05 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Xyz-Raypierce",
+        "numbers": [
+            {
+                "name": "World Superstars",
+                "print_tag": "WSUP-EN046",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 3.47,
+                            "low": 0.41,
+                            "average": 0.95,
+                            "shift": 0.0,
+                            "shift_3": 0.0106382978723404,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0106382978723404,
+                            "shift_30": 0.0106382978723404,
+                            "shift_90": 0.0326086956521739,
+                            "shift_180": 0.021505376344086,
+                            "shift_365": 0.0795454545454545,
+                            "updated_at": "2018-09-24 12:11:33 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dragon / Effect"
+    }
+]

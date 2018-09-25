@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Booby Trap E",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN013",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Bottomless Trap Hole",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN056",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Bujinki Amaterasu",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN048",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast-Warrior / Xyz"
+    },
+    {
+        "name": "Cairngorgon, Antiluminescent Knight",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN049",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Rock / Xyz"
+    },
+    {
+        "name": "Call of the Haunted",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN057",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Crane Crane",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN040",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Dark Rebellion Xyz Dragon",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN007",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Forbidden Chalice",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN053",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gagaga Cowboy",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN043",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Gem-Knight Pearl",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN042",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Xyz"
+    },
+    {
+        "name": "Ghostrick Alucard",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN046",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Xyz"
+    },
+    {
+        "name": "Harpie Harpist",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN041",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Icarus Attack",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN058",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mystical Space Typhoon",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN051",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Needlebug Nest",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN059",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Number 101: Silent Honor ARK",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN047",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Xyz"
+    },
+    {
+        "name": "Number 52: Diamond Crab King",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN050",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Xyz"
+    },
+    {
+        "name": "Number 66: Master Key Beetle",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN045",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Insect / Xyz"
+    },
+    {
+        "name": "Phantom Knights' Fog Blade",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN009",
+                "rarity": "Ultra Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Phantom Knights' Spear",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN008",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Phantom Knights' Sword",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN010",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Phantom Knights' Wing",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN011",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Raidraptor - Call",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN025",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Raidraptor - Force Strix",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN022",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Xyz"
+    },
+    {
+        "name": "Raidraptor - Fuzzy Lanius",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN017",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Raidraptor - Last Strix",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN015",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Raidraptor - Mimicry Lanius",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN020",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Raidraptor - Necro Vulture",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN014",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Raidraptor - Nest",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN026",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Raidraptor - Readiness",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN029",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Raidraptor - Revolution Falcon",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN023",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Xyz"
+    },
+    {
+        "name": "Raidraptor - Satellite Cannon Falcon",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN024",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Xyz"
+    },
+    {
+        "name": "Raidraptor - Sharp Lanius",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN019",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Raidraptor - Singing Lanius",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN018",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Raidraptor - Tribute Lanius",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN021",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Raidraptor - Vanishing Lanius",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN016",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Rank-Up-Magic Astral Force",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN055",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Rank-Up-Magic Doom Double Force",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN027",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Rank-Up-Magic Soul Shave Force",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN028",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Reinforcement of the Army",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN052",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Super Quantal Fairy Alphan",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN033",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Super Quantal Mech Beast Aeroboros",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN035",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Super Quantal Mech Beast Grampulse",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN034",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Super Quantal Mech Beast Magnaliger",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN036",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Super Quantal Mech King Great Magnus",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN037",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Super Quantal Mech Ship Magnacarrier",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN038",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Super Quantal Mech Sword - Magnaslayer",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN039",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Super Quantum Blue Layer",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN032",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Super Quantum Green Layer",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN031",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Super Quantum Red Layer",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN030",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Swallow's Nest",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN054",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Phantom Knights of Ancient Cloak",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN001",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "The Phantom Knights of Break Sword",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN006",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "The Phantom Knights of Cloven Helm",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN004",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "The Phantom Knights of Fragile Armor",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN005",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "The Phantom Knights of Ragged Gloves",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN003",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "The Phantom Knights of Shadow Veil",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN012",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Phantom Knights of Silent Boots",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN002",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Xyz Reborn",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN060",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Zubaba General",
+                "pack": "Wing Raiders",
+                "print_tag": "WIRA-EN044",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Xyz"
+    }
+]

@@ -1,0 +1,1002 @@
+[
+    {
+        "name": "Altergeist Emulatelf",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN070",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Altergeist Kidolga",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN042",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Link"
+    },
+    {
+        "name": "Altergeist Multifaker",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN014",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Altergeist Pixiel",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN015",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Background Dragon",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN012",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Backup Operator",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN003",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Cyberse / Effect"
+    },
+    {
+        "name": "Batteryman Solar",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN027",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Thunder / Effect"
+    },
+    {
+        "name": "Boycotton",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN035",
+                "rarity": "Short Print",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Called by the Grave",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN065",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Crystal Conclave",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN099",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Crystal Keeper",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN093",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Pendulum"
+    },
+    {
+        "name": "Crystal Master",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN092",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Cybersal Cyclone",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN053",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Defrag Dragon",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN011",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Degrade Buster",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN005",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Cyberse / Effect"
+    },
+    {
+        "name": "Elemental Training",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN074",
+                "rarity": "Ultra Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Elementsaber Aina",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN019",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Elementsaber Lapauila",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN023",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Elementsaber Lapauila Mana",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN025",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Elementsaber Makani",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN020",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Elementsaber Malo",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN022",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Elementsaber Molehu",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN024",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Elementsaber Nalu",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN021",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "F.A. Dark Dragster",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN087",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "F.A. Dawn Dragster",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN088",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "F.A. Dead Heat",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN090",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "F.A. Overheat",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN091",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "F.A. Winners",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN089",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Fire Fighting Daruma Doll",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN051",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast-Warrior / Link"
+    },
+    {
+        "name": "Flower Cardian Moonflowerviewing",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN094",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Synchro"
+    },
+    {
+        "name": "Gergonne's End",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN069",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ghost Belle & Haunted Mansion",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN033",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Zombie / Tuner"
+    },
+    {
+        "name": "Gouki Bearhug",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN010",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Gouki Face Turn",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN056",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gouki Octostretch",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN009",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Gouki The Master Ogre",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN041",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Link"
+    },
+    {
+        "name": "Greatfly",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN052",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Insect / Link"
+    },
+    {
+        "name": "Heartless Drop Off",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN078",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Infinite Impermanence",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN077",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Inzektor Picofalena",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN096",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Insect / Link"
+    },
+    {
+        "name": "Iron Dragon Tiamaton",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN032",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Kai-Den Kendo Spirit",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN000",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Warrior / Pendulum"
+    },
+    {
+        "name": "Knightmare Cerberus",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN045",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fiend / Link"
+    },
+    {
+        "name": "Knightmare Corruptor Iblee",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN017",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Cyberse / Effect"
+    },
+    {
+        "name": "Knightmare Goblin",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN044",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Fiend / Link"
+    },
+    {
+        "name": "Knightmare Gryphon",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN048",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Link"
+    },
+    {
+        "name": "Knightmare Mermaid",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN043",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fiend / Link"
+    },
+    {
+        "name": "Knightmare Phoenix",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN046",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Fiend / Link"
+    },
+    {
+        "name": "Knightmare Unicorn",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN047",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Link"
+    },
+    {
+        "name": "Limit Code",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN067",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Link Bound",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN063",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Link Streamer",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN004",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Cyberse / Effect"
+    },
+    {
+        "name": "Madolche Fresh Sistart",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN097",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fairy / Link"
+    },
+    {
+        "name": "Mamemaki",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN079",
+                "rarity": "Short Print",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mekk-Knight Avram",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN016",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Normal"
+    },
+    {
+        "name": "Monster Reborn Reborn",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN066",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Network Trap Hole",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN076",
+                "rarity": "Ultra Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Palace of the Elemental Lords",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN060",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Phosphorage the Elemental Lord",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN026",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Prompthorn",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN002",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Cyberse / Effect"
+    },
+    {
+        "name": "Protron",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN001",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Cyberse / Normal"
+    },
+    {
+        "name": "Rainbow Refraction",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN098",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Red Hared Hasty Horse",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN034",
+                "rarity": "Short Print",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Red Reboot",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN068",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Restoration of the Monarchs",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN061",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Revendread Evolution",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN084",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Ritual",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Revendread Executor",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN082",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Ritual"
+    },
+    {
+        "name": "Sekka's Light",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN062",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Shaddoll Construct",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN095",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Link"
+    },
+    {
+        "name": "Space Insulator",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN037",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Cyberse / Link"
+    },
+    {
+        "name": "Staring Contest",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN064",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Super Team Buddy Force Unite!",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN081",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Sanctified Darklord",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN075",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Three Trolling Trolls",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN030",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Beast-Warrior / Tuner"
+    },
+    {
+        "name": "Tindangle Trinity",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN013",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Flip"
+    },
+    {
+        "name": "Topologic Trisbaena",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN036",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Cyberse / Link"
+    },
+    {
+        "name": "Trancefamiliar",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN029",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Trickstar Bella Madonna",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN038",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Link"
+    },
+    {
+        "name": "Trickstar Bloom",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN039",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Link"
+    },
+    {
+        "name": "Trickstar Bouquet",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN055",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Trickstar Delfiendium",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN040",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Link"
+    },
+    {
+        "name": "Trickstar Light Arena",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN054",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Trickstar Mandrake",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN007",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Trickstar Nightshade",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN006",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Trickstar Rhodode",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN008",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Vampire Sucker",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN050",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Link"
+    },
+    {
+        "name": "Vendread Anima",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN083",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Vendread Daybreak",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN086",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Vendread Nightmare",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN085",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Waking the Dragon",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN080",
+                "rarity": "Short Print",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Watch Cat",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN028",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Wind-Up Zenmaintenance",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN049",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Link"
+    },
+    {
+        "name": "World Legacy - \"World Lance\"",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN018",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "World Legacy Awakens",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN071",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "World Legacy Struggle",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN072",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "World Legacy Succession",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN058",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "World Legacy's Corruption",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN057",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "World Legacy's Nightmare",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN059",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "World Legacy's Sorrow",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN073",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Yajiro Invader",
+                "pack": "Flames of Destruction",
+                "print_tag": "FLOD-EN031",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Reptile / Effect"
+    }
+]

@@ -1,0 +1,1002 @@
+[
+    {
+        "name": "\"A\" Cell Recombination Device",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN063",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Amazing Pendulum",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN053",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Aromaseraphy Angelica",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN031",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Plant / Tuner"
+    },
+    {
+        "name": "Aromaseraphy Rosemary",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN047",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Plant / Synchro"
+    },
+    {
+        "name": "Burnout",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN073",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Caninetaur",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN092",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Catalyst Field",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN059",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Charming Resort Staff",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN086",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Chemicritter Carbo Crab",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN024",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Aqua / Gemini"
+    },
+    {
+        "name": "Chemicritter Hydron Hawk",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN023",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Winged Beast / Gemini"
+    },
+    {
+        "name": "Chemicritter Oxy Ox",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN025",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Beast / Gemini"
+    },
+    {
+        "name": "Cipher Bit",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN069",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Cipher Mirror Knight",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN011",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Cipher Twin Raptor",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN010",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Constellar Tempest",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN091",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Crystolic Potential",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN057",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Crystron Ametrix",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN045",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Crystron Citree",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN016",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Crystron Entry",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN071",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Crystron Impact",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN072",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Crystron Phoenix",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN046",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Crystron Prasiortle",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN017",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Crystron Quan",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN015",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Crystron Quandax",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN044",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Crystron Rosenix",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN020",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Crystron Smiger",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN018",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Crystron Thystvern",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN019",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Cyber Angel Vrash",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN036",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Ritual"
+    },
+    {
+        "name": "Dark Requiem Xyz Dragon",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN049",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Darktellarknight Batlamyus",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN051",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Denglong, First of the Yang Zing",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN048",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Wyrm / Synchro"
+    },
+    {
+        "name": "Dimensional Barrier",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN078",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dino-Sewing",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN093",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Doki Doki",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN032",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Double Cipher",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN068",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dragon Core Hexer",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN001",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Tuner"
+    },
+    {
+        "name": "Fairy Tail - Sleeper",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN035",
+                "rarity": "Short Print",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Flip"
+    },
+    {
+        "name": "Flower Cardian Boardefly",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN043",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Synchro"
+    },
+    {
+        "name": "Flower Cardian Clover with Boar",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN012",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Flower Cardian Maple with Deer",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN013",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Flower Cardian Peony with Butterfly",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN014",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Tuner"
+    },
+    {
+        "name": "Flower Stacking",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN055",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Fraud Freeze",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN070",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Fullmetalfoes Alkahest",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN039",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Psychic / Fusion"
+    },
+    {
+        "name": "Fullmetalfoes Fusion",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN058",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Graydle Combat",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN075",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Graydle Slime Jr.",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN030",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Tuner"
+    },
+    {
+        "name": "Igknights Unite",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN061",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "King's Synchro",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN067",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mare Mare",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN094",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Wyrm / Tuner"
+    },
+    {
+        "name": "Metalfoes Mithrilium",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN040",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Psychic / Fusion"
+    },
+    {
+        "name": "Meteor Black Comet Dragon",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN041",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Fusion"
+    },
+    {
+        "name": "Meteor Dragon Red-Eyes Impact",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN028",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Gemini"
+    },
+    {
+        "name": "Nine Pillars of Yang Zing",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN077",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "PSY-Frame Accelerator",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN074",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "PSY-Frame Multi-Threader",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN029",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Paleozoic Dinomischus",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN096",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Paleozoic Eldonia",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN095",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Paleozoic Leanchoilia",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN098",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Paleozoic Marrella",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN097",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Paleozoic Opabinia",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN099",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Xyz"
+    },
+    {
+        "name": "Pandora's Jewelry Box",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN034",
+                "rarity": "Short Print",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Wyrm / Pendulum"
+    },
+    {
+        "name": "Performapal Changeraffe",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN005",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Pendulum"
+    },
+    {
+        "name": "Performapal Flip Hippo",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN003",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Performapal Seal Eel",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN004",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fish / Pendulum"
+    },
+    {
+        "name": "Performapal Whim Witch",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN002",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Pendulum"
+    },
+    {
+        "name": "Poly-Chemicritter Dioxogre",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN026",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Gemini"
+    },
+    {
+        "name": "Poly-Chemicritter Hydragon",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN027",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Dragon / Gemini"
+    },
+    {
+        "name": "Pot of Acquisitiveness",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN065",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Predaplant Flytrap",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN006",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Predaplant Moray Nepenthes",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN007",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Predaplant Squid Drosera",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN008",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Present Card",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN080",
+                "rarity": "Short Print",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Qlife's End",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN076",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Quarantine",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN066",
+                "rarity": "Short Print",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Raremetalfoes Bismugear",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN022",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Psychic / Pendulum"
+    },
+    {
+        "name": "Red-Eyes Insight",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN060",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "SPYRAL MISSION - Assault",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN088",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "SPYRAL Master Plan",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN087",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "SPYRAL Resort",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN089",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Saber Reflection",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN090",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Sauravis, the Ancient and Ascended",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN037",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Ritual"
+    },
+    {
+        "name": "Space Dragster",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN000",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Sprite's Blessing",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN064",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Ritual",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Starving Venom Fusion Dragon",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN038",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Fusion"
+    },
+    {
+        "name": "Subterror Behemoth Burrowing",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN085",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Subterror Behemoth Stygokraken",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN083",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Sea Serpent / Flip"
+    },
+    {
+        "name": "Subterror Behemoth Ultramafus",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN084",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Pyro / Flip"
+    },
+    {
+        "name": "Subterror Nemesis Archer",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN082",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Summon Gate",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN079",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Super Koi Koi",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN056",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Superheavy Samurai Ninja Sarutobi",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN042",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Superheavy Samurai Soulpeacemaker",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN009",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Tellarknight Genesis",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN062",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Phantom Knights' Rank-Up-Magic Launch",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN054",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Toadally Awesome",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN052",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Xyz"
+    },
+    {
+        "name": "Torque Tune Gear",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN033",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Union"
+    },
+    {
+        "name": "True King Bahrastos, the Fathomer",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN021",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Wyrm / Effect"
+    },
+    {
+        "name": "Vermillion Dragon Mech",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN081",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Vola-Chemicritter Methydraco",
+                "pack": "Invasion: Vengeance",
+                "print_tag": "INOV-EN050",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast-Warrior / Xyz"
+    }
+]

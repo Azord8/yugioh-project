@@ -1,0 +1,2452 @@
+[
+    {
+        "name": "A Rival Appears!",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN054",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Adhesive Explosive",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN131",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Ancient Gear (card)",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN128",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Ancient Gear Cannon",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN129",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Ancient Gear Castle",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN167",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ancient Gear Drill",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN160",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ancient Gear Factory",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN159",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Anteatereatingant",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN142",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Armed Changer",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN105",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Attack Reflector Unit",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN171",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Avalanching Aussa",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN206",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "B.E.S. Covered Core",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN133",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "B.E.S. Crystal Core",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN021",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "B.E.S. Tetran",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN077",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Banisher of the Radiance",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN202",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Batteryman C",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN030",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Thunder / Effect"
+    },
+    {
+        "name": "Batteryman D",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN210",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Thunder / Effect"
+    },
+    {
+        "name": "Beelze Frog",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN146",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Beiige, Vanguard of Dark World",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN080",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Blade Skater",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN063",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior"
+    },
+    {
+        "name": "Blazing Hiita",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN208",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Bonding - H2O",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN103",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Boss Rush",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN107",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Bountiful Artemis",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN200",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Branch!",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN106",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Broww, Huntsman of Dark World",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN081",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Brron, Mad King of Dark World",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN082",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Bubble Shuffle",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN046",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Celestial Transformation",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN224",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Chain Thrasher",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN135",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Chainsaw Insect",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN141",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Chthonian Alliance",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN104",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Chthonian Blast",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN110",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Chthonian Polymer",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN117",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Chthonian Soldier",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN070",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Clock Tower Prison",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN228",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Conscription",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN058",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Cyber Archfiend",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN019",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Cyber Barrier Dragon",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN126",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Cyber Blader",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN092",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "Cyber Dragon",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN015",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Cyber End Dragon",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN036",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "Cyber Gymnast",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN186",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Cyber Kirin",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN188",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Cyber Laser Dragon",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN127",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Cyber Phoenix",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN189",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Cyber Prima",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN187",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Cyber Tutu",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN185",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Cyber Twin Dragon",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN035",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "Cybernetic Cyclopean",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN017",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Cybernetic Magician",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN016",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Cyclone Boomerang",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN162",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Cycroid",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN001",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine"
+    },
+    {
+        "name": "D - Shield",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN234",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "D - Time",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN233",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "D.3.S. Frog",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN156",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Fusion"
+    },
+    {
+        "name": "D.D. Assailant",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN244",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "D.D. Guide",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN134",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "D.D. Trap Hole",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN057",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "D.D.M. - Different Dimension Master",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN032",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Damage Condenser",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN172",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dark Catapulter",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN013",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Dark Deal",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN112",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dark World Lightning",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN098",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Demise, King of Armageddon",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN155",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Ritual"
+    },
+    {
+        "name": "Des Croaking",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN042",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Des Frog",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN026",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Destiny HERO - Captain Tenacious",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN182",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Destiny HERO - Diamond Dude",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN183",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Destiny HERO - Doom Lord",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN181",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Destiny HERO - Dreadmaster",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN184",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Destiny Signal",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN232",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Destruction of Destiny",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN231",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dimension Wall",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN059",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dimensional Fissure",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN227",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Disciple of the Forbidden Spell",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN136",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Divine Dragon - Excelion",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN153",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Doitsu",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN025",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fairy / Union"
+    },
+    {
+        "name": "Doom Dozer",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN144",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Dragon's Mirror",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN040",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Drillroid",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN009",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "E - Emergency Call",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN219",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ebon Magician Curran",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN031",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Elemental Absorber",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN236",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Elemental HERO Bladedge",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN067",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Elemental HERO Bubbleman",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN014",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Elemental HERO Mariner",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN214",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "Elemental HERO Necroid Shaman",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN216",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "Elemental HERO Neo Bubbleman",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN124",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Elemental HERO Phoenix Enforcer",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN212",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "Elemental HERO Rampart Blaster",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN093",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "Elemental HERO Shining Flare Wingman",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN096",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "Elemental HERO Shining Phoenix Enforcer",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN213",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "Elemental HERO Tempest",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN094",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "Elemental HERO Wild Wingman",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN215",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "Elemental HERO Wildedge",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN095",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "Elemental HERO Wildheart",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN068",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Elemental Recharge",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN230",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "End of the World",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN166",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Ritual",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Etoile Cyber",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN076",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Exarion Universe",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN243",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Familiar-Possessed - Aussa",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN086",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Familiar-Possessed - Eria",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN087",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Familiar-Possessed - Hiita",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN088",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Familiar-Possessed - Wynn",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN089",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Feather Shot",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN102",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Feather Wind",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN118",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Fire Darts",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN049",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Forced Back",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN240",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Full Salvo",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN176",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Fusion Recovery",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN038",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gateway to Dark World",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN108",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Generation Shift",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN175",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Giant Kozaky",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN022",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Gilford the Lightning",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN242",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Goblin Elite Attack Force",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN020",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Goblin Out of the Frying Pan",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN179",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gokipon",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN139",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Goldd, Wu-Lord of Dark World",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN084",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Grand Convergence",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN226",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Grass Phantom",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN151",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Guard Dog",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN204",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Guard Penalty",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN225",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gyroid",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN007",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "H - Heated Heart",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN218",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Hamon, Lord of Striking Thunder",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN122",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Thunder / Effect"
+    },
+    {
+        "name": "Harpie's Pet Baby Dragon",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN193",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Herald of Green Light",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN198",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Herald of Purple Light",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN199",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Hero Barrier",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN109",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Hero Flash!!",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN222",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Hero Heart",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN157",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Hero Kid",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN125",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Hydrogeddon",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN073",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Icarus Attack",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN235",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Indomitable Fighter Lei Lei",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN023",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Infernal Incinerator",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN072",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Jack's Knight",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN065",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior"
+    },
+    {
+        "name": "Jerry Beans Man",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN004",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant"
+    },
+    {
+        "name": "Jetroid",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN011",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Kaibaman",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN245",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Karma Cut",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN173",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "King's Knight",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN066",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Layard the Liberator",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN201",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Level Limit - Area A",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN120",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Level Modulation",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN099",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Life Equalizer",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN229",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Machine King Prototype",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN132",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Macro Cosmos",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN237",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mad Lobster",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN003",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua"
+    },
+    {
+        "name": "Magical Explosion",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN055",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Magnet Circle LV2",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN158",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Majestic Mech - Goryu",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN196",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Majestic Mech - Ohka",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN195",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Majestic Mech - Senku",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN194",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Malfunction",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN180",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Malice Ascendant",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN150",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Mechanical Hound",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN018",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Memory Crusher",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN149",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Miracle Fusion",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN039",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Miracle Kids",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN170",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Miraculous Descent",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN238",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Misfortune",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN217",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Nanobreaker",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN078",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Next to be Lost",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN174",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Non-Fusion Area",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN119",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "O - Oversoul",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN221",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ojamagic",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN100",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ojamuscle",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN101",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Option Hunter",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN178",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Oxygeddon",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN074",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Parasitic Ticky",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN138",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Patroid",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN006",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Phantasmal Martyrs",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN161",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Photon Generator Unit",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN165",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Poison Draw Frog",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN028",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Pot of Avarice",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN097",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Pot of Generosity",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN043",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Power Bond",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN037",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Power Capsule",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN223",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Prepare to Strike Back",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN060",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Princess Curran",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN148",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Princess Pikeru",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN147",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Protective Soul Ailin",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN024",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Union"
+    },
+    {
+        "name": "Proto-Cyber Dragon",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN130",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Queen's Knight",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN064",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior"
+    },
+    {
+        "name": "R - Righteous Justice",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN220",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Raging Eria",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN207",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Rapid-Fire Magician",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN079",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Raviel, Lord of Phantasms",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN123",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Reborn Zombie",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN069",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Rising Energy",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN056",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Roll Out!",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN116",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Royal Knight",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN197",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Ruin, Queen of Oblivion",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN154",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Ritual"
+    },
+    {
+        "name": "Saber Beetle",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN143",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Samsara",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN168",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Sand Moth",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN152",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Satellite Cannon",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN241",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Scarr, Scout of Dark World",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN085",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Searchlightman",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN190",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Shattered Axe",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN239",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Shien's Spy",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN044",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Silent Insect",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN140",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Sillva, Warlord of Dark World",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN083",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Simultaneous Loss",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN113",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Skyscraper",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN048",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Soitsu",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN002",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Fairy"
+    },
+    {
+        "name": "Spark Blaster",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN047",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Spiritual Earth Art - Kurogane",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN050",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Spiritual Fire Art - Kurenai",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN052",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Spiritual Water Art - Aoi",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN051",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Spiritual Wind Art - Miyabi",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN053",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Steam Gyroid",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN033",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "Steamroid",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN008",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Storming Wynn",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN209",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Success Probability 0%",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN177",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Super Junior Confrontation",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN169",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Super-Electromagnetic Voltech Dragon",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN211",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Thunder / Effect"
+    },
+    {
+        "name": "Swift Birdman Joe",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN192",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Symbol of Heritage",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN163",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "System Down",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN041",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "T.A.D.P.O.L.E.",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN027",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Tenkabito Shien",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN137",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Pyro / Effect"
+    },
+    {
+        "name": "The Forces of Darkness",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN111",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The League of Uniform Nomenclature",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN115",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Transcendent Wings",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN045",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Treeborn Frog",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN145",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Trial of the Princesses",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN164",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Tyranno Infinity",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN029",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "UFOroid",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN010",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "UFOroid Fighter",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN034",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "Uria, Lord of Searing Flames",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN121",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Pyro / Effect"
+    },
+    {
+        "name": "V-Tiger Jet",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN062",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine"
+    },
+    {
+        "name": "VW-Tiger Catapult",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN090",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "VWXYZ-Dragon Catapult Cannon",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN091",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "Victory Viper XX03",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN191",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Voltanis the Adjudicator",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN203",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "W-Wing Catapult",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN071",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Union"
+    },
+    {
+        "name": "Water Dragon",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN075",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Sea Serpent / Effect"
+    },
+    {
+        "name": "Weed Out",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN114",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Whirlwind Weasel",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN205",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Winged Kuriboh LV10",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN005",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Wroughtweiler",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN012",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Zure, Knight of Dark World",
+                "pack": "Dark Revelation Volume 4",
+                "print_tag": "DR04-EN061",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend"
+    }
+]

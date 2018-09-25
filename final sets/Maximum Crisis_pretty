@@ -1,0 +1,1002 @@
+[
+    {
+        "name": "Ariel, Priestess of the Nekroz",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN031",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Artifact Vajra",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN094",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Ash Blossom & Joyous Spring",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN036",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Zombie / Tuner"
+    },
+    {
+        "name": "B.E.F. Zelos",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN062",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "B.E.S. Big Core MK-3",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN032",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Baobaboon",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN034",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Break Away",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN065",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Bug Signal",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN060",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Bujin Hiruko",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN092",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast-Warrior / Pendulum"
+    },
+    {
+        "name": "D/D Ghost",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN015",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Tuner"
+    },
+    {
+        "name": "D/D/D Stone King Darius",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN045",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fiend / Xyz"
+    },
+    {
+        "name": "Dark Contract with the Eternal Darkness",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN068",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Diamond Duston",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN080",
+                "rarity": "Short Print",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Digital Bug LEDybug",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN029",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Dinomight Knight, the True Dracofighter",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN022",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Wyrm / Effect"
+    },
+    {
+        "name": "Dinomists Howling",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN076",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Disciples of the True Dracophoenix",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN055",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Double Resonator",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN016",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Fiend / Tuner"
+    },
+    {
+        "name": "Dragonic Diagram",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN053",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dreiath III, the True Dracocavalry General",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN023",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Wyrm / Effect"
+    },
+    {
+        "name": "Duelist Alliance (card)",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN063",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Fairy Tail - Luna",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN038",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Familiar-Possessed - Lyna",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN037",
+                "rarity": "Short Print",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Fire Cracker",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN035",
+                "rarity": "Short Print",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Ghost Beef",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN096",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Beast / Pendulum"
+    },
+    {
+        "name": "Gift Exchange",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN090",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ignis Heat, the True Dracowarrior",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN021",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Wyrm / Effect"
+    },
+    {
+        "name": "Kaiser Sea Snake",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN091",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Sea Serpent / Effect"
+    },
+    {
+        "name": "Lyrilusc - Assembled Nightingale",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN043",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Xyz"
+    },
+    {
+        "name": "Lyrilusc - Cobalt Sparrow",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN012",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Lyrilusc - Independent Nightingale",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN041",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Fusion"
+    },
+    {
+        "name": "Lyrilusc - Sapphire Swallow",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN013",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Lyrilusc - Turquoise Warbler",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN014",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Magician's Left Hand",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN050",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Magician's Restage",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN051",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Magician's Right Hand",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN049",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Majesty Maiden, the True Dracocaster",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN020",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Wyrm / Effect"
+    },
+    {
+        "name": "Mariamne, the True Dracophoenix",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN026",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Wyrm / Effect"
+    },
+    {
+        "name": "Master Peace, the True Dracoslaying King",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN024",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Wyrm / Effect"
+    },
+    {
+        "name": "Metaltron XII, the True Dracombatant",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN025",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Wyrm / Effect"
+    },
+    {
+        "name": "Mild Turkey",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN095",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Winged Beast / Pendulum"
+    },
+    {
+        "name": "Onikuji",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN099",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Pacifis, the Phantasm City",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN056",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Pendulum Switch",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN000",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Pendulumucho",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN033",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Winged Beast / Pendulum"
+    },
+    {
+        "name": "Performapal Coin Dragon",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN005",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Dragon / Pendulum"
+    },
+    {
+        "name": "Performapal Gatlinghoul",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN040",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Fusion"
+    },
+    {
+        "name": "Performapal Revue Dancer",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN003",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Performapal Sky Magician",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN001",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Performapal Sky Pupil",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN002",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Performapal U Go Golem",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN004",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Pendulum"
+    },
+    {
+        "name": "Phantasm Spiral Assault",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN074",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Phantasm Spiral Battle",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN072",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Phantasm Spiral Crash",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN057",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Phantasm Spiral Dragon",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN028",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Wyrm"
+    },
+    {
+        "name": "Phantasm Spiral Grip",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN058",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Phantasm Spiral Power",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN073",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Phantasm Spiral Wave",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN059",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Predaplant Cordyceps",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN011",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Predaplant Darlingtonia Cobra",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN010",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Predaplant Ophrys Scorpio",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN009",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Primal Cry",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN098",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Ritual",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Prologue of the Destruction Swordsman",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN075",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Raidraptor - Stranger Falcon",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN044",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Xyz"
+    },
+    {
+        "name": "SPYRAL GEAR - Fully Armed",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN088",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "SPYRAL GEAR - Last Resort",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN087",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "SPYRAL MISSION - Rescue",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN089",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "SPYRAL Sleeper",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN086",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Set Rotation",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN064",
+                "rarity": "Short Print",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Speedroid Maliciousmagnet",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN007",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Speedroid Rubberband Plane",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN008",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Speedroid Skull Marbles",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN006",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Subterror Behemoth Phospheroglacier",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN083",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Aqua / Flip"
+    },
+    {
+        "name": "Subterror Behemoth Speleogeist",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN084",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fiend / Flip"
+    },
+    {
+        "name": "Subterror Fiendess",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN082",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Subterror Final Battle",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN085",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Supreme King Dragon Darkwurm",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN019",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Pendulum"
+    },
+    {
+        "name": "Supreme King Gate Infinity",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN018",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Pendulum"
+    },
+    {
+        "name": "Supreme King Gate Zero",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN017",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Pendulum"
+    },
+    {
+        "name": "Supreme King Z-ARC",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN039",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Fusion"
+    },
+    {
+        "name": "Sylvan Princessprite",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN093",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Plant / Xyz"
+    },
+    {
+        "name": "The Phantom Knights of Cursed Javelin",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN042",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "The Phantom Knights of Lost Vambrace",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN066",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Phantom Knights of Wrong Magnetring",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN067",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Tornado Dragon",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN081",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Wyrm / Xyz"
+    },
+    {
+        "name": "True Draco Apocalypse",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN070",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "True Draco Heritage",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN054",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "True King of All Calamities",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN046",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Wyrm / Xyz"
+    },
+    {
+        "name": "True King's Return",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN069",
+                "rarity": "Ultra Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ultra Polymerization",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN052",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Unending Nightmare",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN079",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Vennu, Bright Bird of Divinity",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN097",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Ritual"
+    },
+    {
+        "name": "Waterfall of Dragon Souls",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN078",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Zefra Providence",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN061",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Zefra War",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN077",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Zefraath",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN030",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Pendulum"
+    },
+    {
+        "name": "Zoodiac Chakanine",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN048",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior / Xyz"
+    },
+    {
+        "name": "Zoodiac Gathering",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN071",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Zoodiac Hammerkong",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN047",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior / Xyz"
+    },
+    {
+        "name": "Zoodiac Kataroost",
+                "pack": "Maximum Crisis",
+                "print_tag": "MACR-EN027",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior / Effect"
+    }
+]

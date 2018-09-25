@@ -1,0 +1,1062 @@
+[
+    {
+        "name": "Angel of Zera",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN087",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Synchro"
+    },
+    {
+        "name": "Archfiend Cavalry",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN030",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Archfiend Emperor, the First Lord of Horror",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN031",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Archfiend Heiress",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN029",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Archfiend Palabyrinth",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN066",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Armades, Keeper of Boundaries",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN045",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Synchro"
+    },
+    {
+        "name": "Armageddon Designator",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN080",
+                "rarity": "Short Print",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Black and White Wave",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN068",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Brotherhood of the Fire Fist - Boar",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN026",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast-Warrior / Tuner"
+    },
+    {
+        "name": "Brotherhood of the Fire Fist - Caribou",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN027",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Brotherhood of the Fire Fist - Kirin",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN042",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast-Warrior / Synchro"
+    },
+    {
+        "name": "Brotherhood of the Fire Fist - Rooster",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN094",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Bujin Regalia - The Sword",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN074",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Bujin Yamato",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN016",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Bujincarnation",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN063",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Bujinfidel",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN075",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Bujingi Crane",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN020",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Bujingi Ophidian",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN021",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Bujingi Quilin",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN017",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Bujingi Turtle",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN018",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Bujingi Warg",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN081",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Bujingi Wolf",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN019",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Bujintei Susanowo",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN057",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast-Warrior / Xyz"
+    },
+    {
+        "name": "Bujintei Susanowo",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN057",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast-Warrior / Xyz"
+    },
+    {
+        "name": "Cheepcheepcheep",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN037",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Flip"
+    },
+    {
+        "name": "Coach Captain Bearman",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN092",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Coach Soldier Wolfbark",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN093",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Cockadoodledoo",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN083",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Tuner"
+    },
+    {
+        "name": "Confronting the \"C\"",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN086",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Corrupted Keys",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN072",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "DZW - Chimera Clad",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN001",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Fencing Fire Ferret",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN097",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Fire Formation - Yoko",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN065",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Fire King Avatar Yaksha",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN095",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Fishborg Archer",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN096",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fish / Tuner"
+    },
+    {
+        "name": "Flying \"C\"",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN039",
+                "rarity": "Short Print",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Galaxy Serpent",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN000",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Tuner"
+    },
+    {
+        "name": "Googly-Eyes Drum Dragon",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN051",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "HTS Psyhemuth",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN046",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Psychic / Synchro"
+    },
+    {
+        "name": "Herald of Pure Light",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN058",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Xyz"
+    },
+    {
+        "name": "Ice Princess Zereort",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN052",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Winged Beast / Xyz"
+    },
+    {
+        "name": "Interceptomato",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN003",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Junk Blader",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN091",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Kujakujaku",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN098",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Madolche Chickolates",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN099",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Masked Chameleon",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN038",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Reptile / Tuner"
+    },
+    {
+        "name": "Mecha Phantom Beast Aerosguin",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN082",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Mecha Phantom Beast Blue Impala",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN023",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Mecha Phantom Beast Coltwing",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN024",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Mecha Phantom Beast Concoruda",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN041",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Mecha Phantom Beast Harrliard",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN025",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Mecha Phantom Beast Warbluran",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN022",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Mist Bird Clausolas",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN043",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Synchro"
+    },
+    {
+        "name": "Moon Dance Ritual",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN089",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Noble Knight Drystan",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN084",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Number 102: Star Seraph Sentry",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN053",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Xyz"
+    },
+    {
+        "name": "Number 104: Masquerade",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN055",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Xyz"
+    },
+    {
+        "name": "Number 66: Master Key Beetle",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN054",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Insect / Xyz"
+    },
+    {
+        "name": "Number C104: Umbral Horror Masquerade",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN056",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Xyz"
+    },
+    {
+        "name": "Number C104: Umbral Horror Masquerade",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN056",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Xyz"
+    },
+    {
+        "name": "Number C39: Utopia Ray Victory",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN048",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Number C39: Utopia Ray Victory",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN048",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Rank-Up-Magic Numeron Force",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN059",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Rank-Up-Magic Numeron Force",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN059",
+                "rarity": "Ultimate Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Reverse Glasses",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN070",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Sargasso Lighthouse",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN062",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Sargasso the D.D. Battlefield",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN061",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Schwarzschild Limit Dragon",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN015",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Shapesister",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN079",
+                "rarity": "Ultra Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Shark Caesar",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN049",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fish / Xyz"
+    },
+    {
+        "name": "Single Purchase",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN069",
+                "rarity": "Short Print",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Sonic Boom",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN076",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Spell Recycler",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN004",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Star Eater",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN047",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Star Eater",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN047",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Star Eater",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN047",
+                "rarity": "Ghost Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Star Seraph Sage",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN010",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Star Seraph Scout",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN009",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Star Seraph Sword",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN011",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Starliege Lord Galaxion",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN050",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Super Defense Robot Elephan",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN007",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Super Defense Robot Lio",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN006",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Super Defense Robot Monki",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN008",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Talaya, Princess of Cherry Blossoms",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN036",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "The Atmosphere",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN090",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "The Calibrator",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN035",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Thunder / Effect"
+    },
+    {
+        "name": "Tour Bus To Forbidden Realms",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN085",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Transmodify",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN067",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Traptrix Atrax",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN032",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Traptrix Myrmeleo",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN033",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Traptrix Nepenthes",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN034",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Traptrix Trap Hole Nightmare",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN077",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Umbral Horror Ghoul",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN012",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Umbral Horror Unform",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN013",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Umbral Horror Will o' the Wisp",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN014",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Underworld Fighter Balmung",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN044",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Synchro"
+    },
+    {
+        "name": "V Salamander",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN002",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Vain Betrayer",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN073",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Vertical Landing",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN064",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "World of Prophecy",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN028",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Xyz Agent",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN005",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Xyz Encore",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN088",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Xyz Reception",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN060",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Xyz Revenge Shuffle",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN071",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Xyz Reversal",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN078",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Yellow Duston",
+                "pack": "Judgment of the Light",
+                "print_tag": "JOTL-EN040",
+                "rarity": "Short Print",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fiend / Effect"
+    }
+]

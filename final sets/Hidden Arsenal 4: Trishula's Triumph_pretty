@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Ancient Flamvell Deity",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN056",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Pyro / Synchro"
+    },
+    {
+        "name": "Defender of the Ice Barrier",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN022",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Tuner"
+    },
+    {
+        "name": "Dragunity Angusticlavii",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN047",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Dragunity Brandistock",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN013",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Tuner"
+    },
+    {
+        "name": "Dragunity Corsesca",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN044",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Tuner"
+    },
+    {
+        "name": "Dragunity Javelin",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN014",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Tuner"
+    },
+    {
+        "name": "Dragunity Knight - Barcha",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN059",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Dragunity Knight - Trident",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN028",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Dragunity Militum",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN011",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Dragunity Partisan",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN045",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Tuner"
+    },
+    {
+        "name": "Dragunity Pilum",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN046",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Tuner"
+    },
+    {
+        "name": "Dragunity Primus Pilus",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN012",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Fabled Dianaira",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN043",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "General Gantala of the Ice Barrier",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN054",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "General Raiho of the Ice Barrier",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN025",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Genex Ally Bellflame",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN038",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Genex Ally Birdman",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN037",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Genex Ally Changer",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN003",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Genex Ally Chemistrer",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN036",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Genex Ally Crusher",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN039",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Genex Ally Powercell",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN002",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Genex Ally Reliever",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN040",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Genex Ally Remote",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN001",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Genex Ally Solid",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN005",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Genex Ally Triarm",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN026",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Genex Ally Triforce",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN057",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Genex Ally Volcannon",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN004",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Jurrac Aeolo",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN017",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dinosaur / Tuner"
+    },
+    {
+        "name": "Jurrac Dino",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN015",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dinosaur / Tuner"
+    },
+    {
+        "name": "Jurrac Gallim",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN016",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dinosaur / Tuner"
+    },
+    {
+        "name": "Jurrac Herra",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN018",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Jurrac Meteor",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN029",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dinosaur / Synchro"
+    },
+    {
+        "name": "Naturia Butterfly",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN019",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Tuner"
+    },
+    {
+        "name": "Naturia Exterio",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN055",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Fusion"
+    },
+    {
+        "name": "Naturia Ladybug",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN020",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Naturia Landoise",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN030",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Synchro"
+    },
+    {
+        "name": "Naturia Mantis",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN049",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Naturia Ragweed",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN050",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Naturia Stinkbug",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN048",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Tuner"
+    },
+    {
+        "name": "Naturia Strawberry",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN021",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Naturia White Oak",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN051",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Neo Flamvell Garuda",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN034",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Pyro / Effect"
+    },
+    {
+        "name": "Neo Flamvell Hedgehog",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN032",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Pyro / Tuner"
+    },
+    {
+        "name": "Neo Flamvell Origin",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN031",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Pyro / Tuner"
+    },
+    {
+        "name": "Neo Flamvell Sabre",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN035",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Pyro / Effect"
+    },
+    {
+        "name": "Neo Flamvell Shaman",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN033",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Pyro / Effect"
+    },
+    {
+        "name": "Sacred Spirit of the Ice Barrier",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN024",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Zombie / Spirit"
+    },
+    {
+        "name": "Secret Guards of the Ice Barrier",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN053",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Strategist of the Ice Barrier",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN052",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "The Fabled Catsith",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN007",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast / Tuner"
+    },
+    {
+        "name": "The Fabled Cerburrel",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN008",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast / Tuner"
+    },
+    {
+        "name": "The Fabled Chawa",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN006",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast / Tuner"
+    },
+    {
+        "name": "The Fabled Ganashia",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN009",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "The Fabled Kokkator",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN042",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "The Fabled Kudabbi",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN058",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast / Synchro"
+    },
+    {
+        "name": "The Fabled Nozoochee",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN010",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "The Fabled Peggulsus",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN041",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast / Tuner"
+    },
+    {
+        "name": "The Fabled Unicore",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN027",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast / Synchro"
+    },
+    {
+        "name": "Trishula, Dragon of the Ice Barrier",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN060",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Warlock of the Ice Barrier",
+                "pack": "Hidden Arsenal 4: Trishula's Triumph",
+                "print_tag": "HA04-EN023",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Spellcaster / Effect"
+    }
+]

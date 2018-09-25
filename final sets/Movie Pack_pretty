@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Blue-Eyes Shining Dragon",
+                "pack": "Movie Pack",
+                "print_tag": "MOV-EN001",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Pyramid of Light",
+                "pack": "Movie Pack",
+                "print_tag": "MOV-EN004",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Sorcerer of Dark Magic",
+                "pack": "Movie Pack",
+                "print_tag": "MOV-EN002",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Watapon",
+                "pack": "Movie Pack",
+                "print_tag": "MOV-EN003",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    }
+]

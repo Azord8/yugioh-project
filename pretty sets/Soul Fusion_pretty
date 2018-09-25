@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Token Collector",
+        "numbers": [
+            {
+                "name": "Soul Fusion",
+                "print_tag": "SOFU-EN031",
+                "rarity": "Unknown Rarity",
+                "price_data": {
+                    "status": "fail",
+                    "message": "Unable to find prices for this card."
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fiend / Effect"
+    }
+]

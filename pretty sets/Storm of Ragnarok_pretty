@@ -1,0 +1,3810 @@
+[
+    {
+        "name": "Asceticism of the Six Samurai",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN050",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 25.74,
+                            "low": 1.45,
+                            "average": 2.96,
+                            "shift": 0.0,
+                            "shift_3": 0.0171821305841924,
+                            "shift_7": 0.00680272108843537,
+                            "shift_21": 0.0571428571428571,
+                            "shift_30": 0.072463768115942,
+                            "shift_90": 0.510204081632653,
+                            "shift_180": 0.15625,
+                            "shift_365": -0.659378596087457,
+                            "updated_at": "2018-09-24 16:48:25 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Atomic Scrap Dragon",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN043",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.44,
+                            "low": 0.59,
+                            "average": 0.96,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0105263157894737,
+                            "shift_90": -0.04,
+                            "shift_180": 0.0105263157894737,
+                            "shift_365": -0.0769230769230769,
+                            "updated_at": "2018-09-24 14:47:51 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Atomic Scrap Dragon",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN043",
+                "rarity": "Ultimate Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 22.63,
+                            "low": 1.78,
+                            "average": 3.26,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.00307692307692308,
+                            "shift_21": -0.0239520958083832,
+                            "shift_30": 0.393162393162393,
+                            "shift_90": 0.283464566929134,
+                            "shift_180": 1.46969696969697,
+                            "shift_365": 1.31205673758865,
+                            "updated_at": "2018-09-24 14:48:04 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Barrier Resonator",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN006",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.89,
+                            "low": 0.5,
+                            "average": 2.11,
+                            "shift": 0.0,
+                            "shift_3": -0.00471698113207547,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0276497695852535,
+                            "shift_30": 0.0,
+                            "shift_90": 1.19791666666667,
+                            "shift_180": 1.39772727272727,
+                            "shift_365": 1.48235294117647,
+                            "updated_at": "2018-09-24 14:18:30 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Tuner"
+    },
+    {
+        "name": "Blackboost",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN065",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.24,
+                            "low": 0.42,
+                            "average": 0.88,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.439490445859873,
+                            "shift_21": -0.443037974683544,
+                            "shift_30": 0.0,
+                            "shift_90": -0.0112359550561798,
+                            "shift_180": -0.192660550458716,
+                            "shift_365": 0.0731707317073171,
+                            "updated_at": "2018-09-24 13:52:27 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Blackwing - Boreas the Sharp",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN007",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.33,
+                            "low": 0.77,
+                            "average": 2.56,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.219047619047619,
+                            "shift_21": 0.0158730158730159,
+                            "shift_30": 0.22488038277512,
+                            "shift_90": 1.41509433962264,
+                            "shift_180": 1.41509433962264,
+                            "shift_365": 1.81318681318681,
+                            "updated_at": "2018-09-24 14:25:24 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Blackwing - Brisote the Tailwind",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN008",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.99,
+                            "low": 0.4,
+                            "average": 0.81,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0125,
+                            "shift_21": 0.0125,
+                            "shift_30": 0.0125,
+                            "shift_90": -0.0121951219512195,
+                            "shift_180": -0.213592233009709,
+                            "shift_365": -0.0470588235294118,
+                            "updated_at": "2018-09-24 14:25:31 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Blackwing - Calima the Haze",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN009",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.42,
+                            "average": 0.84,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": -0.0454545454545455,
+                            "shift_180": -0.192307692307692,
+                            "shift_365": -0.0117647058823529,
+                            "updated_at": "2018-09-24 14:25:30 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Blood Sucker",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN093",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.99,
+                            "low": 0.42,
+                            "average": 1.57,
+                            "shift": 0.0,
+                            "shift_3": -0.190721649484536,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.784090909090909,
+                            "shift_90": 0.804597701149425,
+                            "shift_180": 0.847058823529412,
+                            "shift_365": 0.891566265060241,
+                            "updated_at": "2018-09-24 12:15:28 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Chaos Hunter",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN085",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 33.13,
+                            "low": 5.49,
+                            "average": 10.13,
+                            "shift": -0.00880626223091976,
+                            "shift_3": -0.016504854368932,
+                            "shift_7": -0.00393313667649951,
+                            "shift_21": 0.13437849944009,
+                            "shift_30": 0.102285092491839,
+                            "shift_90": -0.139337298215803,
+                            "shift_180": -0.395584725536993,
+                            "shift_365": 0.821942446043165,
+                            "updated_at": "2018-09-24 13:18:44 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Cosmic Compass",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN001",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 15.77,
+                            "low": 0.66,
+                            "average": 1.75,
+                            "shift": 0.0,
+                            "shift_3": -0.0979381443298969,
+                            "shift_7": -0.0979381443298969,
+                            "shift_21": -0.125,
+                            "shift_30": -0.208144796380091,
+                            "shift_90": -0.248927038626609,
+                            "shift_180": -0.442675159235669,
+                            "shift_365": -0.150485436893204,
+                            "updated_at": "2018-09-24 14:16:35 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Cyber Shield",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN090",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 7.53,
+                            "low": 0.54,
+                            "average": 0.89,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.467065868263473,
+                            "shift_21": 0.0113636363636364,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0595238095238095,
+                            "shift_180": -0.190909090909091,
+                            "shift_365": -0.0729166666666667,
+                            "updated_at": "2018-09-24 12:39:19 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "D.D. Sprite",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN004",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.33,
+                            "low": 0.99,
+                            "average": 1.42,
+                            "shift": -0.36322869955157,
+                            "shift_3": -0.36036036036036,
+                            "shift_7": -0.354545454545455,
+                            "shift_21": -0.385281385281385,
+                            "shift_30": -0.357466063348416,
+                            "shift_90": -0.40084388185654,
+                            "shift_180": -0.440944881889764,
+                            "shift_365": -0.584795321637427,
+                            "updated_at": "2018-09-24 15:17:27 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Tuner"
+    },
+    {
+        "name": "Divine Relic Mjollnir",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN066",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.4,
+                            "average": 0.82,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.025,
+                            "shift_30": 0.0,
+                            "shift_90": -0.0352941176470588,
+                            "shift_180": -0.0888888888888889,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 13:37:41 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Divine Wind of Mist Valley",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN059",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.42,
+                            "average": 0.85,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0240963855421687,
+                            "shift_30": -0.0555555555555556,
+                            "shift_90": -0.0340909090909091,
+                            "shift_180": -0.0340909090909091,
+                            "shift_365": 0.0493827160493827,
+                            "updated_at": "2018-09-24 13:10:14 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Doppelwarrior",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN002",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 41.14,
+                            "low": 1.25,
+                            "average": 3.49,
+                            "shift": 0.0,
+                            "shift_3": 0.0838509316770186,
+                            "shift_7": 0.0705521472392638,
+                            "shift_21": -0.0056980056980057,
+                            "shift_30": 0.241992882562278,
+                            "shift_90": 0.579185520361991,
+                            "shift_180": 1.95762711864407,
+                            "shift_365": 1.52898550724638,
+                            "updated_at": "2018-09-24 14:10:47 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Dverg of the Nordic Alfar",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN016",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.15,
+                            "low": 0.55,
+                            "average": 2.36,
+                            "shift": 0.00425531914893617,
+                            "shift_3": 0.00425531914893617,
+                            "shift_7": -0.00421940928270042,
+                            "shift_21": 1.48421052631579,
+                            "shift_30": 1.40816326530612,
+                            "shift_90": 1.45833333333333,
+                            "shift_180": 1.43298969072165,
+                            "shift_365": 0.18,
+                            "updated_at": "2018-09-10 02:33:16 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Elemental HERO Ice Edge",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN098",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.74,
+                            "low": 3.5,
+                            "average": 4.54,
+                            "shift": 0.0022075055187638,
+                            "shift_3": 0.0707547169811321,
+                            "shift_7": 0.155216284987277,
+                            "shift_21": 0.247252747252747,
+                            "shift_30": 1.29292929292929,
+                            "shift_90": 1.30456852791878,
+                            "shift_180": 1.24752475247525,
+                            "shift_365": 1.18269230769231,
+                            "updated_at": "2018-09-24 10:00:38 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Foolish Return",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN058",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 0.43,
+                            "average": 2.02,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.209580838323353,
+                            "shift_30": 1.0,
+                            "shift_90": 1.04040404040404,
+                            "shift_180": 1.04040404040404,
+                            "shift_365": 1.37647058823529,
+                            "updated_at": "2018-09-24 12:47:49 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Forbidden Lance",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN061",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.02,
+                            "low": 2.03,
+                            "average": 2.67,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0511811023622047,
+                            "shift_21": 0.0853658536585366,
+                            "shift_30": 0.068,
+                            "shift_90": -0.097972972972973,
+                            "shift_180": 0.0987654320987654,
+                            "shift_365": 0.0152091254752852,
+                            "updated_at": "2018-09-24 16:22:23 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Garmr of the Nordic Beasts",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN012",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.99,
+                            "low": 0.5,
+                            "average": 2.19,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.00454545454545455,
+                            "shift_21": 0.00458715596330275,
+                            "shift_30": 0.00921658986175115,
+                            "shift_90": 1.21212121212121,
+                            "shift_180": 1.40659340659341,
+                            "shift_365": 1.32978723404255,
+                            "updated_at": "2018-09-24 12:00:43 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Gleipnir, the Fetters of Fenrir",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN073",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.01,
+                            "low": 1.75,
+                            "average": 2.84,
+                            "shift": 0.0,
+                            "shift_3": -0.00350877192982456,
+                            "shift_7": 0.0106761565836299,
+                            "shift_21": -0.0437710437710438,
+                            "shift_30": -0.0469798657718121,
+                            "shift_90": -0.0779220779220779,
+                            "shift_180": 0.327102803738318,
+                            "shift_365": 0.441624365482233,
+                            "updated_at": "2018-09-24 15:38:50 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gleipnir, the Fetters of Fenrir",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN073",
+                "rarity": "Ultimate Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.99,
+                            "low": 0.79,
+                            "average": 1.87,
+                            "shift": -0.065,
+                            "shift_3": -0.402555910543131,
+                            "shift_7": -0.176211453744493,
+                            "shift_21": -0.236734693877551,
+                            "shift_30": -0.242914979757085,
+                            "shift_90": -0.537128712871287,
+                            "shift_180": -0.376666666666667,
+                            "shift_365": -0.100961538461538,
+                            "updated_at": "2018-09-24 15:39:00 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gotterdammerung",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN046",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.41,
+                            "average": 1.55,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.00649350649350649,
+                            "shift_30": 0.802325581395349,
+                            "shift_90": 0.802325581395349,
+                            "shift_180": 0.802325581395349,
+                            "shift_365": 1.03947368421053,
+                            "updated_at": "2018-09-24 12:33:32 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Guldfaxe of the Nordic Beasts",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN011",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.01,
+                            "low": 0.65,
+                            "average": 1.82,
+                            "shift": 0.0,
+                            "shift_3": 0.0282485875706215,
+                            "shift_7": -0.157407407407407,
+                            "shift_21": -0.00546448087431694,
+                            "shift_30": 0.0224719101123595,
+                            "shift_90": 0.733333333333333,
+                            "shift_180": 0.421875,
+                            "shift_365": 0.479674796747967,
+                            "updated_at": "2018-09-24 12:01:12 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Beast / Tuner"
+    },
+    {
+        "name": "Hope for Escape",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN063",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.77,
+                            "average": 1.17,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": -0.00847457627118644,
+                            "shift_180": -0.0330578512396694,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 13:58:55 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Hourglass of Courage",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN091",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.33,
+                            "average": 0.82,
+                            "shift": 0.0,
+                            "shift_3": -0.0120481927710843,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": -0.0574712643678161,
+                            "shift_180": -0.0989010989010989,
+                            "shift_365": 0.0123456790123457,
+                            "updated_at": "2018-09-24 12:05:30 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Kagemusha of the Six Samurai",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN025",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.74,
+                            "low": 1.75,
+                            "average": 2.07,
+                            "shift": 0.0,
+                            "shift_3": -0.00961538461538462,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0198019801980198,
+                            "shift_30": -0.100436681222707,
+                            "shift_90": -0.0762331838565022,
+                            "shift_180": -0.0462962962962963,
+                            "shift_365": -0.0844444444444444,
+                            "updated_at": "2018-09-24 12:34:52 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Tuner"
+    },
+    {
+        "name": "Karakuri Cash Cache",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN052",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.74,
+                            "low": 0.43,
+                            "average": 2.08,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.04,
+                            "shift_30": 1.36363636363636,
+                            "shift_90": 0.962264150943396,
+                            "shift_180": 1.31111111111111,
+                            "shift_365": 1.39080459770115,
+                            "updated_at": "2018-09-24 13:21:53 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Karakuri Gold Dust",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN053",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.98,
+                            "low": 0.42,
+                            "average": 1.95,
+                            "shift": 0.0,
+                            "shift_3": -0.0101522842639594,
+                            "shift_7": 0.0,
+                            "shift_21": 0.00515463917525773,
+                            "shift_30": 1.32142857142857,
+                            "shift_90": 1.32142857142857,
+                            "shift_180": 1.29411764705882,
+                            "shift_365": 1.5,
+                            "updated_at": "2018-09-24 13:21:50 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Karakuri Muso mdl 818 \"Haipa\"",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN083",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 17.77,
+                            "low": 0.99,
+                            "average": 2.41,
+                            "shift": 0.0,
+                            "shift_3": -0.00413223140495868,
+                            "shift_7": -0.00413223140495868,
+                            "shift_21": -0.00413223140495868,
+                            "shift_30": 1.1140350877193,
+                            "shift_90": 1.2952380952381,
+                            "shift_180": 1.1140350877193,
+                            "shift_365": 1.31730769230769,
+                            "updated_at": "2018-09-24 11:02:41 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Karakuri Muso mdl 818 \"Haipa\"",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN083",
+                "rarity": "Ultimate Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 1.49,
+                            "average": 1.34,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0307692307692308,
+                            "shift_30": 0.0307692307692308,
+                            "shift_90": 0.0,
+                            "shift_180": -0.0218978102189781,
+                            "shift_365": 0.0307692307692308,
+                            "updated_at": "2018-09-24 11:03:06 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Karakuri Ninja mdl 919 \"Kuick\"",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN028",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.99,
+                            "low": 0.66,
+                            "average": 0.87,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.438709677419355,
+                            "shift_30": -0.438709677419355,
+                            "shift_90": -0.103092783505155,
+                            "shift_180": -0.163461538461538,
+                            "shift_365": -0.163461538461538,
+                            "updated_at": "2018-09-24 11:02:44 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Karakuri Steel Shogun mdl 00X \"Bureido\"",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN042",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.23,
+                            "low": 0.99,
+                            "average": 1.54,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0065359477124183,
+                            "shift_21": -0.153846153846154,
+                            "shift_30": -0.129943502824859,
+                            "shift_90": -0.0833333333333333,
+                            "shift_180": -0.125,
+                            "shift_365": -0.327510917030568,
+                            "updated_at": "2018-09-24 11:03:05 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Karakuri Steel Shogun mdl 00X \"Bureido\"",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN042",
+                "rarity": "Ultimate Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.74,
+                            "low": 2.5,
+                            "average": 2.62,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.031496062992126,
+                            "shift_21": -0.0642857142857143,
+                            "shift_30": -0.0709219858156028,
+                            "shift_90": -0.0871080139372822,
+                            "shift_180": -0.208459214501511,
+                            "shift_365": -0.321243523316062,
+                            "updated_at": "2018-09-24 11:03:26 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Karakuri Trick House",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STBL-EN071",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 1.63,
+                            "low": 0.3,
+                            "average": 1.1,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.00900900900900901,
+                            "shift_30": -0.00900900900900901,
+                            "shift_90": -0.0178571428571429,
+                            "shift_180": 0.0185185185185185,
+                            "shift_365": 0.195652173913043,
+                            "updated_at": "2018-09-24 13:55:45 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Karakuri Watchdog mdl 313 \"Saizan\"",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN027",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 0.54,
+                            "average": 0.92,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.010752688172043,
+                            "shift_21": 0.0952380952380952,
+                            "shift_30": -0.14018691588785,
+                            "shift_90": 0.0823529411764706,
+                            "shift_180": -0.0980392156862745,
+                            "shift_365": -0.338129496402878,
+                            "updated_at": "2018-09-24 11:03:04 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Legendary Six Samurai - Enishi",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN021",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 26.31,
+                            "low": 2.95,
+                            "average": 5.52,
+                            "shift": 0.0147058823529412,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0315789473684211,
+                            "shift_21": -0.0547945205479452,
+                            "shift_30": -0.0753768844221105,
+                            "shift_90": -0.144186046511628,
+                            "shift_180": -0.259060402684564,
+                            "shift_365": 2.01639344262295,
+                            "updated_at": "2018-09-24 16:15:53 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Legendary Six Samurai - Enishi",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN021",
+                "rarity": "Ultimate Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 27.03,
+                            "low": 3.89,
+                            "average": 3.59,
+                            "shift": 0.0,
+                            "shift_3": -0.00828729281767956,
+                            "shift_7": 0.0257142857142857,
+                            "shift_21": -0.0137362637362637,
+                            "shift_30": -0.032345013477089,
+                            "shift_90": -0.309615384615385,
+                            "shift_180": -0.607650273224044,
+                            "shift_365": 0.554112554112554,
+                            "updated_at": "2018-09-24 16:15:54 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Legendary Six Samurai - Kageki",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN022",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.64,
+                            "average": 0.95,
+                            "shift": 0.0,
+                            "shift_3": -0.0206185567010309,
+                            "shift_7": -0.0206185567010309,
+                            "shift_21": -0.0206185567010309,
+                            "shift_30": -0.0306122448979592,
+                            "shift_90": 0.0555555555555556,
+                            "shift_180": 0.0,
+                            "shift_365": -0.11214953271028,
+                            "updated_at": "2018-09-24 16:06:48 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Legendary Six Samurai - Kizan",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN020",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 23.51,
+                            "low": 1.66,
+                            "average": 3.84,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0303030303030303,
+                            "shift_21": -0.037593984962406,
+                            "shift_30": -0.0611246943765281,
+                            "shift_90": -0.146666666666667,
+                            "shift_180": -0.230460921843687,
+                            "shift_365": -0.555555555555556,
+                            "updated_at": "2018-09-24 16:15:06 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Legendary Six Samurai - Mizuho",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN024",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.74,
+                            "low": 0.75,
+                            "average": 1.06,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.407821229050279,
+                            "shift_21": 0.0,
+                            "shift_30": 0.00952380952380952,
+                            "shift_90": 0.204545454545455,
+                            "shift_180": 0.06,
+                            "shift_365": -0.101694915254237,
+                            "updated_at": "2018-09-24 16:14:25 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Legendary Six Samurai - Shi En",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN041",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.68,
+                            "low": 3.11,
+                            "average": 3.87,
+                            "shift": -0.00257731958762887,
+                            "shift_3": -0.0127551020408163,
+                            "shift_7": 0.00259067357512953,
+                            "shift_21": -0.0127551020408163,
+                            "shift_30": -0.104166666666667,
+                            "shift_90": -0.415407854984894,
+                            "shift_180": -0.42152466367713,
+                            "shift_365": -0.642988929889299,
+                            "updated_at": "2018-09-24 17:49:59 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Synchro"
+    },
+    {
+        "name": "Legendary Six Samurai - Shi En",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN041",
+                "rarity": "Ultimate Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 55.0,
+                            "low": 13.45,
+                            "average": 13.61,
+                            "shift": -0.00801749271137026,
+                            "shift_3": -0.00873998543335761,
+                            "shift_7": 0.0248493975903614,
+                            "shift_21": 0.215178571428571,
+                            "shift_30": -0.020863309352518,
+                            "shift_90": 0.00591278640059128,
+                            "shift_180": -0.108709888670596,
+                            "shift_365": -0.420851063829787,
+                            "updated_at": "2018-09-24 17:50:00 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Synchro"
+    },
+    {
+        "name": "Legendary Six Samurai - Shinai",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN023",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.75,
+                            "average": 1.64,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.029585798816568,
+                            "shift_21": 0.673469387755102,
+                            "shift_30": 0.656565656565657,
+                            "shift_90": 0.74468085106383,
+                            "shift_180": 0.561904761904762,
+                            "shift_365": 0.389830508474576,
+                            "updated_at": "2018-09-24 16:13:59 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Ljosalf of the Nordic Alfar",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN014",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.51,
+                            "average": 1.68,
+                            "shift": 0.0,
+                            "shift_3": -0.00591715976331361,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0289017341040462,
+                            "shift_30": -0.16,
+                            "shift_90": 0.663366336633663,
+                            "shift_180": 0.714285714285714,
+                            "shift_365": 0.887640449438202,
+                            "updated_at": "2018-09-24 12:01:34 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Loki, Lord of the Aesir",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN039",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.74,
+                            "low": 1.82,
+                            "average": 2.09,
+                            "shift": -0.245487364620939,
+                            "shift_3": -0.234432234432234,
+                            "shift_7": -0.25089605734767,
+                            "shift_21": 0.0145631067961165,
+                            "shift_30": 0.0145631067961165,
+                            "shift_90": -0.3125,
+                            "shift_180": 0.0346534653465347,
+                            "shift_365": 0.135869565217391,
+                            "updated_at": "2018-09-24 17:08:38 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Synchro"
+    },
+    {
+        "name": "Loki, Lord of the Aesir",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN039",
+                "rarity": "Ultimate Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 36.04,
+                            "low": 3.64,
+                            "average": 5.84,
+                            "shift": -0.00170940170940171,
+                            "shift_3": 0.303571428571429,
+                            "shift_7": 0.1252408477842,
+                            "shift_21": 0.0354609929078014,
+                            "shift_30": -0.0299003322259136,
+                            "shift_90": -0.235602094240838,
+                            "shift_180": 1.67889908256881,
+                            "shift_365": 1.89108910891089,
+                            "updated_at": "2018-09-24 15:13:18 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Synchro"
+    },
+    {
+        "name": "Majioshaleon",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN036",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.41,
+                            "average": 1.63,
+                            "shift": 0.0,
+                            "shift_3": -0.0355029585798817,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.873563218390805,
+                            "shift_180": 0.752688172043011,
+                            "shift_365": 0.98780487804878,
+                            "updated_at": "2018-09-24 10:34:23 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "March Towards Ragnarok",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN047",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 0.43,
+                            "average": 1.77,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.00561797752808989,
+                            "shift_21": 0.023121387283237,
+                            "shift_30": 0.609090909090909,
+                            "shift_90": 0.669811320754717,
+                            "shift_180": 0.638888888888889,
+                            "shift_365": 0.966666666666667,
+                            "updated_at": "2018-09-24 12:51:23 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Maxx \"C\"",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN086",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 55.5,
+                            "low": 17.93,
+                            "average": 26.71,
+                            "shift": 0.0360744763382467,
+                            "shift_3": 0.0437670965220789,
+                            "shift_7": 0.0862139080927206,
+                            "shift_21": 0.295344325897187,
+                            "shift_30": 0.324243926623699,
+                            "shift_90": 0.534175761056864,
+                            "shift_180": 0.681989924433249,
+                            "shift_365": 0.765366820885658,
+                            "updated_at": "2018-09-24 16:36:44 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Mimir of the Nordic Ascendant",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN018",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.23,
+                            "low": 1.0,
+                            "average": 1.1,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.00917431192660551,
+                            "shift_180": 0.0377358490566038,
+                            "shift_365": -0.56,
+                            "updated_at": "2018-09-24 14:00:47 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Musakani Magatama",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN074",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 21.34,
+                            "low": 0.63,
+                            "average": 0.87,
+                            "shift": 0.0,
+                            "shift_3": 0.0116279069767442,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0740740740740741,
+                            "shift_30": 0.0357142857142857,
+                            "shift_90": 0.0357142857142857,
+                            "shift_180": -0.0543478260869565,
+                            "shift_365": -0.611607142857143,
+                            "updated_at": "2018-09-24 13:33:39 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Needle Ball",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN092",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.99,
+                            "low": 0.42,
+                            "average": 0.86,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": -0.188679245283019,
+                            "shift_180": -0.173076923076923,
+                            "shift_365": -0.537634408602151,
+                            "updated_at": "2018-09-24 11:21:21 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Nordic Relic Brisingamen",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN068",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.74,
+                            "low": 0.42,
+                            "average": 1.6,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0526315789473684,
+                            "shift_30": 0.927710843373494,
+                            "shift_90": 0.904761904761905,
+                            "shift_180": 0.839080459770115,
+                            "shift_365": 0.951219512195122,
+                            "updated_at": "2018-09-24 13:55:20 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Nordic Relic Draupnir",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN045",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.89,
+                            "low": 0.4,
+                            "average": 0.86,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0114942528735632,
+                            "shift_21": 0.0,
+                            "shift_30": -0.0114942528735632,
+                            "shift_90": 0.0238095238095238,
+                            "shift_180": -0.0227272727272727,
+                            "shift_365": 0.0487804878048781,
+                            "updated_at": "2018-09-24 13:16:49 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Nordic Relic Gungnir",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN070",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.15,
+                            "low": 0.45,
+                            "average": 2.04,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 1.21739130434783,
+                            "shift_30": 1.19354838709677,
+                            "shift_90": 1.17021276595745,
+                            "shift_180": 1.17021276595745,
+                            "shift_365": 1.19354838709677,
+                            "updated_at": "2018-09-09 21:45:32 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Nordic Relic Laevateinn",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN069",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.89,
+                            "low": 0.43,
+                            "average": 0.82,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.025,
+                            "shift_21": 0.025,
+                            "shift_30": 0.025,
+                            "shift_90": 0.025,
+                            "shift_180": -0.0574712643678161,
+                            "shift_365": -0.0352941176470588,
+                            "updated_at": "2018-09-24 13:55:23 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Nordic Relic Megingjord",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN088",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 30.32,
+                            "low": 1.5,
+                            "average": 1.68,
+                            "shift": 0.0,
+                            "shift_3": 0.05,
+                            "shift_7": 0.0181818181818182,
+                            "shift_21": 0.00598802395209581,
+                            "shift_30": 0.150684931506849,
+                            "shift_90": -0.0344827586206897,
+                            "shift_180": -0.0454545454545455,
+                            "shift_365": 0.0566037735849057,
+                            "updated_at": "2018-09-24 13:55:22 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Odin's Eye",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN072",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.74,
+                            "low": 0.41,
+                            "average": 1.87,
+                            "shift": 0.0,
+                            "shift_3": -0.0105820105820106,
+                            "shift_7": -0.00531914893617021,
+                            "shift_21": 0.230263157894737,
+                            "shift_30": 1.30864197530864,
+                            "shift_90": 1.30864197530864,
+                            "shift_180": 1.2,
+                            "shift_365": 1.36708860759494,
+                            "updated_at": "2018-09-24 15:37:01 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Odin, Father of the Aesir",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN040",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 21.47,
+                            "low": 2.44,
+                            "average": 2.99,
+                            "shift": 0.0,
+                            "shift_3": 0.0310344827586207,
+                            "shift_7": 0.00673400673400673,
+                            "shift_21": 0.00673400673400673,
+                            "shift_30": -0.019672131147541,
+                            "shift_90": -0.056782334384858,
+                            "shift_180": 0.200803212851406,
+                            "shift_365": 0.210526315789474,
+                            "updated_at": "2018-09-24 16:13:30 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Synchro"
+    },
+    {
+        "name": "Odin, Father of the Aesir",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN040",
+                "rarity": "Ultimate Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 22.9,
+                            "low": 4.99,
+                            "average": 5.23,
+                            "shift": 0.154525386313466,
+                            "shift_3": -0.00946969696969697,
+                            "shift_7": 0.0987394957983193,
+                            "shift_21": 0.0275049115913556,
+                            "shift_30": -0.0677361853832442,
+                            "shift_90": 0.0,
+                            "shift_180": 0.542772861356932,
+                            "shift_365": 0.604294478527607,
+                            "updated_at": "2018-09-24 16:13:31 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Synchro"
+    },
+    {
+        "name": "Odin, Father of the Aesir",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN040",
+                "rarity": "Ghost Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 84.99,
+                            "low": 12.21,
+                            "average": 15.9,
+                            "shift": 0.0,
+                            "shift_3": 0.0251450676982592,
+                            "shift_7": 0.895113230035757,
+                            "shift_21": -0.00872817955112219,
+                            "shift_30": -0.0846286701208981,
+                            "shift_90": -0.141004862236629,
+                            "shift_180": 0.92261185006046,
+                            "shift_365": 1.60229132569558,
+                            "updated_at": "2018-09-24 17:48:36 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Synchro"
+    },
+    {
+        "name": "Overpowering Eye",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN094",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.99,
+                            "average": 1.91,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.00526315789473684,
+                            "shift_21": 0.0213903743315508,
+                            "shift_30": 0.705357142857143,
+                            "shift_90": 0.752293577981651,
+                            "shift_180": 1.12222222222222,
+                            "shift_365": 0.785046728971963,
+                            "updated_at": "2018-09-24 13:06:42 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Resonator Engine",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN056",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.46,
+                            "average": 1.58,
+                            "shift": 0.0,
+                            "shift_3": -0.00628930817610063,
+                            "shift_7": 0.0,
+                            "shift_21": 0.00636942675159236,
+                            "shift_30": 0.775280898876405,
+                            "shift_90": 0.795454545454545,
+                            "shift_180": 0.628865979381443,
+                            "shift_365": -0.131868131868132,
+                            "updated_at": "2018-09-24 10:25:00 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Scrap Breaker",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN084",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 28.46,
+                            "low": 0.77,
+                            "average": 1.01,
+                            "shift": 0.0,
+                            "shift_3": -0.558951965065502,
+                            "shift_7": -0.555066079295154,
+                            "shift_21": -0.551111111111111,
+                            "shift_30": -0.0471698113207547,
+                            "shift_90": -0.106194690265487,
+                            "shift_180": 0.0412371134020619,
+                            "shift_365": 0.122222222222222,
+                            "updated_at": "2018-09-24 14:56:47 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Scrap Shark",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN030",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.46,
+                            "average": 0.8,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0256410256410256,
+                            "shift_180": -0.0476190476190476,
+                            "shift_365": -0.024390243902439,
+                            "updated_at": "2018-09-24 14:57:11 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fish / Effect"
+    },
+    {
+        "name": "Scrap Worm",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN029",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.43,
+                            "average": 2.45,
+                            "shift": 0.0,
+                            "shift_3": -0.00809716599190283,
+                            "shift_7": 0.0,
+                            "shift_21": 0.172248803827751,
+                            "shift_30": 0.0515021459227468,
+                            "shift_90": 1.6063829787234,
+                            "shift_180": 1.37864077669903,
+                            "shift_365": 1.55208333333333,
+                            "updated_at": "2018-09-24 14:57:12 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Tuner"
+    },
+    {
+        "name": "Shien's Daredevil",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN082",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.43,
+                            "average": 1.77,
+                            "shift": 0.0,
+                            "shift_3": -0.123762376237624,
+                            "shift_7": 0.0,
+                            "shift_21": -0.132352941176471,
+                            "shift_30": 0.923913043478261,
+                            "shift_90": 0.903225806451613,
+                            "shift_180": 0.882978723404255,
+                            "shift_365": 0.84375,
+                            "updated_at": "2018-09-24 14:59:50 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Shien's Scheme",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN075",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.42,
+                            "average": 1.59,
+                            "shift": 0.0,
+                            "shift_3": -0.0124223602484472,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0192307692307692,
+                            "shift_30": 0.472222222222222,
+                            "shift_90": 0.91566265060241,
+                            "shift_180": 0.806818181818182,
+                            "shift_365": 1.0126582278481,
+                            "updated_at": "2018-09-24 13:24:43 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Shien's Smoke Signal",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN048",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.22,
+                            "low": 0.6,
+                            "average": 0.96,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0105263157894737,
+                            "shift_21": 0.0434782608695652,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0549450549450549,
+                            "shift_180": -0.102803738317757,
+                            "shift_365": -0.577092511013216,
+                            "updated_at": "2018-09-24 13:54:27 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Shien's Squire",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN026",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.99,
+                            "low": 0.66,
+                            "average": 2.31,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0645161290322581,
+                            "shift_21": 0.132352941176471,
+                            "shift_30": 0.462025316455696,
+                            "shift_90": 1.13888888888889,
+                            "shift_180": 1.625,
+                            "shift_365": 2.0,
+                            "updated_at": "2018-09-24 15:11:40 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Tuner"
+    },
+    {
+        "name": "Six Strike - Thunder Blast",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN089",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.65,
+                            "average": 1.71,
+                            "shift": 0.0301204819277108,
+                            "shift_3": 0.147651006711409,
+                            "shift_7": 0.049079754601227,
+                            "shift_21": 0.48695652173913,
+                            "shift_30": 0.0426829268292683,
+                            "shift_90": 0.436974789915966,
+                            "shift_180": 0.212765957446809,
+                            "shift_365": 0.436974789915966,
+                            "updated_at": "2018-09-24 13:25:12 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Six Strike - Triple Impact",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN049",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.82,
+                            "average": 1.79,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0228571428571429,
+                            "shift_21": 0.0406976744186047,
+                            "shift_30": 0.642201834862385,
+                            "shift_90": 0.864583333333333,
+                            "shift_180": 0.688679245283019,
+                            "shift_365": 0.688679245283019,
+                            "updated_at": "2018-09-24 12:23:01 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Solemn Authority",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN067",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.24,
+                            "low": 0.42,
+                            "average": 0.79,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.473333333333333,
+                            "shift_21": -0.0246913580246914,
+                            "shift_30": -0.0246913580246914,
+                            "shift_90": -0.0246913580246914,
+                            "shift_180": -0.0595238095238095,
+                            "shift_365": -0.102272727272727,
+                            "updated_at": "2018-09-24 16:26:37 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Stardust Phantom",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN003",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 0.99,
+                            "average": 2.36,
+                            "shift": 0.00425531914893617,
+                            "shift_3": 0.0305676855895196,
+                            "shift_7": 0.0305676855895196,
+                            "shift_21": 0.0630630630630631,
+                            "shift_30": 0.0678733031674208,
+                            "shift_90": 1.62222222222222,
+                            "shift_180": 1.59340659340659,
+                            "shift_365": 0.168316831683168,
+                            "updated_at": "2018-09-24 15:09:04 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Stardust Shimmer",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN055",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.99,
+                            "low": 1.0,
+                            "average": 2.92,
+                            "shift": -0.0168350168350168,
+                            "shift_3": -0.0135135135135135,
+                            "shift_7": -0.0168350168350168,
+                            "shift_21": -0.00341296928327645,
+                            "shift_30": -0.0426229508196721,
+                            "shift_90": -0.101538461538462,
+                            "shift_180": 0.0391459074733096,
+                            "shift_365": 0.186991869918699,
+                            "updated_at": "2018-09-24 12:26:47 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Svartalf of the Nordic Alfar",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN015",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.22,
+                            "low": 0.82,
+                            "average": 1.13,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0260869565217391,
+                            "shift_21": 0.0769230769230769,
+                            "shift_30": 0.0566037735849057,
+                            "shift_90": -0.0260869565217391,
+                            "shift_180": 0.154639175257732,
+                            "shift_365": -0.0967741935483871,
+                            "updated_at": "2018-09-24 17:02:10 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Tuner"
+    },
+    {
+        "name": "Symphonic Warrior Basses",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN033",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.99,
+                            "average": 1.29,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0152671755725191,
+                            "shift_21": -0.0583941605839416,
+                            "shift_30": -0.0652173913043478,
+                            "shift_90": -0.0652173913043478,
+                            "shift_180": -0.116438356164384,
+                            "shift_365": -0.0719424460431655,
+                            "updated_at": "2018-09-24 15:16:02 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Symphonic Warrior Drumss",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN034",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 8.29,
+                            "low": 0.99,
+                            "average": 1.26,
+                            "shift": 0.0,
+                            "shift_3": -0.0078740157480315,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0232558139534884,
+                            "shift_30": -0.0232558139534884,
+                            "shift_90": -0.0307692307692308,
+                            "shift_180": -0.1,
+                            "shift_365": -0.142857142857143,
+                            "updated_at": "2018-09-24 15:16:02 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Symphonic Warrior Piaano",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN035",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.51,
+                            "average": 1.82,
+                            "shift": 0.00552486187845304,
+                            "shift_3": 0.0,
+                            "shift_7": 0.00552486187845304,
+                            "shift_21": 0.0167597765363128,
+                            "shift_30": 0.0282485875706215,
+                            "shift_90": 0.91578947368421,
+                            "shift_180": 0.685185185185185,
+                            "shift_365": 0.876288659793814,
+                            "updated_at": "2018-09-24 15:16:07 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Tanngnjostr of the Nordic Beasts",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN013",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.88,
+                            "average": 1.26,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.015625,
+                            "shift_21": -0.0307692307692308,
+                            "shift_30": -0.0232558139534884,
+                            "shift_90": -0.0078740157480315,
+                            "shift_180": -0.0307692307692308,
+                            "shift_365": -0.0307692307692308,
+                            "updated_at": "2018-09-24 14:01:09 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Tanngrisnir of the Nordic Beasts",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN010",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.54,
+                            "average": 1.0,
+                            "shift": 0.0,
+                            "shift_3": 0.0204081632653061,
+                            "shift_7": 0.0204081632653061,
+                            "shift_21": 0.0638297872340425,
+                            "shift_30": 0.0638297872340425,
+                            "shift_90": 0.0101010101010101,
+                            "shift_180": 0.0309278350515464,
+                            "shift_365": -0.0099009900990099,
+                            "updated_at": "2018-09-24 14:01:18 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Temple of the Six",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN051",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.52,
+                            "average": 0.93,
+                            "shift": 0.0,
+                            "shift_3": -0.0210526315789474,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0108695652173913,
+                            "shift_30": 0.0108695652173913,
+                            "shift_90": -0.0606060606060606,
+                            "shift_180": 0.0108695652173913,
+                            "shift_365": 0.0941176470588235,
+                            "updated_at": "2018-09-24 12:59:54 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Terminal World",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN062",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.19,
+                            "low": 0.51,
+                            "average": 0.91,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": -0.0108695652173913,
+                            "shift_90": -0.0108695652173913,
+                            "shift_180": 0.0,
+                            "shift_365": 0.0459770114942529,
+                            "updated_at": "2018-09-24 12:59:54 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Golden Apples",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN071",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 22.95,
+                            "low": 2.07,
+                            "average": 3.39,
+                            "shift": 0.0,
+                            "shift_3": -0.0369318181818182,
+                            "shift_7": -0.121761658031088,
+                            "shift_21": 0.0796178343949045,
+                            "shift_30": -0.0813008130081301,
+                            "shift_90": 0.0241691842900302,
+                            "shift_180": -0.103174603174603,
+                            "shift_365": -0.0450704225352113,
+                            "updated_at": "2018-09-24 17:38:54 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Nordic Lights",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN087",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 17.57,
+                            "low": 0.99,
+                            "average": 1.26,
+                            "shift": 0.0,
+                            "shift_3": -0.0232558139534884,
+                            "shift_7": 0.008,
+                            "shift_21": 0.0161290322580645,
+                            "shift_30": -0.0232558139534884,
+                            "shift_90": -0.0381679389312977,
+                            "shift_180": -0.0454545454545455,
+                            "shift_365": 0.0327868852459016,
+                            "updated_at": "2018-09-24 13:01:45 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Nordic Lights",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN087",
+                "rarity": "Ultimate Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 21.47,
+                            "low": 1.17,
+                            "average": 1.88,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0804597701149425,
+                            "shift_21": 0.0867052023121387,
+                            "shift_30": 0.132530120481928,
+                            "shift_90": 0.392592592592593,
+                            "shift_180": 0.36231884057971,
+                            "shift_365": 0.323943661971831,
+                            "updated_at": "2018-09-24 13:21:17 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Thor, Lord of the Aesir",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN038",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 24.76,
+                            "low": 2.99,
+                            "average": 3.04,
+                            "shift": 0.0,
+                            "shift_3": 0.027027027027027,
+                            "shift_7": 0.0340136054421769,
+                            "shift_21": 0.00662251655629139,
+                            "shift_30": 0.0167224080267559,
+                            "shift_90": 0.142857142857143,
+                            "shift_180": 0.304721030042918,
+                            "shift_365": 0.220883534136546,
+                            "updated_at": "2018-09-14 21:12:07 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior / Synchro"
+    },
+    {
+        "name": "Thor, Lord of the Aesir",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN038",
+                "rarity": "Ultimate Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 33.13,
+                            "low": 8.41,
+                            "average": 9.47,
+                            "shift": 0.0,
+                            "shift_3": 0.00424178154825027,
+                            "shift_7": -0.022703818369453,
+                            "shift_21": -0.130394857667585,
+                            "shift_30": -0.0769980506822612,
+                            "shift_90": 2.58712121212121,
+                            "shift_180": 3.42523364485981,
+                            "shift_365": 1.45974025974026,
+                            "updated_at": "2018-09-24 17:48:37 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast-Warrior / Synchro"
+    },
+    {
+        "name": "Tiki Curse",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN079",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.42,
+                            "average": 1.56,
+                            "shift": 0.0,
+                            "shift_3": -0.00636942675159236,
+                            "shift_7": 0.813953488372093,
+                            "shift_21": 0.813953488372093,
+                            "shift_30": 0.835294117647059,
+                            "shift_90": 0.471698113207547,
+                            "shift_180": 0.793103448275862,
+                            "shift_365": -0.142857142857143,
+                            "updated_at": "2018-09-24 13:40:55 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Tiki Soul",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN080",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.24,
+                            "low": 0.42,
+                            "average": 0.9,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.433962264150943,
+                            "shift_30": 0.0112359550561798,
+                            "shift_90": 0.0227272727272727,
+                            "shift_180": 0.0112359550561798,
+                            "shift_365": 0.0975609756097561,
+                            "updated_at": "2018-09-24 13:40:57 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Token Stampede",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN076",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 7.56,
+                            "low": 0.57,
+                            "average": 1.07,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0,
+                            "shift_180": 0.215909090909091,
+                            "shift_365": 0.138297872340426,
+                            "updated_at": "2018-09-24 17:19:29 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Token Sundae",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN057",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.24,
+                            "low": 0.5,
+                            "average": 0.91,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.416666666666667,
+                            "shift_21": -0.420382165605096,
+                            "shift_30": 0.0224719101123595,
+                            "shift_90": 0.0833333333333333,
+                            "shift_180": 0.109756097560976,
+                            "shift_365": 0.0963855421686747,
+                            "updated_at": "2018-09-24 16:20:24 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Top Runner",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN005",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.24,
+                            "low": 0.47,
+                            "average": 0.85,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0119047619047619,
+                            "shift_30": -0.0116279069767442,
+                            "shift_90": 0.0,
+                            "shift_180": 0.0240963855421687,
+                            "shift_365": 0.0365853658536585,
+                            "updated_at": "2018-09-24 10:56:57 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Tyr of the Nordic Champions",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN019",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.22,
+                            "low": 0.82,
+                            "average": 1.13,
+                            "shift": 0.0,
+                            "shift_3": -0.445544554455446,
+                            "shift_7": -0.450980392156863,
+                            "shift_21": 0.244444444444444,
+                            "shift_30": 0.230769230769231,
+                            "shift_90": 0.258426966292135,
+                            "shift_180": 0.0980392156862745,
+                            "shift_365": -0.00884955752212389,
+                            "updated_at": "2018-09-24 09:07:24 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Tyrant's Tirade",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN078",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.5,
+                            "average": 1.04,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.00970873786407767,
+                            "shift_180": 0.0196078431372549,
+                            "shift_365": 0.00970873786407767,
+                            "updated_at": "2018-09-24 13:42:53 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Valkyrie of the Nordic Ascendant",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN017",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 10.31,
+                            "low": 1.64,
+                            "average": 2.77,
+                            "shift": -0.0246478873239437,
+                            "shift_3": 0.0183823529411765,
+                            "shift_7": -0.00359712230215827,
+                            "shift_21": -0.0578231292517007,
+                            "shift_30": 0.022140221402214,
+                            "shift_90": 0.0532319391634981,
+                            "shift_180": 0.126016260162602,
+                            "shift_365": 0.112449799196787,
+                            "updated_at": "2018-09-24 17:04:55 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Tuner"
+    },
+    {
+        "name": "Vanadis of the Nordic Ascendant",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN081",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 36.44,
+                            "low": 5.68,
+                            "average": 12.64,
+                            "shift": 0.0,
+                            "shift_3": 0.23679060665362,
+                            "shift_7": 0.215384615384615,
+                            "shift_21": 0.137713771377138,
+                            "shift_30": 0.595959595959596,
+                            "shift_90": -0.172774869109948,
+                            "shift_180": 0.731506849315068,
+                            "shift_365": 1.89244851258581,
+                            "updated_at": "2018-09-24 17:54:55 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fairy / Tuner"
+    },
+    {
+        "name": "Vortex the Whirlwind",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN000",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.74,
+                            "low": 0.51,
+                            "average": 0.94,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.010752688172043,
+                            "shift_30": -0.0105263157894737,
+                            "shift_90": 0.010752688172043,
+                            "shift_180": -0.0309278350515464,
+                            "shift_365": 0.0561797752808989,
+                            "updated_at": "2018-09-24 11:46:34 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Synchro"
+    },
+    {
+        "name": "Vylon Delta",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN099",
+                "rarity": "Secret Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.74,
+                            "low": 2.0,
+                            "average": 3.17,
+                            "shift": 0.0,
+                            "shift_3": 0.00955414012738853,
+                            "shift_7": 0.00634920634920635,
+                            "shift_21": 0.0359477124183007,
+                            "shift_30": 0.0359477124183007,
+                            "shift_90": -0.00626959247648903,
+                            "shift_180": 0.0602006688963211,
+                            "shift_365": 0.200757575757576,
+                            "updated_at": "2018-09-24 11:59:39 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Synchro"
+    },
+    {
+        "name": "Vylon Matter",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN060",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.24,
+                            "low": 0.66,
+                            "average": 2.04,
+                            "shift": 0.0,
+                            "shift_3": 0.0303030303030303,
+                            "shift_7": 0.0303030303030303,
+                            "shift_21": 0.267080745341615,
+                            "shift_30": 1.26666666666667,
+                            "shift_90": 0.942857142857143,
+                            "shift_180": 1.37209302325581,
+                            "shift_365": 1.3448275862069,
+                            "updated_at": "2018-09-24 13:19:41 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Wattberyx",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN031",
+                "rarity": "Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.72,
+                            "average": 1.81,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.133971291866029,
+                            "shift_30": 0.0225988700564972,
+                            "shift_90": 0.723809523809524,
+                            "shift_180": 0.707547169811321,
+                            "shift_365": 0.828282828282828,
+                            "updated_at": "2018-09-24 14:49:21 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Thunder / Tuner"
+    },
+    {
+        "name": "Watthydra",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN044",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.52,
+                            "average": 0.94,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.032967032967033,
+                            "shift_30": 0.0,
+                            "shift_90": -0.0408163265306122,
+                            "shift_180": -0.0309278350515464,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 14:49:31 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Thunder / Synchro"
+    },
+    {
+        "name": "Wattkey",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN054",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.42,
+                            "average": 1.51,
+                            "shift": 0.0,
+                            "shift_3": -0.00657894736842105,
+                            "shift_7": 0.00666666666666667,
+                            "shift_21": 0.0202702702702703,
+                            "shift_30": 0.841463414634146,
+                            "shift_90": 0.797619047619048,
+                            "shift_180": 0.797619047619048,
+                            "shift_365": 0.8875,
+                            "updated_at": "2018-09-24 13:20:08 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Wattmole",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN032",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.24,
+                            "low": 0.42,
+                            "average": 0.82,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": -0.0120481927710843,
+                            "shift_90": 0.0,
+                            "shift_180": -0.0681818181818182,
+                            "shift_365": -0.0238095238095238,
+                            "updated_at": "2018-09-24 14:49:35 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Thunder / Effect"
+    },
+    {
+        "name": "Worm Illidan",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN095",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.99,
+                            "low": 0.41,
+                            "average": 0.84,
+                            "shift": 0.0,
+                            "shift_3": -0.0117647058823529,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0,
+                            "shift_180": -0.0117647058823529,
+                            "shift_365": 0.0632911392405063,
+                            "updated_at": "2018-09-24 14:53:16 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "Worm Jetelikpse",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN096",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.91,
+                            "low": 0.42,
+                            "average": 0.86,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0117647058823529,
+                            "shift_30": 0.0117647058823529,
+                            "shift_90": 0.0117647058823529,
+                            "shift_180": -0.0227272727272727,
+                            "shift_365": 0.0886075949367089,
+                            "updated_at": "2018-09-24 14:53:18 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "Worm King",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN097",
+                "rarity": "Super Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.55,
+                            "average": 1.2,
+                            "shift": 0.0,
+                            "shift_3": 0.00840336134453781,
+                            "shift_7": 0.00840336134453781,
+                            "shift_21": 0.121495327102804,
+                            "shift_30": 0.263157894736842,
+                            "shift_90": 0.237113402061856,
+                            "shift_180": 0.0526315789473684,
+                            "shift_365": -0.032258064516129,
+                            "updated_at": "2018-09-24 14:53:17 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "Xing Zhen Hu Replica",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN077",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 7.53,
+                            "low": 0.72,
+                            "average": 1.08,
+                            "shift": 0.0,
+                            "shift_3": 0.00934579439252336,
+                            "shift_7": 0.0,
+                            "shift_21": -0.389830508474576,
+                            "shift_30": 0.0,
+                            "shift_90": 0.255813953488372,
+                            "shift_180": 0.241379310344828,
+                            "shift_365": 0.301204819277108,
+                            "updated_at": "2018-09-24 15:40:03 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Yaksha",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN037",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.19,
+                            "low": 0.99,
+                            "average": 1.06,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0192307692307692,
+                            "shift_180": 0.0192307692307692,
+                            "shift_365": -0.407821229050279,
+                            "updated_at": "2018-09-24 12:06:50 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fairy / Spirit"
+    },
+    {
+        "name": "Zero Force",
+        "numbers": [
+            {
+                "name": "Storm of Ragnarok",
+                "print_tag": "STOR-EN064",
+                "rarity": "Common",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.23,
+                            "low": 0.42,
+                            "average": 1.61,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.518867924528302,
+                            "shift_30": 0.518867924528302,
+                            "shift_90": 0.533333333333333,
+                            "shift_180": 0.548076923076923,
+                            "shift_365": 0.939759036144578,
+                            "updated_at": "2018-09-24 15:33:06 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    }
+]

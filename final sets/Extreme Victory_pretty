@@ -1,0 +1,1112 @@
+[
+    {
+        "name": "Aurora Paragon",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN036",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Axe Dragonute",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN090",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Blackwing - Hillen the Tengu-wind",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN008",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Tuner"
+    },
+    {
+        "name": "Blackwing - Jin the Rain Shadow",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN096",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Tuner"
+    },
+    {
+        "name": "Blackwing - Kogarashi the Wanderer",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN009",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Tuner"
+    },
+    {
+        "name": "Blackwing - Kogarashi the Wanderer",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN009",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Tuner"
+    },
+    {
+        "name": "Blue Rose Dragon",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN099",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Boon of the Meklord Emperor",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN050",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Brain Hazard",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN072",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Buster Blaster",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN022",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Union"
+    },
+    {
+        "name": "Chaos Infinity",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN065",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Clock Resonator",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN007",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fiend / Tuner"
+    },
+    {
+        "name": "Contact with the Aquamirror",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN059",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Debunk",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN076",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dodger Dragon",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN082",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "ESP Amplifier",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN055",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Elder of the Six Samurai",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN028",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Elemental HERO Neos Knight",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN093",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "Elemental HERO Neos Knight",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN093",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "Esper Girl",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN023",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Psychic / Tuner"
+    },
+    {
+        "name": "Force Resonator",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN006",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fiend / Tuner"
+    },
+    {
+        "name": "Fortissimo the Mobile Fortress",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN049",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Full House",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN088",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gladiator Beast Essedarii",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN086",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Fusion"
+    },
+    {
+        "name": "Gladiator Beast Essedarii",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN086",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Fusion"
+    },
+    {
+        "name": "Gladiator Beast Tygerius",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN034",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Gladiator Taming",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN087",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Hushed Psychic Cleric",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN027",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Jar Turtle",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN035",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "Junk Berserker",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN037",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Warrior / Synchro"
+    },
+    {
+        "name": "Junk Berserker",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN037",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Warrior / Synchro"
+    },
+    {
+        "name": "Junk Berserker",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN037",
+                "rarity": "Ghost Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Warrior / Synchro"
+    },
+    {
+        "name": "Junk Servant",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN001",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Karakuri Cash Shed",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN074",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Karakuri Komachi mdl 224 \"Ninishi\"",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN030",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Karakuri Ninja mdl 7749 \"Nanashick\"",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN031",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Lancer Dragonute",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN091",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Lancer Lindwurm",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN092",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Life Stream Dragon",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN038",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Life Stream Dragon",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN038",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Localized Tornado",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN079",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mara of the Nordic Alfar",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN083",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Tuner"
+    },
+    {
+        "name": "Mara of the Nordic Alfar",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN083",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Tuner"
+    },
+    {
+        "name": "Meklord Army of Granel",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN014",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Meklord Army of Skiel",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN013",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Meklord Army of Wisel",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN012",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Meklord Astro Dragon Asterisk",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN015",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Meklord Emperor Skiel",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN094",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Meklord Factory",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN067",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Meklord Fortress",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN095",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mektimed Blast",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN066",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Mental Seeker",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN024",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Psychic / Tuner"
+    },
+    {
+        "name": "Morphtronic Lantron",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN010",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Morphtronic Staplen",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN011",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Mystic Piper",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN005",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Naturia Eggplant",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN098",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Necro Defender",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN004",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Out of the Blue",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN061",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Overmind Archfiend",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN044",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Psychic / Synchro"
+    },
+    {
+        "name": "Overmind Archfiend",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN044",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Psychic / Synchro"
+    },
+    {
+        "name": "Power-Up Adapter",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN064",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Psi-Beast",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN085",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Psychic Feel Zone",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN056",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Psychic Reactor",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN071",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Psychic Shockwave",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN089",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Reboot",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN052",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Reborn Tengu",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN000",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "Red Carpet",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN063",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Red Dragon Vase",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN046",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Resonant Destruction",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN048",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Resonator Call",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN047",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Runaway Karakuri",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN058",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Safe Zone",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN078",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Salvage Warrior",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN003",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Scarlet Security",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN045",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Scrap Kong",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN032",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Scrap Orthros",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN097",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Tuner"
+    },
+    {
+        "name": "Sealing Ceremony of Mokuton",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN077",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Self-Mummification",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN062",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Serene Psychic Witch",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN026",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Shien's Advisor",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN029",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Shien's Dojo",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN057",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Silent Psychic Wizard",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN025",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Psychic / Effect"
+    },
+    {
+        "name": "Six Style - Dual Wield",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN073",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Soundproofed",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN060",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "T.G. Blade Blaster",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN042",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "T.G. Blade Blaster",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN042",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "T.G. Catapult Dragon",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN019",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "T.G. Cyber Magician",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN016",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Tuner"
+    },
+    {
+        "name": "T.G. Halberd Cannon",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN043",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "T.G. Halberd Cannon",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN043",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "T.G. Jet Falcon",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN018",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Tuner"
+    },
+    {
+        "name": "T.G. Power Gladiator",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN041",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Synchro"
+    },
+    {
+        "name": "T.G. Recipro Dragonfly",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN039",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Insect / Synchro"
+    },
+    {
+        "name": "T.G. Rush Rhino",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN021",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "T.G. Striker",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN017",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Tuner"
+    },
+    {
+        "name": "T.G. Warwolf",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN020",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Beast-Warrior / Effect"
+    },
+    {
+        "name": "T.G. Wonder Magician",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN040",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Synchro"
+    },
+    {
+        "name": "T.G. Wonder Magician",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN040",
+                "rarity": "Ultimate Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Synchro"
+    },
+    {
+        "name": "TG-SX1",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN069",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "TG1-EM1",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN070",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "TGX1-HL",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN053",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "TGX3-DX2",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN068",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "TGX300",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN054",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Resolute Meklord Army",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN051",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Tour Guide From the Underworld",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN084",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Tradetoad",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN033",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Tyrant's Tantrum",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN075",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Unknown Synchron",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN002",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Vampire Dragon",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN081",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "W Nebula Meteorite",
+                "pack": "Extreme Victory",
+                "print_tag": "EXVC-EN080",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    }
+]

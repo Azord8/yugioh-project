@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Ally of Justice Cycle Reader",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN052",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Tuner"
+    },
+    {
+        "name": "Ally of Justice Decisive Armor",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN060",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Ally of Justice Omni-Weapon",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN050",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Ally of Justice Quarantine",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN051",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Caravan of the Ice Barrier",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN021",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Sea Serpent / Effect"
+    },
+    {
+        "name": "Dewdark of the Ice Barrier",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN020",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Tuner"
+    },
+    {
+        "name": "Dragunity Darkspear",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN034",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Tuner"
+    },
+    {
+        "name": "Dragunity Dux",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN031",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Dragunity Knight - Gae Bulg",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN057",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Dragunity Legionnaire",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN032",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Dragunity Phalanx",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN035",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Tuner"
+    },
+    {
+        "name": "Dragunity Tribus",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN033",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Fabled Ashenveil",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN037",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Fabled Dyf",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN036",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Fabled Krus",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN002",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Fabled Leviathan",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN026",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Synchro"
+    },
+    {
+        "name": "Fabled Miztoji",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN005",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Tuner"
+    },
+    {
+        "name": "Fabled Oltro",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN038",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Tuner"
+    },
+    {
+        "name": "Fabled Ragin",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN058",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Synchro"
+    },
+    {
+        "name": "Fabled Soulkius",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN004",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Fabled Topi",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN003",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Fabled Urustos",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN001",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "General Grunard of the Ice Barrier",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN049",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Gungnir, Dragon of the Ice Barrier",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN030",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Jurrac Brachis",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN008",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dinosaur / Tuner"
+    },
+    {
+        "name": "Jurrac Guaiba",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN040",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Jurrac Iguanon",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN007",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Jurrac Ptera",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN006",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Jurrac Spinos",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN009",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Jurrac Stauriko",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN041",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Jurrac Titano",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN039",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dinosaur / Effect"
+    },
+    {
+        "name": "Jurrac Velphito",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN027",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dinosaur / Synchro"
+    },
+    {
+        "name": "Locomotion R-Genex",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN029",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Naturia Barkion",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN028",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Naturia Cliff",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN012",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Naturia Dragonfly",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN010",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Naturia Fruitfly",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN043",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Naturia Horneedle",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN042",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Naturia Hydrangea",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN044",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Naturia Sunflower",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN011",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Naturia Tulip",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN013",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Tuner"
+    },
+    {
+        "name": "R-Genex Accelerator",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN045",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "R-Genex Crusher",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN016",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "R-Genex Magma",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN017",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Pyro / Effect"
+    },
+    {
+        "name": "R-Genex Oracle",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN046",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Tuner"
+    },
+    {
+        "name": "R-Genex Overseer",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN015",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Tuner"
+    },
+    {
+        "name": "R-Genex Turbo",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN014",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "R-Genex Ultimum",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN047",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Samurai of the Ice Barrier",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN019",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Shock Troops of the Ice Barrier",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN018",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Spellbreaker of the Ice Barrier",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN048",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Vindikite R-Genex",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN059",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Worm Solid",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN022",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "Worm Tentacles",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN023",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "Worm Ugly",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN024",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "Worm Victory",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN025",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "Worm Warlord",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN053",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "Worm Xex",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN054",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "Worm Yagan",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN055",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Reptile / Effect"
+    },
+    {
+        "name": "Worm Zero",
+                "pack": "Hidden Arsenal 3",
+                "print_tag": "HA03-EN056",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Reptile / Fusion"
+    }
+]

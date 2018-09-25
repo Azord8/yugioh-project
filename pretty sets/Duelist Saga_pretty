@@ -1,0 +1,3402 @@
+[
+    {
+        "name": "A Hero Lives",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN087",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.5,
+                            "low": 5.41,
+                            "average": 6.15,
+                            "shift": -0.00806451612903226,
+                            "shift_3": -0.00966183574879227,
+                            "shift_7": -0.00162337662337662,
+                            "shift_21": 0.198830409356725,
+                            "shift_30": -0.329334787350055,
+                            "shift_90": 0.609947643979058,
+                            "shift_180": 1.58403361344538,
+                            "shift_365": 2.12182741116751,
+                            "updated_at": "2018-09-24 14:16:55 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Advanced Ritual Art",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN063",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.98,
+                            "low": 2.69,
+                            "average": 3.28,
+                            "shift": 0.0,
+                            "shift_3": 0.0186335403726708,
+                            "shift_7": 0.0154798761609907,
+                            "shift_21": 0.210332103321033,
+                            "shift_30": 0.219330855018587,
+                            "shift_90": 0.138888888888889,
+                            "shift_180": 0.477477477477477,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 15:52:36 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Ritual",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Armityle the Chaos Phantom",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN099",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.67,
+                            "low": 2.75,
+                            "average": 3.35,
+                            "shift": 0.0307692307692308,
+                            "shift_3": -0.106666666666667,
+                            "shift_7": -0.111405835543767,
+                            "shift_21": 0.0339506172839506,
+                            "shift_30": 0.0029940119760479,
+                            "shift_90": 0.0876623376623377,
+                            "shift_180": 0.209386281588448,
+                            "shift_365": 0.283524904214559,
+                            "updated_at": "2018-09-24 15:21:34 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Fusion"
+    },
+    {
+        "name": "Battle Fader",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN080",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 1.03,
+                            "average": 1.74,
+                            "shift": 0.0,
+                            "shift_3": 0.00578034682080925,
+                            "shift_7": -0.0113636363636364,
+                            "shift_21": -0.155339805825243,
+                            "shift_30": -0.00571428571428571,
+                            "shift_90": 0.029585798816568,
+                            "shift_180": 0.10828025477707,
+                            "shift_365": -0.0386740331491713,
+                            "updated_at": "2018-09-24 15:52:10 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Black Luster Soldier - Envoy of the Beginning",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN053",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 25.72,
+                            "low": 12.38,
+                            "average": 13.12,
+                            "shift": -0.00681302043906132,
+                            "shift_3": 0.0555108608205953,
+                            "shift_7": 0.0529695024077047,
+                            "shift_21": -0.00831443688586546,
+                            "shift_30": -0.113513513513514,
+                            "shift_90": 0.299009900990099,
+                            "shift_180": 0.504587155963303,
+                            "shift_365": 0.733157199471598,
+                            "updated_at": "2018-09-24 13:07:06 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Black Rose Dragon",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN077",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.74,
+                            "low": 2.69,
+                            "average": 3.31,
+                            "shift": 0.0,
+                            "shift_3": 0.054140127388535,
+                            "shift_7": 0.0311526479750779,
+                            "shift_21": 0.034375,
+                            "shift_30": 0.0781758957654723,
+                            "shift_90": 0.034375,
+                            "shift_180": 0.0376175548589342,
+                            "shift_365": 0.37344398340249,
+                            "updated_at": "2018-09-24 16:11:38 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Blackwing - Gale the Whirlwind",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN078",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 8.03,
+                            "low": 0.8,
+                            "average": 2.03,
+                            "shift": -0.0288461538461538,
+                            "shift_3": 0.01,
+                            "shift_7": 0.0150753768844221,
+                            "shift_21": 0.0306122448979592,
+                            "shift_30": -0.0776255707762557,
+                            "shift_90": 0.0575916230366492,
+                            "shift_180": 0.074468085106383,
+                            "shift_365": 0.836363636363636,
+                            "updated_at": "2018-09-24 14:27:15 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Tuner"
+    },
+    {
+        "name": "Blue-Eyes White Dragon",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN043",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.99,
+                            "low": 3.14,
+                            "average": 3.62,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0402298850574713,
+                            "shift_21": -0.568019093078759,
+                            "shift_30": 0.0254957507082153,
+                            "shift_90": -0.0788804071246819,
+                            "shift_180": 0.107033639143731,
+                            "shift_365": -0.0621761658031088,
+                            "updated_at": "2018-09-24 12:49:34 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Normal"
+    },
+    {
+        "name": "Brain Control",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN046",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.77,
+                            "average": 2.68,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0183150183150183,
+                            "shift_21": 0.0151515151515152,
+                            "shift_30": -0.0147058823529412,
+                            "shift_90": 0.072,
+                            "shift_180": 0.0229007633587786,
+                            "shift_365": 0.956204379562044,
+                            "updated_at": "2018-09-24 15:50:30 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Brionac, Dragon of the Ice Barrier",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN073",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 25.11,
+                            "low": 2.99,
+                            "average": 4.03,
+                            "shift": -0.00247524752475248,
+                            "shift_3": 0.0280612244897959,
+                            "shift_7": -0.0122549019607843,
+                            "shift_21": 0.00498753117206983,
+                            "shift_30": -0.0146699266503667,
+                            "shift_90": -0.0404761904761905,
+                            "shift_180": -0.0495283018867925,
+                            "shift_365": 0.0359897172236504,
+                            "updated_at": "2018-09-24 14:33:06 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Sea Serpent / Synchro"
+    },
+    {
+        "name": "Brohunder",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN012",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.67,
+                            "low": 0.33,
+                            "average": 1.1,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0185185185185185,
+                            "shift_30": -0.0434782608695652,
+                            "shift_90": 0.0679611650485437,
+                            "shift_180": 0.0280373831775701,
+                            "shift_365": 0.0280373831775701,
+                            "updated_at": "2018-09-24 13:25:50 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Thunder / Effect"
+    },
+    {
+        "name": "Castel, the Skyblaster Musketeer",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN093",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.01,
+                            "low": 2.75,
+                            "average": 3.33,
+                            "shift": -0.0118694362017804,
+                            "shift_3": -0.0118694362017804,
+                            "shift_7": -0.00597014925373134,
+                            "shift_21": -0.014792899408284,
+                            "shift_30": 0.0152439024390244,
+                            "shift_90": 0.0,
+                            "shift_180": -0.0176991150442478,
+                            "shift_365": -0.0118694362017804,
+                            "updated_at": "2018-09-24 14:28:27 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Winged Beast / Xyz"
+    },
+    {
+        "name": "Celestial Double Star Shaman",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN018",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.62,
+                            "average": 1.43,
+                            "shift": 0.0,
+                            "shift_3": 0.0916030534351145,
+                            "shift_7": -0.0137931034482759,
+                            "shift_21": 0.00704225352112676,
+                            "shift_30": 0.0437956204379562,
+                            "shift_90": 0.134920634920635,
+                            "shift_180": 0.0916030534351145,
+                            "shift_365": 0.211864406779661,
+                            "updated_at": "2018-09-24 13:30:27 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Synchro"
+    },
+    {
+        "name": "Chain Summon",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN011",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 14.79,
+                            "low": 0.33,
+                            "average": 0.94,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0105263157894737,
+                            "shift_21": -0.113207547169811,
+                            "shift_30": -0.104761904761905,
+                            "shift_90": -0.203389830508475,
+                            "shift_180": -0.182608695652174,
+                            "shift_365": 0.0444444444444444,
+                            "updated_at": "2018-09-24 15:43:56 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Chaos Scepter Blast",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN025",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.93,
+                            "average": 1.58,
+                            "shift": -0.00628930817610063,
+                            "shift_3": 0.0604026845637584,
+                            "shift_7": -0.00628930817610063,
+                            "shift_21": 0.0604026845637584,
+                            "shift_30": 0.00636942675159236,
+                            "shift_90": 0.0972222222222222,
+                            "shift_180": 0.112676056338028,
+                            "shift_365": 0.025974025974026,
+                            "updated_at": "2018-09-24 12:35:54 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Chimeratech Fortress Dragon",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN065",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 1.26,
+                            "average": 1.4,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.00709219858156028,
+                            "shift_21": 0.00719424460431655,
+                            "shift_30": -0.0140845070422535,
+                            "shift_90": 0.0606060606060606,
+                            "shift_180": 0.037037037037037,
+                            "shift_365": -0.0909090909090909,
+                            "updated_at": "2018-09-24 13:02:13 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "Clashing Souls",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN038",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.33,
+                            "average": 1.19,
+                            "shift": 0.0,
+                            "shift_3": 0.00847457627118644,
+                            "shift_7": 0.0,
+                            "shift_21": 0.144230769230769,
+                            "shift_30": -0.0916030534351145,
+                            "shift_90": 0.0917431192660551,
+                            "shift_180": 0.0818181818181818,
+                            "shift_365": 0.0818181818181818,
+                            "updated_at": "2018-09-24 12:23:50 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Clear Effector",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN035",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.4,
+                            "low": 0.33,
+                            "average": 1.13,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.00900900900900901,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.037037037037037,
+                            "shift_180": -0.0427350427350427,
+                            "shift_365": 0.00900900900900901,
+                            "updated_at": "2018-09-24 13:43:28 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Constellar Ptolemy M7",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN089",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 7.4,
+                            "low": 0.62,
+                            "average": 1.48,
+                            "shift": 0.0,
+                            "shift_3": 0.0206896551724138,
+                            "shift_7": 0.00680272108843537,
+                            "shift_21": 0.243697478991597,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0277777777777778,
+                            "shift_180": 0.0206896551724138,
+                            "shift_365": 0.0962962962962963,
+                            "updated_at": "2018-09-24 13:57:39 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Xyz"
+    },
+    {
+        "name": "Contract with Don Thousand",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN041",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.98,
+                            "low": 0.55,
+                            "average": 1.29,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0078125,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0238095238095238,
+                            "shift_180": 0.141592920353982,
+                            "shift_365": -0.355,
+                            "updated_at": "2018-09-24 12:37:49 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Converging Wishes",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN037",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.86,
+                            "low": 0.33,
+                            "average": 0.95,
+                            "shift": 0.0,
+                            "shift_3": 0.0555555555555556,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": -0.0206185567010309,
+                            "shift_90": 0.0,
+                            "shift_180": -0.15929203539823,
+                            "shift_365": 0.021505376344086,
+                            "updated_at": "2018-09-24 13:45:39 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Cosmic Blazar Dragon",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN034",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 22.92,
+                            "low": 1.95,
+                            "average": 2.71,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0343511450381679,
+                            "shift_21": 0.0265151515151515,
+                            "shift_30": 0.204444444444444,
+                            "shift_90": -0.171253822629969,
+                            "shift_180": -0.0457746478873239,
+                            "shift_365": 0.0265151515151515,
+                            "updated_at": "2018-09-24 14:05:02 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Cosmic Flare",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN036",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 1.18,
+                            "shift": 0.0,
+                            "shift_3": 0.00854700854700855,
+                            "shift_7": 0.0260869565217391,
+                            "shift_21": 0.0350877192982456,
+                            "shift_30": 0.0350877192982456,
+                            "shift_90": 0.0260869565217391,
+                            "shift_180": 0.0825688073394495,
+                            "shift_365": 0.0442477876106195,
+                            "updated_at": "2018-09-24 12:38:16 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Cyber Dragon",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN057",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 8.29,
+                            "low": 1.75,
+                            "average": 2.18,
+                            "shift": 0.0,
+                            "shift_3": -0.0480349344978166,
+                            "shift_7": 0.00460829493087558,
+                            "shift_21": 0.058252427184466,
+                            "shift_30": -0.195571955719557,
+                            "shift_90": -0.329230769230769,
+                            "shift_180": -0.215827338129496,
+                            "shift_365": 0.245714285714286,
+                            "updated_at": "2018-09-24 13:45:49 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "D.D. Warrior Lady",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN051",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.23,
+                            "low": 1.09,
+                            "average": 1.29,
+                            "shift": 0.015748031496063,
+                            "shift_3": 0.015748031496063,
+                            "shift_7": 0.015748031496063,
+                            "shift_21": -0.0514705882352941,
+                            "shift_30": 0.0840336134453782,
+                            "shift_90": 0.0661157024793388,
+                            "shift_180": 0.277227722772277,
+                            "shift_365": 0.121739130434783,
+                            "updated_at": "2018-09-24 12:19:47 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Dandylion",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN059",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.58,
+                            "average": 1.28,
+                            "shift": 0.0,
+                            "shift_3": -0.00775193798449612,
+                            "shift_7": -0.00775193798449612,
+                            "shift_21": 0.0491803278688525,
+                            "shift_30": 0.0578512396694215,
+                            "shift_90": 0.0666666666666667,
+                            "shift_180": -0.308108108108108,
+                            "shift_365": 0.0578512396694215,
+                            "updated_at": "2018-09-24 14:03:04 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Plant / Effect"
+    },
+    {
+        "name": "Dark Armed Dragon",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN067",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 1.5,
+                            "average": 2.22,
+                            "shift": 1.81012658227848,
+                            "shift_3": 0.00452488687782805,
+                            "shift_7": 0.018348623853211,
+                            "shift_21": 0.0230414746543779,
+                            "shift_30": 0.0136986301369863,
+                            "shift_90": 0.00452488687782805,
+                            "shift_180": -0.0864197530864197,
+                            "shift_365": 0.174603174603175,
+                            "updated_at": "2018-09-24 13:44:08 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Dark Magician",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN100",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 9.62,
+                            "low": 2.22,
+                            "average": 3.67,
+                            "shift": 0.0,
+                            "shift_3": -0.00542005420054201,
+                            "shift_7": 0.0194444444444444,
+                            "shift_21": -0.11138014527845,
+                            "shift_30": 0.0857988165680473,
+                            "shift_90": 0.602620087336245,
+                            "shift_180": 0.668181818181818,
+                            "shift_365": 1.18452380952381,
+                            "updated_at": "2018-09-24 13:04:01 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Normal"
+    },
+    {
+        "name": "Dark Magician of Chaos",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN054",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 21.47,
+                            "low": 2.12,
+                            "average": 2.87,
+                            "shift": 0.0,
+                            "shift_3": 0.0105633802816901,
+                            "shift_7": 0.036101083032491,
+                            "shift_21": 0.231759656652361,
+                            "shift_30": 0.253275109170306,
+                            "shift_90": 0.0996168582375479,
+                            "shift_180": 0.0789473684210526,
+                            "shift_365": 0.464285714285714,
+                            "updated_at": "2018-09-24 14:40:29 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Dark Summoning Beast",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN030",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.95,
+                            "low": 0.98,
+                            "average": 1.53,
+                            "shift": 0.0,
+                            "shift_3": 0.0479452054794521,
+                            "shift_7": 0.0268456375838926,
+                            "shift_21": 0.00657894736842105,
+                            "shift_30": -0.04375,
+                            "shift_90": 0.0625,
+                            "shift_180": 0.141791044776119,
+                            "shift_365": -0.00649350649350649,
+                            "updated_at": "2018-09-24 14:21:19 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Darklord Descent",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN023",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 0.49,
+                            "low": 0.49,
+                            "average": 0.49,
+                            "shift": -0.546296296296296,
+                            "shift_3": -0.55045871559633,
+                            "shift_7": -0.55045871559633,
+                            "shift_21": -0.5,
+                            "shift_30": -0.55045871559633,
+                            "shift_90": -0.5,
+                            "shift_180": -0.558558558558559,
+                            "shift_365": -0.436781609195402,
+                            "updated_at": "2018-09-24 11:16:45 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Darklord Ukoback",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN022",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.01,
+                            "low": 1.25,
+                            "average": 1.68,
+                            "shift": 0.0,
+                            "shift_3": 0.0434782608695652,
+                            "shift_7": 0.0181818181818182,
+                            "shift_21": -0.0232558139534884,
+                            "shift_30": 0.05,
+                            "shift_90": 0.513513513513513,
+                            "shift_180": 0.3125,
+                            "shift_365": 0.292307692307692,
+                            "updated_at": "2018-09-24 15:24:53 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Deep Sea Diva",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN079",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.74,
+                            "low": 1.45,
+                            "average": 1.96,
+                            "shift": 0.0,
+                            "shift_3": -0.0576923076923077,
+                            "shift_7": 0.0652173913043478,
+                            "shift_21": 0.107344632768362,
+                            "shift_30": 0.0949720670391061,
+                            "shift_90": 0.152941176470588,
+                            "shift_180": 0.298013245033113,
+                            "shift_365": 0.217391304347826,
+                            "updated_at": "2018-09-24 15:26:45 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Sea Serpent / Tuner"
+    },
+    {
+        "name": "Depth Shark",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN003",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 10.16,
+                            "low": 0.33,
+                            "average": 0.89,
+                            "shift": 0.0,
+                            "shift_3": 0.0113636363636364,
+                            "shift_7": 0.0113636363636364,
+                            "shift_21": 0.0113636363636364,
+                            "shift_30": 0.0113636363636364,
+                            "shift_90": 0.0113636363636364,
+                            "shift_180": -0.043010752688172,
+                            "shift_365": 0.0595238095238095,
+                            "updated_at": "2018-09-24 13:17:21 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fish / Effect"
+    },
+    {
+        "name": "Diabound Kernel",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN026",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 9.97,
+                            "low": 0.79,
+                            "average": 1.12,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0175438596491228,
+                            "shift_30": -0.0743801652892562,
+                            "shift_90": -0.0819672131147541,
+                            "shift_180": -0.111111111111111,
+                            "shift_365": -0.0508474576271186,
+                            "updated_at": "2018-09-08 09:27:44 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Diamond Dust",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN010",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 1.1,
+                            "shift": 0.0,
+                            "shift_3": 0.0185185185185185,
+                            "shift_7": -0.0350877192982456,
+                            "shift_21": 0.00917431192660551,
+                            "shift_30": -0.0909090909090909,
+                            "shift_90": 0.157894736842105,
+                            "shift_180": 0.157894736842105,
+                            "shift_365": -0.112903225806452,
+                            "updated_at": "2018-09-24 13:36:44 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Dimensional Fissure",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN060",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.74,
+                            "low": 1.16,
+                            "average": 1.62,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0357142857142857,
+                            "shift_21": -0.376923076923077,
+                            "shift_30": -0.0121951219512195,
+                            "shift_90": 0.0588235294117647,
+                            "shift_180": 0.051948051948052,
+                            "shift_365": 0.0318471337579618,
+                            "updated_at": "2018-09-24 15:48:57 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Doomcaliber Knight",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN056",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.03,
+                            "low": 0.82,
+                            "average": 1.55,
+                            "shift": 0.0,
+                            "shift_3": -0.0548780487804878,
+                            "shift_7": -0.0548780487804878,
+                            "shift_21": 0.0402684563758389,
+                            "shift_30": -0.0432098765432099,
+                            "shift_90": -0.351464435146443,
+                            "shift_180": 0.359649122807018,
+                            "shift_365": 0.684782608695652,
+                            "updated_at": "2018-09-06 02:12:06 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Double Fin Shark",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN001",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.23,
+                            "low": 0.33,
+                            "average": 0.98,
+                            "shift": 0.0,
+                            "shift_3": -0.109090909090909,
+                            "shift_7": -0.100917431192661,
+                            "shift_21": -0.100917431192661,
+                            "shift_30": -0.0841121495327103,
+                            "shift_90": -0.0925925925925926,
+                            "shift_180": -0.117117117117117,
+                            "shift_365": 0.0769230769230769,
+                            "updated_at": "2018-09-24 15:32:25 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fish / Effect"
+    },
+    {
+        "name": "Dueltaining",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN042",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.23,
+                            "low": 0.33,
+                            "average": 0.95,
+                            "shift": 0.0,
+                            "shift_3": 0.0106382978723404,
+                            "shift_7": 0.0106382978723404,
+                            "shift_21": 0.0,
+                            "shift_30": -0.0206185567010309,
+                            "shift_90": 0.0919540229885057,
+                            "shift_180": 0.0919540229885057,
+                            "shift_365": 0.0674157303370786,
+                            "updated_at": "2018-09-24 13:12:01 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Effect Veiler",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN083",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 24.33,
+                            "low": 6.95,
+                            "average": 8.04,
+                            "shift": -0.0301932367149758,
+                            "shift_3": -0.0474495848161329,
+                            "shift_7": -0.0463182897862233,
+                            "shift_21": -0.105790645879733,
+                            "shift_30": 0.0,
+                            "shift_90": 0.0190355329949239,
+                            "shift_180": -0.297462817147856,
+                            "shift_365": 1.23676880222841,
+                            "updated_at": "2018-09-24 15:49:11 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Tuner"
+    },
+    {
+        "name": "Elemental HERO Honest Neos",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN028",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 22.19,
+                            "low": 3.69,
+                            "average": 4.15,
+                            "shift": -0.00717703349282297,
+                            "shift_3": -0.0142517814726841,
+                            "shift_7": -0.00240384615384615,
+                            "shift_21": 0.146408839779006,
+                            "shift_30": 0.127717391304348,
+                            "shift_90": -0.402017291066282,
+                            "shift_180": -0.615740740740741,
+                            "shift_365": -0.502994011976048,
+                            "updated_at": "2018-09-24 14:59:44 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Evilswarm Ophion",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN090",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.75,
+                            "average": 1.29,
+                            "shift": 0.0,
+                            "shift_3": 0.102564102564103,
+                            "shift_7": 0.0238095238095238,
+                            "shift_21": 0.0403225806451613,
+                            "shift_30": 0.0238095238095238,
+                            "shift_90": -0.122448979591837,
+                            "shift_180": -0.473469387755102,
+                            "shift_365": -0.110344827586207,
+                            "updated_at": "2018-09-24 14:15:49 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Evolzar Laggia",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN088",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.67,
+                            "low": 1.88,
+                            "average": 2.67,
+                            "shift": 0.00754716981132075,
+                            "shift_3": 0.0152091254752852,
+                            "shift_7": 0.0308880308880309,
+                            "shift_21": 1.2436974789916,
+                            "shift_30": 0.0,
+                            "shift_90": 0.068,
+                            "shift_180": 0.0511811023622047,
+                            "shift_365": -0.0729166666666667,
+                            "updated_at": "2018-09-24 15:28:50 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Dragon / Xyz"
+    },
+    {
+        "name": "Fallen Paradise",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN031",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 7.99,
+                            "low": 0.33,
+                            "average": 1.16,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0416666666666667,
+                            "shift_21": -0.166666666666667,
+                            "shift_30": -0.141791044776119,
+                            "shift_90": -0.148148148148148,
+                            "shift_180": -0.0495867768595041,
+                            "shift_365": -0.160583941605839,
+                            "updated_at": "2018-09-24 16:01:37 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Formula Synchron",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN086",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.74,
+                            "low": 2.22,
+                            "average": 2.5,
+                            "shift": -0.0494296577946768,
+                            "shift_3": -0.053030303030303,
+                            "shift_7": -0.21875,
+                            "shift_21": -0.0310077519379845,
+                            "shift_30": -0.107142857142857,
+                            "shift_90": -0.0272373540856031,
+                            "shift_180": -0.0347490347490347,
+                            "shift_365": 0.0822510822510823,
+                            "updated_at": "2018-09-24 13:34:22 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Synchro"
+    },
+    {
+        "name": "Fossil Dyna Pachycephalo",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN066",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.98,
+                            "low": 1.75,
+                            "average": 2.28,
+                            "shift": 0.0,
+                            "shift_3": -0.0173160173160173,
+                            "shift_7": -0.0257510729613734,
+                            "shift_21": -0.0173160173160173,
+                            "shift_30": -0.310030395136778,
+                            "shift_90": -0.0421940928270042,
+                            "shift_180": 0.170103092783505,
+                            "shift_365": 0.213903743315508,
+                            "updated_at": "2018-09-24 12:47:28 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Full Armored Black Ray Lancer",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN008",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 1.1,
+                            "shift": 0.0,
+                            "shift_3": 0.0377358490566038,
+                            "shift_7": -0.0178571428571429,
+                            "shift_21": 0.0,
+                            "shift_30": -0.105691056910569,
+                            "shift_90": 0.0280373831775701,
+                            "shift_180": 0.134020618556701,
+                            "shift_365": 0.0784313725490196,
+                            "updated_at": "2018-09-24 10:29:57 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Beast-Warrior / Xyz"
+    },
+    {
+        "name": "Full Armored Crystalzero Lancer",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN007",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.33,
+                            "low": 0.33,
+                            "average": 1.0,
+                            "shift": 0.0,
+                            "shift_3": 0.0526315789473684,
+                            "shift_7": -0.0566037735849057,
+                            "shift_21": -0.115044247787611,
+                            "shift_30": -0.166666666666667,
+                            "shift_90": -0.0740740740740741,
+                            "shift_180": -0.0990990990990991,
+                            "shift_365": -0.0740740740740741,
+                            "updated_at": "2018-09-24 13:21:06 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Future Fusion",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN062",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 1.48,
+                            "average": 1.86,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0053475935828877,
+                            "shift_21": -0.0792079207920792,
+                            "shift_30": -0.114285714285714,
+                            "shift_90": -0.0558375634517767,
+                            "shift_180": -0.122641509433962,
+                            "shift_365": -0.261904761904762,
+                            "updated_at": "2018-09-24 12:50:47 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gladiator Beast Gyzarus",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN071",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.26,
+                            "low": 0.33,
+                            "average": 1.39,
+                            "shift": 0.0,
+                            "shift_3": 0.0451127819548872,
+                            "shift_7": 0.0,
+                            "shift_21": 0.112,
+                            "shift_30": 0.112,
+                            "shift_90": 0.230088495575221,
+                            "shift_180": -0.187134502923977,
+                            "shift_365": 0.527472527472527,
+                            "updated_at": "2018-09-24 13:38:42 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Winged Beast / Fusion"
+    },
+    {
+        "name": "Goyo Guardian",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN075",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.77,
+                            "average": 2.2,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.00917431192660551,
+                            "shift_21": -0.0178571428571429,
+                            "shift_30": 0.594202898550725,
+                            "shift_90": 0.496598639455782,
+                            "shift_180": 0.437908496732026,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 13:54:47 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Synchro"
+    },
+    {
+        "name": "Gozuki",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN020",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.77,
+                            "low": 1.95,
+                            "average": 2.25,
+                            "shift": 0.0,
+                            "shift_3": -0.0174672489082969,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0368663594470046,
+                            "shift_30": 0.0465116279069767,
+                            "shift_90": 0.113861386138614,
+                            "shift_180": 0.00896860986547085,
+                            "shift_365": -0.274193548387097,
+                            "updated_at": "2018-09-24 15:51:26 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Guard Penguin",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN005",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.88,
+                            "shift": 0.0,
+                            "shift_3": 0.0114942528735632,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": -0.0112359550561798,
+                            "shift_180": -0.0537634408602151,
+                            "shift_365": -0.0112359550561798,
+                            "updated_at": "2018-09-24 13:26:59 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Winged Beast / Effect"
+    },
+    {
+        "name": "Halfway to Forever (card)",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN040",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.26,
+                            "low": 1.09,
+                            "average": 1.11,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.00892857142857143,
+                            "shift_21": 0.00909090909090909,
+                            "shift_30": 0.00909090909090909,
+                            "shift_90": 0.00909090909090909,
+                            "shift_180": -0.00892857142857143,
+                            "shift_365": -0.00892857142857143,
+                            "updated_at": "2018-09-24 13:49:53 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Hamon, Lord of Striking Thunder",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN097",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 22.92,
+                            "low": 3.75,
+                            "average": 3.83,
+                            "shift": 0.0,
+                            "shift_3": 0.005249343832021,
+                            "shift_7": -0.0103359173126615,
+                            "shift_21": -0.0179487179487179,
+                            "shift_30": 0.0105540897097625,
+                            "shift_90": 0.0758426966292135,
+                            "shift_180": 0.268211920529801,
+                            "shift_365": 0.392727272727273,
+                            "updated_at": "2018-09-24 14:18:40 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Thunder / Effect"
+    },
+    {
+        "name": "Harpie's Feather Storm",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN027",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 1.95,
+                            "average": 2.36,
+                            "shift": -0.243589743589744,
+                            "shift_3": -0.309941520467836,
+                            "shift_7": -0.317919075144509,
+                            "shift_21": 0.594594594594595,
+                            "shift_30": 0.638888888888889,
+                            "shift_90": -0.221122112211221,
+                            "shift_180": 0.45679012345679,
+                            "shift_365": 0.107981220657277,
+                            "updated_at": "2018-09-24 13:26:30 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Honest",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN069",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 21.47,
+                            "low": 1.25,
+                            "average": 2.13,
+                            "shift": 0.0,
+                            "shift_3": 0.0339805825242718,
+                            "shift_7": 0.0142857142857143,
+                            "shift_21": 0.0339805825242718,
+                            "shift_30": 0.0441176470588235,
+                            "shift_90": 0.00471698113207547,
+                            "shift_180": -0.193181818181818,
+                            "shift_365": -0.425876010781671,
+                            "updated_at": "2018-09-24 13:32:18 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Imperial Order",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN049",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 34.58,
+                            "low": 5.5,
+                            "average": 6.6,
+                            "shift": -0.0251107828655835,
+                            "shift_3": -0.0119760479041916,
+                            "shift_7": -0.0807799442896936,
+                            "shift_21": 0.109243697478992,
+                            "shift_30": 0.056,
+                            "shift_90": 0.257142857142857,
+                            "shift_180": 0.62962962962963,
+                            "shift_365": 0.578947368421053,
+                            "updated_at": "2018-09-24 16:07:38 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Infernity Launcher",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN082",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.57,
+                            "low": 0.62,
+                            "average": 1.16,
+                            "shift": -0.0416666666666667,
+                            "shift_3": -0.0254237288135593,
+                            "shift_7": 1.3469387755102,
+                            "shift_21": -0.122137404580153,
+                            "shift_30": -0.128787878787879,
+                            "shift_90": -0.141791044776119,
+                            "shift_180": -0.0650406504065041,
+                            "shift_365": -0.0254237288135593,
+                            "updated_at": "2018-09-24 16:40:02 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Jinzo",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN045",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 25.7,
+                            "low": 2.98,
+                            "average": 10.47,
+                            "shift": 0.202066590126292,
+                            "shift_3": 2.29245283018868,
+                            "shift_7": 0.35974025974026,
+                            "shift_21": 1.69151670951157,
+                            "shift_30": 2.51342281879195,
+                            "shift_90": 1.75526315789474,
+                            "shift_180": 4.03365384615385,
+                            "shift_365": 2.98098859315589,
+                            "updated_at": "2018-09-24 14:27:40 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Judgment Dragon",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN070",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.74,
+                            "low": 1.4,
+                            "average": 1.85,
+                            "shift": 0.0,
+                            "shift_3": 0.069364161849711,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": -0.0414507772020725,
+                            "shift_90": -0.0159574468085106,
+                            "shift_180": -0.0414507772020725,
+                            "shift_365": -0.244897959183673,
+                            "updated_at": "2018-09-24 14:47:36 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Junk Synchron",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN074",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 14.46,
+                            "low": 1.28,
+                            "average": 1.46,
+                            "shift": 0.0,
+                            "shift_3": -0.0135135135135135,
+                            "shift_7": -0.0201342281879195,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0977443609022556,
+                            "shift_90": 0.0895522388059701,
+                            "shift_180": 0.0,
+                            "shift_365": 0.186991869918699,
+                            "updated_at": "2018-09-24 13:17:41 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Tuner"
+    },
+    {
+        "name": "Legacy of a HERO",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN019",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 8.74,
+                            "low": 1.15,
+                            "average": 1.9,
+                            "shift": 0.111111111111111,
+                            "shift_3": 0.111111111111111,
+                            "shift_7": 0.19496855345912,
+                            "shift_21": 0.386861313868613,
+                            "shift_30": 0.338028169014085,
+                            "shift_90": 0.301369863013699,
+                            "shift_180": 0.292517006802721,
+                            "shift_365": 0.021505376344086,
+                            "updated_at": "2018-09-24 14:50:35 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Legacy of the Duelist",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN024",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 27.69,
+                            "low": 0.95,
+                            "average": 1.32,
+                            "shift": -0.0075187969924812,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0222222222222222,
+                            "shift_21": -0.0075187969924812,
+                            "shift_30": -0.0294117647058824,
+                            "shift_90": -0.0896551724137931,
+                            "shift_180": -0.266666666666667,
+                            "shift_365": -0.254237288135593,
+                            "updated_at": "2018-09-24 15:14:46 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Light Wing Shield",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN039",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.91,
+                            "shift": 0.0,
+                            "shift_3": 0.0581395348837209,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0705882352941176,
+                            "shift_30": 0.0,
+                            "shift_90": -0.021505376344086,
+                            "shift_180": -0.0421052631578947,
+                            "shift_365": -0.021505376344086,
+                            "updated_at": "2018-09-24 13:18:05 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "M-X-Saber Invoker",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN095",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 22.27,
+                            "low": 1.95,
+                            "average": 2.05,
+                            "shift": 0.0,
+                            "shift_3": -0.00970873786407767,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0599078341013825,
+                            "shift_30": -0.0599078341013825,
+                            "shift_90": -0.033175355450237,
+                            "shift_180": 0.0303030303030303,
+                            "shift_365": -0.131914893617021,
+                            "updated_at": "2018-09-24 14:13:53 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Magician of Faith",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN044",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.43,
+                            "low": 2.25,
+                            "average": 2.53,
+                            "shift": -0.0078740157480315,
+                            "shift_3": -0.0701107011070111,
+                            "shift_7": -0.0666666666666667,
+                            "shift_21": 0.0,
+                            "shift_30": 0.110132158590308,
+                            "shift_90": 0.100436681222707,
+                            "shift_180": 0.0327868852459016,
+                            "shift_365": 0.0588235294117647,
+                            "updated_at": "2018-09-16 13:59:43 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Spellcaster / Flip"
+    },
+    {
+        "name": "Masked HERO Dark Law",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN094",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 11.2,
+                            "low": 5.99,
+                            "average": 8.15,
+                            "shift": -0.0490081680280047,
+                            "shift_3": -0.0642939150401837,
+                            "shift_7": -0.157187176835574,
+                            "shift_21": 1.01234567901235,
+                            "shift_30": 0.982968369829684,
+                            "shift_90": 1.04260651629073,
+                            "shift_180": 1.06852791878173,
+                            "shift_365": 1.56289308176101,
+                            "updated_at": "2018-09-24 15:17:16 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "Mezuki",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN064",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 17.24,
+                            "low": 3.75,
+                            "average": 3.94,
+                            "shift": 0.0,
+                            "shift_3": -0.0247524752475248,
+                            "shift_7": -0.0174563591022444,
+                            "shift_21": -0.0460048426150121,
+                            "shift_30": -0.0271604938271605,
+                            "shift_90": -0.110609480812641,
+                            "shift_180": 0.0563002680965147,
+                            "shift_365": 0.0423280423280423,
+                            "updated_at": "2018-09-24 16:36:31 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Zombie / Effect"
+    },
+    {
+        "name": "Mirror Force",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN048",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 1.17,
+                            "average": 1.85,
+                            "shift": 0.0,
+                            "shift_3": 0.0164835164835165,
+                            "shift_7": -0.0463917525773196,
+                            "shift_21": -0.0263157894736842,
+                            "shift_30": 0.0164835164835165,
+                            "shift_90": -0.0463917525773196,
+                            "shift_180": -0.151376146788991,
+                            "shift_365": -0.304511278195489,
+                            "updated_at": "2018-09-24 15:50:13 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Monster Gate",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN055",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.74,
+                            "low": 1.65,
+                            "average": 2.97,
+                            "shift": 0.0,
+                            "shift_3": -0.00335570469798658,
+                            "shift_7": -0.0230263157894737,
+                            "shift_21": 0.0421052631578947,
+                            "shift_30": 0.169291338582677,
+                            "shift_90": 0.0421052631578947,
+                            "shift_180": 0.928571428571429,
+                            "shift_365": 1.18382352941176,
+                            "updated_at": "2018-09-24 15:11:07 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Necroid Synchro",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN015",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.79,
+                            "low": 0.33,
+                            "average": 0.98,
+                            "shift": 0.0,
+                            "shift_3": 0.0315789473684211,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0103092783505155,
+                            "shift_30": 0.0652173913043478,
+                            "shift_90": 0.0315789473684211,
+                            "shift_180": -0.02,
+                            "shift_365": 0.0652173913043478,
+                            "updated_at": "2018-09-24 13:15:57 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Necrovalley",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN050",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 9.47,
+                            "low": 1.49,
+                            "average": 1.89,
+                            "shift": 0.0,
+                            "shift_3": 0.0216216216216216,
+                            "shift_7": 0.0,
+                            "shift_21": -0.0357142857142857,
+                            "shift_30": -0.055,
+                            "shift_90": 0.303448275862069,
+                            "shift_180": 0.131736526946108,
+                            "shift_365": -0.015625,
+                            "updated_at": "2018-09-24 14:22:12 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Neo-Spacian Grand Mole",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN061",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 1.43,
+                            "average": 1.44,
+                            "shift": -0.0204081632653061,
+                            "shift_3": -0.0709677419354839,
+                            "shift_7": -0.121951219512195,
+                            "shift_21": -0.345454545454545,
+                            "shift_30": -0.116564417177914,
+                            "shift_90": -0.208791208791209,
+                            "shift_180": 0.230769230769231,
+                            "shift_365": 0.285714285714286,
+                            "updated_at": "2018-09-24 16:25:01 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Rock / Effect"
+    },
+    {
+        "name": "Number 28: Titanic Moth",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN013",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 1.05,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.00943396226415094,
+                            "shift_21": -0.139344262295082,
+                            "shift_30": -0.139344262295082,
+                            "shift_90": -0.139344262295082,
+                            "shift_180": 0.0294117647058824,
+                            "shift_365": -0.166666666666667,
+                            "updated_at": "2018-09-24 10:51:21 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Insect / Xyz"
+    },
+    {
+        "name": "Number 70: Malevolent Sin",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN014",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.25,
+                            "low": 0.33,
+                            "average": 1.36,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.00740740740740741,
+                            "shift_21": 0.0381679389312977,
+                            "shift_30": 0.0225563909774436,
+                            "shift_90": 0.0461538461538462,
+                            "shift_180": 0.133333333333333,
+                            "shift_365": 0.0625,
+                            "updated_at": "2018-09-24 11:27:15 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Insect / Xyz"
+    },
+    {
+        "name": "Number 94: Crystalzero",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN006",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 19.28,
+                            "low": 0.33,
+                            "average": 1.01,
+                            "shift": 0.0,
+                            "shift_3": -0.00980392156862745,
+                            "shift_7": -0.158333333333333,
+                            "shift_21": -0.0288461538461538,
+                            "shift_30": 0.0412371134020619,
+                            "shift_90": -0.073394495412844,
+                            "shift_180": -0.0982142857142857,
+                            "shift_365": 0.01,
+                            "updated_at": "2018-09-24 15:52:55 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Plaguespreader Zombie",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN076",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 7.67,
+                            "low": 1.32,
+                            "average": 2.17,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0382775119617225,
+                            "shift_21": 0.0742574257425743,
+                            "shift_30": 0.085,
+                            "shift_90": 0.124352331606218,
+                            "shift_180": 0.0742574257425743,
+                            "shift_365": 0.364779874213836,
+                            "updated_at": "2018-09-18 11:26:39 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Zombie / Tuner"
+    },
+    {
+        "name": "Pot of Duality",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN084",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 17.87,
+                            "low": 3.22,
+                            "average": 4.14,
+                            "shift": 0.0097799511002445,
+                            "shift_3": 0.0248138957816377,
+                            "shift_7": 0.0535714285714286,
+                            "shift_21": 0.156862745098039,
+                            "shift_30": 0.107238605898123,
+                            "shift_90": 0.0097799511002445,
+                            "shift_180": -0.0982532751091703,
+                            "shift_365": 0.083989501312336,
+                            "updated_at": "2018-09-15 17:39:06 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Power Wall",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN033",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 0.94,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": -0.104761904761905,
+                            "shift_90": -0.12962962962963,
+                            "shift_180": -0.0309278350515464,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 11:39:05 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Raviel, Lord of Phantasms",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN098",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 40.71,
+                            "low": 2.25,
+                            "average": 3.26,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.319838056680162,
+                            "shift_30": 0.258687258687259,
+                            "shift_90": 0.230188679245283,
+                            "shift_180": 0.319838056680162,
+                            "shift_365": 0.399141630901288,
+                            "updated_at": "2018-09-24 14:16:54 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Red-Eyes Darkness Metal Dragon",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN068",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 25.11,
+                            "low": 2.8,
+                            "average": 3.87,
+                            "shift": -0.00257731958762887,
+                            "shift_3": 0.108882521489971,
+                            "shift_7": 0.121739130434783,
+                            "shift_21": 0.125,
+                            "shift_30": 0.16566265060241,
+                            "shift_90": 0.0870786516853933,
+                            "shift_180": -0.0807600950118765,
+                            "shift_365": 0.592592592592593,
+                            "updated_at": "2018-09-24 15:50:44 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Rescue Cat",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN072",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 36.77,
+                            "low": 8.0,
+                            "average": 10.33,
+                            "shift": -0.0133715377268386,
+                            "shift_3": -0.120102214650767,
+                            "shift_7": -0.155355682747343,
+                            "shift_21": 0.013738959764475,
+                            "shift_30": -0.219788519637462,
+                            "shift_90": 0.721666666666667,
+                            "shift_180": 3.39574468085106,
+                            "shift_365": 1.74734042553191,
+                            "updated_at": "2018-09-24 13:18:59 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Royal Decree",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN047",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 21.08,
+                            "low": 2.09,
+                            "average": 2.46,
+                            "shift": 0.0,
+                            "shift_3": -0.127659574468085,
+                            "shift_7": 0.025,
+                            "shift_21": 0.0982142857142857,
+                            "shift_30": 0.113122171945701,
+                            "shift_90": 0.154929577464789,
+                            "shift_180": 0.255102040816327,
+                            "shift_365": -0.0888888888888889,
+                            "updated_at": "2018-09-24 16:31:09 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Saber Shark",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN004",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 4.82,
+                            "low": 0.33,
+                            "average": 0.84,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0120481927710843,
+                            "shift_21": 0.024390243902439,
+                            "shift_30": 0.037037037037037,
+                            "shift_90": 0.0,
+                            "shift_180": -0.0967741935483871,
+                            "shift_365": -0.0561797752808989,
+                            "updated_at": "2018-09-24 13:18:49 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fish / Effect"
+    },
+    {
+        "name": "Sea Lord's Amulet",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN009",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 7.99,
+                            "low": 0.33,
+                            "average": 0.99,
+                            "shift": 0.0,
+                            "shift_3": 0.1,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": 0.0,
+                            "shift_90": -0.108108108108108,
+                            "shift_180": -0.0917431192660551,
+                            "shift_365": 0.0421052631578947,
+                            "updated_at": "2018-09-24 12:20:51 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Silent Angler",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN002",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.74,
+                            "low": 0.33,
+                            "average": 1.06,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": -0.0185185185185185,
+                            "shift_21": -0.0185185185185185,
+                            "shift_30": 0.0,
+                            "shift_90": -0.0185185185185185,
+                            "shift_180": 0.191011235955056,
+                            "shift_365": 0.104166666666667,
+                            "updated_at": "2018-09-24 15:01:01 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fish / Effect"
+    },
+    {
+        "name": "Skydive Scorcher",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN029",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 5.83,
+                            "low": 0.33,
+                            "average": 1.34,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.0,
+                            "shift_21": 0.50561797752809,
+                            "shift_30": 0.558139534883721,
+                            "shift_90": 0.595238095238095,
+                            "shift_180": 0.425531914893617,
+                            "shift_365": 0.240740740740741,
+                            "updated_at": "2018-09-24 15:13:54 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Solemn Warning",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN085",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 6.97,
+                            "low": 3.25,
+                            "average": 4.51,
+                            "shift": -0.00441501103752759,
+                            "shift_3": -0.0465116279069767,
+                            "shift_7": 1.01339285714286,
+                            "shift_21": -0.0525210084033613,
+                            "shift_30": -0.0604166666666667,
+                            "shift_90": -0.00879120879120879,
+                            "shift_180": 0.102689486552567,
+                            "shift_365": 0.133165829145729,
+                            "updated_at": "2018-09-24 13:57:14 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Soul Charge",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN092",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 24.38,
+                            "low": 4.95,
+                            "average": 4.5,
+                            "shift": 0.0273972602739726,
+                            "shift_3": 0.0465116279069767,
+                            "shift_7": -0.0778688524590164,
+                            "shift_21": -0.0625,
+                            "shift_30": 0.0321100917431193,
+                            "shift_90": 0.216216216216216,
+                            "shift_180": 0.315789473684211,
+                            "shift_365": 0.0,
+                            "updated_at": "2018-09-24 12:49:41 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Synchro Call",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN017",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.33,
+                            "average": 1.08,
+                            "shift": 0.0,
+                            "shift_3": 0.00934579439252336,
+                            "shift_7": 0.0,
+                            "shift_21": 0.0,
+                            "shift_30": -0.0847457627118644,
+                            "shift_90": -0.0181818181818182,
+                            "shift_180": 0.0384615384615385,
+                            "shift_365": -0.00917431192660551,
+                            "updated_at": "2018-09-24 13:29:01 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Tour Guide From the Underworld",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN091",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 21.47,
+                            "low": 1.67,
+                            "average": 3.03,
+                            "shift": 0.0306122448979592,
+                            "shift_3": 0.0341296928327645,
+                            "shift_7": 0.0376712328767123,
+                            "shift_21": 0.101818181818182,
+                            "shift_30": 0.294871794871795,
+                            "shift_90": 0.538071065989848,
+                            "shift_180": 0.429245283018868,
+                            "shift_365": 0.545918367346939,
+                            "updated_at": "2018-09-24 13:56:58 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Treeborn Frog",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN058",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.75,
+                            "average": 1.09,
+                            "shift": 0.0,
+                            "shift_3": 0.0,
+                            "shift_7": 0.00925925925925926,
+                            "shift_21": -0.0267857142857143,
+                            "shift_30": -0.204379562043796,
+                            "shift_90": -0.204379562043796,
+                            "shift_180": -0.515555555555556,
+                            "shift_365": -0.00909090909090909,
+                            "updated_at": "2018-09-24 16:34:04 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Trishula, Dragon of the Ice Barrier",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN081",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.74,
+                            "low": 2.95,
+                            "average": 3.32,
+                            "shift": 0.0,
+                            "shift_3": -0.0828729281767956,
+                            "shift_7": -0.117021276595745,
+                            "shift_21": -0.117021276595745,
+                            "shift_30": -0.548299319727891,
+                            "shift_90": -0.167919799498747,
+                            "shift_180": -0.0594900849858357,
+                            "shift_365": -0.642241379310345,
+                            "updated_at": "2018-09-24 16:13:35 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Dragon / Synchro"
+    },
+    {
+        "name": "Tsukuyomi",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN052",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 20.01,
+                            "low": 1.32,
+                            "average": 2.06,
+                            "shift": 0.00980392156862745,
+                            "shift_3": 0.00980392156862745,
+                            "shift_7": -0.0373831775700935,
+                            "shift_21": 0.00980392156862745,
+                            "shift_30": 0.0198019801980198,
+                            "shift_90": 0.0957446808510638,
+                            "shift_180": 0.157303370786517,
+                            "shift_365": 0.170454545454545,
+                            "updated_at": "2018-09-24 14:49:19 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Spirit"
+    },
+    {
+        "name": "Uria, Lord of Searing Flames",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN096",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 38.49,
+                            "low": 2.45,
+                            "average": 3.48,
+                            "shift": 0.0,
+                            "shift_3": -0.0491803278688525,
+                            "shift_7": 0.519650655021834,
+                            "shift_21": -0.0279329608938547,
+                            "shift_30": 0.0265486725663717,
+                            "shift_90": 0.00578034682080925,
+                            "shift_180": 0.16,
+                            "shift_365": 0.397590361445783,
+                            "updated_at": "2018-09-24 13:57:10 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Pyro / Effect"
+    },
+    {
+        "name": "Vision HERO Vyon",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN021",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 52.07,
+                            "low": 12.0,
+                            "average": 15.01,
+                            "shift": 0.00133422281521014,
+                            "shift_3": -0.0740283775447255,
+                            "shift_7": -0.310202205882353,
+                            "shift_21": 0.888050314465409,
+                            "shift_30": 1.10518934081346,
+                            "shift_90": 1.76937269372694,
+                            "shift_180": 2.95,
+                            "shift_365": 5.004,
+                            "updated_at": "2018-09-24 16:32:14 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Wandering King Wildwind",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN016",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 18.55,
+                            "low": 0.55,
+                            "average": 1.55,
+                            "shift": 0.0,
+                            "shift_3": -0.00641025641025641,
+                            "shift_7": -0.00641025641025641,
+                            "shift_21": -0.0372670807453416,
+                            "shift_30": -0.0828402366863905,
+                            "shift_90": -0.0372670807453416,
+                            "shift_180": -0.0988372093023256,
+                            "shift_365": -0.049079754601227,
+                            "updated_at": "2018-09-24 14:48:22 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "White Veil",
+        "numbers": [
+            {
+                "name": "Duelist Saga",
+                "print_tag": "DUSA-EN032",
+                "rarity": "Ultra Rare",
+                "price_data": {
+                    "status": "success",
+                    "data": {
+                        "listings": [],
+                        "prices": {
+                            "high": 10.07,
+                            "low": 0.33,
+                            "average": 1.09,
+                            "shift": -0.0267857142857143,
+                            "shift_3": 0.058252427184466,
+                            "shift_7": -0.043859649122807,
+                            "shift_21": 0.00925925925925926,
+                            "shift_30": -0.10655737704918,
+                            "shift_90": -0.0916666666666667,
+                            "shift_180": 0.058252427184466,
+                            "shift_365": 0.00925925925925926,
+                            "updated_at": "2018-09-24 13:20:34 -0600"
+                        }
+                    }
+                }
+            }
+        ],
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    }
+]

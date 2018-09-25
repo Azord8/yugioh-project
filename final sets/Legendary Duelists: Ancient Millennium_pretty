@@ -1,0 +1,522 @@
+[
+    {
+        "name": "Ancient Gear Frame",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN030",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Ancient Gear Fusion",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN032",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ancient Gear Golem - Ultimate Pound",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN035",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Ancient Gear Megaton Golem",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN031",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "Armed Dragon Catapult Cannon",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN021",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "Armed Dragon LV3",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN025",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Armed Dragon LV5",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN026",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Armed Dragon LV7",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN027",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "BM-4 Blast Spider",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN014",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Barrel Dragon",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN019",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Black Illusion Ritual",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN006",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Ritual",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Blast Sphere",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN018",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Cocoon of Ultra Evolution",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN009",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Corrosive Scales",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN010",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Cross-Dimensional Duel",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN033",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Crystal Beast Ruby Carbuncle",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN041",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Crystal Beast Sapphire Pegasus",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN042",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Beast / Effect"
+    },
+    {
+        "name": "Crystal Bond",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN039",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Crystal Release",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN044",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Equip",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Crystal Tree",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN045",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Desperado Barrel Dragon",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN015",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Machine / Effect"
+    },
+    {
+        "name": "Heavy Metal Raiders",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN016",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Illusionist Faceless Magician",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN002",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Insect Queen",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN012",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Instant Fusion",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN048",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Limiter Removal",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN049",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Metamorphosed Insect Queen",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN008",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Millennium-Eyes Illusionist",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN001",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Effect"
+    },
+    {
+        "name": "Millennium-Eyes Restrict",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN003",
+                "rarity": "Ultra Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Fusion"
+    },
+    {
+        "name": "Mimicat",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN051",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ojama Pajama",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN024",
+                "rarity": "Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ojamagic",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN029",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ojamassimilation",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN022",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ojamatch",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN023",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Panzer Dragon",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN047",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "Parasite Paranoid",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN007",
+                "rarity": "Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Perfectly Ultimate Great Moth",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN013",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Pinch Hopper",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN011",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Insect / Effect"
+    },
+    {
+        "name": "Proton Blast",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN017",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Rainbow Bridge",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN038",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Rainbow Dragon",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN043",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Effect"
+    },
+    {
+        "name": "Rainbow Overdragon",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN037",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Dragon / Fusion"
+    },
+    {
+        "name": "Relinquished",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN000",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Ritual"
+    },
+    {
+        "name": "Relinquished Fusion",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN004",
+                "rarity": "Ultra Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Thousand-Eyes Restrict",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN005",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Spellcaster / Fusion"
+    },
+    {
+        "name": "Time Machine",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN020",
+                "rarity": "Common",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Toon Kingdom",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN052",
+                "rarity": "Rare",
+        "card_type": "spell",
+        "property": "Field",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Ultimate Ancient Gear Golem",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN036",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "Ultimate Crystal Magic",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN040",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "VWXYZ-Dragon Catapult Cannon",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN028",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Machine / Fusion"
+    },
+    {
+        "name": "Vortex Trooper",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN046",
+                "rarity": "Common",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Aqua / Effect"
+    },
+    {
+        "name": "Worm Bait",
+                "pack": "Legendary Duelists: Ancient Millennium",
+                "print_tag": "LED2-EN050",
+                "rarity": "Common",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    }
+]

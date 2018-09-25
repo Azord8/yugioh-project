@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Asceticism of the Six Samurai",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN048",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Backs to the Wall",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN053",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Battleguard Howling",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN056",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Beckoning Light",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN057",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Constellar Belt",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN051",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Double-Edged Sword Technique",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN054",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Gateway of the Six",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN014",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Grandmaster of the Six Samurai",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN009",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Hand of the Six Samurai",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN042",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Honest",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN047",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "Legendary Six Samurai - Kageki",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN043",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Legendary Six Samurai - Kizan",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN010",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Legendary Six Samurai - Mizuho",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN045",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Legendary Six Samurai - Shi En",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN011",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Synchro"
+    },
+    {
+        "name": "Legendary Six Samurai - Shinai",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN044",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Magical Musket - Cross-Domination",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN024",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Magical Musket - Dancing Needle",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN026",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Magical Musket - Desperado",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN025",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Magical Musket - Fiendish Deal",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN027",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Magical Musket - Last Stand",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN028",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Magical Musket - Steady Hands",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN023",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Magical Musket Mastermind Zakiel",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN022",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Magical Musketeer Calamity",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN020",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Magical Musketeer Caspar",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN016",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Magical Musketeer Doc",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN017",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Magical Musketeer Kidbrave",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN018",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Magical Musketeer Starfire",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN019",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Magical Musketeer Wild",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN021",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fiend / Effect"
+    },
+    {
+        "name": "Miraculous Descent",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN060",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Musakani Magatama",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN055",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Counter",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Photon Veil",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN050",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Return of the Six Samurai",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN052",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Scrap-Iron Scarecrow",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN058",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Scrap-Iron Statue",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN059",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Secret Six Samurai - Doji",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN004",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Secret Six Samurai - Fuma",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN001",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Warrior / Tuner"
+    },
+    {
+        "name": "Secret Six Samurai - Genba",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN002",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Warrior / Tuner"
+    },
+    {
+        "name": "Secret Six Samurai - Hatsume",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN003",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Secret Six Samurai - Kizaru",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN005",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Secret Six Samurai - Rihan",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN006",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Warrior / Fusion"
+    },
+    {
+        "name": "Secret Skills of the Six Samurai",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN007",
+                "rarity": "Secret Rare",
+        "card_type": "spell",
+        "property": "Quick-Play",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Shadow of the Six Samurai - Shien",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN012",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Xyz"
+    },
+    {
+        "name": "Shien's Advisor",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN046",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Warrior / Effect"
+    },
+    {
+        "name": "Shien's Dojo",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN049",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Shien's Smoke Signal",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN015",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "Six Samurai United",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN013",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Six Shinobi",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN008",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Normal",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Weather Auroral Canvas",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN041",
+                "rarity": "Super Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Weather Cloudy Canvas",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN038",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Weather Painter Aurora",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN034",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "dark",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "The Weather Painter Cloud",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN031",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "wind",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "The Weather Painter Rain",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN030",
+                "rarity": "Super Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "water",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "The Weather Painter Rainbow",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN035",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Link"
+    },
+    {
+        "name": "The Weather Painter Snow",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN029",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "earth",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "The Weather Painter Sun",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN032",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "fire",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "The Weather Painter Thunder",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN033",
+                "rarity": "Secret Rare",
+        "card_type": "monster",
+        "property": null,
+        "family": "light",
+        "type": "Fairy / Effect"
+    },
+    {
+        "name": "The Weather Rainy Canvas",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN037",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Weather Snowy Canvas",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN036",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Weather Sunny Canvas",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN039",
+                "rarity": "Super Rare",
+        "card_type": "spell",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    },
+    {
+        "name": "The Weather Thundery Canvas",
+                "pack": "Spirit Warriors",
+                "print_tag": "SPWA-EN040",
+                "rarity": "Secret Rare",
+        "card_type": "trap",
+        "property": "Continuous",
+        "family": null,
+        "type": null
+    }
+]
