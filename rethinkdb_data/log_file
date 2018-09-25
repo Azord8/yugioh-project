@@ -148,3 +148,23 @@
 2018-09-24T18:03:58.480889548 83741.964482s notice: Shutting down client connections...
 2018-09-24T18:03:58.487046314 83741.970638s notice: All client connections closed.
 2018-09-24T18:03:58.487050829 83741.970642s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2018-09-25T16:12:16.024020369 0.265323s notice: Running rethinkdb 2.3.6~0xenial (GCC 5.3.1)...
+2018-09-25T16:12:16.034927801 0.276240s notice: Running on Linux 4.15.0-34-generic x86_64
+2018-09-25T16:12:16.035768211 0.277071s notice: Loading data from directory /home/azord/PycharmProjects/ygo project/rethinkdb_data
+2018-09-25T16:12:16.116808878 0.358112s info: Automatically using cache size of 2051 MB
+2018-09-25T16:12:16.118540377 0.359842s notice: Listening for intracluster connections on port 29015
+2018-09-25T16:12:16.178711938 0.420014s notice: Listening for client driver connections on port 28015
+2018-09-25T16:12:16.178790611 0.420092s notice: Listening for administrative HTTP connections on port 8080
+2018-09-25T16:12:16.178793583 0.420095s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-09-25T16:12:16.178818049 0.420120s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-09-25T16:12:16.178820903 0.420122s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, 192.168.192.200, ::1
+2018-09-25T16:12:16.178823119 0.420125s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2018-09-25T16:12:16.178826854 0.420128s notice: Server ready, "drop_table_computers_x8c" 0b53e4c9-720b-4e67-8330-96edee0728dc
+2018-09-25T16:12:17.746096013 1.987399s info: Table a50f1368-d0ff-4be0-8a78-bf43370ce9b9: Starting a new Raft election for term 4.
+2018-09-25T16:12:17.752338988 1.993642s info: Table a50f1368-d0ff-4be0-8a78-bf43370ce9b9: This server is Raft leader for term 4. Latest log index is 10.
+2018-09-25T16:12:18.000900214 2.242203s info: Table 139a48dd-0914-46f8-baa2-4cc91b08dde0: Starting a new Raft election for term 4.
+2018-09-25T16:12:18.013588984 2.254892s info: Table 139a48dd-0914-46f8-baa2-4cc91b08dde0: This server is Raft leader for term 4. Latest log index is 9.
+2018-09-25T16:12:18.032080915 2.273384s info: Table f5c07bc8-dc14-4eb9-b9c4-157579649fbd: Starting a new Raft election for term 4.
+2018-09-25T16:12:18.038778991 2.280082s info: Table f5c07bc8-dc14-4eb9-b9c4-157579649fbd: This server is Raft leader for term 4. Latest log index is 9.
+2018-09-25T16:12:18.057171866 2.298475s info: Table a2cd858a-8d33-4d3e-b909-7a2e4939dd90: Starting a new Raft election for term 4.
+2018-09-25T16:12:18.063627897 2.304932s info: Table a2cd858a-8d33-4d3e-b909-7a2e4939dd90: This server is Raft leader for term 4. Latest log index is 10.
