@@ -37,16 +37,10 @@ for root, dirs, files in os.walk("pretty sets/"):
                     newfile.write(line)
 
 
-# for root, dirs, files in os.walk("sets/"):
-#     for file in files:
-#         json_data = open("sets/" + file).read()
-#         data = json.loads(json_data)
-#         f = open(("pretty sets/" + file + "_pretty"), "w")
-#         f.write(json.dumps(data, indent=4))
-
 # get only cards
 # for root, dirs, files in os.walk("sets/"):
 #     for file in files:
+#         print(file)
 #         with open('sets/' + file) as data_file:
 #             data = json.load(data_file, object_pairs_hook=OrderedDict)
 #             for key, value in data.items():

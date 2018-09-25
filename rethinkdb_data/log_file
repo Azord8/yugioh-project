@@ -144,3 +144,7 @@
 2018-09-23T18:48:18.310745827 1.794339s info: Table 139a48dd-0914-46f8-baa2-4cc91b08dde0: This server is Raft leader for term 3. Latest log index is 6.
 2018-09-23T18:48:18.384018270 1.867610s info: Table f5c07bc8-dc14-4eb9-b9c4-157579649fbd: Starting a new Raft election for term 3.
 2018-09-23T18:48:18.389726798 1.873319s info: Table f5c07bc8-dc14-4eb9-b9c4-157579649fbd: This server is Raft leader for term 3. Latest log index is 6.
+2018-09-24T18:03:58.472869587 83741.956462s notice: Server got SIGTERM from pid 1, uid 0; shutting down...
+2018-09-24T18:03:58.480889548 83741.964482s notice: Shutting down client connections...
+2018-09-24T18:03:58.487046314 83741.970638s notice: All client connections closed.
+2018-09-24T18:03:58.487050829 83741.970642s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
