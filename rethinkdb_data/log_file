@@ -168,3 +168,14 @@
 2018-09-25T16:12:18.038778991 2.280082s info: Table f5c07bc8-dc14-4eb9-b9c4-157579649fbd: This server is Raft leader for term 4. Latest log index is 9.
 2018-09-25T16:12:18.057171866 2.298475s info: Table a2cd858a-8d33-4d3e-b909-7a2e4939dd90: Starting a new Raft election for term 4.
 2018-09-25T16:12:18.063627897 2.304932s info: Table a2cd858a-8d33-4d3e-b909-7a2e4939dd90: This server is Raft leader for term 4. Latest log index is 10.
+2018-09-26T14:21:30.020515970 79754.261819s notice: Removing file /home/azord/PycharmProjects/ygo project/rethinkdb_data/139a48dd-0914-46f8-baa2-4cc91b08dde0
+2018-09-26T14:21:30.020552454 79754.261855s info: Table 139a48dd-0914-46f8-baa2-4cc91b08dde0: Deleted the table.
+2018-09-26T14:21:30.047184574 79754.288488s notice: Removing file /home/azord/PycharmProjects/ygo project/rethinkdb_data/a2cd858a-8d33-4d3e-b909-7a2e4939dd90
+2018-09-26T14:21:30.047250954 79754.288553s info: Table a2cd858a-8d33-4d3e-b909-7a2e4939dd90: Deleted the table.
+2018-09-26T14:21:30.070386383 79754.311690s notice: Removing file /home/azord/PycharmProjects/ygo project/rethinkdb_data/a50f1368-d0ff-4be0-8a78-bf43370ce9b9
+2018-09-26T14:21:30.070415127 79754.311717s info: Table a50f1368-d0ff-4be0-8a78-bf43370ce9b9: Deleted the table.
+2018-09-26T14:21:30.092551709 79754.333855s notice: Removing file /home/azord/PycharmProjects/ygo project/rethinkdb_data/f5c07bc8-dc14-4eb9-b9c4-157579649fbd
+2018-09-26T14:21:30.092577778 79754.333880s info: Table f5c07bc8-dc14-4eb9-b9c4-157579649fbd: Deleted the table.
+2018-09-26T14:21:35.843531041 79760.084833s info: Table 8d232086-fa3c-4f54-8338-2c2cf594b488: Starting a new Raft election for term 1.
+2018-09-26T14:21:35.843623464 79760.084925s info: Table 8d232086-fa3c-4f54-8338-2c2cf594b488: Added replica on this server.
+2018-09-26T14:21:35.849688693 79760.090991s info: Table 8d232086-fa3c-4f54-8338-2c2cf594b488: This server is Raft leader for term 1. Latest log index is 0.
